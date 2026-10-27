@@ -1,0 +1,85 @@
+FGS - 04/2025/II
+
+      FIRST GRADE SURVEYOR/HEAD SURVEYOR’S TEST — APRIL, 2024
+
+              FIRST GRADE SURVEYOR’S TEST — PART – A (PAPER – II)
+
+                   [Executive Instructions issued for the Survey of Land in Kerala
+                               and the Maintenance of Land Records]
+
+                                          (Without Books)
+
+                 [Books allowed : — 1. Chamber’s Tables.
+
+                                    2. Boileau’s Traverse Tables.
+
+                                    3. Scientific Calculator.]
+
+                                                                                     [Tim e : 3 hours
+
+                                      (Maximum marks : 100)
+
+
+                                                                                              Marks
+
+      I The arms of a Triangle PQR are 218,170 and 156 metres respectively.
+
+              (a) Determine each angles                                                          8
+
+              (b) Determine the area of the above triangles                                      5
+
+      II What are the procedure of Survey of porambokes and other Govt. lands ?                  8
+
+  III State and explain Double base triangulations with the help of diagram.                   10
+
+  IV The tolerance error in angular and linear measurements is rectified by using Gales
+         Travers system. Briefly explain how it is done in computation and plotting of
+         traverse survey.                                                                      10
+
+      V What are the probable defects or errors while using Theodolite ?                       10
+
+  VI Azimuth can’t observe when the altitude of sun is below 20° and above 40°
+         why ?                                                                                   5
+
+
+ VII What are the Sophisticated instruments used in Digital survey ?                             3
+
+
+
+
+[1]                                                                                           [P.T.O.
+                                                2
+                                                                                Marks
+
+VIII Set up the traverse given below and compute the area, bearing of
+     BC 12°48' 00" . All the linear measurements are in metres and angles are
+     shown in degree minute and second.
+
+           D                       F                       A
+
+           (55.1)                  (68.0)                  (63.2)
+           152°23’00"              142°05’00"              114°43’00"
+
+           C                       E                       G
+
+           (45.0)                  (23.0)                  (32.2)
+           128°46’00"              102°33’00"              147°51’00"
+
+           B                       D                       F
+
+           (47.1)
+           111°36’00"
+
+           A                                                                    25
+
+
+ IX Distinguish between the following :
+
+      (a) Northing and Southing                                                  4
+
+      (b) Deduced Bearing and Reduced Bearing                                    4
+
+      (c) Face left and Face right observations in theodolite survey             4
+
+      (d) Floating station and Interpolated station                              4
+

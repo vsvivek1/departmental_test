@@ -1,0 +1,76 @@
+FGS - 07/2023/II
+
+FIRST GRADE SURVEYOR/HEAD SURVEYOR’S TEST — OCTOBER, 2022
+              FIRST GRADE SURVEYOR’S TEST — PART – A (PAPER – II)
+
+                   [Executive Instructions issued for the Survey of Land in Kerala
+                               and the Maintenance of Land Records]
+                                           (Without Books)
+                [Books allowed : — 1. Chamber’s Tables.
+                                     2. Boileau’s Traverse Tables.
+                                     3. Scientific Calculator.]
+
+                                                                                     [Tim e : 3 hours
+
+                                       (Maximum marks : 100)
+
+                                                                                              Marks
+      I Explain with the help of a diagram how would you refix two missing consecutive
+        travers points C and D, line BC is obstructed by a building.                           10
+
+      II How would you classify the quality of work of a surveyor in field inspection ?
+         What are the formalities of rectify a bad work ?                                      10
+
+  III What is Pointing out of Boundary (PB) case ? What are the formalities for doing
+      PB case in Taluk Office ?                                                                10
+
+  IV The perimeter of a triangle is 288.0 metres and of its two angles is 40° and 60°.
+     Find the sides of triangle and third angle.                                       10
+
+      V Differentiate closed and open traverse. Explain the different types of adjustment
+        of a closed Traverse.                                                                  10
+
+  VI A plot consists of a quadrilateral in shape forming two equilateral triangles having
+     one side equal to 28.8 metres. Calculate the area of the plot in Ares ?                   10
+
+ VII In a triangle PQR, angle PQR = 90°, angle QPR = 48°30' and side PQ is 480
+     metres. Find out the other three elements and the area of triangle PQR.                   10
+
+
+
+
+[2]                                                                                           [P.T.O.
+                                               2
+                                                                                      Mark
+VIII Set up the traverse given below and compute the area, Bearing of
+     BC = 82°13' 20" . All the linear measurements are in metres and angle shown
+     degree minute and Second.
+
+           D                      G
+
+           (175.7)                (100.0)
+           105°21’40"             159°59’40"
+
+           C                      F
+
+           (201.0)                (169.6)
+           165°50’00"             175°45’20"
+
+           B                      E                       A
+
+           (62.9)                 (38.7)                  (206.2)
+           101°35’20"             94°39’00"               96°48’00"
+
+           A                      D                       G                           25
+
+
+ IX What is digital survey ?                                                           2
+
+  X What are the abbreviations of the following in connection with digital survey ?
+
+      (a) CORS
+
+      (b) RTK
+
+      (c) ERTS                                                                         3
+
