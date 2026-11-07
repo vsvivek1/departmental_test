@@ -1,0 +1,1 @@
+{ "name": "departmental-test-prep", "private": true, "type": "module", "scripts": { "test": "node tests/scheduler.test.mjs", "extract": "python3 -I tools/extract.py ../dept_data/question_papers data/raw_questions.json", "build": "python3 -I tools/build.py" } }
