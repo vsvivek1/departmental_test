@@ -1,0 +1,15 @@
+{
+ "q0035": {
+  "answer": "The Contingency Fund of the State is Part II of the State accounts. It is a fund established by the State Legislature under Article 267(2) of the Constitution, and transactions connected with it are recorded in Part II of the accounts (major head number 800 in the Budget Manual numbering).",
+  "source": "Kerala Budget Manual; Kerala Financial Code Vol I, definitions",
+  "quotes": [
+   {"text": "In Part II of the accounts, the transactions connected with the Contingency Fund, established by the State Legislature under Article 267 (2) of the Constitution, are recorded.", "ref": "Kerala Budget Manual, Part II of Government accounts", "book": "Kerala_Budget_Manual"},
+   {"text": "The words “Consolidated Fund of the State, Contingency Fund of the State and Public Account of the State” shall have the meanings respectively assigned to them in Articles 266 and 267 of the Constitution of India.", "ref": "Kerala Financial Code Vol I, Definitions: Consolidated Fund, Contingency Fund and Public Account", "book": "KFC_Vol1_7th_ed"}
+  ]},
+ "q0038": {
+  "answer": "When a Treasury Officer hands over charge (other than temporarily), the relieving officer verifies the cash balance before taking charge, as prescribed in Rule 144, and reports the result to the Accountant General in Form T.R.1, taking a note from the outgoing officer on the state of the treasury. The same applies when the Chief Treasurer changes, and the result is recorded in the Treasurer's Balance Sheet.",
+  "source": "Kerala Treasury Code Vol I, Rule 52(a)",
+  "quotes": [
+   {"text": "Whenever the Treasury Officer hands over charge otherwise than temporarily, the relieving government servant shall, before taking charge, verify the cash balance in the district treasury in the manner prescribed in Rule 144 of part IV of these rules and report the result of his verification to the Accountant General with a certificate in Form T.R.1.", "ref": "Kerala Treasury Code Vol I, Rule 52(a)", "book": "KTC_Vol1_4th_ed_2013"}
+  ]}
+}

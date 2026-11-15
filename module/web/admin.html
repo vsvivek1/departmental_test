@@ -1,0 +1,13 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Departmental Prep Admin</title>
+<style>:root{--bg:#fff;--fg:#1b1f24;--card:#f5f7fa;--mut:#667085}@media(prefers-color-scheme:dark){:root{--bg:#12161c;--fg:#e8ecf1;--card:#1c222b;--mut:#97a1b0}}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,sans-serif}main{max-width:900px;margin:0 auto;padding:16px}
+.g{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}.k{background:var(--card);border-radius:10px;padding:12px}.k b{font-size:24px;display:block}
+table{width:100%;border-collapse:collapse}td,th{text-align:left;padding:6px;border-bottom:1px solid var(--mut);vertical-align:top}.mut{color:var(--mut)}</style></head>
+<body><main><h1>Admin: course content</h1><div class="g" id="k"></div><h2>Exams</h2><table id="e"></table><h2>Most repeated questions</h2><table id="t"></table>
+<p><a href="index.html">Open learner app</a></p></main>
+<script>fetch('data.json').then(r=>r.json()).then(d=>{const c=d.cards,a=c.filter(x=>x.answer).length,r=c.filter(x=>x.freq>1).length;
+const k=(n,l)=>`<div class="k"><b>${n}</b><span class="mut">${l}</span></div>`;
+document.getElementById('k').innerHTML=k(c.length,'questions')+k(r,'repeated across sessions')+k(a,'with rule-book answer')+k(c.length-a,'answers pending')+k(d.exams.length,'exams')+k(d.needs_ocr,'scanned papers awaiting OCR');
+document.getElementById('e').innerHTML='<tr><th>Exam<th>Questions<th>Answered</tr>'+d.exams.map(e=>{const x=c.filter(q=>q.exams.includes(e));return `<tr><td>${e}<td>${x.length}<td>${x.filter(q=>q.answer).length}`}).join('');
+document.getElementById('t').innerHTML=c.slice(0,15).map(q=>`<tr><td>${q.freq}×<td>${q.question.replace(/[<>&]/g,'')}`).join('')})</script></body></html>
