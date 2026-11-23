@@ -1,0 +1,39 @@
+{
+ "q0250": {
+  "answer": "A Rate Contract fixes the rates at which stores are supplied during the contract period, usually without any quantity being stated. The contractor must accept any order placed within the period, and Government undertakes to buy the contracted stores from him subject to certain reservations. A Running Contract is for an approximate quantity of stores at a specified price during a period, where indenters may demand their requirements at any time and the purchaser may take about 25 per cent over or below the approximate quantity. Tenders with earnest money and performance security are compulsory for running contracts.",
+  "source": "Store Purchase Manual 2013, paras 13.2-13.4",
+  "quotes": [
+   {
+    "text": "A Rate Contract is a contract for the supply of stores at specified rates during the period covered by the contract.",
+    "ref": "Store Purchase Manual 2013, para 13.4",
+    "book": "Store_Purchase_Manual_2013"
+   },
+   {
+    "text": "A Running Contract is a contract for the supply of an approximate quantity of stores at a specified price during a certain period.",
+    "ref": "Store Purchase Manual 2013, para 13.2",
+    "book": "Store_Purchase_Manual_2013"
+   },
+   {
+    "text": "It is important that for all running contracts, tenders with earnest money should be invited irrespective of the amount involved and that performance security are also furnished by the Contractors.",
+    "ref": "Store Purchase Manual 2013, para 13.3",
+    "book": "Store_Purchase_Manual_2013"
+   }
+  ]
+ },
+ "q0262": {
+  "answer": "No place may be used as a treasury strong room unless a PWD officer not lower than an Executive Engineer certifies that it is secure and fit. Every strong room must be inspected annually by the Executive Engineer or a deputed officer, and the Treasury Officer obtains a safety certificate after each inspection. The Superintendent of Police prescribes the positions of sentries and extra precautions; the Executive Engineer is responsible for the building and the Treasury Officer for chests and furniture.",
+  "source": "Kerala Treasury Code Vol I, Rule 136",
+  "quotes": [
+   {
+    "text": "No place should be used as a strong-room, unless an officer of the Public Works Department not lower in rank than an Executive Engineer has certified that it is secure and fit for use as a strong room.",
+    "ref": "Kerala Treasury Code Vol I, Rule 136(a) Treasury strong room",
+    "book": "KTC_Vol1_4th_ed_2013"
+   },
+   {
+    "text": "Every strong room should be inspected annually by the Executive Engineer or by an experienced Assistant Engineer or an officer holding sub divisional charge deputed by the Executive Engineer for the purpose",
+    "ref": "Kerala Treasury Code Vol I, Rule 136(c) Treasury strong room",
+    "book": "KTC_Vol1_4th_ed_2013"
+   }
+  ]
+ }
+}

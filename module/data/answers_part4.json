@@ -1,0 +1,67 @@
+{
+ "q0096": {
+  "answer": "Rule 2(6) of the KS&SS Rules 1958 defines when a person is 'on duty' as a member of a service. He is on duty when he is performing the duties of a post borne on the cadre of that service, or is undergoing the probation, instruction or training prescribed for it. Joining time, authorised vacation or holidays between duty periods, deputation during probation and waiting for posting orders after reporting for duty are also treated as duty.",
+  "source": "KSSSR 1958, Rule 2(6)",
+  "quotes": [
+   {
+    "text": "(a) When he is performing the duties of a post borne on the cadre of such service or is undergoing the probation, instruction or training prescribed for such service;",
+    "ref": "KSSSR 1958, Rule 2(6) Duty",
+    "book": "KSSSR_1958"
+   }
+  ]
+ },
+ "q0253": {
+  "answer": "Article 30-A of the Kerala Account Code Vol I lays down the guiding principles. Capital expenditure is incurred to increase concrete assets of a material and permanent character, the assets must belong to the authority spending, and expenditure on a temporary asset is not capital. Capital bears first construction and equipment charges, while revenue bears later maintenance and working expenses.",
+  "source": "KAC Vol I, Article 30-A",
+  "quotes": [
+   {
+    "text": "(3) Expenditure on a temporary asset cannot ordinarily be considered as expenditure of a capital nature.",
+    "ref": "KAC Vol I, Art. 30-A(3) Capital and Revenue",
+    "book": "KAC_Vol1_Kerala_Account_Code"
+   },
+   {
+    "text": "(5) Capital should bear all charges for the first construction and equipment of a project as well as charges for intermediate maintenance of the work while not yet opened for service.",
+    "ref": "KAC Vol I, Art. 30-A(5)",
+    "book": "KAC_Vol1_Kerala_Account_Code"
+   }
+  ]
+ },
+ "q0265": {
+  "answer": "Under Kerala Treasury Code Rule 250 the drawing officer must at once report the loss to the Treasury Officer and ask him to stop payment. The Treasury Officer checks the paid-cheque lists and, if unpaid, stops payment and sends a non-payment certificate. On receiving the certificate the drawing officer cancels the original cheque, makes the entries in his accounts and may then issue another cheque in its place.",
+  "source": "KTC Vol I, Rule 250",
+  "quotes": [
+   {
+    "text": "When a drawing officer receives a report that a cheque drawn by him has been lost, he shall at once report the fact to the Treasury Officer and request him to stop payment of the cheques.",
+    "ref": "KTC Vol I, Rule 250 Lost cheques",
+    "book": "KTC_Vol1_4th_ed_2013"
+   },
+   {
+    "text": "On receipt of the certificate duly signed by the Treasury Officer the drawing officer shall cancel the original cheque and make the necessary entries in his accounts and may then issue another in its place.",
+    "ref": "KTC Vol I, Rule 250 Lost cheques",
+    "book": "KTC_Vol1_4th_ed_2013"
+   }
+  ]
+ },
+ "q0271": {
+  "answer": "KFC Vol I Rule 170 requires all officers to maintain permanent registers in Form 23, one for buildings and lands and one for roads, bridges and culverts. Each officer's register covers the Government immovable properties under his control and that of his subordinates. Changes must be intimated to the officers concerned and an annual certificate recorded at the end of March.",
+  "source": "KFC Vol I, Rule 170",
+  "quotes": [
+   {
+    "text": "The permanent registers, one for buildings and lands and the other for roads, bridges and culverts, will be maintained in Form 23 (I and II) by all Officers to show the assets of Government in the form of immovable properties under their charge.",
+    "ref": "KFC Vol I, Rule 170 Maintenance of register of immovable properties",
+    "book": "KFC_Vol1_7th_ed"
+   }
+  ]
+ },
+ "q0277": {
+  "answer": "Compensation will ordinarily not be granted for loss by theft. The mere fact that the official lives in Government quarters in which he is bound to reside for his duties is not sufficient ground. The claim should therefore not be admitted, although the Head of Office recommended it.",
+  "source": "KFC Vol I, Rule 231(1)(c)",
+  "quotes": [
+   {
+    "text": "The mere fact that at the time of the accident, the Government servant is technically on duty or is living in Government quarters in which he is bound to reside for the performance of his duties will not be considered as a sufficient ground for the grant of compensation.",
+    "ref": "KFC Vol I, Rule 231(1)(c) Compensation for loss of property",
+    "book": "KFC_Vol1_7th_ed"
+   }
+  ]
+ }
+}

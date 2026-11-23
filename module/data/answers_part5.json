@@ -1,0 +1,72 @@
+{
+ "q0163": {
+  "answer": "No. The Anamath Balance Register is kept in Form T.R. 19 (not T.R. 18), and it is maintained by the treasurer of the treasury, not by an ordinary Government servant. It records money kept in the treasury strong room outside the Government account, and the Treasury Officer checks it.",
+  "source": "KTC Vol I, Rule 114",
+  "quotes": [
+   {
+    "text": "The treasurer shall maintain an Anamath Balance Register in Form T.R. 19 for recording these Anamath transactions and a separate column shall be provided for each class of items concerned.",
+    "ref": "KTC Vol I, Rule 114 Anamaths",
+    "book": "KTC_Vol1_4th_ed_2013"
+   }
+  ]
+ },
+ "q0266": {
+  "answer": "Correct. Revenue collected in one district on account of another is credited in the treasury account of the receiving district under the proper head, and the fact is intimated to the departmental officer of the district concerned.",
+  "source": "KFC Vol I, Art. 8(7)(iii)",
+  "quotes": [
+   {
+    "text": "Revenue collected in one district on account of another should be credited in the treasury account of the receiving district under the appropriate head of account and the fact intimated to the appropriate departmental officer in the district concerned.",
+    "ref": "KFC Vol I, Art. 8(7)(iii) Maintenance of proper accounts",
+    "book": "KFC_Vol1_7th_ed"
+   }
+  ]
+ },
+ "q0272": {
+  "answer": "Yes. A register in Form 4 must be maintained in each office for recording objections communicated by the Accountant General. There should be only one Audit Objection Register for the whole office, one person made responsible for it, and it is reviewed monthly by the Head of Office.",
+  "source": "KFC Vol I, Art. 63(a) and 63(b)",
+  "quotes": [
+   {
+    "text": "A register should be maintained in each office in Form 4 for recording the objections communicated by the Accountant General.",
+    "ref": "KFC Vol I, Art. 63(a)",
+    "book": "KFC_Vol1_7th_ed"
+   },
+   {
+    "text": "There should be only one register for the whole office and a particular person in the office should be made responsible for the maintenance of the register.",
+    "ref": "KFC Vol I, Art. 63(b)(6) Maintenance and check of Audit Objection Register",
+    "book": "KFC_Vol1_7th_ed"
+   }
+  ]
+ },
+ "q0260": {
+  "answer": "A permanent advance is a standing advance granted to a Government servant to meet unforeseen urgent expenditure before bills are drawn, limited to what is absolutely essential and recouped periodically. A temporary advance is for contingent expenditure of a specified kind or on a specific occasion, needing Government sanction (or a standing sanction) for that purpose.",
+  "source": "KFC Vol I, Art. 94 and 99",
+  "quotes": [
+   {
+    "text": "To enable him to make disbursements of this kind before drawing the necessary bills, a Government servant may be granted a permanent advance the amount of which should be limited to what is absolutely essential to meet his ordinary requirements.",
+    "ref": "KFC Vol I, Art. 94",
+    "book": "KFC_Vol1_7th_ed"
+   },
+   {
+    "text": "When a temporary advance is considered necessary for the purpose of meeting contingent expenditure of a specified kind or on a specific occasion and it is not covered by standing sanction given by the Government, an application for sanction should be submitted to the Government.",
+    "ref": "KFC Vol I, Art. 99 Temporary advances for specified purposes",
+    "book": "KFC_Vol1_7th_ed"
+   }
+  ]
+ },
+ "q0254": {
+  "answer": "Secret service expenses are governed by Appendix 6 of KFC Vol I (referred to in Art. 103). The officer keeps a contingent register and a secret cash book, bills need no vouchers, and Government nominates a controlling officer who does an administrative audit at least once a year and certifies to the Accountant General. The accounts are not scrutinised by audit. Appropriation control (Budget Manual para 67) checks expenditure against the available budget provision at the treasury.",
+  "source": "KFC Vol I, Appendix 6; Kerala Budget Manual para 67",
+  "quotes": [
+   {
+    "text": "The accounts of secret service expenditure will not be subjected to scrutiny by the audit authority.",
+    "ref": "KFC Vol II, Appendix 6 para 5 Rules for secret service expenses",
+    "book": "KFC_Vol2"
+   },
+   {
+    "text": "When a bill is presented for payment at the treasury, the availability of budget provision (appropriation) to cover the payment is checked with reference to the entries in the Appropriation Control Register, specially maintained for the purpose.",
+    "ref": "Kerala Budget Manual, para 67 Appropriation Control",
+    "book": "Kerala_Budget_Manual"
+   }
+  ]
+ }
+}

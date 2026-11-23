@@ -1,0 +1,51 @@
+{
+ "q0255": {
+  "answer": "Maternity leave may be combined with any other kind of leave. Leave applied for in continuation of maternity leave normally needs a medical certificate, but the proviso says no certificate is needed for leave of up to sixty days in continuation. Earned leave from 1-1-2018 to 1-3-2018 is 60 days, so rejecting the application for want of a medical certificate was wrong.",
+  "source": "KSR Part I, Rule 102",
+  "quotes": [
+   {
+    "text": "Provided that no medical certificate shall be necessary for grant of any leave for a period not exceeding sixty days in continuation of maternity leave.",
+    "ref": "KSR Part I, Rule 102 (Maternity leave combined with other leave), proviso",
+    "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+   }
+  ]
+ },
+ "q0273": {
+  "answer": "For an officer on leave with allowances, an order of suspension cancels the leave for the period of suspension and he is entitled to subsistence allowance. So the subsistence allowance was due from 10-7-2017, the date of suspension, not from the day after the earned leave would have expired.",
+  "source": "KSR Part I, Rule 55B(ii)",
+  "quotes": [
+   {
+    "text": "In the case of an Officer on leave with allowances, the orders of suspension shall have the effect of cancelling the leave for the period of suspension. He shall be entitled to subsistence allowance.",
+    "ref": "KSR Part I, Rule 55B(ii)",
+    "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+   }
+  ]
+ },
+ "q0261": {
+  "answer": "The treasury balance is the Government's cash balance held in the treasury, from which disbursements are made and into which receipts are paid. The currency chest is a separate chest ordinarily kept in the treasury; its contents belong to the Reserve Bank of India, but Government is responsible to the Bank for them and must safeguard them as carefully as the treasury balance.",
+  "source": "Kerala Treasury Code Vol I, Note 1 (treasury balance and currency chest balance)",
+  "quotes": [
+   {
+    "text": "The moneys held in a treasury as part of the Government’s cash balance form the treasury balance, from which Government disbursements are made and into which Government receipts are paid.",
+    "ref": "KTC Vol I, Note 1 - Treasury balance and currency chest balance",
+    "book": "KTC_Vol1_4th_ed_2013"
+   },
+   {
+    "text": "The contents of the currency chest are the property of the Reserve Bank but the Government are responsible to the Reserve Bank, for them.",
+    "ref": "KTC Vol I, Note 1 - Treasury balance and currency chest balance",
+    "book": "KTC_Vol1_4th_ed_2013"
+   }
+  ]
+ },
+ "q0267": {
+  "answer": "The department administering a grant must see that expenditure does not exceed the amount provided by the Legislature. Excess expenditure first noticed after the financial year closes is always treated as an irregularity, and where the grant as a whole is exceeded a demand for excess grant must be presented to the Legislature under Article 205 of the Constitution.",
+  "source": "Kerala Budget Manual, Para 97",
+  "quotes": [
+   {
+    "text": "As such, excess expenditure which comes to notice after the expiry of the financial year is always looked upon as an irregularity.",
+    "ref": "Kerala Budget Manual, Para 97(1) Excess Grant",
+    "book": "Kerala_Budget_Manual"
+   }
+  ]
+ }
+}
