@@ -1,5 +1,5 @@
 {
- "q0035": {
+ "q0073": {
   "answer": "The Contingency Fund of the State is Part II of the State accounts. It is a fund established by the State Legislature under Article 267(2) of the Constitution, and transactions connected with it are recorded in Part II of the accounts (major head number 800 in the Budget Manual numbering).",
   "source": "Kerala Budget Manual; Kerala Financial Code Vol I, definitions",
   "quotes": [
@@ -13,9 +13,10 @@
     "ref": "Kerala Financial Code Vol I, Definitions: Consolidated Fund, Contingency Fund and Public Account",
     "book": "KFC_Vol1_7th_ed"
    }
-  ]
+  ],
+  "q": "(a) Give a brief account of the Contingency Fund of the State."
  },
- "q0038": {
+ "q0076": {
   "answer": "When a Treasury Officer hands over charge (other than temporarily), the relieving officer verifies the cash balance before taking charge, as prescribed in Rule 144, and reports the result to the Accountant General in Form T.R.1, taking a note from the outgoing officer on the state of the treasury. The same applies when the Chief Treasurer changes, and the result is recorded in the Treasurer's Balance Sheet.",
   "source": "Kerala Treasury Code Vol I, Rule 52(a)",
   "quotes": [
@@ -24,9 +25,10 @@
     "ref": "Kerala Treasury Code Vol I, Rule 52(a)",
     "book": "KTC_Vol1_4th_ed_2013"
    }
-  ]
+  ],
+  "q": "(a) What are the rules to the followed for verification of Treasury Balance, when there is"
  },
- "q0164": {
+ "q0197": {
   "answer": "The Register of Increments is to be kept in Form 9 A, not Form 8. The drawing officer records the authorisation of each increment in it, with matching entries in the Service Book. So an objection by the Accountant General to the use of a different form is valid under the Financial Code.",
   "source": "Kerala Financial Code Vol I, Article 78",
   "quotes": [
@@ -35,6 +37,7 @@
     "ref": "Kerala Financial Code Vol I, Article 78 (Drawal of an increment in pay)",
     "book": "KFC_Vol1_7th_ed"
    }
-  ]
+  ],
+  "q": "Register of increment for non gazetted officers has been maintained by the drawing officers in Form No. 8 which is objected by A. G. Why ?"
  }
 }

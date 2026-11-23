@@ -1,5 +1,5 @@
 {
- "q0096": {
+ "q0131": {
   "answer": "Rule 2(6) of the KS&SS Rules 1958 defines when a person is 'on duty' as a member of a service. He is on duty when he is performing the duties of a post borne on the cadre of that service, or is undergoing the probation, instruction or training prescribed for it. Joining time, authorised vacation or holidays between duty periods, deputation during probation and waiting for posting orders after reporting for duty are also treated as duty.",
   "source": "KSSSR 1958, Rule 2(6)",
   "quotes": [
@@ -8,9 +8,10 @@
     "ref": "KSSSR 1958, Rule 2(6) Duty",
     "book": "KSSSR_1958"
    }
-  ]
+  ],
+  "q": "Define “Duty” as per Kerala State Subordinate Service Rules 1958."
  },
- "q0253": {
+ "q0279": {
   "answer": "Article 30-A of the Kerala Account Code Vol I lays down the guiding principles. Capital expenditure is incurred to increase concrete assets of a material and permanent character, the assets must belong to the authority spending, and expenditure on a temporary asset is not capital. Capital bears first construction and equipment charges, while revenue bears later maintenance and working expenses.",
   "source": "KAC Vol I, Article 30-A",
   "quotes": [
@@ -24,9 +25,10 @@
     "ref": "KAC Vol I, Art. 30-A(5)",
     "book": "KAC_Vol1_Kerala_Account_Code"
    }
-  ]
+  ],
+  "q": "What are the general principles of allocation of expenditure between capital and revenue."
  },
- "q0265": {
+ "q0291": {
   "answer": "Under Kerala Treasury Code Rule 250 the drawing officer must at once report the loss to the Treasury Officer and ask him to stop payment. The Treasury Officer checks the paid-cheque lists and, if unpaid, stops payment and sends a non-payment certificate. On receiving the certificate the drawing officer cancels the original cheque, makes the entries in his accounts and may then issue another cheque in its place.",
   "source": "KTC Vol I, Rule 250",
   "quotes": [
@@ -40,9 +42,10 @@
     "ref": "KTC Vol I, Rule 250 Lost cheques",
     "book": "KTC_Vol1_4th_ed_2013"
    }
-  ]
+  ],
+  "q": "For issuing a fresh cheque by a cheque drawing officer of PWD/Forest in a case where the drawing officer receives a report that a cheque drawn by him has been lost. [5] [P.T.O."
  },
- "q0271": {
+ "q0297": {
   "answer": "KFC Vol I Rule 170 requires all officers to maintain permanent registers in Form 23, one for buildings and lands and one for roads, bridges and culverts. Each officer's register covers the Government immovable properties under his control and that of his subordinates. Changes must be intimated to the officers concerned and an annual certificate recorded at the end of March.",
   "source": "KFC Vol I, Rule 170",
   "quotes": [
@@ -51,9 +54,10 @@
     "ref": "KFC Vol I, Rule 170 Maintenance of register of immovable properties",
     "book": "KFC_Vol1_7th_ed"
    }
-  ]
+  ],
+  "q": "Each departmental officer is required to maintain a register of immovable properties."
  },
- "q0277": {
+ "q0303": {
   "answer": "Compensation will ordinarily not be granted for loss by theft. The mere fact that the official lives in Government quarters in which he is bound to reside for his duties is not sufficient ground. The claim should therefore not be admitted, although the Head of Office recommended it.",
   "source": "KFC Vol I, Rule 231(1)(c)",
   "quotes": [
@@ -62,6 +66,7 @@
     "ref": "KFC Vol I, Rule 231(1)(c) Compensation for loss of property",
     "book": "KFC_Vol1_7th_ed"
    }
-  ]
+  ],
+  "q": "A Govt. official residing in Govt. quarters in which he is bound to reside for performance of his duties put in a claim for compensation from Govt. on account of theft of some of his valuables from it. His Head of office recommended it to higher authorities for"
  }
 }

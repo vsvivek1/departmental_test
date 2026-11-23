@@ -1,5 +1,5 @@
 {
- "q0163": {
+ "q0196": {
   "answer": "No. The Anamath Balance Register is kept in Form T.R. 19 (not T.R. 18), and it is maintained by the treasurer of the treasury, not by an ordinary Government servant. It records money kept in the treasury strong room outside the Government account, and the Treasury Officer checks it.",
   "source": "KTC Vol I, Rule 114",
   "quotes": [
@@ -8,9 +8,10 @@
     "ref": "KTC Vol I, Rule 114 Anamaths",
     "book": "KTC_Vol1_4th_ed_2013"
    }
-  ]
+  ],
+  "q": "The Government servant who keep anamath balance register in TR. 18. Is it correct ?"
  },
- "q0266": {
+ "q0292": {
   "answer": "Correct. Revenue collected in one district on account of another is credited in the treasury account of the receiving district under the proper head, and the fact is intimated to the departmental officer of the district concerned.",
   "source": "KFC Vol I, Art. 8(7)(iii)",
   "quotes": [
@@ -19,9 +20,10 @@
     "ref": "KFC Vol I, Art. 8(7)(iii) Maintenance of proper accounts",
     "book": "KFC_Vol1_7th_ed"
    }
-  ]
+  ],
+  "q": "Revenue is collected in one district on account of another district and credited to the Treasury Account of the receiving district."
  },
- "q0272": {
+ "q0298": {
   "answer": "Yes. A register in Form 4 must be maintained in each office for recording objections communicated by the Accountant General. There should be only one Audit Objection Register for the whole office, one person made responsible for it, and it is reviewed monthly by the Head of Office.",
   "source": "KFC Vol I, Art. 63(a) and 63(b)",
   "quotes": [
@@ -35,9 +37,10 @@
     "ref": "KFC Vol I, Art. 63(b)(6) Maintenance and check of Audit Objection Register",
     "book": "KFC_Vol1_7th_ed"
    }
-  ]
+  ],
+  "q": "Heads of offices, controlling officers, are required to maintain Audit objection register ? VII Comment on the following. (Relevant rules should be quoted)"
  },
- "q0260": {
+ "q0286": {
   "answer": "A permanent advance is a standing advance granted to a Government servant to meet unforeseen urgent expenditure before bills are drawn, limited to what is absolutely essential and recouped periodically. A temporary advance is for contingent expenditure of a specified kind or on a specific occasion, needing Government sanction (or a standing sanction) for that purpose.",
   "source": "KFC Vol I, Art. 94 and 99",
   "quotes": [
@@ -51,9 +54,10 @@
     "ref": "KFC Vol I, Art. 99 Temporary advances for specified purposes",
     "book": "KFC_Vol1_7th_ed"
    }
-  ]
+  ],
+  "q": "Permanent Advance and Temporary Advance"
  },
- "q0254": {
+ "q0280": {
   "answer": "Secret service expenses are governed by Appendix 6 of KFC Vol I (referred to in Art. 103). The officer keeps a contingent register and a secret cash book, bills need no vouchers, and Government nominates a controlling officer who does an administrative audit at least once a year and certifies to the Accountant General. The accounts are not scrutinised by audit. Appropriation control (Budget Manual para 67) checks expenditure against the available budget provision at the treasury.",
   "source": "KFC Vol I, Appendix 6; Kerala Budget Manual para 67",
   "quotes": [
@@ -67,6 +71,7 @@
     "ref": "Kerala Budget Manual, para 67 Appropriation Control",
     "book": "Kerala_Budget_Manual"
    }
-  ]
+  ],
+  "q": "What are the rules regarding administration supervision and control of secret service expenditure. II What is the procedure for regularisation of excess over voted grants/charged IV What is the procedure to be followed by drawing and disbursing officers/treasury officers for recovery of amounts due to co-operative societies from the salary of V A Deputy Director of Kerala State Audit drawing a basic pay of ` 59400 and having his head quarters at Kozhikode commenced his journey in departmental vehicle at 10 am on 7-10-2018 and reached Kollam at 10 pm on the same day. He was an official duty at Kollam from 8-10-2018 to 14-10-2018 at 10 am on 15-10-2018 he left Trivandrum by departmental vehicle and reached at 12 noon. After completing his official duties at Trivandrum, he left Trivandrum at 8 am on 16-10-2018 and reached Kollam 12 noon by departmental vehicle. He continued his official duties at Kollam till 19-10-2018 to 20-10-2018. He left Kollam by departmental vehicle and reached Kozhikode 10 pm on the same day. Calculate VI What is meant by appropriation control ? State briefly how it is watched at the [4] [P.T.O. VII Comment on the following :"
  }
 }

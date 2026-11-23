@@ -41,6 +41,12 @@ def main(d,out):
         qs=questions(t) if len(re.findall(r'[A-Za-z]{4,}',t))>120 else []
         if not qs: needs.append(pdf.name); continue
         papers.append({'file':pdf.name,'session':pdf.name[:7],'title':title_of(t),'questions':qs})
+    for f in sorted(pathlib.Path('data/ocr').glob('*.json')):  # vision-transcribed scans (English papers only)
+        o=json.load(open(f))
+        qs=[re.sub(r'\s+',' ',q).strip() for q in o.get('questions',[]) if len(q.split())>=5]
+        if o.get('language')!='English' or not qs: continue
+        needs=[n for n in needs if n!=o['file']]
+        papers.append({'file':o['file'],'session':o['file'][:7],'title':o.get('title','')[:200],'questions':qs})
     clusters=[]  # each: {rep, toks, items:[(file,session,text)]}
     for p in papers:
         for q in p['questions']:

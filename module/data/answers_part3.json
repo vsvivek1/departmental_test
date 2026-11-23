@@ -1,5 +1,5 @@
 {
- "q0009": {
+ "q0024": {
   "answer": "Works are classified primarily as original works and repairs and maintenance. Original works cover all new construction, additions and alterations to existing works, reconstruction of entire structures after wear or calamity, and repairs to newly purchased or abandoned buildings needed to make them usable. Repairs and maintenance cover the operations needed from time to time to keep existing property in satisfactory state when complete reconstruction is not necessary, and are further divided into ordinary and special repairs.",
   "source": "Kerala Financial Code Vol I, Article 164",
   "quotes": [
@@ -13,9 +13,10 @@
     "ref": "KFC Vol I, Art. 164 Classification of works",
     "book": "KFC_Vol1_7th_ed"
    }
-  ]
+  ],
+  "q": "What are Original works and Maintenance works ?"
  },
- "q0258": {
+ "q0284": {
   "answer": "Normally a Treasury Officer cannot pay a reward or honorarium to a gazetted officer until the Accountant General has intimated the rate of payment. However, honorarium paid to a gazetted government servant by the Kerala Public Service Commission is a listed exception, so such payment without the Accountant General's authorisation is not irregular.",
   "source": "Kerala Treasury Code Vol I, Rule 18 and exception (b)",
   "quotes": [
@@ -29,9 +30,10 @@
     "ref": "KTC Vol I, Rule 18 Exceptions (b)",
     "book": "KTC_Vol1_4th_ed_2013"
    }
-  ]
+  ],
+  "q": "A treasury officer paid the honorarium sanctioned by the Public Service Commission to Gazetted officer without the authorisation of the Accountant General."
  },
- "q0270": {
+ "q0296": {
   "answer": "True. Each Disbursing Officer must maintain a register of expenditure and liabilities in Form KBM 12, and report the expenditure and liabilities monthly to the superior controlling authority.",
   "source": "Kerala Budget Manual, Para 70",
   "quotes": [
@@ -40,9 +42,10 @@
     "ref": "Kerala Budget Manual, Para 70(1) Disbursing Officers",
     "book": "Kerala_Budget_Manual"
    }
-  ]
+  ],
+  "q": "Each disbursing officer is required to maintain a register of Expenditure and Liabilities."
  },
- "q0276": {
+ "q0302": {
   "answer": "This is irregular. An earnest money deposit can never be repaid in part; it must be refunded in full on a proper refund order.",
   "source": "Kerala Treasury Code Vol I, refund of deposits",
   "quotes": [
@@ -51,6 +54,7 @@
     "ref": "KTC Vol I, rule on repayment of deposits (earnest money deposit)",
     "book": "KTC_Vol1_4th_ed_2013"
    }
-  ]
+  ],
+  "q": "A Treasury Officer permitted part payment of an earnest money deposit."
  }
 }

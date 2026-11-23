@@ -1,5 +1,5 @@
 {
- "q0257": {
+ "q0283": {
   "answer": "A contingent bill endorsed in favour of a private party is valid only for three months from the date of issue. A bill endorsed on 10-12-2017 and presented on 18-3-2018 is beyond three months, and in any case an endorsement made in the last quarter is valid only up to the end of March. The treasury officer's refusal therefore turns on the three-month limit; the payee must get the bill re-endorsed/revalidated by the drawing officer.",
   "source": "KFC Vol I, Rule 112(c)",
   "quotes": [
@@ -8,9 +8,10 @@
     "ref": "KFC Vol I, Rule 112(c) Endorsement of Contingent Bills in favour of private parties",
     "book": "KFC_Vol1_7th_ed"
    }
-  ]
+  ],
+  "q": "A contingent bill was endorsed to a private party by the drawing officer on 10-12-2017. It was presented at the treasury on 18-3-2018. The treasury officer refused the payment."
  },
- "q0275": {
+ "q0301": {
   "answer": "Heads of Departments and District Collectors are themselves competent to sanction journeys in the public interest to adjoining districts of neighbouring States. So a District Collector's journey to Coimbatore district needs no separate Government sanction, and the treasury officer was not justified in returning the TA bill on that ground.",
   "source": "KSR Vol I, Part I, Chapter II (TA), Rule 47 Note 2",
   "quotes": [
@@ -19,9 +20,10 @@
     "ref": "KSR Vol I, Rule 47 Note 2 (Travelling Allowances, Journeys on Tour)",
     "book": "KSR_Vol1_Part1_2_8th_ed_2016"
    }
-  ]
+  ],
+  "q": "Treasury officer Palakkad returned a TA bill of District collector Palakkad for an official journey made in Coimbatore District on the ground that for the said journey outside the state, no Govt. sanction is obtained."
  },
- "q0269": {
+ "q0295": {
   "answer": "A Revised Estimate is an estimate of the probable revenue and expenditure of the current financial year framed during the year. It is based on actual transactions recorded so far plus anticipated transactions for the rest of the year, and should be prepared as realistically as possible because it guides the next year's budget estimate.",
   "source": "Kerala Budget Manual, Chapter II and para 20",
   "quotes": [
@@ -30,14 +32,15 @@
     "ref": "Kerala Budget Manual, Revised Estimate (Chapter II / para 20)",
     "book": "Kerala_Budget_Manual"
    }
-  ]
+  ],
+  "q": "A revised estimate for various grants sanctioned by the Legislature are prepared ?"
  },
- "q0365": {
+ "q0386": {
   "answer": "A muster roll (K.P.W. Form 19) is the record on which wages of departmentally engaged day labourers are drawn and charged to the estimate of the work. One or more rolls are kept for each work, never in duplicate, with separate rolls for each payment period. Daily attendance and absences are recorded in Part I so that net wages can be calculated correctly and tampering is difficult; entries are made in indelible ink.",
   "source": "KPWAC, paras 10.2.4 and 10.2.6",
   "quotes": [
    {
-    "text": "Muster rolls should be prepared in K.P.W. Form 19 and dealt with in accordance with the following rules:\u2014",
+    "text": "Muster rolls should be prepared in K.P.W. Form 19 and dealt with in accordance with the following rules:—",
     "ref": "KPWAC, para 10.2.6 Muster rolls",
     "book": "KPWAC_Kerala_Public_Works_Account_Code"
    },
@@ -46,6 +49,7 @@
     "ref": "KPWAC, para 10.2.6(a)",
     "book": "KPWAC_Kerala_Public_Works_Account_Code"
    }
-  ]
+  ],
+  "q": "What is a Muster Roll ? Brief the rules and procedures for the preparation of a Muster Roll."
  }
 }
