@@ -2,7 +2,8 @@
 """raw_questions.json (+ optional data/answers.json {id: {answer, source}}) -> web/data.json"""
 import json,re,pathlib
 raw=json.load(open('data/raw_questions.json'))
-ans=json.load(open('data/answers.json')) if pathlib.Path('data/answers.json').exists() else {}
+ans={}
+for f in sorted(pathlib.Path('data').glob('answers*.json')): ans.update(json.load(open(f)))
 def exam(t):
     m=re.search(r"(Division\s*[‘'“\"]?\s*[A-E]\d?[’'”\"]?\s*\((?:Higher|Lower)[^)]*\)|PAPER\s*-\s*[IVX0-9]+[^|]{0,40}|FIRST GRADE[^|]{0,50}|HEAD SURVEYOR[^|]{0,40})",t,re.I)
     return re.sub(r'\s+',' ',m.group(1)).strip() if m else 'Other departmental tests'

@@ -3,7 +3,8 @@
 Usage: python3 -I tools/verify_quotes.py <dir with pdftotext .txt of the books>"""
 import json,re,sys,pathlib
 norm=lambda s:re.sub(r'\s+',' ',s).replace('“','"').replace('”','"').replace('’',"'").strip()
-d=pathlib.Path(sys.argv[1]);ans=json.load(open('data/answers.json'));bad=0
+d=pathlib.Path(sys.argv[1]);ans={};bad=0
+for f in sorted(pathlib.Path('data').glob('answers*.json')): ans.update(json.load(open(f)))
 for cid,a in ans.items():
     for q in a.get('quotes',[]):
         t=norm((d/(q['book']+'.txt')).read_text())
