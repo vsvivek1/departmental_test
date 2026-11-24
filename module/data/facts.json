@@ -1,0 +1,192 @@
+[
+ {
+  "id": "f01",
+  "qid": "q0073",
+  "topic": "Accounts",
+  "prompt": "What is the Contingency Fund of the State?",
+  "tip": "The Contingency Fund is Part II of the State accounts. The Legislature set it up under Article 267(2).",
+  "requires": []
+ },
+ {
+  "id": "f02",
+  "qid": "q0287",
+  "topic": "Treasury",
+  "prompt": "What is the treasury balance?",
+  "tip": "The treasury balance is the Government's cash in the treasury. Payments go out of it. Receipts come into it.",
+  "requires": []
+ },
+ {
+  "id": "f03",
+  "qid": "q0076",
+  "topic": "Treasury",
+  "prompt": "A new Treasury Officer takes charge. What must he do first?",
+  "tip": "He checks the cash balance before taking charge. He reports it to the Accountant General in Form T.R.1.",
+  "requires": [
+   "f02"
+  ]
+ },
+ {
+  "id": "f04",
+  "qid": "q0288",
+  "topic": "Treasury",
+  "prompt": "Who must certify a treasury strong-room?",
+  "tip": "A PWD officer of Executive Engineer rank or above must certify it is secure and fit.",
+  "requires": [
+   "f02"
+  ]
+ },
+ {
+  "id": "f05",
+  "qid": "q0196",
+  "topic": "Treasury",
+  "prompt": "In which form is the Anamath Balance Register kept?",
+  "tip": "Form T.R.19. The treasurer keeps it.",
+  "requires": []
+ },
+ {
+  "id": "f06",
+  "qid": "q0291",
+  "topic": "Treasury",
+  "prompt": "A cheque you issued is lost. What do you do?",
+  "tip": "Report it to the Treasury Officer at once. Ask him to stop payment.",
+  "requires": []
+ },
+ {
+  "id": "f07",
+  "qid": "q0302",
+  "topic": "Treasury",
+  "prompt": "Can an earnest money deposit be repaid in part?",
+  "tip": "No. Earnest money deposit is never repaid in part.",
+  "requires": []
+ },
+ {
+  "id": "f08",
+  "qid": "q0292",
+  "topic": "Treasury",
+  "prompt": "Revenue is collected in one district for another. Where is it credited?",
+  "tip": "In the treasury account of the receiving district, under the proper head.",
+  "requires": []
+ },
+ {
+  "id": "f09",
+  "qid": "q0197",
+  "topic": "Financial Code",
+  "prompt": "In which form is the Register of Increments kept?",
+  "tip": "Form 9A. The drawing officer keeps it.",
+  "requires": []
+ },
+ {
+  "id": "f10",
+  "qid": "q0283",
+  "topic": "Financial Code",
+  "prompt": "How long is an endorsement on a contingent bill valid?",
+  "tip": "Three months from the date of issue.",
+  "requires": []
+ },
+ {
+  "id": "f11",
+  "qid": "q0297",
+  "topic": "Financial Code",
+  "prompt": "In which form is the register of immovable property kept?",
+  "tip": "Form 23. One register for buildings and land. One for roads, bridges and culverts.",
+  "requires": []
+ },
+ {
+  "id": "f12",
+  "qid": "q0298",
+  "topic": "Financial Code",
+  "prompt": "Which register records Accountant General's audit objections?",
+  "tip": "A register in Form 4, kept in each office.",
+  "requires": []
+ },
+ {
+  "id": "f13",
+  "qid": "q0286",
+  "topic": "Financial Code",
+  "prompt": "What is a permanent advance?",
+  "tip": "An advance to pay urgent bills before drawing them. Keep it to what is absolutely essential.",
+  "requires": []
+ },
+ {
+  "id": "f14",
+  "qid": "q0303",
+  "topic": "Financial Code",
+  "prompt": "Is living in Government quarters you must occupy enough to claim compensation for theft loss?",
+  "tip": "No. It is not, by itself, a ground for compensation.",
+  "requires": []
+ },
+ {
+  "id": "f15",
+  "qid": "q0024",
+  "topic": "Financial Code",
+  "prompt": "What are original works?",
+  "tip": "All new construction, plus additions and alterations to existing works.",
+  "requires": []
+ },
+ {
+  "id": "f16",
+  "qid": "q0295",
+  "topic": "Budget",
+  "prompt": "What is a revised estimate?",
+  "tip": "An estimate made during the year. It uses actual figures so far, plus expected figures for the rest.",
+  "requires": []
+ },
+ {
+  "id": "f17",
+  "qid": "q0293",
+  "topic": "Budget",
+  "prompt": "Excess spending is found after the year ends. How is it treated?",
+  "tip": "Always as an irregularity.",
+  "requires": [
+   "f16"
+  ]
+ },
+ {
+  "id": "f18",
+  "qid": "q0296",
+  "topic": "Budget",
+  "prompt": "Which register do disbursing officers keep for spending and liabilities?",
+  "tip": "A register in Form KBM 12.",
+  "requires": []
+ },
+ {
+  "id": "f19",
+  "qid": "q0281",
+  "topic": "Leave",
+  "prompt": "Is a medical certificate needed for leave right after maternity leave?",
+  "tip": "Not for leave up to 60 days in continuation of maternity leave.",
+  "requires": []
+ },
+ {
+  "id": "f20",
+  "qid": "q0299",
+  "topic": "Leave",
+  "prompt": "You are on leave and get suspended. What happens to the leave?",
+  "tip": "The leave is cancelled for the suspension period. You get subsistence allowance.",
+  "requires": []
+ },
+ {
+  "id": "f21",
+  "qid": "q0301",
+  "topic": "Travel",
+  "prompt": "Can a District Collector tour the adjoining districts of a neighbouring State?",
+  "tip": "Yes. Heads of Departments and District Collectors can approve such tours in the public interest.",
+  "requires": []
+ },
+ {
+  "id": "f22",
+  "qid": "q0279",
+  "topic": "Accounts",
+  "prompt": "Is spending on a temporary asset capital expenditure?",
+  "tip": "Ordinarily, no.",
+  "requires": []
+ },
+ {
+  "id": "f23",
+  "qid": "q0386",
+  "topic": "Public Works",
+  "prompt": "Which form is the muster roll?",
+  "tip": "K.P.W. Form 19.",
+  "requires": []
+ }
+]

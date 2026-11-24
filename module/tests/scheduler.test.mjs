@@ -28,4 +28,8 @@ assert.equal(planSession({ cards: big, states: old, now, minutes: 60, overdueCap
 // streak
 const d = new Date('2026-11-07T10:00:00Z');
 assert.deepEqual(streakInfo({ '2026-11-07': 1, '2026-11-06': 1 }, d), { streak: 2, doneToday: true });
+// prerequisite pulled before the card that needs it
+const dc = [{ id: 'a', question: 'x '.repeat(6), freq: 9, sessions: ['s'], requires: ['b'] }, { id: 'b', question: 'x '.repeat(6), freq: 1, sessions: ['s'] }];
+assignTiers(dc, [1, 0, 0]);
+assert.deepEqual(planSession({ cards: dc, states: {}, now, minutes: 5 }).cards.map(c => c.id), ['b', 'a'], 'needed fact first');
 console.log('scheduler tests passed');

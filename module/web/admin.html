@@ -6,8 +6,8 @@ body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,sans-
 table{width:100%;border-collapse:collapse}td,th{text-align:left;padding:6px;border-bottom:1px solid var(--mut);vertical-align:top}.mut{color:var(--mut)}</style></head>
 <body><main><h1>Admin: course content</h1><div class="g" id="k"></div><h2>Exams</h2><table id="e"></table><h2>Most repeated questions</h2><table id="t"></table>
 <p><a href="index.html">Open learner app</a></p></main>
-<script>fetch('data.json').then(r=>r.json()).then(d=>{const c=d.cards,a=c.filter(x=>x.answer).length,r=c.filter(x=>x.freq>1).length;
+<script>fetch('data.json').then(r=>r.json()).then(d=>{const c=d.cards;
 const k=(n,l)=>`<div class="k"><b>${n}</b><span class="mut">${l}</span></div>`;
-document.getElementById('k').innerHTML=k(c.length,'questions')+k(r,'repeated across sessions')+k(a,'with rule-book answer')+k(c.length-a,'answers pending')+k(d.exams.length,'exams')+k(d.needs_ocr,'scanned papers awaiting OCR');
+document.getElementById('k').innerHTML=k(c.length,'tips (learner cards)')+k(d.questions,'past questions collected')+k(d.answered,'questions with rule-book answer')+k(d.questions-d.answered,'questions still unanswered')+k(d.exams.length,'exams')+k(d.needs_ocr,'scanned papers awaiting OCR');
 document.getElementById('e').innerHTML='<tr><th>Exam<th>Questions<th>Answered</tr>'+d.exams.map(e=>{const x=c.filter(q=>q.exams.includes(e));return `<tr><td>${e}<td>${x.length}<td>${x.filter(q=>q.answer).length}`}).join('');
 document.getElementById('t').innerHTML=c.slice(0,15).map(q=>`<tr><td>${q.freq}×<td>${q.question.replace(/[<>&]/g,'')}`).join('')})</script></body></html>

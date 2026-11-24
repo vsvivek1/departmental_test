@@ -18,7 +18,7 @@ function home() {
   <div class="card"><b>${d ? 'Today is done. Streak: ' + streak + ' days' : 'Streak: ' + streak + ' days. Do at least ' + minutes + ' minutes today.'}</b>
   <p class="mut">${plan.dueCount} due now. Session fits about ${plan.cards.length} cards.</p>
   <button class="p" id="go">Start session</button></div>
-  <p class="mut">Answers marked "pending" have no rule-book answer yet.</p>`;
+  <p class="mut">Short tips, checked against the rule books. Past exam questions are for quiz practice later.</p>`;
   document.getElementById('ex').onchange = e => { exam = e.target.value; save('exam', exam); home(); };
   document.getElementById('go').onclick = () => start(plan);
   remind();
@@ -27,7 +27,7 @@ function start(plan) { queue = plan.cards.slice(); idx = 0; shown = false; secs 
 function step() {
   if (idx >= queue.length) return finish();
   const c = queue[idx];
-  $.innerHTML = `<p class="mut">Card ${idx + 1} of ${queue.length} · tier ${c.tier} · asked in ${c.sessions.length} session(s)</p>
+  $.innerHTML = `<p class="mut">Card ${idx + 1} of ${queue.length} · tier ${c.tier} · ${esc(c.topic||'')} · in ${c.sessions.length} past exam(s)</p>
   <div class="card q">${esc(c.question)}</div>
   ${shown ? answer(c) + `<div class="row"><button data-g="0">Forgot</button><button data-g="1">Hard</button><button data-g="2">Good</button><button data-g="3">Easy</button></div>` : `<button class="p" id="show" style="width:100%">Show answer</button>`}`;
   if (!shown) document.getElementById('show').onclick = () => { shown = true; step(); };
@@ -35,7 +35,7 @@ function step() {
 }
 function answer(c) {
   if (!c.answer) return `<div class="card mut">Answer pending (rule-book answer not added yet). Recall it, then rate yourself.</div>`;
-  return `<div class="card">${esc(c.answer)}${(c.quotes || []).map(q => `<div class="quote">“${esc(q.text)}”<div class="mut">${esc(q.ref)}</div></div>`).join('')}</div>`;
+  return `<div class="card"><b>${esc(c.answer)}</b>${(c.quotes || []).map(q => `<div class="quote">Rule book: “${esc(q.text)}”<div class="mut">${esc(q.ref)}</div></div>`).join('')}</div>`;
 }
 function grade(g) {
   const c = queue[idx]; states[c.id] = review(states[c.id] || newState(), g);
