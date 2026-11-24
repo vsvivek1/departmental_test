@@ -1,0 +1,782 @@
+[
+ {
+  "id": "b8_001",
+  "topic": "General conditions",
+  "prompt": "Who signs the medical certificate for appointment?",
+  "tip": "It is ordinarily signed by a Civil Medical Officer not lower than a Civil Surgeon, or an Honorary Medical Officer of that rank, or the Director of Indigenous Medicine.",
+  "quote": {
+   "text": "The certificate prescribed above must ordinarily be signed by a Civil Medical Officer of rank not lower than a Civil Surgeon or Honorary Medical Officer of Civil Surgeon’s rank or the Director of Indigenous Medicine",
+   "ref": "KSR Part I, Rule 13 Note 1",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_002",
+  "topic": "General conditions",
+  "prompt": "Within what time must a candidate declared unfit appeal?",
+  "tip": "Appeal against a Medical Officer's finding of unfitness must be made within one month of communication of the findings.",
+  "quote": {
+   "text": "appeal, if any, must be made by the candidate/ Government servant concerned within one month of the communication of the findings of the Medical Officer",
+   "ref": "KSR Part I, Rule 13 Government Decision 3",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_003",
+  "topic": "General conditions",
+  "prompt": "Is there a further appeal against a medical appeal decision?",
+  "tip": "No appeal lies against the adverse findings of a Medical Officer to whom the case is referred on appeal.",
+  "quote": {
+   "text": "No appeal shall lie against the adverse findings of a Medical Officer to whom the case is referred on appeal.",
+   "ref": "KSR Part I, Rule 13 Government Decision 7",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_004",
+  "topic": "General conditions",
+  "prompt": "What is the officer's time at Government's disposal?",
+  "tip": "Unless otherwise provided, the whole time of an officer is at the disposal of the Government which pays him, without extra remuneration.",
+  "quote": {
+   "text": "the whole time of an officer is at the disposal of the Government which pays him and he may be employed in any manner required by proper authority, without claim for additional remuneration",
+   "ref": "KSR Part I, Rule 14",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_005",
+  "topic": "General conditions",
+  "prompt": "What is forfeited for late attendance?",
+  "tip": "For every three days' late attendance without permission, an officer forfeits a day's casual leave.",
+  "quote": {
+   "text": "For every three day’s late attendance without permission, an officer will forfeit a day’s casual leave for which he is eligible.",
+   "ref": "KSR Part I, Rule 14 Note 1",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_006",
+  "topic": "General conditions",
+  "prompt": "Can other leave be forfeited for late attendance?",
+  "tip": "No other kind of leave except casual leave is forfeited for late attendance without permission.",
+  "quote": {
+   "text": "No other kind of leave except casual leave shall be forfeited for late attendance without permission.",
+   "ref": "KSR Part I, Rule 14 Note 2",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_007",
+  "topic": "General conditions",
+  "prompt": "How is participation in a strike treated?",
+  "tip": "Unauthorised absence for a strike is Dies-Non. No pay and allowances, and it does not count for earned leave.",
+  "quote": {
+   "text": "The period of unauthorized absence of an Officer on account of participation in strike shall be treated as ‘Dies-Non’. During the period of ‘Dies-Non’, he shall not be eligible for pay and allowances and the period shall not be counted for admissibility of earned leave.",
+   "ref": "KSR Part I, Rule 14A",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_008",
+  "topic": "Lien",
+  "prompt": "What happens on substantive appointment to a permanent post?",
+  "tip": "The officer acquires a lien on that post and ceases to hold any lien previously acquired on any other post.",
+  "quote": {
+   "text": "an officer on substantive appointment to any permanent post acquires a lien on that post and ceases to hold any lien previously acquired on any other post.",
+   "ref": "KSR Part I, Rule 16",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_009",
+  "topic": "Lien",
+  "prompt": "Can a lien be terminated with the officer's consent?",
+  "tip": "No. A lien cannot be terminated, even with consent, if he is left with no lien or suspended lien on a permanent post.",
+  "quote": {
+   "text": "An officer’s lien on a post may in no circumstances be terminated, even with his consent, if the result will be to leave him without a lien or a suspended lien upon a permanent post.",
+   "ref": "KSR Part I, Rule 19(a)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_010",
+  "topic": "Transfers",
+  "prompt": "Can an officer be transferred to a lower-paid post?",
+  "tip": "Except for inefficiency or misbehaviour, or on his written request, an officer shall not be transferred substantively to a post carrying less pay.",
+  "quote": {
+   "text": "except- (1) on account of inefficiency or misbehavior, or (2) on his written request, an officer shall not be transferred substantively to, or except in a case covered by Rule 58, appointed to officiate in a post carrying less pay than the pay of the permanent post",
+   "ref": "KSR Part I, Rule 21(a) Transfer",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_011",
+  "topic": "Transfers",
+  "prompt": "What is a transfer?",
+  "tip": "A transfer is movement of an officer from one headquarter station to another to take up a new post or due to change of headquarters.",
+  "quote": {
+   "text": "Transfer.- means the movement of an officer from one headquarter station in which he is employed to another such station",
+   "ref": "KSR Part I, Rule 12(36) Transfer",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_012",
+  "topic": "General conditions",
+  "prompt": "When is an officer removed for continuous absence?",
+  "tip": "Unless Government decides otherwise, an officer is removed after five years' continuous absence from duty.",
+  "quote": {
+   "text": "after five years’ continuous absence from duty, an officer shall be removed from service after following the",
+   "ref": "KSR Part I, Rule 24",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_013",
+  "topic": "General conditions",
+  "prompt": "From when does an officer draw pay of a post?",
+  "tip": "He begins to draw pay and allowances from the date he assumes duties of the post and stops when he ceases to discharge them.",
+  "quote": {
+   "text": "an officer shall begin to draw the pay and allowances attached to his tenure of a post with effect from the date he assumes the duties of that post, and shall cease to draw them as soon as he ceases to discharge those duties.",
+   "ref": "KSR Part I, Rule 23(a)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_014",
+  "topic": "General conditions",
+  "prompt": "When does a resignation become effective?",
+  "tip": "A resignation becomes effective when it is accepted and the officer is relieved of his duties.",
+  "quote": {
+   "text": "A resignation becomes effective when it is accepted and the officer is relieved of his duties.",
+   "ref": "KSR Part I, Rule 23 Government Decision 1(d)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_015",
+  "topic": "Pay and increments",
+  "prompt": "Can pay exceed the pay sanctioned for the post?",
+  "tip": "Not without Government sanction, except personal pay under Rule 12(26)(a).",
+  "quote": {
+   "text": "the pay of an officer shall not be so increased as to exceed the pay sanctioned for his post without the sanction of Government.",
+   "ref": "KSR Part I, Rule 25",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_016",
+  "topic": "Pay and increments",
+  "prompt": "Is an increment drawn as a matter of course?",
+  "tip": "Yes, unless it is withheld.",
+  "quote": {
+   "text": "An increment shall ordinarily be drawn as a matter of course unless it is withheld.",
+   "ref": "KSR Part I, Rule 31",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_017",
+  "topic": "Pay and increments",
+  "prompt": "When can an increment be withheld?",
+  "tip": "It can be withheld if the officer's conduct has not been good or his work has not been satisfactory.",
+  "quote": {
+   "text": "if his conduct has not been good or his work has not been satisfactory.",
+   "ref": "KSR Part I, Rule 31",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_018",
+  "topic": "Pay and increments",
+  "prompt": "What must a withholding order state?",
+  "tip": "It must state the period of withholding and whether postponement affects future increments.",
+  "quote": {
+   "text": "the withholding authority shall state the period for which it is withheld and whether the postponement shall have the effect of postponing future increments.",
+   "ref": "KSR Part I, Rule 31",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_019",
+  "topic": "Pay and increments",
+  "prompt": "From which date is an increment granted?",
+  "tip": "An increment is granted from the first day of the month in which it falls due.",
+  "quote": {
+   "text": "An increment shall be granted from the first day of the month in which it falls due.",
+   "ref": "KSR Part I, Rule 31 Government Decision No. 1",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_020",
+  "topic": "Pay and increments",
+  "prompt": "Can an increment be deferred during investigation?",
+  "tip": "Yes, a competent authority may defer it pending investigation. It is not 'withholding' under the CCA Rules.",
+  "quote": {
+   "text": "A competent authority may order the deferring of the increment of an officer, pending investigation into his conduct or performance of work, in disciplinary cases.",
+   "ref": "KSR Part I, Rule 31 Note 2",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_021",
+  "topic": "Pay and increments",
+  "prompt": "When is first increment drawn after insurance?",
+  "tip": "An officer cannot draw his first increment until he subscribes to State Life Insurance and Group Insurance Schemes.",
+  "quote": {
+   "text": "An Officer shall not be eligible to draw his first increment until he subscribes to State Life Insurance Scheme and Group Insurance Scheme",
+   "ref": "KSR Part I, Rule 31 Note 3",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_022",
+  "topic": "Pay and increments",
+  "prompt": "Who sanctions the increment above an efficiency bar?",
+  "tip": "The authority empowered to withhold increments must specifically sanction it.",
+  "quote": {
+   "text": "the increment next above the bar shall not be given to an officer without the specific sanction of the authority empowered to withhold increments.",
+   "ref": "KSR Part I, Rule 32",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_023",
+  "topic": "Pay and increments",
+  "prompt": "What must a reduction-to-lower-stage order state?",
+  "tip": "The order must state how long the reduction is effective and whether it postpones future increments.",
+  "quote": {
+   "text": "the authority ordering such reduction shall state the period for which it shall be effective and whether on restoration, it shall operate to postpone future increments",
+   "ref": "KSR Part I, Rule 36",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_024",
+  "topic": "Pay and increments",
+  "prompt": "Initial pay when officiating on a higher time-scale",
+  "tip": "He draws as initial pay the stage next above his pay in the lower time-scale.",
+  "quote": {
+   "text": "will draw as initial pay the stage next above his pay in the lower time-",
+   "ref": "KSR Part I, Rule 37(a)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_025",
+  "topic": "Pay and increments",
+  "prompt": "What happens to personal pay when pay rises?",
+  "tip": "Personal pay is reduced by any increase in pay and ceases once pay rises by an amount equal to it.",
+  "quote": {
+   "text": "personal pay shall be reduced by any amount by which the recipient’s pay may be increased and shall cease as soon as his pay is increased by an amount equal to his personal pay.",
+   "ref": "KSR Part I, Rule 41",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_026",
+  "topic": "Suspension",
+  "prompt": "What happens to pay on dismissal or removal?",
+  "tip": "Pay and allowances cease from the date of dismissal or removal.",
+  "quote": {
+   "text": "The pay and allowances of an officer who is dismissed or removed from service cease from the date of such dismissal or removal.",
+   "ref": "KSR Part I, Rule 54 Dismissal",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_027",
+  "topic": "Suspension",
+  "prompt": "How much is subsistence allowance?",
+  "tip": "An amount equal to the leave salary he would draw on half-pay leave on the date of suspension.",
+  "quote": {
+   "text": "Subsistence allowance at an amount equal to *the leave salary which the officer would have drawn had he been on leave on half-pay on the date of suspension",
+   "ref": "KSR Part I, Rule 55 Subsistence allowance",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_028",
+  "topic": "Suspension",
+  "prompt": "What certificate is needed to draw subsistence allowance?",
+  "tip": "The officer must certify that he is not engaged in any other employment, business, profession or vocation.",
+  "quote": {
+   "text": "No payment under the rules shall be made unless the officer furnishes a certificate that he is not engaged in any other employment, business, profession or vocation.",
+   "ref": "KSR Part I, Rule 55 Note 3",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_029",
+  "topic": "Suspension",
+  "prompt": "What is the limit on recovering overpayments from subsistence?",
+  "tip": "Recovery of overpayments should not ordinarily exceed one-third of the subsistence allowance.",
+  "quote": {
+   "text": "such recoveries of overpayments should not ordinarily be made at a rate greater than one-third of the amount of the subsistence allowance",
+   "ref": "KSR Part I, Rule 55 Note 2(d)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_030",
+  "topic": "Suspension",
+  "prompt": "Suspended while on leave without allowances",
+  "tip": "He gets no subsistence allowance during that leave. After the leave ends, if still suspended, he gets it.",
+  "quote": {
+   "text": "when an officer is placed under suspension while on leave without allowances, he shall not be eligible for any subsistence allowance during the period of the leave.",
+   "ref": "KSR Part I, Rule 55B(i)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_031",
+  "topic": "Suspension",
+  "prompt": "Suspended while on leave with allowances",
+  "tip": "The suspension order cancels the leave for the suspension period, and he gets subsistence allowance.",
+  "quote": {
+   "text": "the orders of suspension shall have the effect of cancelling the leave for the period of suspension. He shall be entitled to subsistence allowance.",
+   "ref": "KSR Part I, Rule 55B(ii)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_032",
+  "topic": "Suspension",
+  "prompt": "If a suspended officer dies before proceedings end",
+  "tip": "The period from suspension to death is treated as duty for all purposes, and the family gets full pay and allowances.",
+  "quote": {
+   "text": "the period between the date of suspension and the date of death shall be treated as duty for all purposes and his family shall be paid the full pay and allowances for that period",
+   "ref": "KSR Part I, Rule 56B(2)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_033",
+  "topic": "Suspension",
+  "prompt": "Under Rule 56B(3), how is the suspension period treated?",
+  "tip": "In cases under sub-rule (3), the suspension period is treated as a period spent on duty for all purposes.",
+  "quote": {
+   "text": "In a case falling under sub-rule (3), the period of suspension shall be treated as a period spent on duty for all purposes.",
+   "ref": "KSR Part I, Rule 56B(4)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_034",
+  "topic": "Suspension",
+  "prompt": "Other reinstatement cases: suspension period",
+  "tip": "It is not treated as duty unless the competent authority specifically directs it for a purpose.",
+  "quote": {
+   "text": "the period of suspension shall not be treated as a period spent on duty unless the competent authority specifically directs that it shall be so treated for any specified purpose",
+   "ref": "KSR Part I, Rule 56B(7)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_035",
+  "topic": "Dismissal",
+  "prompt": "Reinstated after full exoneration: what pay?",
+  "tip": "He is paid full pay and allowances as if not dismissed, removed, compulsorily retired or suspended.",
+  "quote": {
+   "text": "the officer shall, subject to the provisions of sub-rule (6) be paid the full pay and allowances to which he would have been entitled had he not been dismissed, removed or compulsorily retired or suspended",
+   "ref": "KSR Part I, Rule 56(2)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_036",
+  "topic": "Dismissal",
+  "prompt": "Time limit on payment on reinstatement (Rule 56(4))",
+  "tip": "Payment is restricted to three years immediately preceding reinstatement or retirement on superannuation.",
+  "quote": {
+   "text": "any payment under this sub-rule shall be restricted to a period of three years immediately preceding reinstatement or retirement on superannuation",
+   "ref": "KSR Part I, Rule 56(4) proviso",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_037",
+  "topic": "Joining time",
+  "prompt": "Maximum joining time on transfer to another station",
+  "tip": "Joining time on transfer from one station to another is subject to a maximum of 30 days.",
+  "quote": {
+   "text": "The joining time of an officer, in cases involving a transfer from one station to another, is subject to a maximum of 30 days.",
+   "ref": "KSR Part I, Rule 127 Joining time",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_038",
+  "topic": "Joining time",
+  "prompt": "How many days are allowed for preparation?",
+  "tip": "Six days are allowed for preparation, in addition to the journey time.",
+  "quote": {
+   "text": "Six days are allowed for preparation and, in addition, a period to cover the actual journey",
+   "ref": "KSR Part I, Rule 127",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_039",
+  "topic": "Joining time",
+  "prompt": "Joining time when no change of residence",
+  "tip": "Not more than one day is allowed when the new post does not involve a change of residence from one station to another.",
+  "quote": {
+   "text": "Not more than one day is allowed to an officer in order to join a new post when the appointment to such post does not necessarily involve a change of residence from one station to another.",
+   "ref": "KSR Part I, Rule 126",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_040",
+  "topic": "Joining time",
+  "prompt": "When does a transfer involve a change of station?",
+  "tip": "Only if the distance between the two places is not less than eight kilometres.",
+  "quote": {
+   "text": "A transfer shall be held to involve a change of station only if the distance between the two places is not less than eight kilometres.",
+   "ref": "KSR Part I, Rule 126 Note",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_041",
+  "topic": "Joining time",
+  "prompt": "Does a Sunday count in joining time?",
+  "tip": "A Sunday does not count as a day in the calculation, but Sundays are included in the maximum of 30 days.",
+  "quote": {
+   "text": "A Sunday does not count as a day for the purpose of the calculations in this rule, but Sundays are included in the maximum period of 30 days.",
+   "ref": "KSR Part I, Rule 127(e)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_042",
+  "topic": "Joining time",
+  "prompt": "Is an officer on joining time on duty?",
+  "tip": "Yes. He is regarded as on duty and gets joining time pay equal to pay drawn before relinquishing charge of the old post.",
+  "quote": {
+   "text": "A Government servant on joining time shall be regarded as on duty during that period and shall be entitled to joining time pay equal to the pay which was drawn before relinquishment of charge in the old post.",
+   "ref": "KSR Part I, Rule 136",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_043",
+  "topic": "Joining time",
+  "prompt": "Which allowances are barred during joining time?",
+  "tip": "He cannot draw conveyance allowance or Permanent Travelling Allowance.",
+  "quote": {
+   "text": "He shall not be allowed conveyance allowance or Permanent Travelling Allowance.",
+   "ref": "KSR Part I, Rule 136",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_044",
+  "topic": "Joining time",
+  "prompt": "Joining time on transfer at own request",
+  "tip": "An officer on transfer is not entitled to joining time unless the transfer is made in the public interest.",
+  "quote": {
+   "text": "An Officer on transfer is not entitled for joining time unless his transfer is made in the public interest.",
+   "ref": "KSR Part I, Rule 136 Note",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_045",
+  "topic": "Joining time",
+  "prompt": "Pay if officer does not join within joining time",
+  "tip": "He gets no pay or leave salary after the end of the joining time.",
+  "quote": {
+   "text": "An officer who does not join his post within his joining time, is entitled to no pay or leave salary after the end of the joining time.",
+   "ref": "KSR Part I, Rule 137",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_046",
+  "topic": "Joining time",
+  "prompt": "When can joining time be extended by Government?",
+  "tip": "Within the 30-day maximum, Government may on conditions it thinks fit grant a longer period of joining time in specified circumstances.",
+  "quote": {
+   "text": "Within the prescribed maximum of 30 days, the Government may, on such conditions as it thinks fit, grant to an officer a longer period of joining time",
+   "ref": "KSR Part I, Rule 134",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_047",
+  "topic": "Travelling allowance",
+  "prompt": "How many grades of officers for TA?",
+  "tip": "Officers are classified into four grades for calculating Travelling Allowances.",
+  "quote": {
+   "text": "For the purpose of calculating Travelling Allowances, officers are classified into the following four grades",
+   "ref": "KSR Part II, Rule 1 Grades of officers",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_048",
+  "topic": "Travelling allowance",
+  "prompt": "What are the kinds of Travelling Allowance?",
+  "tip": "Five kinds. Permanent TA, Conveyance Allowance, Mileage Allowance, Daily Allowance and Actual Travelling Expenses.",
+  "quote": {
+   "text": "(a) Permanent Travelling Allowance (b) Conveyance Allowance (c) Mileage Allowance (d) Daily Allowance (e) Actual Travelling Expenses.",
+   "ref": "KSR Part II, Rule 5",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_049",
+  "topic": "Travelling allowance",
+  "prompt": "What is a daily allowance?",
+  "tip": "A uniform allowance for each day of absence from headquarters to cover ordinary daily charges.",
+  "quote": {
+   "text": "A daily allowance is a uniform allowance for each day of absence from headquarters, which is intended to cover the ordinary daily charge incurred by an officer in consequence of such absence.",
+   "ref": "KSR Part II, Rule 37",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_050",
+  "topic": "Travelling allowance",
+  "prompt": "Daily allowance when free boarding and lodging is provided",
+  "tip": "Only one fourth of the admissible daily allowance may be drawn.",
+  "quote": {
+   "text": "an officer, who while on tour is provided with free boarding and lodging, may draw only one fourth of the daily allowance admissible to him at the station concerned",
+   "ref": "KSR Part II, Rule 39 proviso",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_051",
+  "topic": "Travelling allowance",
+  "prompt": "Daily allowance when only boarding is free",
+  "tip": "Half of the admissible daily allowance may be drawn.",
+  "quote": {
+   "text": "if only boarding is provided free to such an officer he may draw daily allowance at one-half of the admissible rate",
+   "ref": "KSR Part II, Rule 39 proviso",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_052",
+  "topic": "Travelling allowance",
+  "prompt": "Daily allowance when only lodging is free",
+  "tip": "Two-thirds of the admissible daily allowance may be drawn.",
+  "quote": {
+   "text": "if only lodging is provided free, he may draw daily allowance at two-thirds of the admissible rate.",
+   "ref": "KSR Part II, Rule 39 proviso",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_053",
+  "topic": "Travelling allowance",
+  "prompt": "Maximum days of daily allowance for one halt",
+  "tip": "Daily allowance may not be drawn for more than ten days of a halt at one place.",
+  "quote": {
+   "text": "A daily allowance may not be drawn for more than ten days of a halt at one place.",
+   "ref": "KSR Part II, Rule 59",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_054",
+  "topic": "Travelling allowance",
+  "prompt": "Radius for drawing daily allowance",
+  "tip": "DA is not drawn for a day when the officer does not reach a point outside eight kilometres from the duty point.",
+  "quote": {
+   "text": "Daily allowance may not be drawn for any day on which a Government servant does not reach a point outside a radius of eight kilometres from the duty point",
+   "ref": "KSR Part II, Rule 57",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_055",
+  "topic": "Travelling allowance",
+  "prompt": "TA on transfer: when admissible",
+  "tip": "TA on transfer is admissible only if transferred for public convenience and entitled to pay during the journey.",
+  "quote": {
+   "text": "unless he is transferred for the public convenience and is entitled to pay during the period occupied by the journey.",
+   "ref": "KSR Part II, Rule 65",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_056",
+  "topic": "Travelling allowance",
+  "prompt": "Is a transfer at own request public convenience?",
+  "tip": "No, unless the sanctioning authority, for recorded special reasons, directs otherwise.",
+  "quote": {
+   "text": "A transfer at his own request should not be treated as a transfer for the public convenience unless the authority sanctioning the transfer, for special reasons which should be recorded, otherwise direct.",
+   "ref": "KSR Part II, Rule 65",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_057",
+  "topic": "Travelling allowance",
+  "prompt": "TA on leave under four months between posts",
+  "tip": "An officer on leave up to four months between giving over old charge and taking new charge is entitled to TA under this section.",
+  "quote": {
+   "text": "An officer, who goes on leave not exceeding four months after he has given over charge of his old post and before he has taken charge of his new post, is entitled",
+   "ref": "KSR Part II, Rule 72",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_058",
+  "topic": "Travelling allowance",
+  "prompt": "TA for obligatory departmental examination",
+  "tip": "TA is admissible for the journey to and from the examination place, but not more than twice for any particular examination.",
+  "quote": {
+   "text": "An officer is entitled to draw Travelling Allowance for the journey to and from the place at which he appears for an obligatory departmental examination, provided that Travelling Allowance shall not be drawn under this rule more than twice for any particular examination.",
+   "ref": "KSR Part II, Rule 77",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_059",
+  "topic": "Travelling allowance",
+  "prompt": "TA for suspended officer attending departmental inquiry",
+  "tip": "A suspended officer called to a departmental enquiry may be allowed TA as for a journey on tour.",
+  "quote": {
+   "text": "may be allowed, for the onward and return journeys, Travelling Allowance as for a journey on tour from his head quarters to the place at which the departmental enquiry or disciplinary proceedings",
+   "ref": "KSR Part II, Rule 85(a)(i)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b8_060",
+  "topic": "Travelling allowance",
+  "prompt": "Permanent TA during leave",
+  "tip": "A Permanent Travelling Allowance may not be drawn during leave, temporary transfer or joining time.",
+  "quote": {
+   "text": "A Permanent Travelling Allowance may not be drawn during leave, temporary transfer or joining time",
+   "ref": "KSR Part II, Rule 7",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ }
+]

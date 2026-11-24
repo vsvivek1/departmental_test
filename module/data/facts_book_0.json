@@ -1,0 +1,1257 @@
+[
+ {
+  "id": "b0_001",
+  "topic": "Leave: basics",
+  "prompt": "Can an officer claim leave as a matter of right?",
+  "tip": "Leave cannot be claimed as a right. The sanctioning authority may refuse or revoke any leave when public service needs it.",
+  "quote": {
+   "text": "Leave cannot be claimed as a matter of right. When the exigencies of the public service so require, discretion to refuse or revoke leave of any description is reserved to the authority empowered to grant it.",
+   "ref": "KSR Part I, Rule 65 Leave not a right",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_002",
+  "topic": "Leave: basics",
+  "prompt": "Can the sanctioning authority change the nature of leave applied for?",
+  "tip": "No. The authority may refuse or revoke the leave applied for, but cannot alter its nature.",
+  "quote": {
+   "text": "it is open to the sanctioning authority to refuse or revoke the leave due and applied for, it is not open to him to alter the nature of such leave.",
+   "ref": "KSR Part I, Rule 65 Note",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_003",
+  "topic": "Leave: basics",
+  "prompt": "When does leave ordinarily begin and end?",
+  "tip": "Leave begins on the day charge is transferred and ends on the day before charge is resumed.",
+  "quote": {
+   "text": "Leave ordinarily begins on the day on which transfer of charge is effected and ends on the day preceding that on which charge is resumed.",
+   "ref": "KSR Part I, Rule 66 Beginning of leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_004",
+  "topic": "Leave: basics",
+  "prompt": "If holidays are prefixed to leave, from when does the leave take effect?",
+  "tip": "Leave takes effect from the first day after the holidays, unless the competent authority directs otherwise.",
+  "quote": {
+   "text": "if holidays are prefixed to leave, the leave and any consequent",
+   "ref": "KSR Part I, Rule 68(a) Holidays prefixed",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_005",
+  "topic": "Leave: basics",
+  "prompt": "If holidays are affixed to leave, when is the leave treated as ended?",
+  "tip": "The leave is treated as ended on the day it would have ended had the holidays not been affixed.",
+  "quote": {
+   "text": "if holidays are affixed to leave, the leave is treated as having terminated on, and any consequent re-arrangement of pay and allowances takes effect from, the day on which the leave would have ended, if holidays had not been affixed.",
+   "ref": "KSR Part I, Rule 68(b) Holidays affixed",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_006",
+  "topic": "Leave: basics",
+  "prompt": "Who may allow an officer on leave to take up other employment?",
+  "tip": "An officer on leave needs previous sanction of the authority empowered to fill his post before taking service or employment.",
+  "quote": {
+   "text": "An officer on leave may not take any service or accept any employment without obtaining the previous sanction of the authority empowered to fill up the post held by him.",
+   "ref": "KSR Part I, Rule 69 Employment during leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_007",
+  "topic": "Leave: basics",
+  "prompt": "If an officer is recalled from leave, when is he treated as on duty?",
+  "tip": "If return is compulsory, he is on duty from the day he starts for the station, with leave salary only until he joins.",
+  "quote": {
+   "text": "if it is compulsory he is entitled to be treated as on duty from the date on which he starts for the station to which he is ordered",
+   "ref": "KSR Part I, Rule 70 Recall from leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_008",
+  "topic": "Leave: basics",
+  "prompt": "Can an officer on leave return to duty before the leave ends?",
+  "tip": "Not unless the authority which granted the leave permits it.",
+  "quote": {
+   "text": "An officer on leave may not return to duty before the expiry of the period of leave granted to him, unless he is permitted to do so by the authority which granted him leave.",
+   "ref": "KSR Part I, Rule 72(1) Return before expiry",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_009",
+  "topic": "Leave: basics",
+  "prompt": "Can an officer on leave preparatory to retirement withdraw his request and return?",
+  "tip": "No, unless the authority empowered to appoint him consents.",
+  "quote": {
+   "text": "an officer on leave preparatory to retirement shall be precluded from withdrawing his request for permission to retire and from returning to duty, save with the consent of the authority empowered to appoint him.",
+   "ref": "KSR Part I, Rule 72(2) Leave preparatory to retirement",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_010",
+  "topic": "Leave: basics",
+  "prompt": "Is formal cancellation needed when an officer returns before leave ends?",
+  "tip": "No formal cancellation is needed. Audit Officer cancels for gazetted officers; Head of office for non-gazetted.",
+  "quote": {
+   "text": "No formal cancellation of the unexpired portion of leave is necessary when an officer returns to duty before the expiry of his leave. The cancellation will be effected by the Audit Officer in the case of Gazetted Officers and by the Head of office in the case of non- gazetted officers.",
+   "ref": "KSR Part I, Rule 72 Note 1",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_011",
+  "topic": "Leave: combination",
+  "prompt": "Can any kind of leave be combined with another kind?",
+  "tip": "Yes, any leave may be combined with or follow any other leave, except leave under certain Appendices.",
+  "quote": {
+   "text": "kind of leave under these rules may be granted in combination with or in continuation of any other kind of leave except leave under Appendices",
+   "ref": "KSR Part I, Rule 73 Combination of leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_012",
+  "topic": "Leave: combination",
+  "prompt": "On what date is eligibility for leave determined?",
+  "tip": "Eligibility is decided on the date the officer proceeds on leave.",
+  "quote": {
+   "text": "The eligibility for leave is determined with reference to the eligibility on the date on which an officer proceeds on leave.",
+   "ref": "KSR Part I, Rule 73 Ruling",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_013",
+  "topic": "Leave: combination",
+  "prompt": "What is the limit on earned leave plus commuted leave taken together?",
+  "tip": "The combination of earned leave and commuted leave is limited to 240 days.",
+  "quote": {
+   "text": "The combination of earned leave and commuted leave will be limited to 240 days.",
+   "ref": "KSR Part I, Rule 74 Vacation and leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_014",
+  "topic": "Leave: combination",
+  "prompt": "Is there a limit on half-pay leave taken at a time?",
+  "tip": "No limit on half-pay leave at a time on medical certificate or private affairs, even before retirement.",
+  "quote": {
+   "text": "There will be no limit on the half-pay leave that can be availed of at a time on medical certificate or private affairs. This will apply even when such leave is taken preparatory to retirement.",
+   "ref": "KSR Part I, Rule 74 Half-pay leave limit",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_015",
+  "topic": "Leave: combination",
+  "prompt": "Can leave be granted beyond the date of compulsory retirement?",
+  "tip": "No leave can be granted beyond the date on which an officer must compulsorily retire.",
+  "quote": {
+   "text": "No leave shall be granted beyond the date on which an officer must compulsorily retire",
+   "ref": "KSR Part I, Rule 75 Leave beyond retirement",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_016",
+  "topic": "Leave: commutation",
+  "prompt": "Can leave be retrospectively commuted into another kind?",
+  "tip": "Yes, into any other kind admissible when the original leave was granted. Earned leave cannot be commuted, with a stated exception.",
+  "quote": {
+   "text": "Any leave granted under these rules may be retrospectively commuted into any other kind of leave admissible to the officer at the time the original leave was granted",
+   "ref": "KSR Part I, Rule 76 Retrospective commutation",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_017",
+  "topic": "Leave: commutation",
+  "prompt": "What is the time limit for retrospective commutation of leave?",
+  "tip": "No commutation of leave is allowed after one year from the date of sanction of leave.",
+  "quote": {
+   "text": "no commutation of leave shall be permitted on expiry of one year from the date of sanction of leave.",
+   "ref": "KSR Part I, Rule 76 second proviso / Rule 89(i)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_016"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_018",
+  "topic": "Leave: commutation",
+  "prompt": "Can an officer claim retrospective commutation as a right?",
+  "tip": "No. The granting authority may commute it, but the officer cannot claim it as a matter of right.",
+  "quote": {
+   "text": "The authority which granted leave to an officer can commute it retrospectively into leave of a different kind which may be admissible but the officer concerned cannot claim it as a matter of right",
+   "ref": "KSR Part I, Rule 89(i) Commutation with retrospective effect",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_016"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_019",
+  "topic": "Leave: commutation",
+  "prompt": "What follows automatically when leave is commuted into another kind?",
+  "tip": "Arrears of leave salary are drawn, or amounts overdrawn are recovered.",
+  "quote": {
+   "text": "Commutation of one kind of leave into another automatically carries with it the drawal of arrears of leave salary or recovery of amounts overdrawn.",
+   "ref": "KSR Part I, Rule 89(ii)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_016"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_020",
+  "topic": "Leave: definitions",
+  "prompt": "What does 'ordinary leave' include?",
+  "tip": "Ordinary leave means earned leave, half-pay leave, commuted leave, leave not due and leave without allowances.",
+  "quote": {
+   "text": "‘Ordinary leave’ includes earned leave, half-pay leave, commuted leave, leave not due and leave without allowances.",
+   "ref": "KSR Part I, Rule 77(i) Ordinary leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_021",
+  "topic": "Leave: definitions",
+  "prompt": "What does 'special leave' include?",
+  "tip": "Special leave includes disability leave, maternity leave, paternity leave, child adoption leave and hospital leave.",
+  "quote": {
+   "text": "‘Special leave’ includes disability leave, maternity leave, *paternity leave, †child adoption leave and hospital leave.",
+   "ref": "KSR Part I, Rule 77(ii) Special leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_022",
+  "topic": "Leave: definitions",
+  "prompt": "What is 'half-pay leave' earned in respect of?",
+  "tip": "Half-pay leave is leave earned in respect of completed years of service.",
+  "quote": {
+   "text": "‘Half-pay leave’ means leave earned in respect of completed years of service.",
+   "ref": "KSR Part I, Rule 77(iv)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_023",
+  "topic": "Leave: definitions",
+  "prompt": "Who is an 'officer in permanent employ'?",
+  "tip": "One who holds a permanent post substantively, or holds a lien (or would hold it but for suspension) on a permanent post.",
+  "quote": {
+   "text": "‘Officer in permanent employ’ means an officer who holds substantively a permanent post or who holds a lien on a permanent post or who would hold a lien on a permanent post had the lien not been suspended.",
+   "ref": "KSR Part I, Rule 77(viii)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_024",
+  "topic": "Earned leave",
+  "prompt": "At what rate is earned leave earned by a permanent officer?",
+  "tip": "One-eleventh of the period spent on duty.",
+  "quote": {
+   "text": "The earned leave admissible to an officer in permanent employ is one-eleventh of the period spent on duty",
+   "ref": "KSR Part I, Rule 78 Earned leave rate",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_025",
+  "topic": "Earned leave",
+  "prompt": "What is the maximum accumulation of earned leave?",
+  "tip": "Earned leave stops being earned when the earned leave due reaches 300 days.",
+  "quote": {
+   "text": "he will cease to earn such leave when the earned leave due amounts *300 days.",
+   "ref": "KSR Part I, Rule 78 Accumulation limit",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_024"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_026",
+  "topic": "Earned leave",
+  "prompt": "What is the maximum earned leave granted at a time?",
+  "tip": "180 days at a time.",
+  "quote": {
+   "text": "the maximum earned leave that may be granted at a time to an officer shall be # 180 days.",
+   "ref": "KSR Part I, Rule 79 Maximum at a time",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_024"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_027",
+  "topic": "Earned leave",
+  "prompt": "What is the maximum earned leave at a time for leave preparatory to retirement?",
+  "tip": "300 days at a time.",
+  "quote": {
+   "text": "In the case of an officer applying for leave preparatory to retirement, the maximum earned leave that may be granted at a time shall be *300 days.",
+   "ref": "KSR Part I, Rule 79 Exception",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_024"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_028",
+  "topic": "Earned leave",
+  "prompt": "Is earned leave admissible to a vacation department officer who takes the full vacation?",
+  "tip": "No, no earned leave for duty in a year in which he avails himself of the full vacation.",
+  "quote": {
+   "text": "Earned leave is not admissible to an officer in permanent employ serving in a vacation department in respect of duty performed in any year in which he avails himself of the full vacation.",
+   "ref": "KSR Part I, Rule 80 Vacation department",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_024"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_029",
+  "topic": "Earned leave",
+  "prompt": "How much earned leave does a vacation department officer get if vacation is not fully taken?",
+  "tip": "Such proportion of 30 days as the vacation days not taken bear to the full vacation.",
+  "quote": {
+   "text": "is such proportion of 30 days as the number of days of vacation not taken bears to the full vacation.",
+   "ref": "KSR Part I, Rule 81 Vacation not fully availed",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_024"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_030",
+  "topic": "Earned leave",
+  "prompt": "What does 'year' mean for a vacation department officer?",
+  "tip": "Not a calendar year, but twelve months of actual duty in a vacation department.",
+  "quote": {
+   "text": "The term “Year” should be interpreted to mean, not a calendar year in which duty is performed, but twelve months of actual duty in a vacation department.",
+   "ref": "KSR Part I, Rule 81 Note 3",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_024"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_031",
+  "topic": "Earned leave",
+  "prompt": "What is the earned leave rate in the first year for an officer not in permanent employ?",
+  "tip": "1/22 of the period spent on duty in the first year.",
+  "quote": {
+   "text": "in respect of the first year of service the earned leave admissible is 1/22 of the period spent on duty",
+   "ref": "KSR Part I, Rule 86 Non-permanent officer",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_024"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_032",
+  "topic": "Earned leave",
+  "prompt": "When fractions arise on a change in the rate of earning leave, how are they rounded?",
+  "tip": "Fractions below half are ignored; half or more is counted as a day.",
+  "quote": {
+   "text": "fraction below half should be ignored and that of half and more should be reckoned as a day.",
+   "ref": "KSR Part I, Rule 86 Note 2",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_024"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_033",
+  "topic": "Earned leave",
+  "prompt": "After how many years of continuous service is a non-permanent officer eligible for commuted leave, earned leave and LWA?",
+  "tip": "After three years of continuous service, as if he held the post substantively.",
+  "quote": {
+   "text": "an officer not in permanent employ who has completed three years of continuos service shall be eligible for (i) commutted leave, (ii) earned leave and (iii) leave",
+   "ref": "KSR Part I, Rule 86A",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_024"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_034",
+  "topic": "Half pay and commuted leave",
+  "prompt": "How many days of half-pay leave per completed year of service?",
+  "tip": "20 days for each completed year of service.",
+  "quote": {
+   "text": "The half-pay leave admissible to an officer in permanent employ in respect of each completed year of service is 20 days.",
+   "ref": "KSR Part I, Rule 83 Half-pay leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_035",
+  "topic": "Half pay and commuted leave",
+  "prompt": "For what reasons can half-pay leave be availed?",
+  "tip": "On private affairs or on medical certificate.",
+  "quote": {
+   "text": "Half-pay leave as provided in Rule 83 may be availed of on private affairs or on medical certificate.",
+   "ref": "KSR Part I, Rule 82",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_034"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_036",
+  "topic": "Half pay and commuted leave",
+  "prompt": "How much commuted leave can be granted?",
+  "tip": "Not more than half the half-pay leave due.",
+  "quote": {
+   "text": "Commuted leave not exceeding half the amount of half-pay leave due may be granted to an officer in permanent employ.",
+   "ref": "KSR Part I, Rule 84 Commuted leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_034"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_037",
+  "topic": "Half pay and commuted leave",
+  "prompt": "How much half-pay leave is debited when commuted leave is granted?",
+  "tip": "Twice the commuted leave is debited against half-pay leave due.",
+  "quote": {
+   "text": "When Commuted Leave is granted twice the amount of such leave shall be debited against the half-pay leave due.",
+   "ref": "KSR Part I, Rule 84",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_034"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_038",
+  "topic": "Leave not due",
+  "prompt": "What is the maximum leave not due in entire service?",
+  "tip": "Not exceeding 360 days in entire service.",
+  "quote": {
+   "text": "leave not due may be granted to an officer in permanent employ for a period not exceeding 360 days during his entire service",
+   "ref": "KSR Part I, Rule 85 Leave not due",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": [
+   "q0495"
+  ]
+ },
+ {
+  "id": "b0_039",
+  "topic": "Leave not due",
+  "prompt": "What are the limits on leave not due taken otherwise than on medical certificate?",
+  "tip": "Not more than 90 days at a time and 180 days in all.",
+  "quote": {
+   "text": "not more than 90 days at a time and 180 days in all may be otherwise than on medical certificate.",
+   "ref": "KSR Part I, Rule 85 Leave not due",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_038"
+  ],
+  "qids": [
+   "q0495"
+  ]
+ },
+ {
+  "id": "b0_040",
+  "topic": "Leave not due",
+  "prompt": "Against what is leave not due debited?",
+  "tip": "It is debited against half-pay leave the officer earns subsequently.",
+  "quote": {
+   "text": "This will be debited against half-pay leave which the officer earns subsequently.",
+   "ref": "KSR Part I, Rule 85 Leave not due",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_038"
+  ],
+  "qids": [
+   "q0495",
+   "q0300"
+  ]
+ },
+ {
+  "id": "b0_041",
+  "topic": "Leave not due",
+  "prompt": "When should leave not due be granted?",
+  "tip": "Only when no other leave with allowance is available, and there is reasonable prospect of return and earning equal half-pay leave.",
+  "quote": {
+   "text": "only when no other leave with allowance is available at credit of the officer and if the authority empowered to sanction leave] is satisfied that there is a reasonable prospect of the officer returning to duty on the expiry of the leave and earning an equal amount of half pay leave thereafter.",
+   "ref": "KSR Part I, Rule 85 Conditions",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_038"
+  ],
+  "qids": [
+   "q0495",
+   "q0300"
+  ]
+ },
+ {
+  "id": "b0_042",
+  "topic": "Leave not due",
+  "prompt": "What happens to leave not due if the officer applies for voluntary retirement and it is granted?",
+  "tip": "The leave not due is cancelled.",
+  "quote": {
+   "text": "the leave not due shall, if the permission is granted, be cancelled.",
+   "ref": "KSR Part I, Rule 85 Note 1",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_038"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_043",
+  "topic": "Leave not due",
+  "prompt": "If an officer fails to earn leave not due by later duty, is it cancelled?",
+  "tip": "No. Subject to his wishes, it stands, even if he fails to earn it.",
+  "quote": {
+   "text": "leave not due when granted should in all cases (subject to the officer’s wishes) be allowed to stand, including cases in which the officer fails to earn it by subsequent duty.",
+   "ref": "KSR Part I, Rule 85 Note 2",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_038"
+  ],
+  "qids": [
+   "q0300"
+  ]
+ },
+ {
+  "id": "b0_044",
+  "topic": "Leave salary",
+  "prompt": "What is leave salary on earned leave?",
+  "tip": "Full duty pay, dearness allowance on it, and admissible compensatory allowances.",
+  "quote": {
+   "text": "An officer on earned leave is entitled to leave salary equal to,- (i) full (duty) pay i.e., pay admissible had he been on duty during the period of leave;",
+   "ref": "KSR Part I, Rule 92(i) Leave salary on earned leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_045",
+  "topic": "Leave salary",
+  "prompt": "What is leave salary on half pay leave or leave not due?",
+  "tip": "Half of duty pay, plus dearness allowance on that half.",
+  "quote": {
+   "text": "An officer on half pay leave or leave not due is entitled to leave salary equal to,- (i) half of duty pay, i e., half of the pay admissible had he been on duty during the period of leave;",
+   "ref": "KSR Part I, Rule 93(i)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_044"
+  ],
+  "qids": [
+   "q0300"
+  ]
+ },
+ {
+  "id": "b0_046",
+  "topic": "Leave salary",
+  "prompt": "What is leave salary on commuted leave?",
+  "tip": "Twice the amount of half pay leave salary (twice the pay under Rule 93(i)).",
+  "quote": {
+   "text": "An officer on commuted leave is entitled to leave salary equal to twice the amount of the pay admissible under clause (i) of Rule 93",
+   "ref": "KSR Part I, Rule 94 Commuted leave salary",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_044"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_047",
+  "topic": "Leave salary",
+  "prompt": "Is leave salary payable on leave without allowances?",
+  "tip": "No, an officer on leave without allowances gets no leave salary.",
+  "quote": {
+   "text": "An officer on leave without allowances is not entitled to any leave salary.",
+   "ref": "KSR Part I, Rule 95",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_044"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_048",
+  "topic": "Leave salary",
+  "prompt": "For how long are HRA, CCA and Hill Tract Allowance paid during leave with allowances?",
+  "tip": "Only if leave at a time is within 180 days, or for the first 180 days of longer leave.",
+  "quote": {
+   "text": "if the total period of such leave at a time does not exceed 180 days or if the actual duration of the leave exceeds 180 days for the first 180 days of such leave.",
+   "ref": "KSR Part I, Rule 93(iii) Allowances during leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_044"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_049",
+  "topic": "Leave salary",
+  "prompt": "If an officer is promoted during earned leave, from when is the benefit given?",
+  "tip": "Only from the date he assumes charge of the post, if there is change of duties.",
+  "quote": {
+   "text": "the monetary benefit of promotion shall be given only from the date on which he assumes charge of the post, if there is change of duties.",
+   "ref": "KSR Part I, Rule 92 Proviso",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_044"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_050",
+  "topic": "Leave salary",
+  "prompt": "How is overstayal of leave treated?",
+  "tip": "As half-pay leave to the extent due, otherwise as leave without allowances.",
+  "quote": {
+   "text": "as half pay leave to the extent such leave is due, whether the overstayal is supported by a medical certificate or not;",
+   "ref": "KSR Part I, Rule 96(i) Overstayal",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_044"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_051",
+  "topic": "Leave salary",
+  "prompt": "Is leave salary payable for unauthorised overstayal?",
+  "tip": "No leave salary is payable for overstayal not covered by an extension of leave.",
+  "quote": {
+   "text": "The officer is not entitled to leave salary during such overstayal of leave not covered by an extension of leave by competent authority.",
+   "ref": "KSR Part I, Rule 96",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_044"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_052",
+  "topic": "Leave salary",
+  "prompt": "How is wilful absence after leave expires treated?",
+  "tip": "As misbehaviour under Rule 21, Part I.",
+  "quote": {
+   "text": "Wilful absence from duty after the expiry of leave will be treated as misbehaviour for the purpose of Rule 21, Part I.",
+   "ref": "KSR Part I, Rule 96 Note",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_044"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_053",
+  "topic": "Leave without allowances",
+  "prompt": "What is the limit on LWA for officers not in permanent employ?",
+  "tip": "Not more than 3 months on any one occasion.",
+  "quote": {
+   "text": "Except in the case of an officer in permanent employ, the duration of leave without allowances shall not exceed 3 months on any one occasion.",
+   "ref": "KSR Part I, Rule 88(ii) LWA limit",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_054",
+  "topic": "Leave without allowances",
+  "prompt": "Who sanctions leave without allowances exceeding four months at a time?",
+  "tip": "Government.",
+  "quote": {
+   "text": "The power to sanction leave without allowances exceeding a period of four months at a time will rest with Government.",
+   "ref": "KSR Part I, Rule 64",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_053"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_055",
+  "topic": "Leave without allowances",
+  "prompt": "Can an officer be removed for failing to resume after maximum LWA?",
+  "tip": "Yes, a non-permanent officer who exceeds the limit is removed after following CCA Rules, unless Government decides otherwise.",
+  "quote": {
+   "text": "he shall, unless the Government, in view of the exceptional circumstances of the case otherwise determines, be removed from service after following the procedure laid down in the Kerala Civil Services (Classification, Control and Appeal) Rules, 1960.",
+   "ref": "KSR Part I, Rule 96A",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_053"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_056",
+  "topic": "Leave without allowances",
+  "prompt": "What leave without pay may a temporary officer get for TB, leprosy, cancer or mental disease?",
+  "tip": "Up to 18 months on any one occasion, including the 3 months under Rule 88(ii).",
+  "quote": {
+   "text": "may be granted leave without pay upto a maximum period of 18 months [including 3 months leave without allowances authorised under Rule 88 (ii) above] on any one occasion",
+   "ref": "KSR Part I, Rule 90 Leave for TB etc.",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_053"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_057",
+  "topic": "Leave without allowances",
+  "prompt": "What is the ex-gratia allowance during LWA for TB, leprosy, cancer or mental disease?",
+  "tip": "35 per cent of basic pay drawn just before the leave, within a maximum and minimum.",
+  "quote": {
+   "text": "an ex-gratia allowance equal to 35 per cent of the basic pay he was drawing immediately before the commencement of the leave",
+   "ref": "KSR Part I, Rule 90A(a) Ex-gratia allowance",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_053"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_058",
+  "topic": "Leave without allowances",
+  "prompt": "What is the maximum period of the ex-gratia allowance under Rule 90A?",
+  "tip": "18 months for temporary officers and 36 months for permanent, in entire service.",
+  "quote": {
+   "text": "limited to a maximum period of 18 months and that in the case of a permanent employ to a maximum period of 36 months in all during his entire service.",
+   "ref": "KSR Part I, Rule 90A(e)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_053"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_059",
+  "topic": "Study leave",
+  "prompt": "What minimum service is needed for leave for superior qualifications under Rule 91?",
+  "tip": "Two years of continuous officiating or temporary service, waived for SC/ST temporary or officiating officers.",
+  "quote": {
+   "text": "Officers with a continuous officiating or temporary service of two years or more, will be granted in addition to any leave which they are eligible for, leave under this rule for obtaining superior qualifications",
+   "ref": "KSR Part I, Rule 91 Superior qualifications",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_060",
+  "topic": "Study leave",
+  "prompt": "Is Rule 91 leave given for broken periods?",
+  "tip": "No, it covers the entire period of the course; extension is given in case of failure.",
+  "quote": {
+   "text": "Such leave will not, however be given for broken periods but will cover the entire period of the course concerned.",
+   "ref": "KSR Part I, Rule 91",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_059"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_061",
+  "topic": "Study leave",
+  "prompt": "What service is needed for post-graduate course leave under Rule 91A?",
+  "tip": "Continuous officiating or temporary service of 5 years or more.",
+  "quote": {
+   "text": "Officers with a continuous officiating or temporary service of 5 years or more may be granted in addition to any leave to which they are eligible for, leave for undergoing Post-graduate Courses",
+   "ref": "KSR Part I, Rule 91A Post-graduate courses",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_059"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_062",
+  "topic": "Study leave",
+  "prompt": "Who can sanction leave under Rule 91 and study leave under Rule 99?",
+  "tip": "Rule 91 leave: authority sanctioning eligible leave and LWA. Study leave under Rule 99: only Government.",
+  "quote": {
+   "text": "Leave under this rule can be sanctioned by the authority competent to sanction eligible leave and leave without allowances. Study leave under Rule 99, Part I, can be sanctioned only by Government.",
+   "ref": "KSR Part I, Rule 91 Government Decision",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_059"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_063",
+  "topic": "Special disability leave",
+  "prompt": "Who may be granted special disability leave?",
+  "tip": "An officer disabled by injury intentionally inflicted or caused in, or in consequence of, official duties or official position.",
+  "quote": {
+   "text": "special disability leave may be granted to an officer who is disabled by injury intentionally inflicted or caused in, or in consequence of the due performance of his official duties or in consequence of his official position.",
+   "ref": "KSR Part I, Rule 97(1) Special disability leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_064",
+  "topic": "Special disability leave",
+  "prompt": "Within what time must the disability manifest itself?",
+  "tip": "Within three months of the occurrence, unless Government permits otherwise.",
+  "quote": {
+   "text": "Such leave shall not be granted unless the disability manifested itself within three months of the occurrence to which it is attributed",
+   "ref": "KSR Part I, Rule 97(2)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_063"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_065",
+  "topic": "Special disability leave",
+  "prompt": "What is the maximum special disability leave for one disability?",
+  "tip": "Not more than 24 months for any one disability.",
+  "quote": {
+   "text": "not more than 24 months of such leave shall be granted in consequence of any one disability.",
+   "ref": "KSR Part I, Rule 97(5)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_063"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_066",
+  "topic": "Special disability leave",
+  "prompt": "Is special disability leave debited to the leave account?",
+  "tip": "No. It counts as duty for pension and is not debited against the leave account.",
+  "quote": {
+   "text": "Such leave shall be counted as duty in calculating service for pension and shall not be debited against the leave account.",
+   "ref": "KSR Part I, Rule 97(6)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_063"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_067",
+  "topic": "Special disability leave",
+  "prompt": "What is leave salary during special disability leave?",
+  "tip": "First four months as in Rule 92 (earned leave); remaining period as in Rule 93 (half pay).",
+  "quote": {
+   "text": "(a) for the first four months of any period of such leave including a period of such leave granted under clause (5) of this rule as under Rule 92, and (b) for the remaining period of any such leave, as under Rule 93.",
+   "ref": "KSR Part I, Rule 97(7)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_063"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_068",
+  "topic": "Special disability leave",
+  "prompt": "Is disability leave admissible to temporary officers?",
+  "tip": "Yes, disability leave is admissible to temporary officers also.",
+  "quote": {
+   "text": "Disability leave is admissible to temporary officers also.",
+   "ref": "KSR Part I, Rule 98 Note",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_063"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_069",
+  "topic": "Maternity leave",
+  "prompt": "How many days of maternity leave can a female officer get?",
+  "tip": "180 days on full pay from the date of commencement.",
+  "quote": {
+   "text": "A competent authority may grant to a female officer, maternity leave on full pay for a period of !180 days from the date of its commencement.",
+   "ref": "KSR Part I, Rule 100 Maternity leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_070",
+  "topic": "Maternity leave",
+  "prompt": "Is maternity leave admissible to temporary female officers?",
+  "tip": "Yes, maternity leave is also admissible to temporary female officers.",
+  "quote": {
+   "text": "Maternity leave is also admissible to temporary female officers under this rule.",
+   "ref": "KSR Part I, Rule 100 Note 1",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_069"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_071",
+  "topic": "Maternity leave",
+  "prompt": "How much leave can be given for miscarriage including abortion?",
+  "tip": "Not exceeding six weeks, with a medical attendant's certificate.",
+  "quote": {
+   "text": "not exceed six weeks and application for the leave is supported by a certificate from the medical attendant.",
+   "ref": "KSR Part I, Rule 101 Miscarriage",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_069"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_072",
+  "topic": "Maternity leave",
+  "prompt": "How much leave can be given for hysterectomy?",
+  "tip": "Not exceeding 45 days, with a medical attendant's certificate.",
+  "quote": {
+   "text": "in cases of hysterectomy subject to the condition that the leave does not exceed 45 days and application for the leave is supported by a certificate from the medical attendent.",
+   "ref": "KSR Part I, Rule 101A Hysterectomy",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_069"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_073",
+  "topic": "Maternity leave",
+  "prompt": "Is a medical certificate needed for leave in continuation of maternity leave?",
+  "tip": "Yes, except no certificate is needed for leave up to sixty days in continuation.",
+  "quote": {
+   "text": "no medical certificate shall be necessary for grant of any leave for a period not exceeding sixty days in continuation of maternity leave.",
+   "ref": "KSR Part I, Rule 102 Proviso",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_069"
+  ],
+  "qids": [
+   "q0281"
+  ]
+ },
+ {
+  "id": "b0_074",
+  "topic": "Maternity leave",
+  "prompt": "Can regular leave follow maternity leave for the baby's needs?",
+  "tip": "Yes, with a medical certificate that the baby needs the mother's personal attention.",
+  "quote": {
+   "text": "Regular leave in continuation of maternity leave may also be granted to a female officer on her producing a medical certificate to the effect that the new born baby requires personal attention of the mother",
+   "ref": "KSR Part I, Rule 102 Note",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_069"
+  ],
+  "qids": [
+   "q0281"
+  ]
+ },
+ {
+  "id": "b0_075",
+  "topic": "Maternity leave",
+  "prompt": "What is 'full pay' during maternity leave?",
+  "tip": "Pay as admissible under Rule 92, Part I, KSR.",
+  "quote": {
+   "text": "The expression ‘full pay’ occurring in the above rule means pay as admissible to an officer under Rule 92, Part I, Kerala Service Rules.",
+   "ref": "KSR Part I, Rule 100 Ruling",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_069"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_076",
+  "topic": "Other special leave",
+  "prompt": "How many days of child adoption leave and to whom?",
+  "tip": "Up to 180 days to female State Government employees who are adoptive mothers with fewer than two surviving children.",
+  "quote": {
+   "text": "The competent authority may grant Child Adoption Leave for a period up to †180 days to female State Government Employees who are adoptive mothers",
+   "ref": "KSR Part I, Rule 102A Child adoption leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_077",
+  "topic": "Other special leave",
+  "prompt": "How many days of paternity leave are allowed?",
+  "tip": "Up to 10 days to male employees during wife's confinement, for two deliveries.",
+  "quote": {
+   "text": "paternity leave for a period up to 10 days to male State Government Employees during the confinement of his wife for two deliveries",
+   "ref": "KSR Part I, Rule 102B Paternity leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_076"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_078",
+  "topic": "Other special leave",
+  "prompt": "When can paternity leave be taken?",
+  "tip": "Up to 10 days before, or within three months after, the date of delivery.",
+  "quote": {
+   "text": "the leave will be granted for a period up to 10 days before or within three months after the date of delivery.",
+   "ref": "KSR Part I, Rule 102B(a)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_076"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_079",
+  "topic": "Other special leave",
+  "prompt": "What is hospital leave leave salary?",
+  "tip": "Earned leave salary for the first 120 days, then half pay leave salary.",
+  "quote": {
+   "text": "equal to leave salary while on earned leave, for the first 120 days of any period of such leave; and (2) equal to leave salary during half pay leave, for the remaining period of any such leave.",
+   "ref": "KSR Part I, Rule 104 Hospital leave salary",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_076"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_080",
+  "topic": "Other special leave",
+  "prompt": "Is hospital leave debited to the leave account?",
+  "tip": "No, and it may be combined with any other admissible leave.",
+  "quote": {
+   "text": "Hospital leave is not debited against the leave account and may be combined with any other leave which may be admissible.",
+   "ref": "KSR Part I, Rule 106",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b0_076"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b0_081",
+  "topic": "Leave while suspended",
+  "prompt": "What happens to leave with allowances when an officer is suspended while on it?",
+  "tip": "Suspension cancels the leave for the period of suspension, and he gets subsistence allowance.",
+  "quote": {
+   "text": "In the case of an Officer on leave with allowances, the orders of suspension shall have the effect of cancelling the leave for the period of suspension. He shall be entitled to subsistence allowance.",
+   "ref": "KSR Part I, Rule 55B(ii) Suspension during leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": [
+   "q0299"
+  ]
+ },
+ {
+  "id": "b0_082",
+  "topic": "Leave while suspended",
+  "prompt": "What if an officer is suspended while on leave without allowances?",
+  "tip": "No subsistence allowance during the leave; it is payable on expiry if suspension continues.",
+  "quote": {
+   "text": "he shall not be eligible for any subsistence allowance during the period of the leave. On the expiry of the leave if he continues to be on suspension, he shall be entitled to the subsistence allowance.",
+   "ref": "KSR Part I, Rule 55B(i)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": [
+   "q0299"
+  ]
+ },
+ {
+  "id": "b0_083",
+  "topic": "Leave procedure",
+  "prompt": "On which form is leave applied for?",
+  "tip": "Form No. 13, to the authority competent to grant it.",
+  "quote": {
+   "text": "An application for leave or an extension of leave must be made to the authority competent to grant such leave or extension in Form No. 13.",
+   "ref": "KSR Part I, Rule 113 Application for leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_084",
+  "topic": "Leave procedure",
+  "prompt": "Who maintains the leave account of gazetted and non-gazetted officers?",
+  "tip": "Audit Officer for gazetted officers; Head of Office for non-gazetted officers.",
+  "quote": {
+   "text": "Leave account of a Gazetted Officer will be maintained by the Audit Officer. The leave account of a non-gazetted officer will be maintained by the Head of the Office in which he is employed.",
+   "ref": "KSR Part I, Rule 112 Note",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_085",
+  "topic": "Casual leave",
+  "prompt": "What is the maximum casual leave in a calendar year?",
+  "tip": "20 days; teaching staff of educational institutions 15 days.",
+  "quote": {
+   "text": "No officer may in any case be absent on casual leave for more than twenty days in the course of one calendar year. But the members of the teaching staff of educational institutions shall be eligible for casual leave only for fifteen days in a calendar year.",
+   "ref": "KSR Part I, Appendix VII para 2(i) Casual leave",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_086",
+  "topic": "Casual leave",
+  "prompt": "What is the maximum absence combining casual leave with holidays?",
+  "tip": "Resulting absence must not exceed fifteen days at a stretch.",
+  "quote": {
+   "text": "provided that the resulting period of absence from duty shall not exceed fifteen days at a stretch.",
+   "ref": "KSR Part I, Appendix VII para 2(ii)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b0_087",
+  "topic": "Casual leave",
+  "prompt": "Can casual leave be retrospectively commuted into other leave?",
+  "tip": "No, as it is not recognised as leave.",
+  "quote": {
+   "text": "Casual leave, not being recognised as leave, cannot be retrospectively commuted into any other kind of leave",
+   "ref": "KSR Part I, Appendix VII para 7",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ }
+]

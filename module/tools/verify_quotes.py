@@ -10,4 +10,8 @@ for cid,a in ans.items():
         t=norm((d/(q['book']+'.txt')).read_text())
         ok=norm(q['text']) in t
         print(('OK  ' if ok else 'FAIL'),cid,q['ref']);bad+=not ok
+for f in sorted(pathlib.Path('data').glob('facts_book_*.json')):
+    for x in json.load(open(f)):
+        q=x['quote'];t=norm((d/(q['book']+'.txt')).read_text());ok=norm(q['text']) in t
+        print(('OK  ' if ok else 'FAIL'),x['id'],q['ref']);bad+=not ok
 sys.exit(1 if bad else 0)

@@ -1,0 +1,962 @@
+[
+ {
+  "id": "b2_001",
+  "topic": "Retiring pension",
+  "prompt": "After how many years of qualifying service can an employee retire voluntarily on retiring pension?",
+  "tip": "A retiring pension is granted to an employee who retires voluntarily after 20 years of qualifying service.",
+  "quote": {
+   "text": "A retiring pension is granted to an employee who retires voluntarily after 20 years of qualifying service subject to the following conditions:-",
+   "ref": "KSR Part III, Rule 56 Retiring Pension",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": [
+   "q0504"
+  ]
+ },
+ {
+  "id": "b2_002",
+  "topic": "Retiring pension",
+  "prompt": "How much notice must be given for voluntary retirement?",
+  "tip": "Written notice of intention to retire must go to the appointing or pension sanctioning authority at least three months before the retirement date.",
+  "quote": {
+   "text": "He shall give notice in writing to the appointing authority or the pension sanctioning authority of his intention to retire at least three months before the date on which he wishes to retire",
+   "ref": "KSR Part III, Rule 56(i)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_001"
+  ],
+  "qids": [
+   "q0504"
+  ]
+ },
+ {
+  "id": "b2_003",
+  "topic": "Retiring pension",
+  "prompt": "Can the three months notice be shortened?",
+  "tip": "The appointing authority may relax the three months notice if no administrative inconvenience results, on condition that no commutation is applied for before the notice period expires.",
+  "quote": {
+   "text": "the employee shall not apply for commutation of a part of his pension before the expiry of the period of notice of three months.",
+   "ref": "KSR Part III, Rule 56(i) proviso",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_002"
+  ],
+  "qids": [
+   "q0504"
+  ]
+ },
+ {
+  "id": "b2_004",
+  "topic": "Retiring pension",
+  "prompt": "Is rounding of service allowed to complete 20 years for voluntary retirement?",
+  "tip": "No. The employee must have actually put in 20 years of qualifying service; rounding under Rule 57 is not permitted at this stage.",
+  "quote": {
+   "text": "The rounding of qualifying service prescribed in Rule 57 is not permissible at this stage;",
+   "ref": "KSR Part III, Rule 56(iii)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_001"
+  ],
+  "qids": [
+   "q0504"
+  ]
+ },
+ {
+  "id": "b2_005",
+  "topic": "Retiring pension",
+  "prompt": "When does voluntary retirement become effective?",
+  "tip": "It becomes effective on the grant of permission by the authority competent to make appointment to the post.",
+  "quote": {
+   "text": "Voluntary retirement of an employee shall become effective on the grant of permission to retire by the authority competent to make appointment to the post:",
+   "ref": "KSR Part III, Rule 56(iv)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_001"
+  ],
+  "qids": [
+   "q0504"
+  ]
+ },
+ {
+  "id": "b2_006",
+  "topic": "Retiring pension",
+  "prompt": "If the appointing authority does not refuse permission before the intended date, what happens?",
+  "tip": "The retirement becomes effective from the date specified in the notice.",
+  "quote": {
+   "text": "the retirement shall become effective from the date specified in the notice;",
+   "ref": "KSR Part III, Rule 56(iv) proviso",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_005"
+  ],
+  "qids": [
+   "q0504"
+  ]
+ },
+ {
+  "id": "b2_007",
+  "topic": "Retiring pension",
+  "prompt": "When can permission for voluntary retirement be refused?",
+  "tip": "Permission is given in all cases except where a major penalty proceeding is pending, removal or dismissal seems warranted, or prosecution is contemplated or launched.",
+  "quote": {
+   "text": "Permission to retire shall be given in all cases except those in which disciplinary proceedings are pending for imposition of a major penalty",
+   "ref": "KSR Part III, Rule 56(v)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_001"
+  ],
+  "qids": [
+   "q0504"
+  ]
+ },
+ {
+  "id": "b2_008",
+  "topic": "Retiring pension",
+  "prompt": "Who decides cases where the appointing authority cannot permit voluntary retirement?",
+  "tip": "Such cases are referred to Government, and the person is informed before the intended retirement date.",
+  "quote": {
+   "text": "Cases in which permission cannot be given by the appointing authority shall be referred to Government",
+   "ref": "KSR Part III, Rule 56(vi)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_006"
+  ],
+  "qids": [
+   "q0504"
+  ]
+ },
+ {
+  "id": "b2_009",
+  "topic": "Retiring pension",
+  "prompt": "How much weightage is added to qualifying service on voluntary retirement?",
+  "tip": "Qualifying service is increased by a period not exceeding 5 years, subject to caps and not beyond the years left to superannuation.",
+  "quote": {
+   "text": "The actual periods of qualifying service as on the intended date of retirement of the Government Servant shall be increased by a period not exceeding 5 years",
+   "ref": "KSR Part III, Rule 56(vii)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_001"
+  ],
+  "qids": [
+   "q0504"
+  ]
+ },
+ {
+  "id": "b2_010",
+  "topic": "Retiring pension",
+  "prompt": "What is the cap on total qualifying service after weightage for voluntary retirement?",
+  "tip": "Total qualifying service after weightage cannot exceed 33 years for retirements on or after 1/7/1978 (30 years before that date).",
+  "quote": {
+   "text": "the total qualifying service after allowing the weightage shall not exceed 30 years in cases of retirements prior to 1/7/1978 and 33 years in respect of retirements occurring on or after 1/7/1978",
+   "ref": "KSR Part III, Rule 56(vii)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_009"
+  ],
+  "qids": [
+   "q0504"
+  ]
+ },
+ {
+  "id": "b2_011",
+  "topic": "Retiring pension",
+  "prompt": "Is notional pay fixation allowed on the weightage-increased service?",
+  "tip": "No. No notional fixation of pay is permitted on the basis of qualifying service increased by weightage.",
+  "quote": {
+   "text": "No notional fixation of pay shall be permissible on the basis of the qualifying service as increased under clause (vii);",
+   "ref": "KSR Part III, Rule 56(viii)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_009"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_012",
+  "topic": "Retiring pension",
+  "prompt": "Does the voluntary retirement rule apply to those absorbed in an autonomous body or PSU?",
+  "tip": "No. It does not apply to an employee seeking voluntary retirement to be absorbed permanently in an autonomous body or public sector undertaking.",
+  "quote": {
+   "text": "This rule shall not apply to an employee who seeks voluntary retirement from Government service for being absorbed permanently in an autonomous body or a public sector undertaking.",
+   "ref": "KSR Part III, Rule 56(xi)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_001"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_013",
+  "topic": "Superannuation pension",
+  "prompt": "To whom is a superannuation pension granted?",
+  "tip": "It is granted to an officer entitled or compelled, by rule, to retire at a particular age.",
+  "quote": {
+   "text": "A superannuation pension is granted to an officer entitled or compelled, by rule, to retire at a particular age.",
+   "ref": "KSR Part III, Rule 55 Superannuation Pension",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_014",
+  "topic": "Invalid pension",
+  "prompt": "To whom is invalid pension granted?",
+  "tip": "To an employee certified by a Medical Board or Medical Officer to be permanently incapacitated for the public service or the particular branch he belongs to.",
+  "quote": {
+   "text": "is certified by such Medical Board or Medical Officer to be permanently incapacitated by a contagious disease or physical or mental disability or infirmity for the public service",
+   "ref": "KSR Part III, Rule 42(2) Invalid Pension",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_015",
+  "topic": "Qualifying service",
+  "prompt": "Until what age does service not qualify for pension?",
+  "tip": "Except for compensation gratuity, an employee's service does not qualify until he has completed 18 years of age.",
+  "quote": {
+   "text": "Except for compensation gratuity, an employee’s service does not qualify till he has completed 18 years of age.",
+   "ref": "KSR Part III, Rule 9(a) Beginning of Service",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_016",
+  "topic": "Qualifying service",
+  "prompt": "When does an employee's service begin?",
+  "tip": "Unless a special rule or contract says otherwise, service begins when he takes charge of the office to which he is first appointed.",
+  "quote": {
+   "text": "the service of every employee begins when he takes charge of the office to which he is first appointed.",
+   "ref": "KSR Part III, Rule 9(b) Beginning of Service",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_017",
+  "topic": "Qualifying service",
+  "prompt": "What conditions must service meet to qualify for pension?",
+  "tip": "The employee must be appointed, his duties regulated, and be paid by Government or under conditions determined by Government.",
+  "quote": {
+   "text": "The service of an employee does not qualify for pension unless he is appointed, his duties regulated, and paid by the Government or under conditions determined by the Government.",
+   "ref": "KSR Part III, Rule 10",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_018",
+  "topic": "Qualifying service",
+  "prompt": "Can Government allow non-qualifying service to count for pension?",
+  "tip": "Yes. Government may declare a kind of service qualifying, or allow service to count in individual cases on conditions they think fit.",
+  "quote": {
+   "text": "in individual cases, and subject to such conditions as they may think fit to impose in each case, allow service rendered by an employee to count for pension.",
+   "ref": "KSR Part III, Rule 11(2)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_017"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_019",
+  "topic": "Qualifying service",
+  "prompt": "Does probationary service count for pension?",
+  "tip": "Probationary service followed by qualifying service counts for pension.",
+  "quote": {
+   "text": "Probationary service followed by qualifying service counts for pension.",
+   "ref": "KSR Part III, Rule 16",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_020",
+  "topic": "Qualifying service",
+  "prompt": "Which apprentice services qualify for pension?",
+  "tip": "Only Engineer Apprentices in the PWD and Apprentice Compositors in the Government Press qualify.",
+  "quote": {
+   "text": "(i) Engineer Apprentices in the Public Works Department. (ii) Apprentice Compositors in the Government Press.",
+   "ref": "KSR Part III, Rule 15 Apprentices & Probationers",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_021",
+  "topic": "Qualifying service",
+  "prompt": "Does service paid from a Local Fund qualify for pension?",
+  "tip": "Not unless Government gives special orders.",
+  "quote": {
+   "text": "Service paid from a Local Fund does not qualify for pension except under special orders of Government.",
+   "ref": "KSR Part III, Rule 20 Local Funds and Trust Funds",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_022",
+  "topic": "Qualifying service",
+  "prompt": "Does leave with allowances count as qualifying service?",
+  "tip": "Time passed on leave of all kinds with allowances counts as qualifying service.",
+  "quote": {
+   "text": "Time passed on leave of all kinds with allowances shall count as qualifying service.",
+   "ref": "KSR Part III, Rule 26(a)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_023",
+  "topic": "Qualifying service",
+  "prompt": "Does leave without allowances count as qualifying service?",
+  "tip": "Generally no, except specified cases such as LWA on medical certificate and LWA for study purposes under the Kerala Service Rules.",
+  "quote": {
+   "text": "Time passed on leave of all kinds without allowances shall not count as qualifying service, except the period of Leave Without Allowances availed of under rule 88, Part I Kerala Service Rules, on medical certificate",
+   "ref": "KSR Part III, Rule 26(b)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_022"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_024",
+  "topic": "Qualifying service",
+  "prompt": "Who can declare a spell of leave non-qualifying for pension?",
+  "tip": "The authority competent to declare a spell of leave non-qualifying is the Government.",
+  "quote": {
+   "text": "The authority competant to declare a spell of leave as non-qualifying for pension will be the Government",
+   "ref": "KSR Part III, Rule 26 Government Decision",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_023"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_025",
+  "topic": "Qualifying service",
+  "prompt": "Does training time before appointment count for pension?",
+  "tip": "Government may decide at their discretion whether training time counts as qualifying service.",
+  "quote": {
+   "text": "The Government may at their discretion decide in the case of a person it training for , but not actually appointed to, Government service, whether the time spent in training shall count as service qualifying for pension.",
+   "ref": "KSR Part III, Rule 27 Period of Training",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_026",
+  "topic": "Qualifying service",
+  "prompt": "Does suspension period count for pension?",
+  "tip": "No, unless otherwise ordered by the competent authority.",
+  "quote": {
+   "text": "Time passed under suspension does not count for pension unless otherwise ordered by the authority competent to do so.",
+   "ref": "KSR Part III, Rule 28 Period of Suspension",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_027",
+  "topic": "Qualifying service",
+  "prompt": "When does suspension period count in full for pension?",
+  "tip": "Where, after enquiry, the employee is fully exonerated or the suspension is held wholly unjustified.",
+  "quote": {
+   "text": "Time passed under suspension pending enquiry into conduct counts in full where, on conclusion of the enquiry, the Government employee has been fully exonerated or the suspension is held to have been wholly unjustified",
+   "ref": "KSR Part III, Rule 28",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_026"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_028",
+  "topic": "Qualifying service",
+  "prompt": "What is the effect of resignation or dismissal on past service?",
+  "tip": "Resignation of public service, or dismissal or removal from it, forfeits past service.",
+  "quote": {
+   "text": "Resignation of the Public Service or dismissal or removal from it, entails forfeiture of past service.",
+   "ref": "KSR Part III, Rule 29(a)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_029",
+  "topic": "Qualifying service",
+  "prompt": "Is resigning one post to take another counting post a resignation from public service?",
+  "tip": "No. It is not resignation from public service if the other appointment's service counts.",
+  "quote": {
+   "text": "Resignation of an appointment to take up another appointment the service in which counts is not resignation from public service.",
+   "ref": "KSR Part III, Rule 29(b)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_028"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_030",
+  "topic": "Qualifying service",
+  "prompt": "Who may restore past service after dismissal is reversed?",
+  "tip": "An authority who reverses an order of dismissal or removal on revision or appeal may declare that past service counts.",
+  "quote": {
+   "text": "Any authority who, on revision or on appeal, reverses an order dismissing or removing an employee, may declare that the employees past service counts.",
+   "ref": "KSR Part III, Rule 30",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_028"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_031",
+  "topic": "Qualifying service",
+  "prompt": "Do interruptions in service count for pension?",
+  "tip": "They count unless the rules or competent authority order otherwise and it is recorded in the Service Book.",
+  "quote": {
+   "text": "Interruptions in the service of an employee will count for pension provided it is not specifically laid down in these rules or otherwise ordered by competent authority and recorded accordingly in the Service Book.",
+   "ref": "KSR Part III, Rule 31 Interruptions",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_032",
+  "topic": "Qualifying service",
+  "prompt": "How is an interruption longer than one year treated?",
+  "tip": "Benefit of reckoning it is limited to the periods actually in service before the interruption.",
+  "quote": {
+   "text": "In case where the period of an interruption in service exceeds one year, the benefit or reckoning the period of such interruption in service shall be restricted to the periods he was actually in service prior to the date of the interruption.",
+   "ref": "KSR Part III, Rule 31 Note 3",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_031"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_033",
+  "topic": "Pension amount",
+  "prompt": "How are fractions of a year in qualifying service treated?",
+  "tip": "Fractions below half a year are ignored; half a year or more is rounded up to the next completed year.",
+  "quote": {
+   "text": "fractions less than half year, will be ignored and half year and above rounded to the next completed year",
+   "ref": "KSR Part III, Rule 57",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_034",
+  "topic": "Pension amount",
+  "prompt": "How is pension rounded in rupees?",
+  "tip": "Fractions in the calculation are rounded off to the next higher rupee.",
+  "quote": {
+   "text": "Pension shall be fixed in whole rupees, fraction, if any, in the calculation of pension according to the rules being rounded off to the next higher rupee.",
+   "ref": "KSR Part III, Rule 58",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_035",
+  "topic": "Pension amount",
+  "prompt": "What is the minimum and maximum service for pension calculation?",
+  "tip": "Minimum service is 10 years and maximum is 30 years.",
+  "quote": {
+   "text": "for purposes of minimum service (i.e., 10 years) and maximum service (i.e., 30 years) for pension",
+   "ref": "KSR Part III, Rule 57 proviso",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_033"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_036",
+  "topic": "Pension amount",
+  "prompt": "Can an employee entitled to pension take a gratuity instead?",
+  "tip": "No. An employee entitled to pension may not take a gratuity instead of pension.",
+  "quote": {
+   "text": "An employee entitled to pension may not take a gratuity instead of pension.",
+   "ref": "KSR Part III, Rule 60 Limitation",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_037",
+  "topic": "Pension amount",
+  "prompt": "Over what period are average emoluments calculated?",
+  "tip": "They are the average of the last ten months of qualifying service.",
+  "quote": {
+   "text": "The term ‘Average emoluments’ means the average calculated upon the last @*ten months of qualifying service.",
+   "ref": "KSR Part III, Rule 63",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_038",
+  "topic": "Pension amount",
+  "prompt": "What does pension equal for 10 completed years of qualifying service?",
+  "tip": "Pension is 10/80th of average emoluments, with a maximum of Rs 2400 per annum.",
+  "quote": {
+   "text": "10 10/80th of average emoluments 2400",
+   "ref": "KSR Part III, Rule 64 (B) Pension",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_039",
+  "topic": "Pension amount",
+  "prompt": "What is the pension scale at 30 years of qualifying service?",
+  "tip": "30/80th of average emoluments, with a maximum of Rs 7200 per annum.",
+  "quote": {
+   "text": "30 30/80th of average emoluments 7200",
+   "ref": "KSR Part III, Rule 64 (B) Pension",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_038"
+  ],
+  "qids": [
+   "q0069"
+  ]
+ },
+ {
+  "id": "b2_040",
+  "topic": "Pension amount",
+  "prompt": "What is gratuity for service of less than 10 years?",
+  "tip": "Gratuity is one month's emoluments for each completed year, for 1 to 9 years of qualifying service.",
+  "quote": {
+   "text": "9 9 month’s emoluments",
+   "ref": "KSR Part III, Rule 64 (A) Gratuity",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_041",
+  "topic": "Pension amount",
+  "prompt": "If a pensioner is found guilty of grave misconduct or negligence in proceedings, what recovery can Government order?",
+  "tip": "Government can order recovery from the pension of the whole or part of any pecuniary loss caused to Government.",
+  "quote": {
+   "text": "the right of ordering the recovery from a pension of the whole or part of any pecuniary loss caused to government",
+   "ref": "KSR Part III, Rule 3",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_042",
+  "topic": "Gratuity",
+  "prompt": "What is the rate of death-cum-retirement gratuity?",
+  "tip": "One half of emoluments for each completed year of qualifying service, subject to a maximum of 15 times emoluments.",
+  "quote": {
+   "text": "The amount of gratuity will be one half of the “emoluments” of an employee for each completed year of qualifying service subject to a maximum of 15 times the “emoluments”.",
+   "ref": "KSR Part III, Rule 68",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": [
+   "q0510"
+  ]
+ },
+ {
+  "id": "b2_043",
+  "topic": "Gratuity",
+  "prompt": "What is the maximum DCRG amount?",
+  "tip": "The maximum amount of gratuity under Rule 68 is limited to Rs 7 lakhs.",
+  "quote": {
+   "text": "The maximum amount of gratuity under this rule will, however, be limited to † ` 7 lakhs.",
+   "ref": "KSR Part III, Rule 68",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_042"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_044",
+  "topic": "Gratuity",
+  "prompt": "What is the minimum gratuity on invalid pension or death in service?",
+  "tip": "In invalid pension or death in service, gratuity has a minimum of 12 times the emoluments last drawn.",
+  "quote": {
+   "text": "In the case of invalid pension or in the event of death of an employee while in service, the gratuity will be subject to a minimum of 12 times the emoluments of the employee last drawn.",
+   "ref": "KSR Part III, Rule 68",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_042"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_045",
+  "topic": "Gratuity",
+  "prompt": "What gratuity is paid if an employee dies with under 5 years qualifying service?",
+  "tip": "The family gets gratuity equal to 6 times emoluments at death; in the first year of service, two months' emoluments.",
+  "quote": {
+   "text": "gratuity equal to 6 times the emoluments of the officer at the time of his death except in cases in which death occurs in the first year of service when the gratuity admissible will be equal to two months’ emoluments.",
+   "ref": "KSR Part III, Rule 68",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_042"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_046",
+  "topic": "Gratuity",
+  "prompt": "How many years of qualifying service allow death gratuity in service under Rule 67?",
+  "tip": "An employee who has completed five years of qualifying service and dies in service may have a gratuity paid to the entitled persons.",
+  "quote": {
+   "text": "If an employee who has completed five years of qualifying service dies while in service, a gratuity not exceeding the amount specified in rule 68 below may be paid",
+   "ref": "KSR Part III, Rule 67",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_042"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_047",
+  "topic": "Gratuity",
+  "prompt": "What is residuary gratuity after the death of a retired employee?",
+  "tip": "If sums received are less than 12 times his emoluments, the deficiency may be granted to those specified in Rule 67.",
+  "quote": {
+   "text": "are less than an amount equal to 12 times his ‘emoluments’ a gratuity equal to the deficiency may be granted to the person or persons specified in Rule 67.",
+   "ref": "KSR Part III, Rule 69",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_042"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_048",
+  "topic": "Gratuity",
+  "prompt": "Is residuary gratuity admissible if pension was commuted?",
+  "tip": "No. The benefit is not admissible if the employee had commuted a portion of his pension before death.",
+  "quote": {
+   "text": "This benefit will not be admissible if the employee had commuted a portion of his pension before death.",
+   "ref": "KSR Part III, Rule 69",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_047"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_049",
+  "topic": "Gratuity",
+  "prompt": "Who are 'family' members for gratuity and nomination?",
+  "tip": "Family includes wife (male employee), husband (female employee), sons, and unmarried, divorced or widowed daughters, among others.",
+  "quote": {
+   "text": "‘Family’ for the purpose of this section will include the following relatives of the employee: (a) Wife, in the case of a male employee; (b) Husband in the case of female employee; (c) Sons;",
+   "ref": "KSR Part III, Rule 71 Family",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_050",
+  "topic": "Commutation",
+  "prompt": "What proportion of pension can be commuted?",
+  "tip": "Not exceeding forty per cent of the pension.",
+  "quote": {
+   "text": "commute for lump payment any portion not exceeding # forty per cent, of any pension which has been, or may be granted to him",
+   "ref": "KSR Part III, Appendix X Pension (Commutation) Rules, Rule 3",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": [
+   "q0069"
+  ]
+ },
+ {
+  "id": "b2_051",
+  "topic": "Commutation",
+  "prompt": "Can an officer commute pension while proceedings are pending?",
+  "tip": "No. Commutation is not permitted during pendency of judicial or departmental proceedings against him.",
+  "quote": {
+   "text": "shall not be permitted to commute any part of his pension during the pendency of such proceeding.",
+   "ref": "KSR Part III, Appendix X, Rule 3 proviso",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_050"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_052",
+  "topic": "Commutation",
+  "prompt": "To whom is the commutation application addressed?",
+  "tip": "To the authority competent to sanction pension.",
+  "quote": {
+   "text": "All applications for commutation of pension shall be addressed to the authority competent to sanction pension.",
+   "ref": "KSR Part III, Appendix X, Rule 4",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_050"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_053",
+  "topic": "Commutation",
+  "prompt": "After how long is the commuted portion of pension restored?",
+  "tip": "From the first of the month following twelve years from the date of commutation, in cases of commutation at retirement at age 55.",
+  "quote": {
+   "text": "The commuted portion of pension shall be restored from the first of the month following the month in which a period of twelve years elapses from the date of commutation",
+   "ref": "KSR Part III, Appendix X, Rule 6A(1)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_050"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_054",
+  "topic": "Commutation",
+  "prompt": "Can a pensioner commute again after restoration?",
+  "tip": "No. A pensioner cannot commute again on the ground that the commuted portion has been restored.",
+  "quote": {
+   "text": "No Pensioner shall be entitled to commute his Pension, again on the ground that the commuted portion has been restored to him.",
+   "ref": "KSR Part III, Appendix X, Rule 6A(2)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_053"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_055",
+  "topic": "Commutation",
+  "prompt": "From when is the reduction in pension effective after commutation?",
+  "tip": "From the 1st day of the month following the month in which the commuted value is drawn.",
+  "quote": {
+   "text": "The date of effect of reduction in pension shall be from the 1st day of the month following the month in which the commuted value is drawn by the pensioner.",
+   "ref": "KSR Part III, Appendix X, Rule 5",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_050"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_056",
+  "topic": "Family pension",
+  "prompt": "What is the maximum period of non-contributory family pension?",
+  "tip": "It is granted for a period of ten years, after completion of not less than 20 years' qualifying service.",
+  "quote": {
+   "text": "who dies, whether while in service or after retirement after completion of not less than 20 years’ qualifying service, for a period of ten years",
+   "ref": "KSR Part III, Rule 80 Non-contributory Family Pension",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": [
+   "q0510"
+  ]
+ },
+ {
+  "id": "b2_057",
+  "topic": "Family pension",
+  "prompt": "What is the rate of non-contributory family pension?",
+  "tip": "One half of the pension admissible, with a maximum of Rs 150 per mensem and a minimum of Rs 30.",
+  "quote": {
+   "text": "the amount of family pension will be subject to a maximum of `150 per mensem and a minimum of ` 30 per mensem",
+   "ref": "KSR Part III, Rule 82",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_056"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_058",
+  "topic": "Family pension",
+  "prompt": "Is family pension payable to a widow who has another living husband?",
+  "tip": "No. It is not granted to a widow or widower who has another living husband or wife at the time of the employee's death.",
+  "quote": {
+   "text": "the family pension shall not be granted to a widow /widower who has another living husband /wife at the time of the death of the employee.",
+   "ref": "KSR Part III, Rule 80 second proviso",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_056"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_059",
+  "topic": "Family pension",
+  "prompt": "Who is the first claimant for non-contributory pension under Rule 85?",
+  "tip": "The eldest surviving widow if the employee was male, or the husband if female.",
+  "quote": {
+   "text": "to the eldest surviving widow, if the deceased is a male employee or to the husband, if the deceased is a female employee.",
+   "ref": "KSR Part III, Rule 85(a)(i)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_056"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_060",
+  "topic": "Family pension",
+  "prompt": "Can non-contributory pension be paid to more than one family member at once?",
+  "tip": "No. It is not payable to more than one family member at the same time.",
+  "quote": {
+   "text": "A pension awarded under this section will not be payable to more than one member of an employee’s family at the same time.",
+   "ref": "KSR Part III, Rule 87(a)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [
+   "b2_056"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b2_061",
+  "topic": "Family pension",
+  "prompt": "Are families of compassionate allowance drawers eligible for family pension?",
+  "tip": "No. Families of those drawing compassionate allowance are not eligible for family pension.",
+  "quote": {
+   "text": "Families of those who are drawing compassionate allowance are not eligible for family pension.",
+   "ref": "KSR Part III, Rule 5(aa)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": [
+   "q0499"
+  ]
+ },
+ {
+  "id": "b2_062",
+  "topic": "Compassionate allowance",
+  "prompt": "What is the limit on compassionate allowance to a dismissed employee?",
+  "tip": "It must not exceed two-thirds of the pension admissible had he retired on the date of dismissal or removal.",
+  "quote": {
+   "text": "the allowances granted to any employee shall not exceed two-thirds of the pension which would have been admissible to him if he had retired on the date of dismissal or removal.",
+   "ref": "KSR Part III, Rule 5(a)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": [
+   "q0499"
+  ]
+ },
+ {
+  "id": "b2_063",
+  "topic": "Family pension",
+  "prompt": "What is the rate of contributory family pension for those whose pay exceeds Rs 3000 (from 1.4.1994)?",
+  "tip": "15% of pay, with a minimum of Rs 600 and a maximum of Rs 1100.",
+  "quote": {
+   "text": "Above ` 3000 15% of pay subject to a minimum of ` 600 and maximum of ` 1100",
+   "ref": "KSR Part III, Rule 90(4CC)",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_064",
+  "topic": "Family pension",
+  "prompt": "Does commutation affect contributory family pension?",
+  "tip": "No. The rate is based on pay drawn immediately before retirement, not the pension sanctioned.",
+  "quote": {
+   "text": "The commutation of pension has no effect on the quantum of contributory family pension",
+   "ref": "KSR Part III, Rule 90 Note-2",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_065",
+  "topic": "Pension application",
+  "prompt": "How early must a pension application be submitted?",
+  "tip": "At least one year in advance of the anticipated date of retirement, in Form 11.",
+  "quote": {
+   "text": "Every government employee should submit his formal application for pension at least one year in advance of the date of his anticipated retirement:",
+   "ref": "KSR Part III, Rule 110",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b2_066",
+  "topic": "Re-employment",
+  "prompt": "Can an employee retire in order to be re-employed and draw pension with pay?",
+  "tip": "No. An employee may not retire with a view to being re-employed and drawing pension in addition to pay.",
+  "quote": {
+   "text": "An employee may not retire with the view to being re-employed, and drawing pension in addition to pay",
+   "ref": "KSR Part III, Rule 91",
+   "book": "KSR_Vol2_Part3_Pension_6th_ed_2017"
+  },
+  "requires": [],
+  "qids": []
+ }
+]

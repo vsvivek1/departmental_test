@@ -1,0 +1,1373 @@
+[
+ {
+  "id": "b7_001",
+  "topic": "Muster roll",
+  "prompt": "Which form is used for a muster roll?",
+  "tip": "Muster rolls are prepared in K.P.W. Form 19.",
+  "quote": {
+   "text": "Muster rolls should be prepared in K.P.W. Form 19",
+   "ref": "KPWAC 10.2.6 Muster rolls",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0386",
+   "q0410",
+   "q0215"
+  ]
+ },
+ {
+  "id": "b7_002",
+  "topic": "Muster roll",
+  "prompt": "Whose wages are drawn on muster rolls?",
+  "tip": "Persons engaged departmentally for works are day labourers; their wages are drawn on muster rolls, K.P.W. Form 19.",
+  "quote": {
+   "text": "all persons engaged departmentally for the execution of works are considered as day labourers and their wages should be drawn on Muster rolls, K.P.W. Form 19",
+   "ref": "KPWAC 10.2.4 Departmental labour",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0386",
+   "q0410"
+  ]
+ },
+ {
+  "id": "b7_003",
+  "topic": "Muster roll",
+  "prompt": "Who is exempt from being paid on muster rolls?",
+  "tip": "Permanent and temporary employees of the division paid from the head Establishment are not paid on muster rolls.",
+  "quote": {
+   "text": "Permanent and temporary employees of the division whose pay is charged to the head “Establishment”.",
+   "ref": "KPWAC 10.2.4(1) Departmental labour",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0386"
+  ]
+ },
+ {
+  "id": "b7_004",
+  "topic": "Muster roll",
+  "prompt": "Can a muster roll be prepared in duplicate?",
+  "tip": "One or more muster rolls are kept for each work, but a muster roll must never be prepared in duplicate.",
+  "quote": {
+   "text": "One or more muster rolls should be kept for each work, but muster rolls should never be prepared in duplicate .",
+   "ref": "KPWAC 10.2.6(a) Muster rolls",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0386",
+   "q0410"
+  ]
+ },
+ {
+  "id": "b7_005",
+  "topic": "Muster roll",
+  "prompt": "What ink is used for muster roll entries?",
+  "tip": "Entries in muster rolls are made in indelible ink or copying pencil.",
+  "quote": {
+   "text": "Entries in muster rolls should be made in indelible ink or copying pencil.",
+   "ref": "KPWAC 10.2.6(a) Note, Muster rolls",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0386"
+  ]
+ },
+ {
+  "id": "b7_006",
+  "topic": "Muster roll",
+  "prompt": "Can one roll cover more than one payment period?",
+  "tip": "No. Separate rolls must be prepared for each period of payment.",
+  "quote": {
+   "text": "separate rolls must be prepared for each period of payment.",
+   "ref": "KPWAC 10.2.6(b) Muster rolls",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0386"
+  ]
+ },
+ {
+  "id": "b7_007",
+  "topic": "Muster roll",
+  "prompt": "Where are daily attendance and fines recorded?",
+  "tip": "Daily attendance, absences and fines of labourers are recorded daily in Part I of the muster roll.",
+  "quote": {
+   "text": "The daily attendances and absences of labourers and the fines inflicted on them should be recorded daily in part I of the muster roll",
+   "ref": "KPWAC 10.2.6(c) Muster rolls",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0386",
+   "q0410"
+  ]
+ },
+ {
+  "id": "b7_008",
+  "topic": "Muster roll",
+  "prompt": "Who passes the muster roll before payment?",
+  "tip": "Payment is made on a muster roll after it has been passed by the Sub-divisional Officer.",
+  "quote": {
+   "text": "After a muster roll has been passed by the Sub-divisional Officer, payment thereon should be made as expeditiously as possible.",
+   "ref": "KPWAC 10.2.6(d) Muster rolls",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0386",
+   "q0410"
+  ]
+ },
+ {
+  "id": "b7_009",
+  "topic": "Muster roll",
+  "prompt": "Who should make or witness each muster roll payment?",
+  "tip": "Each payment is made or witnessed by the official of highest standing available, who certifies it at the foot of the roll.",
+  "quote": {
+   "text": "Each payment should be made or witnessed by the official of highest standing available",
+   "ref": "KPWAC 10.2.6(d) Muster rolls",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0386",
+   "q0410"
+  ]
+ },
+ {
+  "id": "b7_010",
+  "topic": "Muster roll",
+  "prompt": "Where are unpaid wage items recorded?",
+  "tip": "Unpaid items are recorded in the register of unpaid wages, K.P.W. Form 19 A, kept in the sub-division.",
+  "quote": {
+   "text": "the details thereof should be recorded in the register of unpaid wages K.P.W. Form 19 A",
+   "ref": "KPWAC 10.2.6(d) Muster rolls",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0386"
+  ]
+ },
+ {
+  "id": "b7_011",
+  "topic": "Muster roll",
+  "prompt": "How are later payments of unpaid wages made?",
+  "tip": "Later payments of unpaid wages are made on Hand Receipt, K.P.W. Form 24.",
+  "quote": {
+   "text": "Subsequent payments of unpaid wages should be made on Hand Receipt K.P.W. Form 24",
+   "ref": "KPWAC 10.2.6(e) Muster rolls",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0386"
+  ]
+ },
+ {
+  "id": "b7_012",
+  "topic": "Muster roll",
+  "prompt": "What is done about wages unpaid for three months?",
+  "tip": "Wages unpaid for three months are reported to the Divisional Officer.",
+  "quote": {
+   "text": "Wages remaining unpaid for three months should be reported to the Divisional Officer",
+   "ref": "KPWAC 10.2.6(f) Muster rolls",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0386"
+  ]
+ },
+ {
+  "id": "b7_013",
+  "topic": "Muster roll",
+  "prompt": "What is recorded in Part II of the muster roll?",
+  "tip": "Part II records the progress of work done by the labour shown, where the work can be measured.",
+  "quote": {
+   "text": "In Part II of the muster roll form should be recorded the progress of work done by the labour shown thereon in all cases where such work is susceptible of measurement.",
+   "ref": "KPWAC 10.2.6(g) Muster rolls",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0386"
+  ]
+ },
+ {
+  "id": "b7_014",
+  "topic": "Muster roll",
+  "prompt": "Who may pay urgent casual labour on a Hand Receipt?",
+  "tip": "Urgent casual labour may be paid on Hand Receipt Form 24 only by a Gazetted Officer or an Upper Subordinate.",
+  "quote": {
+   "text": "such payments may not be made except by a Gazetted Officer or an Upper Subordinate.",
+   "ref": "KPWAC 10.2.6(h) Muster rolls",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0386"
+  ]
+ },
+ {
+  "id": "b7_015",
+  "topic": "Muster roll",
+  "prompt": "Is paying daily labour through a contractor good practice?",
+  "tip": "Paying daily labour through a contractor instead of a muster roll is objectionable in principle.",
+  "quote": {
+   "text": "The payment of daily labour through a contractor, instead of by muster roll in the usual way, is objectionable in principle.",
+   "ref": "KPWAC 10.2.8 Labour through a contractor",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0386"
+  ]
+ },
+ {
+  "id": "b7_016",
+  "topic": "Muster roll",
+  "prompt": "Can a muster roll or measurement book be used for labour through a contractor?",
+  "tip": "No. Neither the muster roll nor the measurement book is permissible in such cases.",
+  "quote": {
+   "text": "The use of the muster roll or the measurement book is not permissible in such cases.",
+   "ref": "KPWAC 10.2.8 Note",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b7_017",
+  "topic": "Measurement book",
+  "prompt": "Which form is the Measurement Book?",
+  "tip": "Payments for works and specific supplies are based on measurements recorded in Measurement Books, K.P.W. Form 21.",
+  "quote": {
+   "text": "are made on the basis of measurements recorded in Measurement Books, K.P.W. Form 21",
+   "ref": "KPWAC 10.2.9 Measurement books",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419",
+   "q0272"
+  ]
+ },
+ {
+  "id": "b7_018",
+  "topic": "Measurement book",
+  "prompt": "How are measurement books numbered?",
+  "tip": "Pages of each book are machine numbered.",
+  "quote": {
+   "text": "the pages of each book should be machine numbered",
+   "ref": "KPWAC 10.2.9 Measurement books",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b7_019",
+  "topic": "Measurement book",
+  "prompt": "Where is the register of measurement books kept?",
+  "tip": "A register of measurement books in K.P.W. Form 84 is kept in the Divisional Office.",
+  "quote": {
+   "text": "a register of them should be maintained in K.P.W. Form 84, in the Divisional Office",
+   "ref": "KPWAC 10.2.9 Measurement books",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419",
+   "q0272"
+  ]
+ },
+ {
+  "id": "b7_020",
+  "topic": "Measurement book",
+  "prompt": "Who may record detailed measurements?",
+  "tip": "Only Executive or Assistant Engineers, or executive subordinates in charge of works who have been issued measurement books.",
+  "quote": {
+   "text": "Detailed measurements should be recorded only by Executive or Assistant Engineers or by executive subordinates in charge of works to whom measurement books have been supplied for the purpose.",
+   "ref": "KPWAC 10.2.11(a) Detailed measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b7_021",
+  "topic": "Measurement book",
+  "prompt": "Where must measurements be written?",
+  "tip": "Measurements are written in the Measurement Book, K.P.W. Form 21, and nowhere else.",
+  "quote": {
+   "text": "All measurements should be neatly taken down in a Measurement Book, K.P.W. Form 21 issued for the purpose, and nowhere else.",
+   "ref": "KPWAC 10.2.11(b) Detailed measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b7_022",
+  "topic": "Measurement book",
+  "prompt": "What is filled in the field on each page?",
+  "tip": "The top most lines under columns 1 to 4 of each page are filled in the field.",
+  "quote": {
+   "text": "The top most lines under columns 1 to 4 on each page of a Measurement Book should invariably be filled in the field.",
+   "ref": "KPWAC 10.2.11(a) Detailed measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b7_023",
+  "topic": "Measurement book",
+  "prompt": "Whose signature is taken after each set of measurements?",
+  "tip": "The contractor's or his agent's signature is taken after each set of measurements.",
+  "quote": {
+   "text": "The signature of the contractor or his agent should be obtained in measurement books after each set of measurements",
+   "ref": "KPWAC 10.2.11(d) Detailed measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b7_024",
+  "topic": "Measurement book",
+  "prompt": "How is an illiterate contractor's acceptance taken?",
+  "tip": "An illiterate man's thumb impression is taken, attested by an independent witness.",
+  "quote": {
+   "text": "In the case of illiterate men their thumb impression should be obtained duly attested by an independent witness.",
+   "ref": "KPWAC 10.2.11(d) Detailed measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b7_025",
+  "topic": "Measurement book",
+  "prompt": "Can blank pages be left or torn out of a measurement book?",
+  "tip": "No blank pages may be left and no page torn out.",
+  "quote": {
+   "text": "No blank pages may be left and no page torn out.",
+   "ref": "KPWAC 10.2.11(e) Detailed measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419",
+   "q0272"
+  ]
+ },
+ {
+  "id": "b7_026",
+  "topic": "Measurement book",
+  "prompt": "How are pages left blank by mistake treated?",
+  "tip": "Pages left blank inadvertently are cancelled by diagonal lines and the cancellation is attested.",
+  "quote": {
+   "text": "Any pages left blank inadvertently must be cancelled by diagonal lines, the cancellation being attested.",
+   "ref": "KPWAC 10.2.11(e) Detailed measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b7_027",
+  "topic": "Measurement book",
+  "prompt": "Can entries in a measurement book be erased?",
+  "tip": "No entry may be erased.",
+  "quote": {
+   "text": "No entry may be erased.",
+   "ref": "KPWAC 10.2.11(f) Detailed measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b7_028",
+  "topic": "Measurement book",
+  "prompt": "What supports a cancelled measurement?",
+  "tip": "A cancellation needs the dated initials of the officer ordering it, or a reference to his orders.",
+  "quote": {
+   "text": "the cancellation must be supported by the dated initials of the officer ordering the cancellation",
+   "ref": "KPWAC 10.2.11(f) Detailed measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b7_029",
+  "topic": "Measurement book",
+  "prompt": "What must each measurement book have?",
+  "tip": "Each measurement book has an index, kept up to date.",
+  "quote": {
+   "text": "Each measurement book should be provided with an index which should be kept up-to-date.",
+   "ref": "KPWAC 10.2.11(h) Detailed measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b7_030",
+  "topic": "Measurement book",
+  "prompt": "How are standard measurement books numbered?",
+  "tip": "Standard measurement books are numbered in an alphabetical series.",
+  "quote": {
+   "text": "All the standard measurement books maintained in a division should be numbered in an alphabetical series",
+   "ref": "KPWAC 10.2.13(2) Standard measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_031",
+  "topic": "Measurement book",
+  "prompt": "Who keeps the original standard measurement books?",
+  "tip": "The Divisional Accountant keeps them in personal custody in the Division Office.",
+  "quote": {
+   "text": "The original standard measurement books should be kept in the personal custody of the Divisional Accountant in the Division Office.",
+   "ref": "KPWAC 10.2.13(2) Standard measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_032",
+  "topic": "Measurement book",
+  "prompt": "When do Divisional Officers certify standard measurement books?",
+  "tip": "On 30th April each year Divisional Officers send certificates to Superintending Engineers.",
+  "quote": {
+   "text": "On the 30th April each year, Divisional Officers should send certificates to their Superintending Engineers",
+   "ref": "KPWAC 10.2.13(6) Standard measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_033",
+  "topic": "Measurement book",
+  "prompt": "How much of measurement book entries is reviewed yearly?",
+  "tip": "At least 25 per cent of the entries in measurement books are reviewed each year.",
+  "quote": {
+   "text": "Twenty-five per cent, at least of the entries in the measurement books should be reviewed each year.",
+   "ref": "KPWAC 10.2.14(b) Review of measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b7_034",
+  "topic": "Measurement book",
+  "prompt": "How much of reviewed entries get arithmetic check?",
+  "tip": "Arithmetic accuracy is checked in 50 per cent of the entries selected for review.",
+  "quote": {
+   "text": "The arithmetical accuracy of the calculations in 50 per cent of the entries selected for review should also be checked by the Divisional Accountant.",
+   "ref": "KPWAC 10.2.14(b) Review of measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b7_035",
+  "topic": "Measurement book",
+  "prompt": "When do officers report fresh measurement book entries?",
+  "tip": "They report page numbers of fresh entries to the Divisional Officer in the first week of the next month.",
+  "quote": {
+   "text": "report these particulars direct to the Divisional Officer within the first week of the succeeding month.",
+   "ref": "KPWAC 10.2.14(c) Review of measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_036",
+  "topic": "Measurement book",
+  "prompt": "What does the Divisional Accountant write on reviewed pages?",
+  "tip": "Each reviewed page is initialled, dated and marked 'Reviewed' by the Divisional Accountant.",
+  "quote": {
+   "text": "Every page reviewed should be initialled and dated by the Divisional Accountant with remark “Reviewed”",
+   "ref": "KPWAC 10.2.14(h) Review of measurements",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_037",
+  "topic": "Checkmeasurement",
+  "prompt": "Which final bills must be checkmeasured?",
+  "tip": "Sub-divisional Officers must checkmeasure all final bills on running accounts before payment.",
+  "quote": {
+   "text": "Sub-divisional Officers should necessarily checkmeasure before payment and in proper time in the following cases:— (i) all final bills on running accounts,",
+   "ref": "KPWAC 10.2.15(1)(a) Checkmeasurement",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_038",
+  "topic": "Checkmeasurement",
+  "prompt": "How many checkmeasurements must a Divisional Officer do yearly?",
+  "tip": "Divisional Officers must do at least 50 checkmeasurements in a financial year.",
+  "quote": {
+   "text": "The number of such check measurements by Divisional Officers should by at least 50 in a financial year",
+   "ref": "KPWAC 10.2.15(1)(c)(ii) Checkmeasurement",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_039",
+  "topic": "Checkmeasurement",
+  "prompt": "Is 'measured in my presence' a checkmeasurement?",
+  "tip": "No. That entry by a Sub-divisional Officer cannot be accepted as checkmeasurement.",
+  "quote": {
+   "text": "The entry “measured in my presence” by a Sub-divisional Officer cannot be accepted as checkmeasurement.",
+   "ref": "KPWAC 10.2.15(1)(c)(vi) Checkmeasurement",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_040",
+  "topic": "Checkmeasurement",
+  "prompt": "What is the object of checkmeasurement?",
+  "tip": "It is to detect errors in measurement and prevent fraudulent entries.",
+  "quote": {
+   "text": "The object of checkmeasurement is to detect errors in measurement and to prevent fraudulent entries.",
+   "ref": "KPWAC 10.2.15(1)(c)(v) Checkmeasurement",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_041",
+  "topic": "Bill forms",
+  "prompt": "Which form is a first and final bill?",
+  "tip": "A first and final bill is K.P.W. Form 22.",
+  "quote": {
+   "text": "(a) First and final bill—K.P.W. Form 22.",
+   "ref": "KPWAC 10.2.16 Forms of bills",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_042",
+  "topic": "Bill forms",
+  "prompt": "Which form is a running account bill?",
+  "tip": "A running account bill is K.P.W. Form 23.",
+  "quote": {
+   "text": "(b) Running account bill—K.P.W. Form 23.",
+   "ref": "KPWAC 10.2.16 Forms of bills",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_043",
+  "topic": "Bill forms",
+  "prompt": "Which form is used for a running bill with secured advance?",
+  "tip": "Running account bill (Secured advance) is K.P.W. Form 23A.",
+  "quote": {
+   "text": "(c) Running account bill (Secured advance)—K.P.W. Form 23A.",
+   "ref": "KPWAC 10.2.16 Forms of bills",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_044",
+  "topic": "Bill forms",
+  "prompt": "Which form is a Hand Receipt?",
+  "tip": "A Hand Receipt is K.P.W. Form 24.",
+  "quote": {
+   "text": "(d) Hand receipt—K.P.W. Form 24.",
+   "ref": "KPWAC 10.2.16 Forms of bills",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_045",
+  "topic": "Bill forms",
+  "prompt": "On what paper are final payment forms printed?",
+  "tip": "Final payments must be made on forms printed on yellow paper.",
+  "quote": {
+   "text": "Final payments must invariably be made in forms printed on yellow paper which should not be used for intermediate payments.",
+   "ref": "KPWAC 10.2.20 Note, Bills",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_046",
+  "topic": "Lump sum contract",
+  "prompt": "Which forms are used for lump sum contract bills?",
+  "tip": "Lump sum contract bills use K.P.W. Forms 23 B and 22A.",
+  "quote": {
+   "text": "The Form of bills used for payments in connection with lump sum contracts are K.P.W. Forms 23 B and 22A.",
+   "ref": "KPWAC 11.5.1 Form of bills",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_047",
+  "topic": "Lump sum contract",
+  "prompt": "Who must sanction a lump sum contract?",
+  "tip": "Government sanction is needed in each case for a work on lump sum basis.",
+  "quote": {
+   "text": "No work should be executed through lump sum basis unless sanction is obtained from Government in each case.",
+   "ref": "KPWAC 11.2.3 Lump sum contracts",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_048",
+  "topic": "Stock",
+  "prompt": "Which card records receipts, issues and balance of stock?",
+  "tip": "The Bin Card, K.P.W. Form No.7, records receipts, issues and running balance of each article.",
+  "quote": {
+   "text": "A chronological record of receipts, issues and the running balance of each article of stock will be kept in the Bin Card K.P.W. Form No.7",
+   "ref": "KPWAC 7.2.12 Bin cards",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_049",
+  "topic": "Stock verification",
+  "prompt": "What must be done before physical verification of an item?",
+  "tip": "Bin Card balances are verified with the Priced Stores Ledger before any item is physically verified.",
+  "quote": {
+   "text": "This verification should in any case be conducted before any item is taken up for physical verification.",
+   "ref": "KPWAC 7.2.14 Bin cards",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_050",
+  "topic": "Stock verification",
+  "prompt": "How are stock surplus or deficit set right in books?",
+  "tip": "The verifying officer treats a surplus as a receipt and a deficit as an issue, with a remark.",
+  "quote": {
+   "text": "the book balance must be set right by the verifying officer, treating a surplus as a receipt and a deficit as an issue, with a suitable remark.",
+   "ref": "KPWAC 7.2.35 Stock taking",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_051",
+  "topic": "Stock verification",
+  "prompt": "Who does a surprise stores verification yearly?",
+  "tip": "The Deputy Chief Engineer (Stores and Purchase) does a surprise verification at least once a year.",
+  "quote": {
+   "text": "(without notice) of the stores shall be carried out at least once a year by the Deputy Chief Engineer (Stores and Purchase).",
+   "ref": "KPWAC 7.2.35 Note (1) Stock taking",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_052",
+  "topic": "Stock verification",
+  "prompt": "How much costly stock is checked in surprise verification?",
+  "tip": "At least 25% of the stock of costly items such as cement, steel and bitumen.",
+  "quote": {
+   "text": "Verification of at least 25% of the stock of costly items such as cement, steel, bitumen etc., shall be conducted during such checks.",
+   "ref": "KPWAC 7.2.35 Note (1) Stock taking",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_053",
+  "topic": "Stock verification",
+  "prompt": "How is the value of surplus stores treated?",
+  "tip": "Surplus stores are credited at once as revenue receipt or receipt on capital account.",
+  "quote": {
+   "text": "The value of stores found surplus should be credited at once as a revenue receipt or a receipt on capital account as the case may be.",
+   "ref": "KPWAC 7.2.36(a) Stock taking",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_054",
+  "topic": "Stock verification",
+  "prompt": "Where is the value of a stock deficit kept?",
+  "tip": "A deficit is not written off finally but kept under Miscellaneous Public Works Advances.",
+  "quote": {
+   "text": "The value of a deficit should, however not be charged off finally, but kept under “Miscellaneous Public Works Advances” pending recovery or adjustment",
+   "ref": "KPWAC 7.2.36(b) Stock taking",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_055",
+  "topic": "Stock verification",
+  "prompt": "What is needed to remove unserviceable stores from stock?",
+  "tip": "Orders of competent authority on a Survey Report, K.P.W. Form 17, before adjustment.",
+  "quote": {
+   "text": "no adjustment should be made until receipt of orders of competent authority, which should be obtained on a Survey Report in K.P.W. Form 17.",
+   "ref": "KPWAC 7.2.40 Rectification of accounts",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_056",
+  "topic": "Stock verification",
+  "prompt": "How often are materials-at-site physically verified?",
+  "tip": "Unused materials at site are physically verified annually for works open on the last day of the official year.",
+  "quote": {
+   "text": "A physical verification of unused materials under each principal item with the balance shown in K.P.W. Form 31 should be made annually in respect of all works the accounts of which were open on the last day of the official year",
+   "ref": "KPWAC 10.3.18 Materials at site",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_057",
+  "topic": "Tender",
+  "prompt": "Which register records earnest money returned on opening day?",
+  "tip": "Earnest money returned same day is receipted in the Register of Tenders, K.P.W. Form 90.",
+  "quote": {
+   "text": "provided that the contractors concerned give a stamped receipt for the money in the Register of Tenders in K.P.W. Form 90 maintained in the Divisional Office",
+   "ref": "KPWAC 6.3.3 Earnest money",
+   "book": "KPWAC_Kerala_Public_Works_Account_Code"
+  },
+  "requires": [],
+  "qids": [
+   "q0302"
+  ]
+ },
+ {
+  "id": "b7_058",
+  "topic": "Purchase mode",
+  "prompt": "Up to what value can stores be bought without quotation?",
+  "tip": "Stores up to Rs. 15,000 on each occasion can be bought without inviting quotations.",
+  "quote": {
+   "text": "Purchase of Stores upto a value of ` 15,000/- (Rupees Fifteen Thousand only) on each occasion may be made without inviting quotations/bids by the competent authority",
+   "ref": "SPM 2013 7.3 Purchase without quotation",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_059",
+  "topic": "Purchase mode",
+  "prompt": "Who recommends purchases between Rs. 15,000 and Rs. 1 lakh?",
+  "tip": "A Local Purchase Committee of three members recommends such purchases.",
+  "quote": {
+   "text": "may be made on the recommendations of a duly constituted Local Purchase Committee consisting of three members of an appropriate level",
+   "ref": "SPM 2013 7.4 Local Purchase Committee",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_060",
+  "topic": "Purchase mode",
+  "prompt": "When may quotations be invited?",
+  "tip": "Quotations may be invited if estimated value is Rs. 15,000 to less than Rs. 1,00,000.",
+  "quote": {
+   "text": "Quotations may be invited if the estimated value of the stores is between ` 15,000/- to less than ` 1,00,000.",
+   "ref": "SPM 2013 7.6 Quotations",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_061",
+  "topic": "Tender",
+  "prompt": "From what value must tenders be invited?",
+  "tip": "Tenders are invited if estimated value is Rs. 1,00,000 or above.",
+  "quote": {
+   "text": "Tenders should be invited, if the estimated value of the stores to be purchased is `1,00,000/- or above",
+   "ref": "SPM 2013 7.7 Types of tenders",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_062",
+  "topic": "Tender",
+  "prompt": "When is a limited tender used?",
+  "tip": "Limited tender is used when estimated value is between Rs. 1,00,000 and below Rs. 10,00,000.",
+  "quote": {
+   "text": "The limited tender system may be adopted whenever the estimated value of the order to be given is between `1,00,000/- lakh to less than `10,00,000/-.",
+   "ref": "SPM 2013 7.8 Limited tender",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0278"
+  ]
+ },
+ {
+  "id": "b7_063",
+  "topic": "Tender",
+  "prompt": "How many firms in a limited tender?",
+  "tip": "The number of supplier firms in a limited tender should be more than three.",
+  "quote": {
+   "text": "The number of supplier firms in Limited Tender should be more than three.",
+   "ref": "SPM 2013 7.10 Limited tender",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_064",
+  "topic": "Tender",
+  "prompt": "When is open tender a general rule?",
+  "tip": "Open tender is used as a general rule when estimated value is Rs. 10,00,000 or more.",
+  "quote": {
+   "text": "should be used as a general rule and must be adopted, subject to the exceptions mentioned in paragraphs below, whenever the estimated value of the contract is ` 10,00,000/- or more.",
+   "ref": "SPM 2013 7.11 Open tender",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0278"
+  ]
+ },
+ {
+  "id": "b7_065",
+  "topic": "Tender",
+  "prompt": "Should single tender be common?",
+  "tip": "No. Single tender is used only in unavoidable situations.",
+  "quote": {
+   "text": "Therefore this mode of purchase should be resorted to only in unavoidable situations.",
+   "ref": "SPM 2013 7.20 Single tender",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_066",
+  "topic": "Purchase mode",
+  "prompt": "Can demand be split to avoid higher sanction?",
+  "tip": "No. Demand is not divided into smaller quantities just to avoid higher sanction.",
+  "quote": {
+   "text": "Demand for Stores should not be divided into smaller quantities for making piece meal purchases for the sole purpose of avoiding the necessity of obtaining the sanction of higher authority",
+   "ref": "SPM 2013 7.2 Dividing demand",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_067",
+  "topic": "Tender",
+  "prompt": "Are tenders sent by telex or fax accepted?",
+  "tip": "No. Quotations sent by telex, cable or facsimile are ignored and rejected.",
+  "quote": {
+   "text": "Quotations sent by telex, cable or facsimile are to be ignored and rejected.",
+   "ref": "SPM 2013 7.23 Format for tenders",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_068",
+  "topic": "Tender",
+  "prompt": "How may the cost of tender forms be paid?",
+  "tip": "Cash, DD or M.O. only; postal orders, stamps or bank cheques are not accepted.",
+  "quote": {
+   "text": "The cost of tender forms may be accepted in cash, DD or by M.O. only. Postal orders, postal stamps or bank cheques should not be accepted.",
+   "ref": "SPM 2013 7.28 Cost of tender documents",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_069",
+  "topic": "Tender",
+  "prompt": "When are tenders excluded?",
+  "tip": "A tender received late is excluded from consideration.",
+  "quote": {
+   "text": "(f) When the tender is received late.",
+   "ref": "SPM 2013 9.7 Receipt of tenders",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_070",
+  "topic": "Earnest money",
+  "prompt": "What is the EMD amount?",
+  "tip": "EMD is one percent of the total cost of articles tendered, with a minimum of Rs. 1,500.",
+  "quote": {
+   "text": "The amount of EMD shall be one percent (rounded to the nearest rupees) of the total cost of the articles tendered for. This is subject to a minimum of ` 1,500/-.",
+   "ref": "SPM 2013 8.2 Earnest money",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0302"
+  ]
+ },
+ {
+  "id": "b7_071",
+  "topic": "Earnest money",
+  "prompt": "For which tenders is earnest money ordinarily taken?",
+  "tip": "For every tender of Rs. 1,00,000 or more, and special tenders.",
+  "quote": {
+   "text": "Earnest money should ordinarily be taken for every tender involving ` 1,00,000/- or more and for special tenders",
+   "ref": "SPM 2013 8.2 Earnest money",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0302"
+  ]
+ },
+ {
+  "id": "b7_072",
+  "topic": "Earnest money",
+  "prompt": "How long must EMD stay valid?",
+  "tip": "EMD remains valid for 45 days beyond the final tender validity period.",
+  "quote": {
+   "text": "The EMD should remain valid for a period of 45 days beyond the final tender validity period.",
+   "ref": "SPM 2013 8.14 Validity of EMD",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0302"
+  ]
+ },
+ {
+  "id": "b7_073",
+  "topic": "Earnest money",
+  "prompt": "When is EMD forfeited?",
+  "tip": "EMD is forfeited if the tenderer withdraws or amends the tender within its validity period.",
+  "quote": {
+   "text": "EMD of a tenderer will be forfeited, if the tenderer withdraws or amends its tender or impairs or derogates from the tender in any respect within the period of validity of its tender.",
+   "ref": "SPM 2013 8.15 Forfeiture of EMD",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0302"
+  ]
+ },
+ {
+  "id": "b7_074",
+  "topic": "Earnest money",
+  "prompt": "When are unsuccessful tenderers' EMDs returned?",
+  "tip": "Without interest, not later than 30 days after conclusion of the contract.",
+  "quote": {
+   "text": "but not later than 30 days after conclusion of the contract.",
+   "ref": "SPM 2013 8.16 Refund of EMD",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0302"
+  ]
+ },
+ {
+  "id": "b7_075",
+  "topic": "Earnest money",
+  "prompt": "Is EMD exemption valid for rate or running contracts?",
+  "tip": "No. Registered firms' EMD exemption does not apply to Rate/Running Contract tenders.",
+  "quote": {
+   "text": "However, this exemption is not applicable to tenders for Rate/Running Contracts.",
+   "ref": "SPM 2013 8.6 Exemption from EMD",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0026"
+  ]
+ },
+ {
+  "id": "b7_076",
+  "topic": "Performance security",
+  "prompt": "What is the performance security rate?",
+  "tip": "Performance security is 5% of the total contract value.",
+  "quote": {
+   "text": "The Performance Security should be equivalent to 5% of the total value of the contract rounded to the nearest rupee.",
+   "ref": "SPM 2013 8.19 Performance security",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_077",
+  "topic": "Performance security",
+  "prompt": "For what contract value is performance security taken?",
+  "tip": "From every successful bidder for a contract value above Rs. 1,00,000.",
+  "quote": {
+   "text": "for a contract value above ` 1,00,000/-.",
+   "ref": "SPM 2013 8.17 Performance security",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_078",
+  "topic": "Performance security",
+  "prompt": "When must performance security be furnished?",
+  "tip": "By a specified date, generally 21 days after notification of the award.",
+  "quote": {
+   "text": "Performance Security is to be furnished by a specified date (generally 21 days after notification of the award)",
+   "ref": "SPM 2013 8.18 Performance security",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_079",
+  "topic": "Performance security",
+  "prompt": "How long does performance security stay valid?",
+  "tip": "It stays valid for 60 days beyond completion of all contractual obligations.",
+  "quote": {
+   "text": "it should remain valid for a period of 60 days beyond the date of completion of all contractual obligations",
+   "ref": "SPM 2013 8.18 Performance security",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_080",
+  "topic": "Performance security",
+  "prompt": "Can EMD count toward performance security?",
+  "tip": "Yes. EMD may be treated as part of performance security; only the balance is called for.",
+  "quote": {
+   "text": "The earnest money deposit may be treated as part of performance security of the successful bidder and only the balance amount of performance security need be called for from the firm.",
+   "ref": "SPM 2013 8.29 Performance security",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_081",
+  "topic": "Rate and running contract",
+  "prompt": "What is a running contract?",
+  "tip": "A running contract is for supply of an approximate quantity of stores at a specified price during a certain period.",
+  "quote": {
+   "text": "A Running Contract is a contract for the supply of an approximate quantity of stores at a specified price during a certain period.",
+   "ref": "SPM 2013 13.2 Running contract",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0026"
+  ]
+ },
+ {
+  "id": "b7_082",
+  "topic": "Rate and running contract",
+  "prompt": "What variation is allowed in a running contract quantity?",
+  "tip": "Purchaser may take usually 25 per cent over or below the approximate quantity.",
+  "quote": {
+   "text": "the purchaser has the right to take a certain quantity (usually 25 per cent) over or below the approximate quantity mentioned in the contract.",
+   "ref": "SPM 2013 13.2 Running contract",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0026"
+  ]
+ },
+ {
+  "id": "b7_083",
+  "topic": "Rate and running contract",
+  "prompt": "What is a rate contract?",
+  "tip": "A rate contract is for supply of stores at specified rates during the contract period.",
+  "quote": {
+   "text": "A Rate Contract is a contract for the supply of stores at specified rates during the period covered by the contract.",
+   "ref": "SPM 2013 13.4 Rate contract",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0026"
+  ]
+ },
+ {
+  "id": "b7_084",
+  "topic": "Rate and running contract",
+  "prompt": "Does a rate contract state quantities?",
+  "tip": "No quantities are usually mentioned in a rate contract.",
+  "quote": {
+   "text": "No quantities are usually mentioned in the contract,",
+   "ref": "SPM 2013 13.4 Rate contract",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0026"
+  ]
+ },
+ {
+  "id": "b7_085",
+  "topic": "Rate and running contract",
+  "prompt": "Who settles rate and running contracts?",
+  "tip": "Heads of Departments and Departmental Purchase Committees settle running contracts; only the Stores Purchase Department settles rate contracts.",
+  "quote": {
+   "text": "Running contracts may be settled by Heads of Departments and Departmental Purchase Committees, but rate contracts will be settled by the Stores Purchase Department only.",
+   "ref": "SPM 2013 13.6 Rate and running contract",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0026"
+  ]
+ },
+ {
+  "id": "b7_086",
+  "topic": "Rate and running contract",
+  "prompt": "Is earnest money needed for running contracts?",
+  "tip": "Yes. Tenders with earnest money are invited irrespective of amount, and performance security is furnished.",
+  "quote": {
+   "text": "for all running contracts, tenders with earnest money should be invited irrespective of the amount involved and that performance security are also furnished by the Contractors.",
+   "ref": "SPM 2013 13.3 Running contract",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0026"
+  ]
+ },
+ {
+  "id": "b7_087",
+  "topic": "Rate and running contract",
+  "prompt": "What is the normal period of a rate contract?",
+  "tip": "The period of a rate contract should normally be one year.",
+  "quote": {
+   "text": "The period of a Rate Contract should normally be one year for stable technology products.",
+   "ref": "SPM 2013 13.12 Period of rate contract",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0026"
+  ]
+ },
+ {
+  "id": "b7_088",
+  "topic": "Rate and running contract",
+  "prompt": "What is the usual notice to withdraw a rate contract?",
+  "tip": "The notice period is generally thirty days.",
+  "quote": {
+   "text": "The prescribed notice period is generally thirty days.",
+   "ref": "SPM 2013 13.15(iii) Rate contract",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0026"
+  ]
+ },
+ {
+  "id": "b7_089",
+  "topic": "Rate and running contract",
+  "prompt": "Are priced tender forms needed for rate and running contracts?",
+  "tip": "Yes, irrespective of amount, unless Government decides otherwise.",
+  "quote": {
+   "text": "In all cases of Rate/Running contracts priced tender forms are essential irrespective of the amount involved unless otherwise decided by Government.",
+   "ref": "SPM 2013 7.30 Cost of tender documents",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0026"
+  ]
+ },
+ {
+  "id": "b7_090",
+  "topic": "Rate and running contract",
+  "prompt": "Must departments use existing rate contracts?",
+  "tip": "Yes. It is obligatory to avail of Stores Purchase Department rate/running contracts.",
+  "quote": {
+   "text": "it is obligatory for Government Departments to avail themselves of those contracts.",
+   "ref": "SPM 2013 13.9 Rate and running contract",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": [
+   "q0026"
+  ]
+ },
+ {
+  "id": "b7_091",
+  "topic": "Purchase powers",
+  "prompt": "What can Group I HODs purchase at a time?",
+  "tip": "Group I HODs may purchase stores (other than computers and furniture) up to Rs. 20 lakh at a time.",
+  "quote": {
+   "text": "HODs in the Group I are authorized to purchase stores other than computers and peripherals and furniture upto ` 20 lakh at a time and ` 10 lakh for Heads of Departments in Group II and III.",
+   "ref": "SPM 2013 16.5 Purchase powers",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_092",
+  "topic": "Purchase powers",
+  "prompt": "Which HODs are Group I?",
+  "tip": "Group I HODs usually purchase stores worth Rs. 1 crore or more in a year.",
+  "quote": {
+   "text": "Group I Heads of Departments who usually purchase stores worth ` 1 crore or more in a year",
+   "ref": "SPM 2013 16.1 Introduction",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_093",
+  "topic": "Purchase powers",
+  "prompt": "Who must approve proposals above Rs. 6 crore up to Rs. 10 crore?",
+  "tip": "After the Departmental Purchase Committee, the Minister concerned approves them.",
+  "quote": {
+   "text": "should have the approval of the Minister concerned",
+   "ref": "SPM 2013 16.9 Purchase committee",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_094",
+  "topic": "Purchase procedure",
+  "prompt": "What must be used before ordering new stores?",
+  "tip": "Surplus stock with other Departments is first utilised, irrespective of its cost.",
+  "quote": {
+   "text": "the surplus stock of articles, if any, available with other Departments of the Government should first be utilized, irrespective of the cost at which it is available.",
+   "ref": "SPM 2013 6.3 Surplus stores",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_095",
+  "topic": "Purchase procedure",
+  "prompt": "What must a purchasing officer check before buying?",
+  "tip": "That funds are available and valid administrative sanction exists.",
+  "quote": {
+   "text": "to satisfy himself that funds are available for meeting the expenditure in respect of purchase of stores and that there is valid administrative sanction for effecting the purchase.",
+   "ref": "SPM 2013 6.5 Administrative sanction",
+   "book": "Store_Purchase_Manual_2013"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_096",
+  "topic": "GeM",
+  "prompt": "Up to what value can a purchasing officer buy on GeM without quotation?",
+  "tip": "Articles worth Rs. 50,000 can be bought through GeM without quotation or tenders.",
+  "quote": {
+   "text": "A Purchasing Officer can purchase articles worth Rs. 50,000 without quotation/tenders through GeM.",
+   "ref": "SPM Amendment 2018 Chapter 19, 19.5 GeM",
+   "book": "Store_Purchase_Manual_Amendment_2018"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b7_097",
+  "topic": "GeM",
+  "prompt": "Can demand be split to avoid GeM bidding?",
+  "tip": "No. Demand for goods shall not be divided into small quantities.",
+  "quote": {
+   "text": "The demand for goods shall not be divided into small quantities",
+   "ref": "SPM Amendment 2018 Chapter 19, 19.9 GeM",
+   "book": "Store_Purchase_Manual_Amendment_2018"
+  },
+  "requires": [],
+  "qids": []
+ }
+]

@@ -1,0 +1,975 @@
+[
+ {
+  "id": "b1_001",
+  "topic": "Foreign service",
+  "prompt": "What is foreign service?",
+  "tip": "Foreign service is service where an officer gets pay, with Government sanction, from a source other than the Consolidated Fund of India or of a State.",
+  "quote": {
+   "text": "Foreign Service.- means service in which an officer receives his pay with sanction of Government from any source other than the Consolidated Fund of India or of a State.",
+   "ref": "KSR Part I, Rule 12(9) Foreign Service",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b1_002",
+  "topic": "Foreign service",
+  "prompt": "Can an officer be sent to foreign service against his will?",
+  "tip": "No officer may be transferred to foreign service against his will, except to a body wholly or substantially owned or controlled by Government.",
+  "quote": {
+   "text": "No officer may be transferred to foreign service against his will: Provided that this sub-rule shall not apply to the transfer of an officer to the service of a body, incorporated or not, which is wholly or substantially owned or controlled by the Government.",
+   "ref": "KSR Part I, Rule 140(a) Foreign service",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": [
+   "q0508"
+  ]
+ },
+ {
+  "id": "b1_003",
+  "topic": "Foreign service",
+  "prompt": "Who sanctions transfer to foreign service?",
+  "tip": "A transfer to foreign service needs the sanction of the Government.",
+  "quote": {
+   "text": "A transfer to foreign service requires the sanction of the Government.",
+   "ref": "KSR Part I, Rule 140(b)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_001"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_004",
+  "topic": "Foreign service",
+  "prompt": "For how long is deputation to foreign service first sanctioned?",
+  "tip": "Deputation to foreign service is first for one year and can be extended year by year.",
+  "quote": {
+   "text": "The period of deputation to foreign service shall be initially for one year and may be extended year by year up to a continuous period of five years in the aggregate.",
+   "ref": "KSR Part I, Rule 140(c)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_003"
+  ],
+  "qids": [
+   "q0195"
+  ]
+ },
+ {
+  "id": "b1_005",
+  "topic": "Foreign service",
+  "prompt": "What is the maximum continuous period of foreign service deputation?",
+  "tip": "Extension year by year is allowed only up to a continuous period of five years in the aggregate.",
+  "quote": {
+   "text": "may be extended year by year up to a continuous period of five years in the aggregate.",
+   "ref": "KSR Part I, Rule 140(c)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_004"
+  ],
+  "qids": [
+   "q0195"
+  ]
+ },
+ {
+  "id": "b1_006",
+  "topic": "Foreign service",
+  "prompt": "What happens to an officer who overstays foreign service?",
+  "tip": "He is liable to disciplinary action and the overstay period does not count for pension.",
+  "quote": {
+   "text": "In the event of the officer overstaying he shall be liable to disciplinary action and the period of overstay shall not be counted for the purpose of pension",
+   "ref": "KSR Part I, Rule 140(c)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_004"
+  ],
+  "qids": [
+   "q0195"
+  ]
+ },
+ {
+  "id": "b1_007",
+  "topic": "Foreign service",
+  "prompt": "What happens to increments during foreign service overstay?",
+  "tip": "Any increment due during the overstay is deferred with cumulative effect till he rejoins his parent cadre.",
+  "quote": {
+   "text": "any increment due during the period of overstay shall be deferred with cumulative effect, till the date on which the officer rejoins his parent cadre.",
+   "ref": "KSR Part I, Rule 140(c)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_006"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_008",
+  "topic": "Foreign service",
+  "prompt": "Can overstay on foreign service be regularised later?",
+  "tip": "No. Ex post facto approval for regularisation of overstay on foreign service is not allowed.",
+  "quote": {
+   "text": "No ex post facto approval for regularization of overstay on foreign service shall be allowed.",
+   "ref": "KSR Part I, Rule 140(c)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_006"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_009",
+  "topic": "Foreign service",
+  "prompt": "Can an overstaying officer draw pay and allowances?",
+  "tip": "He is barred from drawing pay and allowances from the date the sanctioned term of foreign service expires.",
+  "quote": {
+   "text": "The officer shall be precluded from drawing pay and allowances from the date on which the sanctioned term of foreign service expires",
+   "ref": "KSR Part I, Rule 140(c)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_006"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_010",
+  "topic": "Foreign service",
+  "prompt": "Does leave after foreign service count as overstay?",
+  "tip": "No. Leave taken as per rules on conclusion of foreign service, before joining his post, is not overstay.",
+  "quote": {
+   "text": "the period of leave, if any, taken by an officer, as per rules applicable to him, on the conclusion of foreign service and before joining his post shall not be considered as an overstay under this sub-rule.",
+   "ref": "KSR Part I, Rule 140(c) proviso",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_006"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_011",
+  "topic": "Foreign service",
+  "prompt": "Do the deputation time limits apply between departments?",
+  "tip": "Yes. The sub-rule applies mutatis mutandis to deputation from one service to another or one Department to another in the same service.",
+  "quote": {
+   "text": "The provisions of this sub-rule shall mutatis mutandis apply to an officer on deputation from one service to another or from one Department to another within the same service.",
+   "ref": "KSR Part I, Rule 140(c)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_004"
+  ],
+  "qids": [
+   "q0195"
+  ]
+ },
+ {
+  "id": "b1_012",
+  "topic": "Foreign service",
+  "prompt": "Which rule applies if foreign service goes beyond five years?",
+  "tip": "Rule 24 applies to an officer who continues in foreign service for more than five years at a time.",
+  "quote": {
+   "text": "Provisions of Rule 24 will apply to an officer who continues in foreign service for more than five years at a time.",
+   "ref": "KSR Part I, Rule 140 (last para)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_005"
+  ],
+  "qids": [
+   "q0195"
+  ]
+ },
+ {
+  "id": "b1_013",
+  "topic": "Foreign service",
+  "prompt": "When is transfer to foreign service admissible (duties)?",
+  "tip": "Only if the duties are such as should, for public reasons, be done by a Government officer.",
+  "quote": {
+   "text": "A transfer to the foreign service is not admissible unless – (a) the duties to be performed after the transfer are such as should; for public reasons, be rendered by an officer of Government",
+   "ref": "KSR Part I, Rule 141(a)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_003"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_014",
+  "topic": "Foreign service",
+  "prompt": "Who can be transferred to foreign service (post held)?",
+  "tip": "The officer must hold, at the time of transfer, a permanent or temporary post paid from General Revenues.",
+  "quote": {
+   "text": "the officer transferred holds, at the time of transfer, a permanent or temporary appointment paid from the General Revenues",
+   "ref": "KSR Part I, Rule 141(b)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_013"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_015",
+  "topic": "Foreign service",
+  "prompt": "What if an officer on leave is sent to foreign service?",
+  "tip": "If transferred to foreign service while on leave, he ceases from the date of transfer to be on leave and to draw leave salary.",
+  "quote": {
+   "text": "If an officer is transferred to foreign service while on leave, he ceases from the date of such transfer to be on leave and to draw leave salary.",
+   "ref": "KSR Part I, Rule 142",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b1_016",
+  "topic": "Foreign service",
+  "prompt": "Which cadre does an officer in foreign service remain in?",
+  "tip": "He stays in the cadre or cadres he was in, substantive or officiating, just before transfer.",
+  "quote": {
+   "text": "An officer transferred to foreign service shall remain in the cadre or cadres in which he was included in a substantive or officiating capacity immediately before his transfer",
+   "ref": "KSR Part I, Rule 143",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_003"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_017",
+  "topic": "Foreign service",
+  "prompt": "Who fixes the pay of an officer in foreign service?",
+  "tip": "The authority sanctioning the transfer fixes his pay, in consultation with the foreign employer.",
+  "quote": {
+   "text": "the amount of his pay, the amount of joining time admissible to him and his pay during such joining time will be fixed by the authority sanctioning the transfer in consultation with the foreign employer.",
+   "ref": "KSR Part I, Rule 144",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_003"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_018",
+  "topic": "Foreign service",
+  "prompt": "From when does foreign employer pay an officer?",
+  "tip": "He draws pay from the foreign employer from the date he relinquishes charge of his Government post.",
+  "quote": {
+   "text": "An officer in foreign service will draw pay from the foreign employer from the date on which he relinquishes charge of his post in Government Service.",
+   "ref": "KSR Part I, Rule 144",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_003"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_019",
+  "topic": "Foreign service",
+  "prompt": "Whom must be consulted before ordering foreign service?",
+  "tip": "No order of transfer to foreign service may be issued without previous consultation with the Finance Department.",
+  "quote": {
+   "text": "No order of transfer to foreign service shall be issued without previous consultation with the Finance Department.",
+   "ref": "KSR Part I, Rule 144 Note 2",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_003"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_020",
+  "topic": "Foreign service",
+  "prompt": "Is deputation allowance paid in foreign service?",
+  "tip": "No deputation allowance is paid to officers on deputation to foreign service.",
+  "quote": {
+   "text": "No deputation allowance shall be paid to the officers on deputation to foreign service.",
+   "ref": "KSR Part I, Rule 144 Note 3",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_003"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_021",
+  "topic": "Foreign service",
+  "prompt": "Must the order state remuneration in foreign service?",
+  "tip": "Yes. Pay and any extra concession must be precisely specified. If the order is silent, it is not allowed.",
+  "quote": {
+   "text": "if the order is silent as to any particular remuneration or concession, it must be assumed that the intention is that it shall not be enjoyed.",
+   "ref": "KSR Part I, Rule 144 Note 1",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_003"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_022",
+  "topic": "Foreign service",
+  "prompt": "What is the pension contribution rate for foreign service?",
+  "tip": "Pension contribution is 15 per cent of the maximum of the scale of pay of the parent post.",
+  "quote": {
+   "text": "Recovery of pension contribution in respect of Government servants on deputation to foreign service shall be at the rate of 15 per cent of the maximum of the scale of pay of the post from which deputation is sanctioned.",
+   "ref": "KSR Part I, Rule 146",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_003"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_023",
+  "topic": "Foreign service",
+  "prompt": "What is the leave salary contribution rate for foreign service?",
+  "tip": "Leave salary contribution is 10 percent of the maximum of the scale of pay of the post in the parent department.",
+  "quote": {
+   "text": "The leave salary contribution shall be 10 percent of the maximum of the scale of pay of the post of the deputationist in the parent department.",
+   "ref": "KSR Part I, Rule 146",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_022"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_024",
+  "topic": "Foreign service",
+  "prompt": "What is the combined contribution rate in foreign service?",
+  "tip": "Leave salary and pension contribution together are 25 per cent of the maximum of the scale of pay.",
+  "quote": {
+   "text": "The combined rate of leave salary and pension contribution shall be 25 per cent of the maximum of the scale of pay.",
+   "ref": "KSR Part I, Rule 146",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_022",
+   "b1_023"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_025",
+  "topic": "Foreign service",
+  "prompt": "Is contribution payable during joining time in foreign service?",
+  "tip": "No contribution is paid for periods of joining time.",
+  "quote": {
+   "text": "no contribution shall be paid for the periods of joining time.",
+   "ref": "KSR Part I, Rule 146",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_022"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_026",
+  "topic": "Foreign service",
+  "prompt": "Who pays foreign service contributions?",
+  "tip": "The officer pays them himself, unless the foreign employer agrees to pay.",
+  "quote": {
+   "text": "Contributions due under clause (a) above shall be paid by the officer himself, unless the foreign employer consents to pay them.",
+   "ref": "KSR Part I, Rule 145(b)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_022"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_027",
+  "topic": "Foreign service",
+  "prompt": "When must foreign service contribution be paid?",
+  "tip": "It may be paid annually within fifteen days from the end of each calendar year, or at the end of foreign service.",
+  "quote": {
+   "text": "may be paid annually within fifteen days from the end of each *calendar year or at the end of the foreign service, if the foreign service expires before the end of a *calendar year",
+   "ref": "KSR Part I, Rule 150",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_022"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_028",
+  "topic": "Foreign service",
+  "prompt": "Can an officer in foreign service accept pension from his foreign employer?",
+  "tip": "Not without the sanction of the Government.",
+  "quote": {
+   "text": "An Officer transferred to foreign service may not without the sanction of the Government accept a pension or gratuity from his foreign employer in respect of such service.",
+   "ref": "KSR Part I, Rule 151",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_003"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_029",
+  "topic": "Foreign service",
+  "prompt": "Can an officer withhold contributions to forfeit foreign service duty claim?",
+  "tip": "No. He may not withhold contributions and forfeit the right to count foreign service time as duty.",
+  "quote": {
+   "text": "An officer in foreign service may not elect to withhold contributions and forfeit right to count as duty in Government service the time spent in foreign employ.",
+   "ref": "KSR Part I, Rule 149",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_022"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_030",
+  "topic": "Foreign service",
+  "prompt": "When does an officer revert from foreign service?",
+  "tip": "He reverts on the date he takes charge of his post in Government service.",
+  "quote": {
+   "text": "An Officer reverts from foreign service to Government service on the date on which he takes charges of his post in Government service",
+   "ref": "KSR Part I, Rule 154",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_003"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_031",
+  "topic": "Foreign service",
+  "prompt": "What pay does an officer in foreign service get when officiating in a Government post?",
+  "tip": "He draws pay based on his lien post and the officiating post. His foreign service pay is not counted.",
+  "quote": {
+   "text": "will draw pay calculated on the pay of the post in Government service on which he holds a lien or would hold a lien had his lien not been suspended and that of the post in which he officiates. His pay in foreign service will not be taken into account in fixing his pay.",
+   "ref": "KSR Part I, Rule 153",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_016"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_032",
+  "topic": "Foreign service",
+  "prompt": "How does leave work in foreign service?",
+  "tip": "He may not take leave or receive leave salary from Government unless he actually quits duty and goes on leave.",
+  "quote": {
+   "text": "may not take leave or receive leave salary from Government unless he actually quits duty and goes on leave.",
+   "ref": "KSR Part I, Rule 152",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_003"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_033",
+  "topic": "Retirement",
+  "prompt": "At what age does compulsory retirement take effect?",
+  "tip": "Compulsory retirement takes effect from the afternoon of the last day of the month in which he attains 56 years.",
+  "quote": {
+   "text": "the date of compulsory retirement of an officer shall take effect from the afternoon of the last day of the month in which he attains the age of 56 years.",
+   "ref": "KSR Part I, Rule 60(a)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b1_034",
+  "topic": "Retirement",
+  "prompt": "Who can retain an officer after retirement age?",
+  "tip": "Only the Government, on public grounds recorded in writing.",
+  "quote": {
+   "text": "He may be retained after this date only with the sanction of the Government on public grounds which must be recorded in writing",
+   "ref": "KSR Part I, Rule 60(a)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_033"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_035",
+  "topic": "Retirement",
+  "prompt": "Up to what age can an officer be retained?",
+  "tip": "He must not be retained after 60 years except in very special circumstances.",
+  "quote": {
+   "text": "he must not be retained after the age of 60 years except in very special circumstances.",
+   "ref": "KSR Part I, Rule 60(a)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_034"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_036",
+  "topic": "Retirement",
+  "prompt": "Retirement age of NPS officers appointed on or after 1 April 2013",
+  "tip": "He may be retained after 60 only with Government sanction, but not after age 64 except in very special circumstances.",
+  "quote": {
+   "text": "shall take effect from the afternoon of the last day of the month in which he attains the age of 60 years. He may be retained after this date only with the sanction of the Government on public grounds which must be recorded in writing, but he must not be retained after the age of 64 years except in very special circumstances.",
+   "ref": "KSR Part I, Rule 60(af)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_033"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_037",
+  "topic": "Retirement",
+  "prompt": "Retirement age of judicial officers",
+  "tip": "Judicial Service officers ordinarily retire at 60 years, with an option to retire when they attain 58.",
+  "quote": {
+   "text": "shall ordinarily retire when he attains the age of 60 years; but he shall have the option to retire when he attains the age of 58 years.",
+   "ref": "KSR Part I, Rule 60(aa)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_033"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_038",
+  "topic": "Retirement",
+  "prompt": "Retirement age of Last Grade Service officers",
+  "tip": "Officers in Last Grade Service on 7th April 1970 retire at 60 years of age.",
+  "quote": {
+   "text": "Officers in the Last Grade Service on 7th April 1970 will retire on the afternoon of the last day of the month in which they attain the age of 60 years",
+   "ref": "KSR Part I, Rule 60(b)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_033"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_039",
+  "topic": "Retirement",
+  "prompt": "Teaching staff completing 56 during academic year",
+  "tip": "They continue till the last day of the month in which the academic year ends.",
+  "quote": {
+   "text": "shall continue in service till the last day of the month in which the academic year ends",
+   "ref": "KSR Part I, Rule 60(c)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_033"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_040",
+  "topic": "Retirement",
+  "prompt": "Can teachers on extended service take leave?",
+  "tip": "They get no leave other than casual leave during extended service beyond the date of superannuation.",
+  "quote": {
+   "text": "will not be eligible for any leave other than casual leave during the period of their service beyond the date of superannuation",
+   "ref": "KSR Part I, Rule 60 Ruling No. 2",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_039"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_041",
+  "topic": "Retirement",
+  "prompt": "Date of birth when only the year is known",
+  "tip": "First July is taken as the date of birth.",
+  "quote": {
+   "text": "In the case of an officer whose year of birth is known but not the exact month and date the first July shall be taken as the date of birth",
+   "ref": "KSR Part I, Rule 60 Note 4",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_033"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_042",
+  "topic": "Retirement",
+  "prompt": "Date of birth when year and month are known",
+  "tip": "The 16th day of the month is taken as the date of birth.",
+  "quote": {
+   "text": "where the year and month are known but not the exact date, the 16th day of the month shall be taken as the date of birth.",
+   "ref": "KSR Part I, Rule 60 Note 4",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_041"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_043",
+  "topic": "Retirement",
+  "prompt": "Is a separate order needed for retirement?",
+  "tip": "No. Unless extension is sanctioned, retirement is automatic and needs no separate sanction.",
+  "quote": {
+   "text": "Except when extension of service is specifically sanctioned the retirement of an officer is automatic and no separate sanction is required.",
+   "ref": "KSR Part I, Rule 60 Note 5",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_033"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_044",
+  "topic": "Retirement",
+  "prompt": "Re-employment after retirement",
+  "tip": "Re-employment after retirement should not ordinarily be sanctioned for more than one year at a time.",
+  "quote": {
+   "text": "as possible only re-employment after retirement should be resorted to, which shall not ordinarily be sanctioned for more than one year at a time.",
+   "ref": "KSR Part I, Rule 60 Note 3",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_033"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_045",
+  "topic": "Retirement",
+  "prompt": "Born on 1 July: which day completes the 56th year?",
+  "tip": "A person born on 1 July completes his 56th year on 30th June.",
+  "quote": {
+   "text": "A person whose date of birth is first of July completes his 56th year on 30th June",
+   "ref": "KSR Part I, Rule 60 Note 7",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_033"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_046",
+  "topic": "Retirement",
+  "prompt": "Malabar Era dates of birth",
+  "tip": "Age may be calculated in Malabar Era for officers who entered service before 1 January 1950 with birth date noted in Malabar Era.",
+  "quote": {
+   "text": "in the case of an officer who entered service prior to first January 1950 and whose date of birth has been noted in Malabar Era in the Service Records, the age may be calculated in the Malabar Era.",
+   "ref": "KSR Part I, Rule 60 Note 6",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_033"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_047",
+  "topic": "Definitions",
+  "prompt": "What is a probationer?",
+  "tip": "A probationer is an officer employed on probation in or against a substantive vacancy in a cadre.",
+  "quote": {
+   "text": "Probationer.-means an officer employed on probation in or against a substantive vacancy in the cadre of a department.",
+   "ref": "KSR Part I, Rule 12(28) Probationer",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": [
+   "q0500"
+  ]
+ },
+ {
+  "id": "b1_048",
+  "topic": "Definitions",
+  "prompt": "Probationer versus officer on probation",
+  "tip": "A probationer is in or against a substantive vacancy with definite probation conditions. A person on probation is appointed to test fitness for the post.",
+  "quote": {
+   "text": "While a probationer is one appointed in or against a post substantively vacant with definite conditions of probation, a person on probation is one appointed to a post (not necessarily vacant substantively) for determining his fitness for eventual substantive appointment to that post.",
+   "ref": "KSR Part I, Rule 12(28) Note 4",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_047"
+  ],
+  "qids": [
+   "q0500"
+  ]
+ },
+ {
+  "id": "b1_049",
+  "topic": "Definitions",
+  "prompt": "What is special pay?",
+  "tip": "Special pay is an addition of the nature of pay to the emoluments of a post or officer, given for specified reasons.",
+  "quote": {
+   "text": "Special Pay.- means an addition of the nature of pay to the emoluments of a post or of an officer granted in consideration of the following :-",
+   "ref": "KSR Part I, Rule 12(31) Special Pay",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": [
+   "q0194"
+  ]
+ },
+ {
+  "id": "b1_050",
+  "topic": "Definitions",
+  "prompt": "What is substantive pay?",
+  "tip": "Substantive pay is pay other than special pay, personal pay or emoluments classed as pay, for a post held substantively.",
+  "quote": {
+   "text": "Substantive Pay.- means the pay other than special pay, personal pay or emoluments classed as pay by Government under Rule 12 (23) (ii) and (iii) above to which an officer is entitled on account of a post to which he has been appointed substantively",
+   "ref": "KSR Part I, Rule 12(33) Substantive Pay",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": [
+   "q0194"
+  ]
+ },
+ {
+  "id": "b1_051",
+  "topic": "Definitions",
+  "prompt": "What is personal pay?",
+  "tip": "Personal pay is additional pay to save an officer from loss of substantive pay in a permanent post due to pay revision.",
+  "quote": {
+   "text": "Personal Pay.- means additional pay granted to an officer- (a) to save him from loss of substantive pay in respect of a permanent post due to a revision of pay or to any reduction of such substantive pay otherwise than as a disciplinary measure",
+   "ref": "KSR Part I, Rule 12(26) Personal Pay",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": [
+   "q0194"
+  ]
+ },
+ {
+  "id": "b1_052",
+  "topic": "Definitions",
+  "prompt": "What is a lien?",
+  "tip": "Lien is the title of an officer to hold substantively a permanent post to which he was appointed substantively.",
+  "quote": {
+   "text": "Lien.- means the title of an officer to hold substantively, either immediately or on termination of a period or periods of absence, a permanent post",
+   "ref": "KSR Part I, Rule 12(18) Lien",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b1_053",
+  "topic": "Definitions",
+  "prompt": "What is a day?",
+  "tip": "Absence from headquarters not exceeding 24 hours is reckoned as one day.",
+  "quote": {
+   "text": "an absence from headquarters which does not exceed 24 hours shall be reckoned for all purposes as one day",
+   "ref": "KSR Part I, Rule 12(6) Day",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b1_054",
+  "topic": "Definitions",
+  "prompt": "Who is the competent authority?",
+  "tip": "Where no power is delegated, the competent authority is the authority in whom power to appoint that officer is vested.",
+  "quote": {
+   "text": "the competent authority is, unless otherwise stated, the authority in whom the power to appoint such officer has been or is vested",
+   "ref": "KSR Part I, Rule 12(5A) Competent Authority",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b1_055",
+  "topic": "Definitions",
+  "prompt": "What is an honorarium?",
+  "tip": "An honorarium is a payment from General Revenues as remuneration for special work of an occasional or intermittent character.",
+  "quote": {
+   "text": "Honorarium.- means a recurring or non-recurring payment granted to an officer from the General Revenues of the State as remuneration for special work of an occasional or intermittent character.",
+   "ref": "KSR Part I, Rule 12(15) Honorarium",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": [
+   "q0284"
+  ]
+ },
+ {
+  "id": "b1_056",
+  "topic": "Definitions",
+  "prompt": "What is a fee?",
+  "tip": "A fee is a payment to an officer from a source other than the General Revenues.",
+  "quote": {
+   "text": "Fee.- means a recurring or non-recurring payment to an officer from a source other than the General Revenues",
+   "ref": "KSR Part I, Rule 12(8) Fee",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b1_057",
+  "topic": "Definitions",
+  "prompt": "What does a month mean?",
+  "tip": "A month means a calendar month.",
+  "quote": {
+   "text": "Month.- means a calendar month.",
+   "ref": "KSR Part I, Rule 12(21) Month",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b1_058",
+  "topic": "Honoraria and fees",
+  "prompt": "When is an honorarium sanctioned?",
+  "tip": "An honorarium should not be sanctioned unless the work had prior Government consent and its amount was settled in advance, except for recorded special reasons.",
+  "quote": {
+   "text": "sanction to the grant or acceptance of an honorarium should not be given unless the work has been undertaken with the prior consent of the Government and its amount has been settled in advance.",
+   "ref": "KSR Part I, Rule 49 Honoraria",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": [
+   "q0284"
+  ]
+ },
+ {
+  "id": "b1_059",
+  "topic": "Honoraria and fees",
+  "prompt": "How much of a large fee goes to General Revenues?",
+  "tip": "One-third of a non-recurring fee over Rs 2000 or a recurring fee over Rs 1250 a year is credited to General Revenues.",
+  "quote": {
+   "text": "one-third of any non-recurring fee exceeding # ` 2000 or one-third of any recurring fee exceeding # ` 1250 a year, paid to an officer, shall be credited to the General Revenues.",
+   "ref": "KSR Part I, Rule 48 Fees",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b1_060",
+  "topic": "Honoraria and fees",
+  "prompt": "Can an officer do outside work for fees freely?",
+  "tip": "No officer may do work for another Government or private body or accept a fee without Government sanction.",
+  "quote": {
+   "text": "No officer may undertake work for another Government, or a private or public body or a private person, or accept fee therefore, without the sanction of the Government.",
+   "ref": "KSR Part I, Rule 47",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b1_061",
+  "topic": "Additional charge",
+  "prompt": "Special allowance for officiating in a second post with full charge of own",
+  "tip": "It must not exceed 6 per cent of the minimum of the scale of pay of the other post.",
+  "quote": {
+   "text": "special allowance which should not exceed * 6 per cent of the minimum of the scale of pay of other post",
+   "ref": "KSR Part I, Rule 53(b)(1) Combination of appointments",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b1_062",
+  "topic": "Additional charge",
+  "prompt": "Special allowance for current duties only of additional post",
+  "tip": "It must not exceed 3 per cent of the minimum of the scale of pay of that post.",
+  "quote": {
+   "text": "should not exceed *3 per cent of the minimum of the scale of pay of that post",
+   "ref": "KSR Part I, Rule 53(b)(3)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b1_063",
+  "topic": "Additional charge",
+  "prompt": "When is special allowance for additional charge allowed?",
+  "tip": "Only if the additional charge exceeds 14 working days (full charge) or one month (current duties only).",
+  "quote": {
+   "text": "unless the period of additional charge exceeds fourteen working days in the case of full additional charge and one month in the case of discharge of current duties only.",
+   "ref": "KSR Part I, Rule 53(c)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b1_064",
+  "topic": "Additional charge",
+  "prompt": "Maximum period of special allowance for additional charge",
+  "tip": "Special allowance for additional charge must not be allowed for more than three months on any account.",
+  "quote": {
+   "text": "should not be allowed for a period exceeding three months on any account.",
+   "ref": "KSR Part I, Rule 53(c)",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [
+   "b1_063"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b1_065",
+  "topic": "Scope",
+  "prompt": "Who can relax KSR rules in undue hardship?",
+  "tip": "Government, if satisfied that a rule causes undue hardship, may dispense with or relax it.",
+  "quote": {
+   "text": "Where Government are satisfied that the operation of any rule under these rules causes undue hardship in any particular case, the Government may dispense with or relax the requirements of that rule",
+   "ref": "KSR Part I, Rule 7",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b1_066",
+  "topic": "Scope",
+  "prompt": "Who decides if KSR applies to a person in doubt?",
+  "tip": "The matter is referred to Government and its decision is final.",
+  "quote": {
+   "text": "If any doubt arises as to whether these rules apply to any person, the matter shall be referred to the Government and the decision of the Government shall be final.",
+   "ref": "KSR Part I, Rule 4",
+   "book": "KSR_Vol1_Part1_2_8th_ed_2016"
+  },
+  "requires": [],
+  "qids": []
+ }
+]

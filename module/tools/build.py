@@ -22,6 +22,15 @@ if pathlib.Path('data/facts.json').exists():
         if not q or not q.get('quotes'): print('skip',f['id'],'no linked answered question'); continue
         facts.append({'id':f['id'],'topic':f['topic'],'question':f['prompt'],'tip':f['tip'],'answer':f['tip'],
           'quotes':q['quotes'][:1],'requires':f['requires'],'freq':q['freq'],'sessions':q['sessions'],'exams':q['exams'],'source_question':q['id']})
+rawq={c['id']:c for c in cards}
+for f in sorted(pathlib.Path('data').glob('facts_book_*.json')):  # book-first facts
+    for x in json.load(open(f)):
+        ql=[rawq[i] for i in x.get('qids',[]) if i in rawq]
+        facts.append({'id':x['id'],'topic':x['topic'],'question':x['prompt'],'tip':x['tip'],'answer':x['tip'],'quotes':[x['quote']],
+          'requires':x.get('requires',[]),'freq':max(1,sum(q['freq'] for q in ql)),'sessions':sorted({s for q in ql for s in q['sessions']}) or [],
+          'exams':sorted({e for q in ql for e in q['exams']}),'source_question':','.join(x.get('qids',[]))})
+ids={f['id'] for f in facts}
+for f in facts: f['requires']=[r for r in f['requires'] if r in ids and r!=f['id']]
 exams=sorted({e for c in cards for e in c['exams']})
 json.dump({'exams':exams,'cards':facts or cards,'questions':len(cards),'answered':sum(1 for c in cards if c['answer']),'needs_ocr':len(raw['needs_ocr'])},open('web/data.json','w'),ensure_ascii=False)
 print(len(cards),'cards',len(exams),'exams:',exams)

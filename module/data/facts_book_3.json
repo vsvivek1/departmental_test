@@ -1,0 +1,1210 @@
+[
+ {
+  "id": "b3_001",
+  "topic": "Expenditure principles",
+  "prompt": "What two conditions must be met before any expenditure is incurred?",
+  "tip": "Expenditure needs sanction of the competent authority AND sufficient funds provided by Appropriation Act, re-appropriation or Contingency Fund advance. Both are independent.",
+  "quote": {
+   "text": "The expenditure must have been sanctioned by a general or special order of the authority competent to sanction such expenditure; and (ii) Sufficient funds must have been provided for the expenditure in the Appropriation Act(s) for the current financial year or by a re- appropriation of funds sanctioned by a competent authority or by an advance from the Contingency Fund.",
+   "ref": "KFC Vol I, Art. 40(a) General Principles",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0288",
+   "q0282"
+  ]
+ },
+ {
+  "id": "b3_002",
+  "topic": "Expenditure principles",
+  "prompt": "What happens to appropriations at the close of the financial year?",
+  "tip": "All appropriations lapse at the close of the financial year.",
+  "quote": {
+   "text": "all appropriations lapse at the close of the financial year.",
+   "ref": "KFC Vol I, Art. 40(c)(6) Important financial principles",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0288"
+  ]
+ },
+ {
+  "id": "b3_003",
+  "topic": "Expenditure principles",
+  "prompt": "May unspent appropriation be saved from lapsing by a rush of expenditure in March?",
+  "tip": "No. No attempt should be made to prevent lapse of an appropriation by any undue rush of expenditure during March.",
+  "quote": {
+   "text": "No attempt should be made to prevent the lapse of an appropriation by any undue rush of expenditure during March.",
+   "ref": "KFC Vol I, Art. 40(c)(7)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0288"
+  ]
+ },
+ {
+  "id": "b3_004",
+  "topic": "Expenditure principles",
+  "prompt": "Up to what amount may public money benefit a particular person without other conditions?",
+  "tip": "Public money can benefit a particular person if the amount is Rs. 100 or less, enforceable in court, or per recognised policy or custom.",
+  "quote": {
+   "text": "Public moneys should not be utilised for the benefit of a particular person or section of the community unless: (i) The expenditure involved is Rs. 100 or less. (ii) A claim for the amount would be enforced in a Court of Law or (iii) The expenditure is in pursuance of a recognized policy or custom.",
+   "ref": "KFC Vol I, Art. 40(b)(3) Standards of financial propriety",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b3_005",
+  "topic": "Contingent charges",
+  "prompt": "Must expenditure sanctioned by Heads of Offices on contingencies be recurring or non-recurring?",
+  "tip": "It should be non-recurring, not involving any commitment beyond a single payment, unless the authority is empowered to sanction recurring expenditure.",
+  "quote": {
+   "text": "The expenditure should be non-recurring, that is, it should not involve any commitment beyond a single payment unless the authority concerned has been duly empowered to incur or sanction such recurring expenditure.",
+   "ref": "KFC Vol I, Art. 92(a)(1)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b3_006",
+  "topic": "Contingent charges",
+  "prompt": "To whom may a Head of Office delegate power to sanction contingent expenditure?",
+  "tip": "He may delegate it to any Gazetted Government servant serving under him.",
+  "quote": {
+   "text": "The Head of an Office may delegate his power to incur or sanction expenditure on contingencies to any Gazetted Government servant serving under him",
+   "ref": "KFC Vol I, Art. 92(b)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0412"
+  ]
+ },
+ {
+  "id": "b3_007",
+  "topic": "Contingent charges",
+  "prompt": "Who may incur urgent contingent expenditure in anticipation of sanction?",
+  "tip": "A responsible non-gazetted subordinate such as a Head Clerk, for a specified kind and small amount, when unavoidably necessary, e.g. during the Head's absence.",
+  "quote": {
+   "text": "may permit a responsible non-gazetted subordinate such as a Head Clerk or Office Manager to incur urgent contingent expenditure of a specified kind or kinds, up to the specified amount (which should be small) in anticipation of his sanction.",
+   "ref": "KFC Vol I, Art. 92(b) para 2",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b3_008",
+  "topic": "Permanent advance",
+  "prompt": "What is the general rule about drawing money from the Treasury, and what is the exception?",
+  "tip": "Money is drawn only on a proper voucher and only when needed for immediate disbursement. The permanent advance system is an exception.",
+  "quote": {
+   "text": "as a general rule no money may be drawn from the Treasury until it is required for immediate disbursement . The permanent advance system is an exception to these general rules.",
+   "ref": "KFC Vol I, Art. 94 Permanent Advances",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0286"
+  ]
+ },
+ {
+  "id": "b3_009",
+  "topic": "Permanent advance",
+  "prompt": "Who fixes and sanctions the permanent advance of a Head of Department?",
+  "tip": "The permanent advance of a Head of Department is fixed and sanctioned by Government.",
+  "quote": {
+   "text": "The permanent advance of a Head of Department has to be fixed and sanctioned by Government.",
+   "ref": "KFC Vol I, Art. 95(a)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [
+   "b3_008"
+  ],
+  "qids": [
+   "q0286"
+  ]
+ },
+ {
+  "id": "b3_010",
+  "topic": "Permanent advance",
+  "prompt": "Up to what amount may a Head of Department sanction a permanent advance to a subordinate?",
+  "tip": "Not more than the amount the Accountant-General considers appropriate, unless Government directs otherwise.",
+  "quote": {
+   "text": "the Head of a Department may sanction the grant to a Government servant serving under him of a permanent advance not exceeding the amount which the Accountant-General considers appropriate.",
+   "ref": "KFC Vol I, Art. 95(b)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [
+   "b3_008"
+  ],
+  "qids": [
+   "q0286"
+  ]
+ },
+ {
+  "id": "b3_011",
+  "topic": "Permanent advance",
+  "prompt": "To whom is an order sanctioning or revising a permanent advance communicated?",
+  "tip": "Both to the Government servant concerned and to the Accountant-General.",
+  "quote": {
+   "text": "Every order sanctioning the grant or a revision of the amount of a permanent advance should be communicated both to the Government servant concerned and to the Accountant-General.",
+   "ref": "KFC Vol I, Art. 95(c)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [
+   "b3_008"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b3_012",
+  "topic": "Permanent advance",
+  "prompt": "Through whom must an application for a permanent advance be submitted?",
+  "tip": "Through the Accountant-General, who states the amount he considers appropriate.",
+  "quote": {
+   "text": "An application for the initial grant of a permanent advance or for the revision of the amount of an existing permanent advance should be submitted to the authority competent to sanction it through the Accountant-General",
+   "ref": "KFC Vol I, Art. 95(d)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [
+   "b3_008"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b3_013",
+  "topic": "Permanent advance",
+  "prompt": "When must a permanent advance holder send an acknowledgment, and in which forms?",
+  "tip": "Acknowledgment goes to the Accountant-General every 15th April and whenever the incumbent or the advance amount changes.",
+  "quote": {
+   "text": "On the 15th April of every year and whenever there is charge of the incumbent of the post concerned or in the amount of the advance sanctioned, every Government servant who holds a permanent advance should forward an acknowledgment to the Accountant-General",
+   "ref": "KFC Vol I, Art. 96",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [
+   "b3_008"
+  ],
+  "qids": [
+   "q0286"
+  ]
+ },
+ {
+  "id": "b3_014",
+  "topic": "Permanent advance",
+  "prompt": "Which forms are used for the permanent advance acknowledgment?",
+  "tip": "Form No. 8 when there is a change of incumbent and Form No. 8A in other cases.",
+  "quote": {
+   "text": "(The acknowledgment should be in Form No. 8 when there is a change of incumbent and in Form No. 8A in other cases).",
+   "ref": "KFC Vol I, Art. 96",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [
+   "b3_008"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b3_015",
+  "topic": "Permanent advance",
+  "prompt": "What does the holder of a permanent advance answer for?",
+  "tip": "He is responsible for safe custody and must always be ready to produce the full amount in vouchers or cash.",
+  "quote": {
+   "text": "The holder of a permanent advance is responsible for the safe custody of the money placed in his hands and he must at all times be ready to produce the total amount of the money in vouchers or in cash.",
+   "ref": "KFC Vol I, Art. 96",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [
+   "b3_008"
+  ],
+  "qids": [
+   "q0286"
+  ]
+ },
+ {
+  "id": "b3_016",
+  "topic": "Permanent advance",
+  "prompt": "How is a permanent advance recouped each month?",
+  "tip": "At month end the cashier rules a red ink line across the contingent register, adds the columns and posts totals in the bill.",
+  "quote": {
+   "text": "the cashier should rule a red ink line across the page of the contingent register or registers maintained in the office, add up the several columns and post the several totals for the different classes of contingent charges in the bill or bills.",
+   "ref": "KFC Vol I, Art. 97 Recoupment of permanent advance",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [
+   "b3_008"
+  ],
+  "qids": [
+   "q0286"
+  ]
+ },
+ {
+  "id": "b3_017",
+  "topic": "Permanent advance",
+  "prompt": "What must the Head of Office do on sub-vouchers when signing a contingent bill?",
+  "tip": "He must mark the original sub-vouchers as paid so they cannot support a second claim; he is personally responsible for a second payment.",
+  "quote": {
+   "text": "He should also invariably make suitable entries on the original sub- vouchers to show that they have been paid, so that it will be impossible to use them in support of a second claim and he will be held personally responsible if a second payment is made",
+   "ref": "KFC Vol I, Art. 97",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [
+   "b3_008"
+  ],
+  "qids": [
+   "q0283"
+  ]
+ },
+ {
+  "id": "b3_018",
+  "topic": "Temporary advance",
+  "prompt": "When is Government sanction needed for a temporary advance for contingent expenditure?",
+  "tip": "When it is for a specified kind or specific occasion and is not covered by a standing sanction, an application for sanction goes to Government.",
+  "quote": {
+   "text": "When a temporary advance is considered necessary for the purpose of meeting contingent expenditure of a specified kind or on a specific occasion and it is not covered by standing sanction given by the Government, an application for sanction should be submitted to the Government.",
+   "ref": "KFC Vol I, Art. 99 Temporary advances for specified purposes",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0286"
+  ]
+ },
+ {
+  "id": "b3_019",
+  "topic": "Temporary advance",
+  "prompt": "How must a temporary advance be adjusted?",
+  "tip": "By detailed bills and vouchers as soon as possible.",
+  "quote": {
+   "text": "The advance should be adjusted by detailed bills and vouchers as soon as possible.",
+   "ref": "KFC Vol I, Art. 99",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [
+   "b3_018"
+  ],
+  "qids": [
+   "q0286"
+  ]
+ },
+ {
+  "id": "b3_020",
+  "topic": "Temporary advance",
+  "prompt": "Up to what duration may a Head of Office sanction an advance for contingent charges on tour?",
+  "tip": "Not more than the sum likely to be needed for a month or the probable duration of the tour, whichever is shorter.",
+  "quote": {
+   "text": "tents or other Government property for a month or for the probable duration of the tour, whichever is shorter.",
+   "ref": "KFC Vol I, Art. 100 Advances for contingent charges to be incurred on tour",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [
+   "b3_018"
+  ],
+  "qids": [
+   "q0286"
+  ]
+ },
+ {
+  "id": "b3_021",
+  "topic": "Contingent bills",
+  "prompt": "How are contingent charges classified for control and audit?",
+  "tip": "Into countersigned contingencies and non-countersigned contingencies.",
+  "quote": {
+   "text": "For purpose of control and audit contingent charges are grouped as follows:- 1. Countersigned contingencies; and 2. Non-countersigned contingencies.",
+   "ref": "KFC Vol I, Art. 103 Classification of contingent charges",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0283"
+  ]
+ },
+ {
+  "id": "b3_022",
+  "topic": "Contingent bills",
+  "prompt": "How are non-countersigned contingencies also known?",
+  "tip": "Non-countersigned contingencies are audited without any Controlling Authority scrutiny, so they are also called audited contingencies.",
+  "quote": {
+   "text": "without any scrutiny by a Controlling Authority and the contingencies in this category are also therefore called audited contingencies.",
+   "ref": "KFC Vol I, Art. 103",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b3_023",
+  "topic": "Contingent bills",
+  "prompt": "Are secret service sub-vouchers attached to the bills?",
+  "tip": "No. Sub-vouchers for Secret Service Expenses are not attached to the bills, and the accounts are not scrutinised by the Accountant-General.",
+  "quote": {
+   "text": "Sub-vouchers for expenditure on account of ‘Secret Service Expenses’ will not be attached to the bills and the accounts Secret Service Expenditure are not subject to scrutiny by the Accountant-General.",
+   "ref": "KFC Vol I, Art. 103",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0280"
+  ]
+ },
+ {
+  "id": "b3_024",
+  "topic": "Contingent bills",
+  "prompt": "Can a sanctioned amount be drawn in a lump sum on a contingent bill?",
+  "tip": "No. A sanction is authority to incur expenditure within limits, not an order on which money may be drawn from the Treasury.",
+  "quote": {
+   "text": "A sanction is an authority to incur certain expenditure within certain authorised limits and not an order upon which money may be drawn from the Treasury;",
+   "ref": "KFC Vol I, Art. 103 Note 4",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b3_025",
+  "topic": "Contingent bills",
+  "prompt": "How is unneeded money drawn on a contingent bill returned?",
+  "tip": "Return it by short-drawing from the next contingent bill, with a note of the date of the bill on which it was drawn.",
+  "quote": {
+   "text": "he should return the unexpended amount either by short -drawing from the next contingent bill, in which a note should be given specifying the date of the contingent bill, on which the expenditure was drawn",
+   "ref": "KFC Vol I, Art. 103 Note 5",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b3_026",
+  "topic": "Contingent registers",
+  "prompt": "What is the unit of the Contingent Register and which form is used?",
+  "tip": "The unit is the Major head of account, and the general arrangement is as in Form 10.",
+  "quote": {
+   "text": "The unit for these registers should be the Major head of account and the general arrangement should be as in Form 10.",
+   "ref": "KFC Vol I, Art. 104 Contingent Register",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0412"
+  ]
+ },
+ {
+  "id": "b3_027",
+  "topic": "Contingent registers",
+  "prompt": "Which form is the Register of recurring charges?",
+  "tip": "Form 10-A is the Register of recurring charges; Form 10 is the Register of contingent charges.",
+  "quote": {
+   "text": "10. Register of contingent charges .. 103 10-A. Register of recurring charges .. 104",
+   "ref": "KFC Vol II, Forms list (Contents)",
+   "book": "KFC_Vol2"
+  },
+  "requires": [
+   "b3_026"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b3_028",
+  "topic": "Contingent registers",
+  "prompt": "Which entries must the cashier make in the Contingent Register on payment?",
+  "tip": "The date, name of payee, amount and number of sub-vouchers.",
+  "quote": {
+   "text": "he should enter in the proper columns of the Contingent Register the date, the name of the payee, the amount and the number of sub-vouchers.",
+   "ref": "KFC Vol I, Art. 105(a)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [
+   "b3_026"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b3_029",
+  "topic": "Contingent registers",
+  "prompt": "By what date must the monthly detailed countersigned contingent bill reach the Controlling Authority?",
+  "tip": "The detailed countersigned contingent bill must reach the Controlling Authority not later than the 10th of the following month.",
+  "quote": {
+   "text": "The detailed bill should reach the Controlling Authority not later than the 10th of the month succeeding that to which it relates,",
+   "ref": "KFC Vol I, Art. 107(a)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [
+   "b3_026"
+  ],
+  "qids": []
+ },
+ {
+  "id": "b3_030",
+  "topic": "Secret service",
+  "prompt": "How are bills for secret service allotment supported?",
+  "tip": "Within the allotment the officer draws bills as needed; the bills are not supported by vouchers.",
+  "quote": {
+   "text": "Within the allotment, the officer may draw bills for such sums as may be necessary. The bills will not be supported by vouchers.",
+   "ref": "KFC Vol II, Appendix 6 para 1",
+   "book": "KFC_Vol2"
+  },
+  "requires": [],
+  "qids": [
+   "q0280"
+  ]
+ },
+ {
+  "id": "b3_031",
+  "topic": "Secret service",
+  "prompt": "What record does the secret service officer keep?",
+  "tip": "The officer keeps a secret record of expenditure and receipts, in the form of a cash book.",
+  "quote": {
+   "text": "The officer aforesaid will maintain in the form of a cash book a secret record of the expenditure and receipts if any connected with the allotment.",
+   "ref": "KFC Vol II, Appendix 6 para 3",
+   "book": "KFC_Vol2"
+  },
+  "requires": [
+   "b3_030"
+  ],
+  "qids": [
+   "q0280"
+  ]
+ },
+ {
+  "id": "b3_032",
+  "topic": "Secret service",
+  "prompt": "Who conducts the administrative audit of secret service expenditure and how often?",
+  "tip": "A controlling officer nominated by Government conducts a real administrative audit at least once in every financial year.",
+  "quote": {
+   "text": "Government will nominate a controlling officer who should conduct at least once in every financial year, a sufficiently real administrative audit of the expenditure incurred",
+   "ref": "KFC Vol II, Appendix 6 para 4",
+   "book": "KFC_Vol2"
+  },
+  "requires": [
+   "b3_030"
+  ],
+  "qids": [
+   "q0280"
+  ]
+ },
+ {
+  "id": "b3_033",
+  "topic": "Secret service",
+  "prompt": "By what date must the secret service certificate reach the Accountant-General?",
+  "tip": "Not later than 31st August following the year to which it relates.",
+  "quote": {
+   "text": "furnish a certi- ficate to the Accountant-General in the following form not later than the 31st August following the year to which it relates:—",
+   "ref": "KFC Vol II, Appendix 6 para 4",
+   "book": "KFC_Vol2"
+  },
+  "requires": [
+   "b3_030"
+  ],
+  "qids": [
+   "q0280"
+  ]
+ },
+ {
+  "id": "b3_034",
+  "topic": "Secret service",
+  "prompt": "Are secret service accounts audited?",
+  "tip": "No. They are not subjected to scrutiny by the audit authority.",
+  "quote": {
+   "text": "The accounts of secret service expenditure will not be subjected to scrutiny by the audit authority.",
+   "ref": "KFC Vol II, Appendix 6 para 5",
+   "book": "KFC_Vol2"
+  },
+  "requires": [
+   "b3_030"
+  ],
+  "qids": [
+   "q0280"
+  ]
+ },
+ {
+  "id": "b3_035",
+  "topic": "Audit objections",
+  "prompt": "Who is primarily responsible for the correctness of the amount in a pay or contingent bill?",
+  "tip": "The drawing officer is primarily responsible for the correctness of the amount drawn in each pay or contingent bill.",
+  "quote": {
+   "text": "Every Government servant who draws bills for pay and allowances or contingent expenses is primarily responsible for the correctness of the amount for which each bill is drawn .",
+   "ref": "KFC Vol I, Art. 60 Overcharges and audit objections",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0284",
+   "q0283"
+  ]
+ },
+ {
+  "id": "b3_036",
+  "topic": "Audit objections",
+  "prompt": "What is the usual limit on recovery rate from a Government servant's pay?",
+  "tip": "Ordinarily recovery should not exceed one-third of his pay.",
+  "quote": {
+   "text": "exceeding one-third of his pay unless the Government servant concerned has",
+   "ref": "KFC Vol I, Art. 62",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b3_037",
+  "topic": "Audit objections",
+  "prompt": "Within what time must audit objection slips be replied to?",
+  "tip": "Within a fortnight from the date of receipt.",
+  "quote": {
+   "text": "Objection slips/audit notes received from Audit Office should be replied to within a fortnight from the date of receipt of the objections.",
+   "ref": "KFC Vol I, Art. 63(a)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0298",
+   "q0071"
+  ]
+ },
+ {
+  "id": "b3_038",
+  "topic": "Audit objections",
+  "prompt": "What can Audit do if an objection is not replied to within one month?",
+  "tip": "The Audit Officer may direct the Treasury to refuse encashment of further bills of the same class presented by that officer.",
+  "quote": {
+   "text": "In case any objection is not replied to within one month from the date of the issue, the Audit Officer will have authority to direct the Treasury to refuse encashment of further bills of the same class presented by the officer concerned",
+   "ref": "KFC Vol I, Art. 63(a)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0298"
+  ]
+ },
+ {
+  "id": "b3_039",
+  "topic": "Audit objections",
+  "prompt": "After how long are officers with unremedied objections reported to Government?",
+  "tip": "Officers who keep objections unremedied for more than three months are reported to Government by the Audit Officer.",
+  "quote": {
+   "text": "The names of the officers who keep the objections for which they are responsible, unremedied for more than three months will be reported to Government by the Audit Officer.",
+   "ref": "KFC Vol I, Art. 63(a)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0298"
+  ]
+ },
+ {
+  "id": "b3_040",
+  "topic": "Audit objections",
+  "prompt": "In which form is the register of objections from the Accountant General kept?",
+  "tip": "In Form 4 in each office.",
+  "quote": {
+   "text": "A register should be maintained in each office in Form 4 for recording the objections communicated by the Accountant General.",
+   "ref": "KFC Vol I, Art. 63(a)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0298",
+   "q0071"
+  ]
+ },
+ {
+  "id": "b3_041",
+  "topic": "Audit objections",
+  "prompt": "How are audit objections numbered in the Audit Objection Register?",
+  "tip": "Objections are serially numbered in the Audit Objection Register by calendar year, and the numbers go in column 1.",
+  "quote": {
+   "text": "All the audit objections received in a calendar year should be serially numbered in the Audit Objection Register and these serial numbers should be entered in column 1 of the register.",
+   "ref": "KFC Vol I, Art. 63(b)(2)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0298",
+   "q0071"
+  ]
+ },
+ {
+  "id": "b3_042",
+  "topic": "Audit objections",
+  "prompt": "How many Audit Objection Registers does an office keep?",
+  "tip": "Only one register for the whole office, with one person made responsible for it.",
+  "quote": {
+   "text": "There should be only one register for the whole office and a particular person in the office should be made responsible for the maintenance of the register.",
+   "ref": "KFC Vol I, Art. 63(b)(6)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0298",
+   "q0071"
+  ]
+ },
+ {
+  "id": "b3_043",
+  "topic": "Audit objections",
+  "prompt": "How often is the Audit Objection Register reviewed and by whom?",
+  "tip": "Monthly by the Head of the Office and every fortnight by the Head Clerk, Personal Assistant or other intermediary supervising officer.",
+  "quote": {
+   "text": "The register should be reviewed monthly by the Head of the Office and every fortnight by the Head Clerk or Personal Assistant or such other intermediary supervising officer if there is any.",
+   "ref": "KFC Vol I, Art. 63(b)(7)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0298",
+   "q0071"
+  ]
+ },
+ {
+  "id": "b3_044",
+  "topic": "Audit objections",
+  "prompt": "When is an audit objection item treated as closed?",
+  "tip": "When the final reply is given to the Accountant General; its serial number is then rounded off in red ink.",
+  "quote": {
+   "text": "An item should be treated as closed when final reply is given to the Accountant General and the serial number of the item should be rounded of in red ink.",
+   "ref": "KFC Vol I, Art. 63(b)(5)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0298",
+   "q0071"
+  ]
+ },
+ {
+  "id": "b3_045",
+  "topic": "Audit objections",
+  "prompt": "Within what time must first replies to inspection reports be sent?",
+  "tip": "Within four weeks from the date of receipt of the inspection report.",
+  "quote": {
+   "text": "The first replies to inspection reports should be sent within four weeks from the date of receipt of the inspection report.",
+   "ref": "KFC Vol I, Art. 63(c) Inspection reports",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0298"
+  ]
+ },
+ {
+  "id": "b3_046",
+  "topic": "Audit objections",
+  "prompt": "Which register notes pending Inspection Reports and paras?",
+  "tip": "A register in Form 4-B is kept in every office to note pending Inspection Reports and paras.",
+  "quote": {
+   "text": "A register in Kerala Financial Code Form 4-B, Kerala Financial Code, Vol. II should be maintained in every office to note the details of the pending Inspection Reports and paras.",
+   "ref": "KFC Vol I, Art. 63(d)(i)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0298"
+  ]
+ },
+ {
+  "id": "b3_047",
+  "topic": "Audit objections",
+  "prompt": "What must the Head of Office ensure after Audit objects to a type of payment?",
+  "tip": "That a similar payment is not made before the audit objection is finally cleared.",
+  "quote": {
+   "text": "The Head of the Office should ensure that where a particular type of payment has been objected to by Audit, a similar payment is not made thereafter before the audit objection is finally cleared.",
+   "ref": "KFC Vol I, Art. 64",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0298"
+  ]
+ },
+ {
+  "id": "b3_048",
+  "topic": "Pay bills",
+  "prompt": "When do pay and other monthly recurring payments fall due?",
+  "tip": "Pay and other monthly recurring payments fall due only on the expiry of the month to which they relate.",
+  "quote": {
+   "text": "payment only on the expiry of the month to which they relate, and except",
+   "ref": "KFC Vol I, Art. 75(a)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b3_049",
+  "topic": "Pay bills",
+  "prompt": "When is an advance of a month's leave salary not allowed?",
+  "tip": "No advance of leave salary may be granted when the leave is for less than a month/30 days.",
+  "quote": {
+   "text": "No advance may be granted when the leave taken is for less than a month /30 days.",
+   "ref": "KFC Vol I, Art. 75(d)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b3_050",
+  "topic": "TA bills",
+  "prompt": "Which officers' TA bills need no countersignature?",
+  "tip": "TA bills of Ministers, the Public Service Commission Chairman and High Court Judges need no countersignature.",
+  "quote": {
+   "text": "The Travelling Allowance Bills of the following officers do not require countersignature:— (i) Ministers; (ii) Chairman, Public Service Commission; (iii) Judges of the High Court;",
+   "ref": "KFC Vol I, Art. 85(a) Note 1",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0068",
+   "q0505"
+  ]
+ },
+ {
+  "id": "b3_051",
+  "topic": "TA bills",
+  "prompt": "When must a countersigning controlling officer countersign a gazetted officer's TA bill?",
+  "tip": "Before it is paid.",
+  "quote": {
+   "text": "The Travelling Allowance Bills of Gazetted Officers requiring countersignature by Controlling Officers should be countersigned by them before they are paid.",
+   "ref": "KFC Vol I, Art. 85(a)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0068",
+   "q0505"
+  ]
+ },
+ {
+  "id": "b3_052",
+  "topic": "TA bills",
+  "prompt": "Which form is the T.A. Check register?",
+  "tip": "Form 9-B is the T.A. Check register.",
+  "quote": {
+   "text": "9-B. T. A. Check register .. 102",
+   "ref": "KFC Vol II, Forms list (Contents)",
+   "book": "KFC_Vol2"
+  },
+  "requires": [],
+  "qids": [
+   "q0068",
+   "q0505",
+   "q0301"
+  ]
+ },
+ {
+  "id": "b3_053",
+  "topic": "TA bills",
+  "prompt": "What must be checked on a new TA bill using the check register?",
+  "tip": "Entries are scrutinised to see that a claim for the same journey has not been preferred before.",
+  "quote": {
+   "text": "when a new bill is received, the entries in the register should be scrutinised to see that a claim for the same journey has not previously been preferred.",
+   "ref": "KFC Vol I, Art. 85(d)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0068",
+   "q0505"
+  ]
+ },
+ {
+  "id": "b3_054",
+  "topic": "TA advance",
+  "prompt": "What is the upper limit of a TA advance for a tour?",
+  "tip": "A TA advance must in no circumstances exceed the TA the sanctioning authority expects the officer to be entitled to for the journey.",
+  "quote": {
+   "text": "The amount advanced, should in no circumstances, exceed the amount of travelling allowance which the sanctioning authority expects the Government servant to become entitled for the journey",
+   "ref": "KFC Vol I, Art. 88",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0286"
+  ]
+ },
+ {
+  "id": "b3_055",
+  "topic": "TA advance",
+  "prompt": "By when must a TA advance be adjusted?",
+  "tip": "A TA advance must be adjusted in full in the final TA bill, drawn before the close of the month after the journey.",
+  "quote": {
+   "text": "But advances so drawn should be adjusted in full in the final Travelling Allowance bill for the month which should be drawn before the close of the month following the month in which the journey was performed",
+   "ref": "KFC Vol I, Art. 88",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0286"
+  ]
+ },
+ {
+  "id": "b3_056",
+  "topic": "Works",
+  "prompt": "What are original works?",
+  "tip": "All new construction, additions and alterations, and reconstruction of whole structures needed after wear and tear or calamity damage.",
+  "quote": {
+   "text": "Original works include all new construction, whether of entirely new works or of additions and alterations to existing works, reconstruction of entire structures necessitated by wear and tear or by damage due to some calamity",
+   "ref": "KFC Vol I, Art. 164 Classification of works",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0024"
+  ]
+ },
+ {
+  "id": "b3_057",
+  "topic": "Works",
+  "prompt": "What are repairs and maintenance works?",
+  "tip": "Operations to keep existing properties in satisfactory state and make good wear and tear damage when complete reconstruction is not necessary.",
+  "quote": {
+   "text": "Repairs and maintenance include all the operations required from time to time to maintain existing properties in a satisfactory state and make good the damage due to wear and tear, when complete reconstruction is not necessary.",
+   "ref": "KFC Vol I, Art. 164",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0024"
+  ]
+ },
+ {
+  "id": "b3_058",
+  "topic": "Works",
+  "prompt": "How are repairs further classified?",
+  "tip": "As ordinary repairs and special repairs.",
+  "quote": {
+   "text": "Repairs are further classified as “ordinary repairs” and “special repairs”.",
+   "ref": "KFC Vol I, Art. 164",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0024"
+  ]
+ },
+ {
+  "id": "b3_059",
+  "topic": "Works",
+  "prompt": "How is a mixed work (part original, part repair) treated for sanction?",
+  "tip": "It is treated as an original work for deciding the competent sanctioning authority.",
+  "quote": {
+   "text": "A mixed work of this kind should, for the purpose of determining the authority competent to sanction it, be treated as an original work.",
+   "ref": "KFC Vol I, Art. 164",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0024"
+  ]
+ },
+ {
+  "id": "b3_060",
+  "topic": "Works",
+  "prompt": "What is Administrative Approval?",
+  "tip": "Formal acceptance by an administrative department of a proposal that the PWD incur a specified amount on a specified work.",
+  "quote": {
+   "text": "“Administrative Approval” means the formal acceptance by an administrative department of a proposal that the Public Works Department should incur a specified amount of expenditure on a specified work",
+   "ref": "KFC Vol I, Art. 2 Definitions",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0388"
+  ]
+ },
+ {
+  "id": "b3_061",
+  "topic": "Works",
+  "prompt": "What is Technical Sanction?",
+  "tip": "The order of a competent authority sanctioning a properly detailed estimate of cost of a construction or repair work to be done by the PWD.",
+  "quote": {
+   "text": "“Technical Sanction” means the order of a competent authority sanctioning a properly detailed estimate of the cost of a work of construction or repair to be carried out by the Public Works Department.",
+   "ref": "KFC Vol I, Art. 2 Definitions",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0388"
+  ]
+ },
+ {
+  "id": "b3_062",
+  "topic": "Works",
+  "prompt": "Can a work be started before an estimate is sanctioned?",
+  "tip": "No. No work may be started before a proper estimate is prepared and sanctioned by the competent authority.",
+  "quote": {
+   "text": "No work may be started before a proper estimate for it has been prepared and sanctioned by the competent authority,",
+   "ref": "KFC Vol I, Art. 173(a)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0278"
+  ]
+ },
+ {
+  "id": "b3_063",
+  "topic": "Works",
+  "prompt": "Can estimate rates be told to contractors?",
+  "tip": "No. Rate and amount in an estimate are strictly confidential and must not be told to any contractor, piece-worker or prospective tenderer.",
+  "quote": {
+   "text": "No information concerning them may be communicated on any account to any contractor, piece-worker or prospective tenderer.",
+   "ref": "KFC Vol I, Art. 175",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0278"
+  ]
+ },
+ {
+  "id": "b3_064",
+  "topic": "Works",
+  "prompt": "What share of a work's cost makes an abandoned section substantial?",
+  "tip": "If the abandoned section's estimated cost is not less than 5 per cent of the total sanctioned cost.",
+  "quote": {
+   "text": "If the estimated cost of a section which is abandoned is not less than 5 per cent of the total sanctioned cost of a work, it should be treated as amounting to the abandonment of a substantial section of the works.",
+   "ref": "KFC Vol I, Art. 176(b)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b3_065",
+  "topic": "Works",
+  "prompt": "How many methods of executing works exist?",
+  "tip": "Five: departmental daily labour, piece-work agreement, schedule contract, lump sum contract and percentage rate contract.",
+  "quote": {
+   "text": "Works are executed by one of the undermentioned five methods— (i) departmentally by the employment of daily labour, (ii) by piece-work agreement, (iii) by schedule contract, (iv) by lump sum contract, and (v) by percentage rate contract.",
+   "ref": "KFC Vol I, Art. 178 Method of executing works",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b3_066",
+  "topic": "Works",
+  "prompt": "Which form is the Measurement Book?",
+  "tip": "Measurement Book is Form K.P.W. 21; it is the original record of actual measurement or count.",
+  "quote": {
+   "text": "should be paid for on the basis of measurements recorded in a Measurement Book, Form K. P. W. 21. The measurement book is the original record of actual measurement or count.",
+   "ref": "KFC Vol I, Art. 189(a)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b3_067",
+  "topic": "Works",
+  "prompt": "When a Measurement Book changes hands, who must acknowledge receipt?",
+  "tip": "A responsible person not below the grade of a clerk, in writing.",
+  "quote": {
+   "text": "some responsible person of a grade not below that of a clerk should acknowledge receipt of it in writing.",
+   "ref": "KFC Vol I, Art. 189(b)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b3_068",
+  "topic": "Works",
+  "prompt": "Are erasures allowed in the Measurement Book?",
+  "tip": "No erasures. A mistake is corrected and attested by the dated initials of the responsible servant.",
+  "quote": {
+   "text": "No erasures is permitted. If a mistake is made the Government servant who is responsible should correct it and attest the correction by his dated initials.",
+   "ref": "KFC Vol I, Art. 190(6)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b3_069",
+  "topic": "Works",
+  "prompt": "What is done in the Measurement Book at payment?",
+  "tip": "The authorising servant draws a diagonal red ink line across the pages and notes the voucher number and date in the abstract.",
+  "quote": {
+   "text": "At the time of payment, the Government servant who authorises payment should draw a diagonal red ink line across every page containing the detailed measurements",
+   "ref": "KFC Vol I, Art. 190(9)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b3_070",
+  "topic": "Works",
+  "prompt": "Who can demand the production of a Measurement Book?",
+  "tip": "The Accountant General or a duly authorised member of his staff may ask for it for inspection.",
+  "quote": {
+   "text": "The measurement book should be produced for inspection on request by the Accountant General or a duly authorised member of his staff.",
+   "ref": "KFC Vol I, Art. 190(10)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b3_071",
+  "topic": "Works",
+  "prompt": "Can an advance be paid to a contractor?",
+  "tip": "Only with special sanction of Government or a competent authority to whom power is delegated.",
+  "quote": {
+   "text": "No advance should be paid to a contractor except with the special sanction of the Government or of a competent authority",
+   "ref": "KFC Vol I, Art. 192(a)",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b3_072",
+  "topic": "Stores",
+  "prompt": "Above what value must tenders be invited for stores?",
+  "tip": "Tenders should be invited if the estimated value of the stores to be purchased is Rs. 10,000 or above.",
+  "quote": {
+   "text": "Tenders should be invited, if the estimated value of the stores to be purchased is Rs. 10,000 or above.",
+   "ref": "KFC Vol I, Art. 126(b) Tender system",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0278"
+  ]
+ },
+ {
+  "id": "b3_073",
+  "topic": "Stores",
+  "prompt": "What is the earnest money rate for tenders?",
+  "tip": "Earnest money is ordinarily taken for tenders of Rs. 10,000 or more; for special tenders it is 1 per cent of the total cost.",
+  "quote": {
+   "text": "A cash deposit as earnest money should ordinarily be taken for every tender involving Rs.10,000 or more and for special tenders the amount being 1 per cent (rounded to the nearest rupee) of the total cost of the articles tendered for.",
+   "ref": "KFC Vol I, Art. 132 Earnest money deposit",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0302",
+   "q0278"
+  ]
+ },
+ {
+  "id": "b3_074",
+  "topic": "Losses",
+  "prompt": "For what losses is a Government servant held personally responsible?",
+  "tip": "Loss through his fraud or negligence, and loss through another's fraud or negligence to the extent he contributed by his own action or negligence.",
+  "quote": {
+   "text": "The Government will hold a Government servant personally responsible for any loss sustained by the Government through fraud or negligence on his part,",
+   "ref": "KFC Vol I, Art. 283 General",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b3_075",
+  "topic": "Losses",
+  "prompt": "Who must a Government servant inform on noticing a loss or defalcation?",
+  "tip": "Any Government servant who notices a defalcation or loss must inform the head of the office immediately.",
+  "quote": {
+   "text": "he should inform the head of the office immediately.",
+   "ref": "KFC Vol I, Art. 297 Report of losses",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b3_076",
+  "topic": "Losses",
+  "prompt": "To whom does the Head of Office send the preliminary loss report?",
+  "tip": "To the Accountant General and, through the proper channel, to the Head of the Department, immediately.",
+  "quote": {
+   "text": "he should send a preliminary report immediately to the Accountant General and through the proper channel, to the Head of the Department.",
+   "ref": "KFC Vol I, Art. 297",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b3_077",
+  "topic": "Losses",
+  "prompt": "Up to what amount do petty losses need reports only to the write-off authority?",
+  "tip": "A petty loss not exceeding Rs. 300 with no embezzlement or serious irregularity is reported only to the authority competent to write it off.",
+  "quote": {
+   "text": "When a petty loss not exceeding Rs. 300 does not appear to involve an embezzlement, a serious account irregularity or any other important feature requiring detailed investigation and consideration, or concern the Reserve Bank, the preliminary and final reports prescribed in this Article need only be sent to the authority competent to write off the loss or deal with it otherwise.",
+   "ref": "KFC Vol I, Art. 297",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": [
+   "q0419"
+  ]
+ },
+ {
+  "id": "b3_078",
+  "topic": "Losses",
+  "prompt": "How must losses of stores be dealt with?",
+  "tip": "All store losses must be recorded in the stock accounts and the competent authority's formal sanction obtained to write them off.",
+  "quote": {
+   "text": "All losses in respect of stores should be duly recorded in the stock accounts and the formal sanction of the competent authority should be obtained for writing them off",
+   "ref": "KFC Vol I, Art. 301 Loss of stores",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b3_079",
+  "topic": "Losses",
+  "prompt": "When need damaged immovable property value not be written off?",
+  "tip": "If restoration of the damaged portion begins within two years from the date of damage.",
+  "quote": {
+   "text": "the value of the damaged portion need not be written off the accounts, if the restoration of the damaged portion is commenced within the period of two years from the date of damage.",
+   "ref": "KFC Vol I, Art. 302",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": []
+ },
+ {
+  "id": "b3_080",
+  "topic": "Losses",
+  "prompt": "How often must securities held by a department be verified?",
+  "tip": "Every departmental authority verifies all securities periodically, and at least once a year in May.",
+  "quote": {
+   "text": "Every departmental authority should verify periodically, and at least once a year in May all securities which it has taken",
+   "ref": "KFC Vol I, Art. 293 Periodical verification of all securities",
+   "book": "KFC_Vol1_7th_ed"
+  },
+  "requires": [],
+  "qids": []
+ }
+]
