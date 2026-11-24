@@ -1,0 +1,731 @@
+{
+ "p-01": {
+  "remember": [
+   "Pension payment orders are issued only by an Accountant General (except military pensions).",
+   "Register of PPOs: Form T.R. 80. PPO has two halves: disburser's half and pensioner's half.",
+   "Pension for the whole month of death; family pension from the 1st of the next month. Undrawn over one year: pension ceases."
+  ],
+  "questions": [
+   {
+    "q": "Who issues Pension Payment Orders?",
+    "options": [
+     "An Accountant-General",
+     "The Director of Treasuries",
+     "The Treasury Officer",
+     "The Finance Secretary"
+    ],
+    "answer": 0,
+    "why": "Pensions are paid only on PPOs issued by an Accountant-General (KTC Rule 272(aa))."
+   },
+   {
+    "q": "In which form does the Treasury Officer keep the register of Pension Payment Orders?",
+    "options": [
+     "Form T.R. 29",
+     "Form T.R. 80",
+     "Form T.R. 37",
+     "Form T.R. 19"
+    ],
+    "answer": 1,
+    "why": "The register of PPOs issued on his treasury is in Form T.R. 80 (KTC Rule 273(a))."
+   },
+   {
+    "q": "A pensioner dies in the middle of a month. For how much of that month is pension payable?",
+    "options": [
+     "Up to the date of death only",
+     "Half of the month",
+     "The whole month",
+     "Up to the end of the week of death"
+    ],
+    "answer": 2,
+    "why": "Pension is payable for the whole month of death, whatever the date (KTC Rule 298)."
+   },
+   {
+    "q": "From when does family pension commence after the pensioner's death?",
+    "options": [
+     "Date of death",
+     "First day of the month of death",
+     "Fifteen days after death",
+     "First day of the month following the month of death"
+    ],
+    "answer": 3,
+    "why": "Family pension starts from the first day of the month following the death (KTC Rule 298)."
+   },
+   {
+    "q": "After how long does an undrawn pension payable in India cease to be payable?",
+    "options": [
+     "More than one year",
+     "More than six months",
+     "More than two years",
+     "More than three months"
+    ],
+    "answer": 0,
+    "why": "Pension undrawn for more than one year ceases to be payable (KTC Rule 294(a))."
+   }
+  ]
+ },
+ "p-02": {
+  "remember": [
+   "Annual life certificate: produced in December; otherwise January and later pensions are held up.",
+   "Money order pensioner: existence verified once in three years. Duplicate PPO fee: Rs 5.",
+   "Political pension undrawn for six years ceases without Accountant General sanction."
+  ],
+  "questions": [
+   {
+    "q": "In which month must a pensioner who does not appear produce the annual life certificate?",
+    "options": [
+     "March",
+     "December",
+     "June",
+     "January"
+    ],
+    "answer": 1,
+    "why": "The certificate is produced every December, failing which January pension is held up (KTC Rule 280(a))."
+   },
+   {
+    "q": "How often must the disbursing officer satisfy himself of the existence of a money order pensioner?",
+    "options": [
+     "Once every year",
+     "Once in six months",
+     "Once in three years",
+     "Once in five years"
+    ],
+    "answer": 2,
+    "why": "Continued existence is checked once in three years (KTC Rule 286(vii))."
+   },
+   {
+    "q": "What fee is levied before a duplicate Pension Payment Order is issued?",
+    "options": [
+     "Rs 10",
+     "Rs 50",
+     "Rs 2",
+     "Rs 5"
+    ],
+    "answer": 3,
+    "why": "A fee of Rs 5 is levied on the pensioner (KTC Rule 293(a))."
+   },
+   {
+    "q": "A political pension not drawn for how many years ceases without the Accountant General's sanction?",
+    "options": [
+     "Six years",
+     "One year",
+     "Three years",
+     "Ten years"
+    ],
+    "answer": 0,
+    "why": "A political pension undrawn for six years ceases without prior AG sanction (KTC Rule 297(a))."
+   },
+   {
+    "q": "Which pension is paid in consideration of past employment under the Government of India or a State?",
+    "options": [
+     "Political pension",
+     "Service pension",
+     "Compassionate pension",
+     "Honorary pension"
+    ],
+    "answer": 1,
+    "why": "This is the definition of service pension in KTC Rule 271."
+   }
+  ]
+ },
+ "p-03": {
+  "remember": [
+   "A bill or cheque is endorsed only once. Contingent bill endorsement lapses after three months or at year end, whichever is earlier.",
+   "Advice for endorsed contingent bill: Form T.R. 106. AG enfaced bill not paid after three months.",
+   "Last Pay Certificate needed for first payment in a district (not for newly appointed); no pay drawn after LPC issued unless surrendered."
+  ],
+  "questions": [
+   {
+    "q": "How many times can a bill or cheque normally be endorsed?",
+    "options": [
+     "Twice",
+     "Three times",
+     "Only once",
+     "Any number of times"
+    ],
+    "answer": 2,
+    "why": "It can be endorsed only once in favour of the party to be paid (KTC Rule 163(q))."
+   },
+   {
+    "q": "When does an endorsement on a contingent bill lapse?",
+    "options": [
+     "Six months after endorsement",
+     "One month after endorsement",
+     "At the end of the financial year only",
+     "Three months after endorsement or at end of the financial year, whichever is earlier"
+    ],
+    "answer": 3,
+    "why": "Rule 210(i): lapses at three months or year end, whichever is earlier."
+   },
+   {
+    "q": "In which form is the advice sent to the Treasury Officer for a contingent bill endorsed to a private party?",
+    "options": [
+     "Form T.R. 106",
+     "Form T.R. 80",
+     "Form T.R. 38",
+     "Form T.R. 1"
+    ],
+    "answer": 0,
+    "why": "The drawing officer issues the advice in Form T.R. 106 (KTC Rule 188(viii))."
+   },
+   {
+    "q": "Where is a payment, in general, made for a claim?",
+    "options": [
+     "At the State headquarters",
+     "In the district in which the claim arises",
+     "At the Accountant General's office",
+     "In any district the claimant chooses"
+    ],
+    "answer": 1,
+    "why": "Payment is made in the district where the claim arises unless Government orders otherwise (KTC Rule 17)."
+   },
+   {
+    "q": "A bill enfaced by the Accountant General presented after how long should not be paid?",
+    "options": [
+     "One month after enfacement",
+     "Six months after enfacement",
+     "Three months after enfacement",
+     "Twelve months after enfacement"
+    ],
+    "answer": 2,
+    "why": "It should not be paid if presented three months after enfacement (KTC Rule 210)."
+   }
+  ]
+ },
+ "p-04": {
+  "remember": [
+   "Director of Treasuries verifies each district treasury cash balance at least once in three months, without notice.",
+   "DTO verifies balance in person on the 1st of each month; never more than two consecutive months skipped. Cash monthly; stamps, opium, ganja six-monthly.",
+   "Sub Treasury Officer: at least twice a month. DTO verifies banking sub treasuries once in three months. Relieving officer reports in Form T.R.1."
+  ],
+  "questions": [
+   {
+    "q": "How often must the Director of Treasuries verify each district treasury's cash balance?",
+    "options": [
+     "Once every month",
+     "Once in six months",
+     "Once a year",
+     "At least once in three months"
+    ],
+    "answer": 3,
+    "why": "Verification is without prior intimation to staff (KTC Rule 42)."
+   },
+   {
+    "q": "On which day must the Treasury Officer verify the district treasury balance in person?",
+    "options": [
+     "The first of each month",
+     "The last day of each month",
+     "The fifteenth of each month",
+     "Every Monday"
+    ],
+    "answer": 0,
+    "why": "KTC Rule 47: in person on the first of each month."
+   },
+   {
+    "q": "How many consecutive months may pass without the Treasury Officer verifying the monthly closing balance?",
+    "options": [
+     "Not more than one",
+     "Not more than two",
+     "Not more than three",
+     "Not more than six"
+    ],
+    "answer": 1,
+    "why": "In no case more than two consecutive months (KTC Rule 47)."
+   },
+   {
+    "q": "How often are stamps, opium and ganja verified by the Treasury Officer?",
+    "options": [
+     "Once in every month",
+     "Once in every three months",
+     "Once in every six months",
+     "Once in every year"
+    ],
+    "answer": 2,
+    "why": "Cash monthly; stamps, opium, ganja every six months (KTC Rule 46(1))."
+   },
+   {
+    "q": "How often must the Sub Treasury Officer verify the sub treasury cash balance?",
+    "options": [
+     "At least once a month",
+     "At least once in three months",
+     "Every day",
+     "At least twice a month"
+    ],
+    "answer": 3,
+    "why": "KTC Rule 60: at least twice a month."
+   }
+  ]
+ },
+ "p-05": {
+  "remember": [
+   "Currency chest contents belong to the Reserve Bank; Government is responsible for them.",
+   "Every transaction in even hundreds of rupees. Currency chest book: Form T.R. 37, kept three complete financial years after use.",
+   "Daily slip: Form T.R. 38 to Currency Officer, Madras. Balance verified at close of each month."
+  ],
+  "questions": [
+   {
+    "q": "Whose property are the contents of the currency chest?",
+    "options": [
+     "The Reserve Bank's",
+     "The State Government's",
+     "The Accountant General's",
+     "The Treasury Officer's"
+    ],
+    "answer": 0,
+    "why": "They belong to the Reserve Bank, but Government is responsible for them (KTC Rule 135 Note 1)."
+   },
+   {
+    "q": "Every currency chest transaction should be in what value?",
+    "options": [
+     "Even thousands of rupees",
+     "Even hundreds of rupees",
+     "Even tens of rupees",
+     "Any amount"
+    ],
+    "answer": 1,
+    "why": "KTC Rule 152(i)."
+   },
+   {
+    "q": "Which form is the currency chest book?",
+    "options": [
+     "Form T.R. 38",
+     "Form T.R. 29",
+     "Form T.R. 37",
+     "Form T.R. 19"
+    ],
+    "answer": 2,
+    "why": "The book in Form T.R. 37 is signed at every transaction by officials in joint charge (KTC Rule 152(iii))."
+   },
+   {
+    "q": "How long is a currency chest book retained after it ceases to be in use?",
+    "options": [
+     "One financial year",
+     "Five financial years",
+     "Six months",
+     "Three complete financial years"
+    ],
+    "answer": 3,
+    "why": "KTC Rule 152 Note 2."
+   },
+   {
+    "q": "To whom is the daily currency chest slip in Form T.R. 38 sent?",
+    "options": [
+     "The Currency Officer, Madras",
+     "The Accountant General",
+     "The Director of Treasuries",
+     "The District Collector"
+    ],
+    "answer": 0,
+    "why": "It is sent when the treasury closes for the day (KTC Rule 152(v))."
+   }
+  ]
+ },
+ "p-06": {
+  "remember": [
+   "A PWD officer not below Executive Engineer must certify a strong room secure.",
+   "Strong room inspected annually; Treasury Officer obtains a safety certificate.",
+   "Executive Engineer responsible for building and fixtures; Treasury Officer for chests and furniture. Doors and windows kept closed and locked."
+  ],
+  "questions": [
+   {
+    "q": "Who must certify a place as secure and fit for a strong room?",
+    "options": [
+     "An Assistant Engineer",
+     "A PWD officer not lower than an Executive Engineer",
+     "The District Collector",
+     "The Accountant General"
+    ],
+    "answer": 1,
+    "why": "KTC Rule 136(a)."
+   },
+   {
+    "q": "How often must every strong room be inspected?",
+    "options": [
+     "Every month",
+     "Every three months",
+     "Annually",
+     "Every five years"
+    ],
+    "answer": 2,
+    "why": "Inspected annually, and the Treasury Officer obtains a safety certificate (KTC Rule 136(c))."
+   },
+   {
+    "q": "Who is responsible for the security of the strong room building and its fixtures?",
+    "options": [
+     "The Treasury Officer",
+     "The Chief Treasurer",
+     "The Director of Treasuries",
+     "The Executive Engineer"
+    ],
+    "answer": 3,
+    "why": "KTC Rule 136(d); the Treasury Officer is responsible for chests and furniture."
+   },
+   {
+    "q": "When may the doors and windows of the strong room be open?",
+    "options": [
+     "Only while moving coin or valuables in or out",
+     "During all office hours",
+     "Whenever the Treasury Officer is present",
+     "One hour every morning"
+    ],
+    "answer": 0,
+    "why": "They stay permanently closed and locked otherwise (KTC Rule 136(f))."
+   }
+  ]
+ },
+ "p-07": {
+  "remember": [
+   "Anamath Balance Register: Form T.R. 19, kept by the treasurer.",
+   "Treasury Officer verifies the anamath balance every evening.",
+   "No money in strong room unless paid into Government account. No anamath for want of information or pending confirmation of sale."
+  ],
+  "questions": [
+   {
+    "q": "In which form is the Anamath Balance Register kept?",
+    "options": [
+     "Form T.R. 29",
+     "Form T.R. 19",
+     "Form T.R. 37",
+     "Form T.R. 80"
+    ],
+    "answer": 1,
+    "why": "The treasurer maintains it (KTC Rule 114)."
+   },
+   {
+    "q": "When does the Treasury Officer verify the anamath balance?",
+    "options": [
+     "Every morning",
+     "Once a week",
+     "Every evening",
+     "Once a month"
+    ],
+    "answer": 2,
+    "why": "KTC Rule 118."
+   },
+   {
+    "q": "As a general rule, what money may be kept in a treasury strong room?",
+    "options": [
+     "Any money received by the treasury",
+     "Only private deposits",
+     "Only anamath money",
+     "Only money paid into the Government account and forming part of the treasury balance"
+    ],
+    "answer": 3,
+    "why": "KTC Rule 114."
+   },
+   {
+    "q": "Can money sent for payment into the Government account be kept in anamath for want of information on its nature?",
+    "options": [
+     "No",
+     "Yes, for one month",
+     "Yes, with the Treasury Officer's order",
+     "Yes, until the Accountant General replies"
+    ],
+    "answer": 0,
+    "why": "Money must not be so kept, nor pending confirmation of a sale (KTC Rule 118)."
+   }
+  ]
+ },
+ "p-08": {
+  "remember": [
+   "A cheque remains current only three months from issue.",
+   "Lost cheque: report at once to the Treasury Officer to stop payment. New cheque only after his signed certificate and cancelling the original.",
+   "Drawing officer cancels a cheque unpaid for twelve months."
+  ],
+  "questions": [
+   {
+    "q": "For how long does a cheque remain current?",
+    "options": [
+     "One month",
+     "Three months from the date of issue",
+     "Six months",
+     "Twelve months"
+    ],
+    "answer": 1,
+    "why": "KTC Rule 245(b)."
+   },
+   {
+    "q": "On learning a cheque is lost, what must the drawing officer do?",
+    "options": [
+     "Wait for three months",
+     "Issue a new cheque immediately",
+     "Report at once to the Treasury Officer and request stoppage of payment",
+     "Report to the Accountant General only"
+    ],
+    "answer": 2,
+    "why": "KTC Rule 250."
+   },
+   {
+    "q": "When may a new cheque be issued in place of a lost one?",
+    "options": [
+     "Immediately after reporting the loss",
+     "After six months",
+     "After the Accountant General's order",
+     "After the Treasury Officer's signed certificate and cancelling the original"
+    ],
+    "answer": 3,
+    "why": "KTC Rule 250."
+   },
+   {
+    "q": "After how long must the drawing officer cancel an unpaid cheque?",
+    "options": [
+     "Twelve months from date of issue",
+     "Three months",
+     "Six months",
+     "Two years"
+    ],
+    "answer": 0,
+    "why": "KTC Rule 251."
+   }
+  ]
+ },
+ "p-09": {
+  "remember": [
+   "Earnest money deposit is never repaid in part.",
+   "Revenue deposit repaid only on order of the court or authority that ordered its acceptance.",
+   "Repayment order for revenue or criminal court deposit: not paid after year end or three months, whichever is earlier."
+  ],
+  "questions": [
+   {
+    "q": "Can an earnest money deposit be repaid in part?",
+    "options": [
+     "Yes, up to half",
+     "No, never",
+     "Yes, with Treasury Officer's approval",
+     "Yes, once a year"
+    ],
+    "answer": 1,
+    "why": "KTC Rule 210(q)."
+   },
+   {
+    "q": "On whose order is a revenue deposit repaid?",
+    "options": [
+     "The Treasury Officer",
+     "The Accountant General",
+     "The court or authority that ordered its acceptance",
+     "The Director of Treasuries"
+    ],
+    "answer": 2,
+    "why": "KTC Rule 205(a)."
+   },
+   {
+    "q": "Within what time must a repayment order for a revenue or criminal court deposit be paid?",
+    "options": [
+     "Within one month of issue",
+     "Within six months of issue",
+     "Within twelve months of issue",
+     "Before year end or three months from issue, whichever is earlier"
+    ],
+    "answer": 3,
+    "why": "KTC Rule 207."
+   }
+  ]
+ },
+ "p-10": {
+  "remember": [
+   "District strong room has two padlocks: Treasury Officer holds one key, Chief Treasurer the other.",
+   "At final closing, each officer puts his key in a leather bag sealed by a subordinate.",
+   "Both the official seal and the Treasury Officer's private seal are affixed to each bag."
+  ],
+  "questions": [
+   {
+    "q": "Who holds the keys of the two padlocks of a district treasury strong room?",
+    "options": [
+     "Treasury Officer and Chief Treasurer",
+     "Treasury Officer and Accountant General",
+     "Chief Treasurer and Executive Engineer",
+     "Treasury Officer and Sub Treasury Officer"
+    ],
+    "answer": 0,
+    "why": "KTC Rule 135(a)."
+   },
+   {
+    "q": "In what is each key placed when the strong room is finally closed for the day?",
+    "options": [
+     "A steel box",
+     "A leather bag",
+     "A cloth purse",
+     "A locked drawer"
+    ],
+    "answer": 1,
+    "why": "The bag is sealed by a subordinate in presence of both officers (KTC Rule 135(a))."
+   },
+   {
+    "q": "Which seals are affixed to each key bag?",
+    "options": [
+     "Only the official seal",
+     "Only the Treasury Officer's private seal",
+     "The official seal and the Treasury Officer's private seal",
+     "The Chief Treasurer's seal and the official seal"
+    ],
+    "answer": 2,
+    "why": "KTC Rule 135(a)."
+   }
+  ]
+ },
+ "p-11": {
+  "remember": [
+   "Register of padlocks and keys: Form T.R. 29, kept in the district treasury strong room.",
+   "It covers the district treasury and its sub treasuries.",
+   "Lost key: report at once to the Director of Treasuries and send padlock for lever alteration and new keys."
+  ],
+  "questions": [
+   {
+    "q": "In which form is the register of padlocks and keys kept?",
+    "options": [
+     "Form T.R. 19",
+     "Form T.R. 37",
+     "Form T.R. 106",
+     "Form T.R. 29"
+    ],
+    "answer": 3,
+    "why": "KTC Rule 137(a)."
+   },
+   {
+    "q": "Where is the register of padlocks and keys kept?",
+    "options": [
+     "In the district treasury strong room",
+     "With the Accountant General",
+     "In the Treasury Officer's house",
+     "In the sub treasury office"
+    ],
+    "answer": 0,
+    "why": "KTC Rule 137(a)."
+   },
+   {
+    "q": "If a treasury padlock key is lost, whom must the Treasury Officer report to at once?",
+    "options": [
+     "The Accountant General",
+     "The Director of Treasuries",
+     "The District Collector",
+     "The Executive Engineer"
+    ],
+    "answer": 1,
+    "why": "He also sends the padlock for lever alteration and new keys (KTC Rule 137(c))."
+   }
+  ]
+ },
+ "p-12": {
+  "remember": [
+   "Never more than one double lock receptacle unlocked at a time.",
+   "It must not stay open longer than necessary.",
+   "Balance is proved when money moves between double locks and single lock, or double locks and the currency chest."
+  ],
+  "questions": [
+   {
+    "q": "How many double lock receptacles may be kept unlocked at one time?",
+    "options": [
+     "Two",
+     "Three",
+     "Not more than one",
+     "As many as needed"
+    ],
+    "answer": 2,
+    "why": "KTC Rule 139(d)."
+   },
+   {
+    "q": "When must the Treasury Officer prove the balance?",
+    "options": [
+     "Only at month end",
+     "Only when the Director inspects",
+     "Only when a key is lost",
+     "When money moves between double locks and single lock or currency chest"
+    ],
+    "answer": 3,
+    "why": "KTC Rule 139(h)."
+   },
+   {
+    "q": "How long may a double lock receptacle be kept open?",
+    "options": [
+     "No longer than necessary",
+     "Until the end of the day",
+     "For one hour",
+     "Throughout office hours"
+    ],
+    "answer": 0,
+    "why": "KTC Rule 139(d)."
+   }
+  ]
+ },
+ "p-13": {
+  "remember": [
+   "Cash held by the Treasurer in separate custody should not ordinarily exceed Rs 5,000.",
+   "Requests for a larger sum must be carefully scrutinised by the Treasury Officer."
+  ],
+  "questions": [
+   {
+    "q": "What is the usual limit of cash the Treasurer may hold in separate custody?",
+    "options": [
+     "Rs 500",
+     "Rs 5,000",
+     "Rs 50,000",
+     "Rs 1,000"
+    ],
+    "answer": 1,
+    "why": "The amount should not ordinarily exceed Rs 5,000 (KTC Rule 135(b))."
+   },
+   {
+    "q": "Who sees that the Treasurer's separate custody amount does not exceed the limit?",
+    "options": [
+     "The Accountant General",
+     "The Chief Treasurer",
+     "The Treasury Officer",
+     "The Executive Engineer"
+    ],
+    "answer": 2,
+    "why": "KTC Rule 135(b)."
+   },
+   {
+    "q": "How should a Treasurer's request for a larger sum be treated?",
+    "options": [
+     "Granted automatically",
+     "Always refused",
+     "Referred to the Reserve Bank",
+     "Carefully scrutinised"
+    ],
+    "answer": 3,
+    "why": "KTC Rule 135(b)."
+   }
+  ]
+ },
+ "p-14": {
+  "remember": [
+   "The bulk of the treasury cash balance is the main store or double lock balance.",
+   "It is kept in the treasury strong room under double locks."
+  ],
+  "questions": [
+   {
+    "q": "What is the bulk of the treasury cash balance generally known as?",
+    "options": [
+     "Main store or double lock balance",
+     "Single lock balance",
+     "Anamath balance",
+     "Imprest balance"
+    ],
+    "answer": 0,
+    "why": "KTC Rule 135(a)."
+   },
+   {
+    "q": "Where is the main store of the treasury cash balance kept?",
+    "options": [
+     "With the Treasurer",
+     "In the treasury strong room",
+     "In the Reserve Bank",
+     "In the sub treasury"
+    ],
+    "answer": 1,
+    "why": "KTC Rule 135(a)."
+   },
+   {
+    "q": "Under what kind of locks is the main store kept?",
+    "options": [
+     "Single lock",
+     "Padlock with one key",
+     "Double locks",
+     "Combination lock"
+    ],
+    "answer": 2,
+    "why": "KTC Rule 135(a)."
+   }
+  ]
+ }
+}

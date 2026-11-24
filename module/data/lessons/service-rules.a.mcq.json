@@ -1,0 +1,928 @@
+{
+ "servi-01": {
+  "remember": [
+   "Promotion needs satisfactory completion of probation in the category (except Heads of Departments).",
+   "Promotion is on merit and ability; seniority counts only when merit is about equal.",
+   "DPC: PSC member is Chairman, appointing authority is Convener. Last 3 years' confidential reports are used."
+  ],
+  "questions": [
+   {
+    "q": "Who is the Convener of a Departmental Promotion Committee?",
+    "options": [
+     "A member of the PSC",
+     "The appointing authority",
+     "The Head of Department",
+     "The Chief Secretary"
+    ],
+    "answer": 1,
+    "why": "KSSSR Part II, Rule 28(b)(i)(3): a PSC member is Chairman; the appointing authority is Convener."
+   },
+   {
+    "q": "For how many preceding years must confidential reports be made available to the DPC?",
+    "options": [
+     "At least three years",
+     "At least one year",
+     "At least two years",
+     "At least five years"
+    ],
+    "answer": 0,
+    "why": "KSSSR Part II, Rule 28(b)(i)(4): reports for at least the preceding three years."
+   },
+   {
+    "q": "Seniority is considered in promotion only when:",
+    "options": [
+     "Merit is the lowest",
+     "The officer asks for it",
+     "The vacancy is a single post",
+     "Merit and ability are approximately equal"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part II, Rule 28(b)(i): merit and ability first, seniority only when approximately equal."
+   },
+   {
+    "q": "Who is exempt from the rule that probation must be completed before promotion?",
+    "options": [
+     "Appointment to Last Grade posts",
+     "Appointment to teaching posts",
+     "Appointment to posts of Heads of Departments",
+     "Appointment by transfer"
+    ],
+    "answer": 2,
+    "why": "KSSSR Part II, Rule 28(a)(i): exception is for appointment to posts of Heads of Departments."
+   },
+   {
+    "q": "Select lists are prepared in a calendar year for vacancies estimated in:",
+    "options": [
+     "The same calendar year",
+     "The next calendar year",
+     "The next two years",
+     "The previous year"
+    ],
+    "answer": 1,
+    "why": "KSSSR Part II, Rule 28(b)(i)(4)(a)."
+   }
+  ]
+ },
+ "servi-02": {
+  "remember": [
+   "Confidential reports and seniority lists made up to date before 30th June.",
+   "Select lists notified before 30th November, in any case not later than 31st December.",
+   "Field of choice: thrice (at least twice) the vacancies plus superseded officers; names in list equal estimated vacancies, ranked by seniority."
+  ],
+  "questions": [
+   {
+    "q": "Confidential reports and seniority lists must be made up to date before:",
+    "options": [
+     "31st March",
+     "30th September",
+     "31st December",
+     "30th June"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part II, Rule 28(b)(i)(4)(b)."
+   },
+   {
+    "q": "Select lists must be notified before 30th November and in any case not later than:",
+    "options": [
+     "31st October",
+     "15th December",
+     "31st December",
+     "31st January"
+    ],
+    "answer": 2,
+    "why": "KSSSR Part II, Rule 28(b)(i)(4)(d)."
+   },
+   {
+    "q": "The field of choice must as far as possible be how many times the expected vacancies (plus superseded officers)?",
+    "options": [
+     "Once, and at least half",
+     "Thrice, and at least twice",
+     "Twice, and at least once",
+     "Four times, and at least thrice"
+    ],
+    "answer": 1,
+    "why": "KSSSR Part II, Rule 28(b)(i)(6) Note."
+   },
+   {
+    "q": "Persons in the select list are ranked according to:",
+    "options": [
+     "Seniority in the feeder category",
+     "Marks in the interview",
+     "Age",
+     "Date of joining the Department"
+    ],
+    "answer": 0,
+    "why": "KSSSR Part II, Rule 28(b)(i)(7)."
+   },
+   {
+    "q": "Can an officer under suspension be included in the select list?",
+    "options": [
+     "Yes, always",
+     "Yes, provisionally",
+     "Yes, if the Chairman agrees",
+     "No"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part II, Rule 28(b)(i)(7) Note (i): officers under suspension should not be included."
+   }
+  ]
+ },
+ "servi-03": {
+  "remember": [
+   "A superseded officer may represent to the DPC Convener within one month of publication of the list.",
+   "Select List is reviewed annually and stays in force until revised.",
+   "SC/ST candidates must not be superseded by too rigid a standard of suitability."
+  ],
+  "questions": [
+   {
+    "q": "A superseded officer can send a written representation about the select list within:",
+    "options": [
+     "Fifteen days",
+     "One month from publication of the list",
+     "Two months",
+     "Six months"
+    ],
+    "answer": 1,
+    "why": "KSSSR Part II, Rule 28(b)(i)(8)(a)."
+   },
+   {
+    "q": "The written representation against the select list is sent to:",
+    "options": [
+     "The Convener of the DPC",
+     "The Chairman of the PSC",
+     "The Chief Secretary",
+     "The Governor"
+    ],
+    "answer": 0,
+    "why": "KSSSR Part II, Rule 28(b)(i)(8)(a)."
+   },
+   {
+    "q": "How long does a Select List remain in force?",
+    "options": [
+     "For six months",
+     "For exactly one year",
+     "For three years",
+     "Until it is revised, after annual review"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part II, Rule 28(b)(i)(9)."
+   },
+   {
+    "q": "In selection to selection grades, SC/ST candidates must not be superseded by:",
+    "options": [
+     "Seniority alone",
+     "Any standard",
+     "Too rigid a standard of suitability",
+     "Written test marks"
+    ],
+    "answer": 2,
+    "why": "KSSSR Part II, Rule 28(b)(i)(13)."
+   }
+  ]
+ },
+ "servi-04": {
+  "remember": [
+   "Probation: direct/PSC 2 years on duty within 3 years; from another post in same service 1 year within 2 years.",
+   "Promotion/transfer within Department to selection posts on or after 1-4-2010: six months within one year.",
+   "Extension by appointing authority up to one year; beyond that by Government. Stoppage of increment on extension is not a penalty."
+  ],
+  "questions": [
+   {
+    "q": "Probation for direct recruits through the PSC is:",
+    "options": [
+     "One year on duty within two years",
+     "Three years on duty within four years",
+     "Six months on duty within one year",
+     "Two years on duty within a continuous period of three years"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part II, Rule 28(a)(iii)."
+   },
+   {
+    "q": "Probation for persons appointed from another post in the same service is:",
+    "options": [
+     "Two years within three years",
+     "Six months within one year",
+     "One year on duty within a continuous period of two years",
+     "Two years within two years"
+    ],
+    "answer": 2,
+    "why": "KSSSR Part II, Rule 28(a)(iii)."
+   },
+   {
+    "q": "Probation for promotion to selection posts on or after 1st April 2010 (no direct recruitment) is:",
+    "options": [
+     "One year within two years",
+     "Six months on duty within a continuous period of one year",
+     "Two years within three years",
+     "Three months within six months"
+    ],
+    "answer": 1,
+    "why": "KSSSR Part II, Rule 28(a)(iii) proviso."
+   },
+   {
+    "q": "Who can extend probation beyond one year?",
+    "options": [
+     "Government",
+     "The appointing authority",
+     "The Head of Department",
+     "The PSC"
+    ],
+    "answer": 0,
+    "why": "KSSSR Part II, Rule 21: appointing authority up to one year; Government beyond."
+   },
+   {
+    "q": "Is stoppage of increment on extension of probation a penalty?",
+    "options": [
+     "Yes, a minor penalty",
+     "Yes, a major penalty",
+     "Yes, but only for a year",
+     "No, it is only a condition of extension"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part II, Rule 21."
+   }
+  ]
+ },
+ "servi-05": {
+  "remember": [
+   "Revision of a probationer's discharge: within one year of the order.",
+   "Discharge for want of vacancies: probationers first by juniority, then approved probationers.",
+   "No one can be a full member of two services at once; non-Malayalam students pass KPSC Malayalam test (40%) in probation."
+  ],
+  "questions": [
+   {
+    "q": "The Government may revise an order discharging a probationer within:",
+    "options": [
+     "Six months",
+     "One year of the date of the order",
+     "Two years",
+     "Three months"
+    ],
+    "answer": 1,
+    "why": "KSSSR Part II, Rule 23(b)."
+   },
+   {
+    "q": "In discharge for want of vacancies, who is discharged first?",
+    "options": [
+     "Probationers, in order of juniority",
+     "Approved probationers",
+     "Full members",
+     "The most senior probationer"
+    ],
+    "answer": 0,
+    "why": "KSSSR Part II, Rule 7(a)."
+   },
+   {
+    "q": "Can a person be a full member of more than one service at the same time?",
+    "options": [
+     "Yes, of two services",
+     "Yes, with permission",
+     "Yes, in the same Department",
+     "No"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part II, Rule 26."
+   },
+   {
+    "q": "Minimum marks in the KPSC Malayalam test for a member who has not studied Malayalam:",
+    "options": [
+     "35%",
+     "50%",
+     "40%",
+     "45%"
+    ],
+    "answer": 2,
+    "why": "KSSSR Part II, Rule 10A."
+   },
+   {
+    "q": "Reappointment of discharged probationers for want of vacancies is made:",
+    "options": [
+     "In the same order of discharge",
+     "In the inverse of the order of discharge",
+     "By lot",
+     "By age"
+    ],
+    "answer": 1,
+    "why": "KSSSR Part II, Rule 7(b)."
+   }
+  ]
+ },
+ "servi-06": {
+  "remember": [
+   "First appointments are made by the appointing authority on the advice of the PSC; being an approved candidate gives no claim to appointment.",
+   "Cancellation of advice and termination of service must be within one year of the advice.",
+   "Rule 9 temporary appointment by direct recruitment: not over 180 days. Age relaxation: SC/ST 5 years, OBC 3 years."
+  ],
+  "questions": [
+   {
+    "q": "First appointments to a service are made by the appointing authority on the advice of:",
+    "options": [
+     "The Government Secretary",
+     "The Head of Department",
+     "The High Court",
+     "The Commission (PSC)"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part II, Rule 3(a)."
+   },
+   {
+    "q": "Does inclusion as an approved candidate give a claim to appointment?",
+    "options": [
+     "Yes",
+     "Yes, after one year",
+     "No",
+     "Yes, for SC/ST only"
+    ],
+    "answer": 2,
+    "why": "KSSSR Part II, Rule 3(b)."
+   },
+   {
+    "q": "Cancellation of the PSC advice and termination of service must be within:",
+    "options": [
+     "Six months",
+     "One year from the date of advice",
+     "Two years",
+     "Three months"
+    ],
+    "answer": 1,
+    "why": "KSSSR Part II, Rule 3(c)."
+   },
+   {
+    "q": "Vacancies from leave and deputation of less than how long are of short duration?",
+    "options": [
+     "Six months",
+     "Three months",
+     "One year",
+     "Two months"
+    ],
+    "answer": 0,
+    "why": "KSSSR Part II, Rule 5 Note (2)."
+   },
+   {
+    "q": "Maximum period of a Rule 9(a)(i) temporary direct appointment (non-teaching):",
+    "options": [
+     "90 days",
+     "60 days",
+     "365 days",
+     "180 days"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part II, Rule 9(a)(i) proviso."
+   },
+   {
+    "q": "Upper age limit is raised by how many years for SC/ST and OBC candidates respectively?",
+    "options": [
+     "3 years and 5 years",
+     "5 years and 5 years",
+     "5 years and 3 years",
+     "3 years and 3 years"
+    ],
+    "answer": 2,
+    "why": "KSSSR Part II, Rule 10(c)."
+   }
+  ]
+ },
+ "servi-07": {
+  "remember": [
+   "Before promoting someone, persons admittedly senior must also be promoted.",
+   "A promoted person is not a probationer and gets no preferential claim to future promotion.",
+   "Resignation forfeits all previous service under Government."
+  ],
+  "questions": [
+   {
+    "q": "Before a person is promoted, who must also be promoted?",
+    "options": [
+     "Persons admittedly junior to him",
+     "Persons admittedly senior to him",
+     "Persons of the same age",
+     "Persons from other Departments"
+    ],
+    "answer": 1,
+    "why": "KSSSR Part II, Rule 31(a)(i) proviso."
+   },
+   {
+    "q": "Is a person promoted under Rule 31 regarded as a probationer in the higher category?",
+    "options": [
+     "No",
+     "Yes",
+     "Yes, for one year",
+     "Yes, for six months"
+    ],
+    "answer": 0,
+    "why": "KSSSR Part II, Rule 31(d)."
+   },
+   {
+    "q": "On resignation a member forfeits:",
+    "options": [
+     "Only service in the post held",
+     "Only the last three years",
+     "Nothing",
+     "All his previous service under the Government"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part II, Rule 33."
+   }
+  ]
+ },
+ "servi-08": {
+  "remember": [
+   "Unit of 20: SC/ST 2, OBC 8, EWS 2, merit 8.",
+   "Of every five SC/ST posts, one to ST and four to SC. No EWS reservation for a single post.",
+   "Supplementary list: at least five times the quota. Total reservation not over 60% of selection-year vacancies."
+  ],
+  "questions": [
+   {
+    "q": "In a unit of 20, how many are reserved for SC and ST together?",
+    "options": [
+     "4",
+     "8",
+     "5",
+     "2"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part II, Rule 14(a)."
+   },
+   {
+    "q": "In a unit of 20, how many are reserved for OBC?",
+    "options": [
+     "2",
+     "10",
+     "8",
+     "4"
+    ],
+    "answer": 2,
+    "why": "KSSSR Part II, Rule 14(a)."
+   },
+   {
+    "q": "Of every five posts reserved for SC/ST, how many go to ST candidates?",
+    "options": [
+     "Two",
+     "One",
+     "Three",
+     "Four"
+    ],
+    "answer": 1,
+    "why": "KSSSR Part II, Rule 14(a) proviso: one ST, four SC."
+   },
+   {
+    "q": "Is there EWS reservation where the cadre strength of the post is one?",
+    "options": [
+     "No",
+     "Yes",
+     "Yes, 10%",
+     "Yes, by rotation"
+    ],
+    "answer": 0,
+    "why": "KSSSR Part II, Rule 14(ba)."
+   },
+   {
+    "q": "The supplementary list must have at least how many times the reservation quota?",
+    "options": [
+     "Two times",
+     "Three times",
+     "Ten times",
+     "Five times"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part II, Rule 14(e)."
+   },
+   {
+    "q": "Reservation to a category of posts must not exceed what share of vacancies in a selection year?",
+    "options": [
+     "50%",
+     "40%",
+     "60%",
+     "75%"
+    ],
+    "answer": 2,
+    "why": "KSSSR Part II, Rule 15(d)."
+   }
+  ]
+ },
+ "servi-09": {
+  "remember": [
+   "Of every 40 appointments: Ezhava/Thiyya/Billava 14, Muslims 12, Latin Catholics/Anglo Indians 4.",
+   "Wilful violation of reservation principles (Rules 14 to 17) makes the officer liable under the CCA Rules."
+  ],
+  "questions": [
+   {
+    "q": "Of every 40 appointments, how many go to Ezhavas, Thiyyas and Billavas?",
+    "options": [
+     "12",
+     "14",
+     "4",
+     "3"
+    ],
+    "answer": 1,
+    "why": "KSSSR Part II, Rule 17(2)(a)(ii)."
+   },
+   {
+    "q": "Of every 40 appointments, how many go to Muslims?",
+    "options": [
+     "12",
+     "14",
+     "4",
+     "3"
+    ],
+    "answer": 0,
+    "why": "KSSSR Part II, Rule 17(2)(a)(ii)."
+   },
+   {
+    "q": "An officer who wilfully violates the reservation principles is liable to:",
+    "options": [
+     "No action",
+     "Only a warning",
+     "Transfer only",
+     "Proceedings under the CCA Rules for dereliction of duty"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part II, Rule 17D."
+   },
+   {
+    "q": "Of every 40 appointments, how many go to Latin Catholics and Anglo Indians?",
+    "options": [
+     "3",
+     "1",
+     "4",
+     "12"
+    ],
+    "answer": 2,
+    "why": "KSSSR Part II, Rule 17(2)(a)(ii)."
+   }
+  ]
+ },
+ "servi-10": {
+  "remember": [
+   "Temporary withholding of increments: at least 3 months; promotion: at least 6 months; both not over 3 years.",
+   "Permanent barring of increment: 1 to 3 years. Reduction period: 6 months to 5 years.",
+   "Withholding of promotion: no loss of seniority; reduction: loss of seniority. Fine only for Last Grade, Part-time Contingent, Jail Warders, Villagemen."
+  ],
+  "questions": [
+   {
+    "q": "Minimum period for temporary withholding of increments:",
+    "options": [
+     "One month",
+     "Six months",
+     "One year",
+     "Three months"
+    ],
+    "answer": 3,
+    "why": "KCS (CCA) Rules, Rule 11(1)(iii) Note (2)."
+   },
+   {
+    "q": "Permanent barring of increment must be for:",
+    "options": [
+     "Not less than three months and not more than one year",
+     "Not less than six months and not more than five years",
+     "Not less than one year and not more than three years",
+     "Not more than six months"
+    ],
+    "answer": 2,
+    "why": "KCS (CCA) Rules, Rule 11(1) Note (2A)."
+   },
+   {
+    "q": "Does withholding of promotion cause loss of seniority in that grade?",
+    "options": [
+     "Yes",
+     "No",
+     "Yes, for one year",
+     "Yes, for three years"
+    ],
+    "answer": 1,
+    "why": "KCS (CCA) Rules, Rule 11(1)(iii) Note (4)."
+   },
+   {
+    "q": "Period of reduction to a lower post must be:",
+    "options": [
+     "Not less than six months and not more than five years",
+     "Not less than one year and not more than three years",
+     "Not less than three months and not more than three years",
+     "Not more than six months"
+    ],
+    "answer": 0,
+    "why": "KCS (CCA) Rules, Rule 11(1)(v) Note (1)."
+   },
+   {
+    "q": "Does reduction to a lower post or time scale entail loss of seniority?",
+    "options": [
+     "No",
+     "Only for one year",
+     "Only for Last Grade staff",
+     "Yes"
+    ],
+    "answer": 3,
+    "why": "KCS (CCA) Rules, Rule 11(1)(v) Note (3)."
+   },
+   {
+    "q": "The penalty of fine may be imposed only on:",
+    "options": [
+     "All Government servants",
+     "Only Last Grade Service",
+     "Last Grade Service, Part-time Contingent Service, Jail Warders and Villagemen",
+     "Clerks and Typists"
+    ],
+    "answer": 2,
+    "why": "KCS (CCA) Rules, Rule 11(2)."
+   }
+  ]
+ },
+ "servi-11": {
+  "remember": [
+   "Withholding of increments for failing a departmental test or on extension of probation is not a penalty.",
+   "Termination of a probationer's service per terms/probation rules is not a penalty.",
+   "Major penalties (items v to ix of Rule 11(1)) need an inquiry."
+  ],
+  "questions": [
+   {
+    "q": "Withholding of increments for failure to pass a departmental examination is:",
+    "options": [
+     "A minor penalty",
+     "Not a penalty under Rule 11",
+     "A major penalty",
+     "A censure"
+    ],
+    "answer": 1,
+    "why": "KCS (CCA) Rules, Rule 11 Explanation (i)."
+   },
+   {
+    "q": "Termination of a probationer's service under the probation rules is:",
+    "options": [
+     "Not a penalty",
+     "A major penalty",
+     "A minor penalty",
+     "Dismissal"
+    ],
+    "answer": 0,
+    "why": "KCS (CCA) Rules, Rule 11 Explanation (viii)."
+   },
+   {
+    "q": "An inquiry is required before imposing penalties in items:",
+    "options": [
+     "(i) to (iv)",
+     "(i) to (v)",
+     "(iii) to (vi)",
+     "(v) to (ix) of Rule 11(1)"
+    ],
+    "answer": 3,
+    "why": "KCS (CCA) Rules, Rule 15(1)."
+   }
+  ]
+ },
+ "servi-12": {
+  "remember": [
+   "Probationer: member who has not completed probation. Approved probationer: completed probation, awaiting full membership.",
+   "Full member: appointed substantively to a permanent post on the cadre. Military Service: continuous not less than 6 months.",
+   "Casual leave and holidays count as duty if on duty immediately before and after."
+  ],
+  "questions": [
+   {
+    "q": "A member who has satisfactorily completed probation and awaits full membership is a:",
+    "options": [
+     "Probationer",
+     "Full member",
+     "Temporary member",
+     "Approved probationer"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part I, Rule 2(3)."
+   },
+   {
+    "q": "A full member is one appointed substantively to:",
+    "options": [
+     "Any post",
+     "A temporary post",
+     "A permanent post borne on the cadre",
+     "A post for six months"
+    ],
+    "answer": 2,
+    "why": "KSSSR Part I, Rule 2(7)."
+   },
+   {
+    "q": "Military Service means continuous service of not less than:",
+    "options": [
+     "3 months",
+     "6 months",
+     "1 year",
+     "2 years"
+    ],
+    "answer": 1,
+    "why": "KSSSR Part I, Rule 2(9A)."
+   },
+   {
+    "q": "Casual leave counts as duty if taken as per instructions and the member:",
+    "options": [
+     "Was on duty immediately before and after it",
+     "Was on leave before it",
+     "Applied a month earlier",
+     "Is a full member"
+    ],
+    "answer": 0,
+    "why": "KSSSR Part I, Rule 2(6)."
+   },
+   {
+    "q": "Promotion means appointment of a member to:",
+    "options": [
+     "Another service",
+     "A lower grade",
+     "Another Department",
+     "A higher category or grade of the service or class"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part I, Rule 2(11)."
+   }
+  ]
+ },
+ "servi-13": {
+  "remember": [
+   "Seniority is by date of order of first appointment; PSC advisees by date of first effective advice.",
+   "Same advice list: order in the list. Simultaneous appointments: order fixed by appointing authority.",
+   "Extension to join beyond 3 months: seniority by joining date. Seniority representation to Government within 6 months."
+  ],
+  "questions": [
+   {
+    "q": "Seniority of persons appointed on PSC advice is determined by:",
+    "options": [
+     "Date of joining duty",
+     "Date of first effective advice of the Commission",
+     "Age",
+     "Date of the appointment order always"
+    ],
+    "answer": 1,
+    "why": "KSSSR Part II, Rule 27(c)."
+   },
+   {
+    "q": "Within one advice list, relative seniority follows:",
+    "options": [
+     "The order of names in the advice list",
+     "Age",
+     "Date of joining",
+     "Alphabetical order"
+    ],
+    "answer": 0,
+    "why": "KSSSR Part II, Rule 27(c)."
+   },
+   {
+    "q": "Seniority goes by joining date if extension to join exceeds:",
+    "options": [
+     "One month",
+     "Six months",
+     "One year",
+     "Three months from the appointment order"
+    ],
+    "answer": 3,
+    "why": "KSSSR Part II, Rule 27(c) first proviso."
+   },
+   {
+    "q": "Representation against a seniority order must be submitted to Government within:",
+    "options": [
+     "One month",
+     "Two months",
+     "Six months of receipt or Gazette publication, whichever is later",
+     "One year"
+    ],
+    "answer": 2,
+    "why": "KSSSR Part II, Rule 27B."
+   },
+   {
+    "q": "Who fixes preference among persons appointed simultaneously?",
+    "options": [
+     "The PSC",
+     "The appointing authority, in the order",
+     "The Government Secretary",
+     "The senior most person"
+    ],
+    "answer": 1,
+    "why": "KSSSR Part II, Rule 27(b)."
+   }
+  ]
+ },
+ "servi-14": {
+  "remember": [
+   "Suspension: by the appointing authority, a higher authority or one empowered by Government.",
+   "Detained in custody over 48 hours: deemed suspended from date of detention.",
+   "Subsistence allowance is paid; appeal lies to the authority to which the order-maker is immediately subordinate."
+  ],
+  "questions": [
+   {
+    "q": "A Government servant detained in custody is deemed suspended if detained for more than:",
+    "options": [
+     "Twenty four hours",
+     "Seventy two hours",
+     "Seven days",
+     "Forty eight hours"
+    ],
+    "answer": 3,
+    "why": "KCS (CCA) Rules, Rule 10(3)."
+   },
+   {
+    "q": "If an authority lower than the appointing authority suspends, it must:",
+    "options": [
+     "Obtain Government approval first",
+     "Wait for a month",
+     "Forthwith report the circumstances to the Appointing Authority",
+     "Inform the PSC"
+    ],
+    "answer": 2,
+    "why": "KCS (CCA) Rules, Rule 10(2)."
+   },
+   {
+    "q": "A suspension order may be revoked by:",
+    "options": [
+     "Only the Government",
+     "The authority that made it or any authority to which it is subordinate",
+     "Only the appointing authority",
+     "The suspended person"
+    ],
+    "answer": 1,
+    "why": "KCS (CCA) Rules, Rule 10(6)."
+   },
+   {
+    "q": "A suspended Government servant is paid:",
+    "options": [
+     "Subsistence and other admissible allowances",
+     "Full pay",
+     "No allowance",
+     "Half pay only"
+    ],
+    "answer": 0,
+    "why": "KCS (CCA) Rules, Rule 10(7)."
+   },
+   {
+    "q": "An appeal against suspension lies to:",
+    "options": [
+     "The PSC",
+     "The High Court",
+     "The order-maker itself",
+     "The authority to which the order-maker is immediately subordinate"
+    ],
+    "answer": 3,
+    "why": "KCS (CCA) Rules, Rule 22."
+   }
+  ]
+ },
+ "servi-15": {
+  "remember": [
+   "Appeal within two months of receiving the order; no appeal against an order of Government.",
+   "Only one review, applied within two months of the order.",
+   "Minor penalty: inform in writing and consider representation. Show-cause time generally not over one month."
+  ],
+  "questions": [
+   {
+    "q": "An appeal must be submitted within what period of receiving the order?",
+    "options": [
+     "One month",
+     "Two months",
+     "Three months",
+     "Six months"
+    ],
+    "answer": 1,
+    "why": "KCS (CCA) Rules, Rule 25."
+   },
+   {
+    "q": "Is there an appeal against an order passed by the Government?",
+    "options": [
+     "No",
+     "Yes, to the High Court",
+     "Yes, within one month",
+     "Yes, to the PSC"
+    ],
+    "answer": 0,
+    "why": "KCS (CCA) Rules, Rule 23 proviso."
+   },
+   {
+    "q": "How many reviews are allowed, and within what time?",
+    "options": [
+     "Two, within one month",
+     "One, within six months",
+     "Unlimited, within two months",
+     "One, within two months of the order"
+    ],
+    "answer": 3,
+    "why": "KCS (CCA) Rules, Rule 35."
+   },
+   {
+    "q": "Time to submit representation against the proposed action generally may not exceed:",
+    "options": [
+     "Fifteen days",
+     "Two months",
+     "One month",
+     "Three months"
+    ],
+    "answer": 2,
+    "why": "KCS (CCA) Rules, Rule 15(12)(i)(b)."
+   },
+   {
+    "q": "Can the accused engage a legal practitioner to present his case?",
+    "options": [
+     "Yes, always",
+     "Not unless the presenting person is a legal practitioner or the Inquiring Authority permits",
+     "No, never",
+     "Only with Government permission"
+    ],
+    "answer": 1,
+    "why": "KCS (CCA) Rules, Rule 15(6)."
+   }
+  ]
+ }
+}

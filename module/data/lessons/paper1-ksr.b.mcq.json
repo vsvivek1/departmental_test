@@ -1,0 +1,1089 @@
+{
+ "p-21": {
+  "remember": [
+   "Fraction below half is ignored; half or more counts as a day (Rule 86 Note 2).",
+   "Non-permanent officer with three years' continuous service gets commuted leave, earned leave and LWA (Rule 86A)."
+  ],
+  "questions": [
+   {
+    "q": "When the rate of earning leave changes, how is a fraction of half or more treated?",
+    "options": [
+     "Ignored",
+     "Reckoned as a day",
+     "Reckoned as half a day",
+     "Carried to next year"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 86 Note 2: half and more is reckoned as a day."
+   },
+   {
+    "q": "When the rate of earning leave changes, how is a fraction below half treated?",
+    "options": [
+     "Ignored",
+     "Reckoned as a day",
+     "Reckoned as half a day",
+     "Added to commuted leave"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 86 Note 2: fraction below half is ignored."
+   },
+   {
+    "q": "A non-permanent officer becomes eligible for commuted leave, earned leave and LWA after how many years of continuous service?",
+    "options": [
+     "One year",
+     "Two years",
+     "Five years",
+     "Three years"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 86A: three years of continuous service."
+   }
+  ]
+ },
+ "p-22": {
+  "remember": [
+   "Medical certificate: Civil Medical Officer not lower than Civil Surgeon (Rule 13 Note 1).",
+   "Appeal against unfitness within one month; no further appeal (Rule 13 GD 3, 7).",
+   "Late attendance: 3 days late forfeits 1 day casual leave only (Rule 14 Notes). Strike absence is Dies-Non (Rule 14A)."
+  ],
+  "questions": [
+   {
+    "q": "Who ordinarily signs the medical certificate for appointment?",
+    "options": [
+     "Any registered medical practitioner",
+     "Head of Office",
+     "Civil Medical Officer not lower than a Civil Surgeon",
+     "District Collector"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 13 Note 1."
+   },
+   {
+    "q": "Within what time must a candidate declared unfit appeal?",
+    "options": [
+     "15 days",
+     "One month of communication of findings",
+     "Three months",
+     "Six months"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 13 Government Decision 3."
+   },
+   {
+    "q": "Is there a further appeal against the adverse finding of the Medical Officer on appeal?",
+    "options": [
+     "No appeal lies",
+     "Yes, to the Government within one month",
+     "Yes, to the High Court",
+     "Yes, to the Public Service Commission"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 13 Government Decision 7."
+   },
+   {
+    "q": "For every three days' late attendance without permission, what is forfeited?",
+    "options": [
+     "One day's earned leave",
+     "One day's half-pay leave",
+     "Three days' casual leave",
+     "One day's casual leave"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 14 Note 1."
+   },
+   {
+    "q": "How is unauthorised absence for participation in a strike treated?",
+    "options": [
+     "Casual leave",
+     "Leave without allowances counted for earned leave",
+     "Dies-Non, with no pay and allowances",
+     "Half-pay leave"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 14A: Dies-Non, not counted for earned leave."
+   }
+  ]
+ },
+ "p-23": {
+  "remember": [
+   "Pay is drawn from the date of assuming duties and stops when duties cease (Rule 23(a)).",
+   "Resignation is effective when accepted and officer is relieved (Rule 23 GD 1(d))."
+  ],
+  "questions": [
+   {
+    "q": "From when does an officer begin to draw the pay of a post?",
+    "options": [
+     "From the date of the order of appointment",
+     "From the date he assumes the duties of the post",
+     "From the first of the next month",
+     "From the date he applies"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 23(a)."
+   },
+   {
+    "q": "When does a resignation become effective?",
+    "options": [
+     "When accepted and the officer is relieved of duties",
+     "When the letter is submitted",
+     "After one month of submission",
+     "When the head of office receives it"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 23 Government Decision 1(d)."
+   },
+   {
+    "q": "When does an officer cease to draw the pay of a post?",
+    "options": [
+     "At the end of the month",
+     "After 30 days",
+     "On the date of the relieving order",
+     "As soon as he ceases to discharge its duties"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 23(a)."
+   }
+  ]
+ },
+ "p-24": {
+  "remember": [
+   "Joining time on station transfer: max 30 days; 6 days preparation plus journey (Rule 127).",
+   "No change of residence: one day (Rule 126). Change of station means 8 km or more (Rule 126 Note).",
+   "Sunday not counted but included in the 30 days (Rule 127(e)). Joining time pay equals old pay; no conveyance or PTA (Rule 136)."
+  ],
+  "questions": [
+   {
+    "q": "What is the maximum joining time on transfer from one station to another?",
+    "options": [
+     "15 days",
+     "20 days",
+     "30 days",
+     "45 days"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 127."
+   },
+   {
+    "q": "How many days are allowed for preparation, besides the journey time?",
+    "options": [
+     "Three days",
+     "Six days",
+     "Eight days",
+     "Ten days"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 127."
+   },
+   {
+    "q": "How much joining time is allowed when the new post involves no change of residence?",
+    "options": [
+     "Not more than one day",
+     "Not more than three days",
+     "Not more than six days",
+     "Not more than eight days"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 126."
+   },
+   {
+    "q": "A transfer involves a change of station only if the distance is not less than how much?",
+    "options": [
+     "Five kilometres",
+     "Ten kilometres",
+     "Sixteen kilometres",
+     "Eight kilometres"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 126 Note."
+   },
+   {
+    "q": "Which allowances cannot be drawn during joining time?",
+    "options": [
+     "House rent allowance and dearness allowance",
+     "City compensatory allowance only",
+     "Conveyance allowance and Permanent Travelling Allowance",
+     "Dearness allowance only"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 136."
+   }
+  ]
+ },
+ "p-25": {
+  "remember": [
+   "Sunday does not count in joining time calculation but is included in the 30-day maximum (Rule 127(e)).",
+   "Officer on joining time is on duty and gets joining time pay (Rule 136).",
+   "Transfer at own request gives no joining time (Rule 136 Note). Not joining in time: no pay (Rule 137)."
+  ],
+  "questions": [
+   {
+    "q": "Is an officer on joining time regarded as on duty?",
+    "options": [
+     "No, he is on leave",
+     "Yes, with joining time pay equal to pay drawn before relinquishing charge",
+     "Yes, with half of the pay drawn earlier",
+     "No, he gets only subsistence allowance"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 136."
+   },
+   {
+    "q": "When is an officer on transfer entitled to joining time?",
+    "options": [
+     "Only if the transfer is made in the public interest",
+     "Always, even at own request",
+     "Only if transferred at own request",
+     "Only if station distance exceeds 20 km"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 136 Note."
+   },
+   {
+    "q": "What does an officer get who does not join within joining time?",
+    "options": [
+     "Half pay",
+     "Pay for 30 days more",
+     "Subsistence allowance",
+     "No pay or leave salary after the joining time ends"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 137."
+   },
+   {
+    "q": "How is a Sunday treated in joining time?",
+    "options": [
+     "Counted as a day and included in 30 days",
+     "Counted as a day but excluded from 30 days",
+     "Not counted as a day, but included in the 30-day maximum",
+     "Neither counted nor included in 30 days"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 127(e)."
+   }
+  ]
+ },
+ "p-26": {
+  "remember": [
+   "Earned leave: full duty pay. Half pay/leave not due: half pay. Commuted: twice half-pay (Rules 92-94).",
+   "Leave without allowances: no leave salary (Rule 95).",
+   "HRA, CCA, Hill Tract Allowance: up to 180 days (Rule 93(iii)). Overstayal: half-pay leave if due; no leave salary if unauthorised (Rule 96)."
+  ],
+  "questions": [
+   {
+    "q": "What is leave salary on earned leave?",
+    "options": [
+     "Half of duty pay",
+     "Full duty pay with admissible allowances",
+     "Twice the half-pay leave salary",
+     "One-third of duty pay"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 92(i)."
+   },
+   {
+    "q": "What is leave salary on commuted leave?",
+    "options": [
+     "Twice the half-pay leave salary",
+     "Equal to half-pay leave salary",
+     "Full duty pay",
+     "One and a half times half-pay leave salary"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 94."
+   },
+   {
+    "q": "What leave salary is payable on leave without allowances?",
+    "options": [
+     "Half pay",
+     "One-third pay",
+     "Subsistence allowance",
+     "None"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 95."
+   },
+   {
+    "q": "Allowances such as HRA and CCA are paid during leave for how long at a time?",
+    "options": [
+     "Within 90 days",
+     "Within 120 days",
+     "Within 180 days, or the first 180 days of longer leave",
+     "Within 360 days"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 93(iii)."
+   },
+   {
+    "q": "How is overstayal of leave treated?",
+    "options": [
+     "As casual leave",
+     "As half-pay leave to the extent due, otherwise as leave without allowances",
+     "As earned leave to the extent due",
+     "As dies-non always"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 96(i)."
+   }
+  ]
+ },
+ "p-27": {
+  "remember": [
+   "Wilful absence after expiry of leave is misbehaviour under Rule 21, Part I (Rule 96 Note)."
+  ],
+  "questions": [
+   {
+    "q": "How is wilful absence from duty after expiry of leave treated?",
+    "options": [
+     "As misbehaviour for the purpose of Rule 21, Part I",
+     "As casual leave",
+     "As half-pay leave",
+     "As joining time"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 96 Note."
+   },
+   {
+    "q": "Which rule's misbehaviour provision applies to wilful absence after leave expires?",
+    "options": [
+     "Rule 14, Part I",
+     "Rule 55, Part I",
+     "Rule 73, Part I",
+     "Rule 21, Part I"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 96 Note refers to Rule 21."
+   },
+   {
+    "q": "Wilful absence after leave expires is treated as what?",
+    "options": [
+     "Dies-Non only",
+     "Leave not due",
+     "Misbehaviour",
+     "Maternity leave"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 96 Note."
+   }
+  ]
+ },
+ "p-28": {
+  "remember": [
+   "Qualifying service: below half year ignored; half year or more rounded up (Part III Rule 57). Pension service min 10, max 30 years.",
+   "Pension in whole rupees, rounded up (Rule 58). No gratuity instead of pension (Rule 60).",
+   "Average emoluments: last ten months (Rule 63). 10 years = 10/80th; 30 years = 30/80th (Rule 64)."
+  ],
+  "questions": [
+   {
+    "q": "How is a fraction of a year of qualifying service treated?",
+    "options": [
+     "All fractions ignored",
+     "Below half year ignored; half year or more rounded up",
+     "All fractions rounded up",
+     "Below one-third ignored"
+    ],
+    "answer": 1,
+    "why": "KSR Part III, Rule 57."
+   },
+   {
+    "q": "What are the minimum and maximum service for pension calculation?",
+    "options": [
+     "10 years and 30 years",
+     "5 years and 25 years",
+     "10 years and 33 years",
+     "15 years and 30 years"
+    ],
+    "answer": 0,
+    "why": "KSR Part III, Rule 57 proviso."
+   },
+   {
+    "q": "Average emoluments are calculated on the last how many months of qualifying service?",
+    "options": [
+     "Three months",
+     "Six months",
+     "Twelve months",
+     "Ten months"
+    ],
+    "answer": 3,
+    "why": "KSR Part III, Rule 63."
+   },
+   {
+    "q": "What is pension at 30 years of qualifying service?",
+    "options": [
+     "30/80th, maximum Rs 2400 per annum",
+     "15/80th, maximum Rs 3600 per annum",
+     "30/80th of average emoluments, maximum Rs 7200 per annum",
+     "30/60th, maximum Rs 7200 per annum"
+    ],
+    "answer": 2,
+    "why": "KSR Part III, Rule 64(B)."
+   },
+   {
+    "q": "Gratuity for qualifying service of 1 to 9 years is how much?",
+    "options": [
+     "Half month's emoluments per year",
+     "One month's emoluments for each completed year",
+     "Two months' emoluments per year",
+     "10/80th of emoluments"
+    ],
+    "answer": 1,
+    "why": "KSR Part III, Rule 64(A)."
+   }
+  ]
+ },
+ "p-29": {
+  "remember": [
+   "Government may order recovery from pension of pecuniary loss caused to it, if pensioner found guilty of grave misconduct or negligence (Part III Rule 3)."
+  ],
+  "questions": [
+   {
+    "q": "If a pensioner is found guilty of grave misconduct or negligence, what may Government order?",
+    "options": [
+     "Recovery from pension of whole or part of pecuniary loss caused to Government",
+     "Stoppage of pension for life only",
+     "Recovery of pension for the last ten months only",
+     "Reduction of pension to half in all cases"
+    ],
+    "answer": 0,
+    "why": "KSR Part III, Rule 3."
+   },
+   {
+    "q": "Recovery under Rule 3 relates to which kind of loss?",
+    "options": [
+     "Loss of reputation",
+     "Loss of time",
+     "Loss to private persons",
+     "Pecuniary loss caused to Government"
+    ],
+    "answer": 3,
+    "why": "KSR Part III, Rule 3."
+   },
+   {
+    "q": "The recovery under Rule 3 may be of how much of the loss?",
+    "options": [
+     "Only the whole",
+     "Only one-third",
+     "Whole or part",
+     "Only half"
+    ],
+    "answer": 2,
+    "why": "KSR Part III, Rule 3."
+   }
+  ]
+ },
+ "p-30": {
+  "remember": [
+   "Dismissal/removal: pay ceases from that date (Rule 54).",
+   "Subsistence allowance equals half-pay leave salary on date of suspension; certificate of no other employment needed; overpayment recovery not ordinarily over one-third (Rule 55).",
+   "Suspended on LWA: none during leave; on leave with allowances: leave cancelled, gets subsistence (Rule 55B). Death during suspension: duty for all purposes (Rule 56B)."
+  ],
+  "questions": [
+   {
+    "q": "What is the subsistence allowance of a suspended officer?",
+    "options": [
+     "Full pay",
+     "Leave salary on half-pay leave on the date of suspension",
+     "One-third of pay",
+     "Leave salary on earned leave"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 55."
+   },
+   {
+    "q": "What certificate is needed to draw subsistence allowance?",
+    "options": [
+     "Not engaged in any other employment, business, profession or vocation",
+     "Medical fitness certificate",
+     "Certificate of no pending cases",
+     "Certificate of residence"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 55 Note 3."
+   },
+   {
+    "q": "What is the ordinary limit on recovery of overpayments from subsistence allowance?",
+    "options": [
+     "One-half",
+     "One-fourth",
+     "Two-thirds",
+     "One-third of the subsistence allowance"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 55 Note 2(d)."
+   },
+   {
+    "q": "An officer suspended while on leave with allowances: what is the effect?",
+    "options": [
+     "He continues leave with full leave salary",
+     "He gets no allowance",
+     "Leave is cancelled for the suspension period and he gets subsistence allowance",
+     "Leave continues with half pay"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 55B(ii)."
+   },
+   {
+    "q": "A suspended officer dies before proceedings end. How is the period from suspension to death treated?",
+    "options": [
+     "As leave without allowances",
+     "As duty for all purposes, family gets full pay and allowances",
+     "As half-pay leave",
+     "As dies-non"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 56B(2)."
+   }
+  ]
+ },
+ "p-31": {
+  "remember": [
+   "In other reinstatement cases, the suspension period is not duty unless the competent authority specifically directs (Rule 56B(7))."
+  ],
+  "questions": [
+   {
+    "q": "In other reinstatement cases, how is the suspension period treated?",
+    "options": [
+     "Not as duty, unless competent authority specifically directs",
+     "Always as duty",
+     "Always as leave due",
+     "As earned leave"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 56B(7)."
+   },
+   {
+    "q": "Who can direct that the suspension period be treated as duty for a specified purpose?",
+    "options": [
+     "The officer himself",
+     "The Accountant General",
+     "The Medical Officer",
+     "The competent authority"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 56B(7)."
+   },
+   {
+    "q": "Under Rule 56B(7), the suspension period is treated as duty for what scope?",
+    "options": [
+     "All purposes automatically",
+     "No purpose ever",
+     "Only a specified purpose, if so directed",
+     "Pension only"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 56B(7)."
+   }
+  ]
+ },
+ "p-32": {
+  "remember": [
+   "DCRG: half of emoluments per completed year, max 15 times; max Rs 7 lakhs (Rule 68).",
+   "Death in service: min 12 times emoluments; under 5 years: 6 times, first year two months (Rule 68). Rule 67 needs 5 years.",
+   "Residuary gratuity if less than 12 times received; not if pension commuted (Rule 69)."
+  ],
+  "questions": [
+   {
+    "q": "What is the rate of death-cum-retirement gratuity?",
+    "options": [
+     "One month per year, maximum 10 times",
+     "Half of emoluments per completed year, maximum 15 times emoluments",
+     "One-third per year, maximum 20 times",
+     "Full emoluments per year, maximum 15 times"
+    ],
+    "answer": 1,
+    "why": "KSR Part III, Rule 68."
+   },
+   {
+    "q": "What is the maximum gratuity amount under Rule 68?",
+    "options": [
+     "Rs 7 lakhs",
+     "Rs 5 lakhs",
+     "Rs 10 lakhs",
+     "Rs 15 lakhs"
+    ],
+    "answer": 0,
+    "why": "KSR Part III, Rule 68."
+   },
+   {
+    "q": "What is the minimum gratuity in invalid pension or death in service?",
+    "options": [
+     "6 times",
+     "15 times",
+     "10 times",
+     "12 times emoluments last drawn"
+    ],
+    "answer": 3,
+    "why": "KSR Part III, Rule 68."
+   },
+   {
+    "q": "An employee dies in service with under 5 years of service. What gratuity does the family get?",
+    "options": [
+     "12 times emoluments",
+     "One month per year",
+     "6 times emoluments, but two months' emoluments if death is in first year",
+     "15 times emoluments"
+    ],
+    "answer": 2,
+    "why": "KSR Part III, Rule 68."
+   },
+   {
+    "q": "Residuary gratuity applies if sums received are less than how much?",
+    "options": [
+     "6 times",
+     "12 times his emoluments",
+     "10 times",
+     "15 times"
+    ],
+    "answer": 1,
+    "why": "KSR Part III, Rule 69."
+   }
+  ]
+ },
+ "p-33": {
+  "remember": [
+   "Non-contributory family pension: 10 years after 20 years' service (Rule 80); half of pension, max Rs 150, min Rs 30 (Rule 82).",
+   "Not to widow with another living husband (Rule 80); one member at a time (Rule 87(a)); not for compassionate allowance families (Rule 5(aa)).",
+   "Contributory above Rs 3000: 15% of pay, min Rs 600, max Rs 1100 (Rule 90(4CC))."
+  ],
+  "questions": [
+   {
+    "q": "For how long is non-contributory family pension granted, after not less than 20 years' service?",
+    "options": [
+     "Ten years",
+     "Five years",
+     "Seven years",
+     "Fifteen years"
+    ],
+    "answer": 0,
+    "why": "KSR Part III, Rule 80."
+   },
+   {
+    "q": "What are the maximum and minimum of non-contributory family pension per month?",
+    "options": [
+     "Rs 300 and Rs 30",
+     "Rs 150 and Rs 60",
+     "Rs 100 and Rs 30",
+     "Rs 150 maximum and Rs 30 minimum"
+    ],
+    "answer": 3,
+    "why": "KSR Part III, Rule 82."
+   },
+   {
+    "q": "Who is the first claimant under Rule 85 if the deceased is a male employee?",
+    "options": [
+     "The eldest son",
+     "The eldest daughter",
+     "The eldest surviving widow",
+     "The parents"
+    ],
+    "answer": 2,
+    "why": "KSR Part III, Rule 85(a)(i)."
+   },
+   {
+    "q": "Can non-contributory pension be paid to more than one family member at the same time?",
+    "options": [
+     "Yes, to two members",
+     "No",
+     "Yes, to all eligible members",
+     "Yes, to spouse and eldest son"
+    ],
+    "answer": 1,
+    "why": "KSR Part III, Rule 87(a)."
+   },
+   {
+    "q": "What is the contributory family pension for pay above Rs 3000 from 1.4.1994?",
+    "options": [
+     "15% of pay, minimum Rs 600, maximum Rs 1100",
+     "10% of pay, minimum Rs 600, maximum Rs 1100",
+     "15% of pay, minimum Rs 300, maximum Rs 1100",
+     "15% of pay, minimum Rs 600, maximum Rs 1500"
+    ],
+    "answer": 0,
+    "why": "KSR Part III, Rule 90(4CC)."
+   }
+  ]
+ },
+ "p-34": {
+  "remember": [
+   "Maternity leave: 180 days full pay; also for temporary female officers (Rule 100).",
+   "Miscarriage: up to six weeks (Rule 101). Hysterectomy: up to 45 days (Rule 101A). Both need medical certificate.",
+   "No certificate for up to 60 days leave in continuation of maternity leave (Rule 102 Proviso)."
+  ],
+  "questions": [
+   {
+    "q": "How many days of maternity leave on full pay can a female officer get?",
+    "options": [
+     "90 days",
+     "120 days",
+     "210 days",
+     "180 days"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 100."
+   },
+   {
+    "q": "What is the maximum leave for miscarriage including abortion?",
+    "options": [
+     "Four weeks",
+     "Eight weeks",
+     "Six weeks",
+     "45 days"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 101."
+   },
+   {
+    "q": "What is the maximum leave for hysterectomy?",
+    "options": [
+     "30 days",
+     "45 days",
+     "60 days",
+     "Six weeks"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 101A."
+   },
+   {
+    "q": "Leave up to how many days in continuation of maternity leave needs no medical certificate?",
+    "options": [
+     "Sixty days",
+     "30 days",
+     "45 days",
+     "90 days"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 102 Proviso."
+   },
+   {
+    "q": "What does 'full pay' mean in the maternity leave rule?",
+    "options": [
+     "Half of pay under Rule 93",
+     "Pay under Rule 94",
+     "Basic pay only",
+     "Pay admissible under Rule 92, Part I, KSR"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 100 Ruling."
+   }
+  ]
+ },
+ "p-35": {
+  "remember": [
+   "Leave not due: max 360 days in entire service; 90 days at a time and 180 in all if not on medical certificate (Rule 85).",
+   "Debited against half-pay leave earned later; granted only when no other leave with allowance is available.",
+   "Cancelled if voluntary retirement is granted (Note 1); stands even if not earned later (Note 2)."
+  ],
+  "questions": [
+   {
+    "q": "What is the maximum leave not due in the entire service?",
+    "options": [
+     "180 days",
+     "240 days",
+     "360 days",
+     "90 days"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 85."
+   },
+   {
+    "q": "Leave not due other than on medical certificate: what are the limits?",
+    "options": [
+     "60 days at a time and 120 days in all",
+     "90 days at a time and 180 days in all",
+     "180 days at a time and 360 days in all",
+     "30 days at a time and 90 days in all"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 85."
+   },
+   {
+    "q": "Against what is leave not due debited?",
+    "options": [
+     "Half-pay leave earned subsequently",
+     "Earned leave earned subsequently",
+     "Casual leave",
+     "Commuted leave"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 85."
+   },
+   {
+    "q": "What happens to leave not due if voluntary retirement permission is granted?",
+    "options": [
+     "It stands",
+     "It is converted to earned leave",
+     "It is converted to LWA",
+     "It is cancelled"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 85 Note 1."
+   },
+   {
+    "q": "If an officer fails to earn the leave not due by later duty, what happens?",
+    "options": [
+     "It is cancelled",
+     "It is recovered in cash",
+     "It stands, subject to his wishes",
+     "It is converted to commuted leave"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 85 Note 2."
+   }
+  ]
+ },
+ "p-36": {
+  "remember": [
+   "LWA for non-permanent officer: max 3 months on one occasion (Rule 88(ii)). Over four months: Government sanctions (Rule 64).",
+   "TB, leprosy, cancer, mental disease: leave without pay up to 18 months (Rule 90); ex-gratia 35% of basic pay (Rule 90A(a)).",
+   "Ex-gratia max: 18 months temporary, 36 months permanent (Rule 90A(e))."
+  ],
+  "questions": [
+   {
+    "q": "What is the LWA limit on one occasion for officers not in permanent employ?",
+    "options": [
+     "Not more than 6 months",
+     "Not more than 3 months",
+     "Not more than one month",
+     "Not more than 12 months"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 88(ii)."
+   },
+   {
+    "q": "Who sanctions leave without allowances exceeding four months at a time?",
+    "options": [
+     "Government",
+     "Head of Department",
+     "Head of Office",
+     "Accountant General"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 64."
+   },
+   {
+    "q": "What is the maximum leave without pay for a temporary officer for TB, leprosy, cancer or mental disease?",
+    "options": [
+     "12 months",
+     "24 months",
+     "36 months",
+     "18 months on one occasion"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 90."
+   },
+   {
+    "q": "What is the ex-gratia allowance during such leave?",
+    "options": [
+     "25 per cent",
+     "50 per cent",
+     "35 per cent of basic pay drawn just before the leave",
+     "75 per cent"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 90A(a)."
+   },
+   {
+    "q": "What is the maximum period of ex-gratia allowance for a permanent employee in entire service?",
+    "options": [
+     "18 months",
+     "36 months",
+     "24 months",
+     "48 months"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 90A(e)."
+   }
+  ]
+ },
+ "p-37": {
+  "remember": [
+   "Special disability leave: injury caused in official duty; must manifest within 3 months (Rule 97(1),(2)).",
+   "Max 24 months per disability; counted as duty for pension, not debited to leave account (Rule 97(5),(6)).",
+   "Leave salary: first four months as Rule 92, then Rule 93 (Rule 97(7)). Admissible to temporary officers (Rule 98 Note)."
+  ],
+  "questions": [
+   {
+    "q": "Within what time must the disability manifest itself for special disability leave?",
+    "options": [
+     "Within three months of the occurrence",
+     "Within one month",
+     "Within six months",
+     "Within twelve months"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 97(2)."
+   },
+   {
+    "q": "What is the maximum special disability leave for any one disability?",
+    "options": [
+     "12 months",
+     "18 months",
+     "36 months",
+     "24 months"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 97(5)."
+   },
+   {
+    "q": "How is special disability leave treated for pension and the leave account?",
+    "options": [
+     "Debited to half-pay leave account",
+     "Not counted for pension",
+     "Counted as duty for pension and not debited to leave account",
+     "Debited to earned leave account"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 97(6)."
+   },
+   {
+    "q": "What is leave salary for the first four months of special disability leave?",
+    "options": [
+     "As under Rule 93 (half pay)",
+     "As under Rule 92 (earned leave)",
+     "As under Rule 94 (commuted)",
+     "No leave salary"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 97(7)."
+   },
+   {
+    "q": "Is disability leave admissible to temporary officers?",
+    "options": [
+     "Yes",
+     "No",
+     "Only after five years",
+     "Only with Government sanction"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 98 Note."
+   }
+  ]
+ },
+ "p-38": {
+  "remember": [
+   "Commutation: up to 40 per cent of pension (App X Rule 3); not during pending proceedings; application to authority sanctioning pension (Rule 4).",
+   "Restored after twelve years (Rule 6A(1)); no commuting again (Rule 6A(2)).",
+   "Reduction effective from 1st of month after commuted value is drawn (Rule 5)."
+  ],
+  "questions": [
+   {
+    "q": "What proportion of pension can be commuted?",
+    "options": [
+     "Not exceeding thirty per cent",
+     "Not exceeding fifty per cent",
+     "Not exceeding one-third",
+     "Not exceeding forty per cent"
+    ],
+    "answer": 3,
+    "why": "KSR Part III, Appendix X, Rule 3."
+   },
+   {
+    "q": "Can an officer commute pension during pendency of judicial or departmental proceedings?",
+    "options": [
+     "Yes, up to 20 per cent",
+     "Yes, with Government approval",
+     "No",
+     "Yes, after one year"
+    ],
+    "answer": 2,
+    "why": "KSR Part III, Appendix X, Rule 3 proviso."
+   },
+   {
+    "q": "To whom is the commutation application addressed?",
+    "options": [
+     "Accountant General only",
+     "Authority competent to sanction pension",
+     "Head of Department",
+     "District Treasury Officer"
+    ],
+    "answer": 1,
+    "why": "KSR Part III, Appendix X, Rule 4."
+   },
+   {
+    "q": "After how many years is the commuted portion restored (retirement at age 55)?",
+    "options": [
+     "Twelve years",
+     "Ten years",
+     "Fifteen years",
+     "Eight years"
+    ],
+    "answer": 0,
+    "why": "KSR Part III, Appendix X, Rule 6A(1)."
+   },
+   {
+    "q": "From when does the pension reduction take effect after commutation?",
+    "options": [
+     "Date of application",
+     "Date of sanction",
+     "1st day of the month of drawing the value",
+     "1st day of the month following the month the commuted value is drawn"
+    ],
+    "answer": 3,
+    "why": "KSR Part III, Appendix X, Rule 5."
+   }
+  ]
+ },
+ "p-39": {
+  "remember": [
+   "Any leave may be combined with or follow any other leave, except under Appendices (Rule 73).",
+   "Eligibility decided on the date the officer proceeds on leave (Rule 73 Ruling).",
+   "Earned plus commuted leave limit 240 days; no limit on half-pay leave at a time (Rule 74); no leave beyond compulsory retirement (Rule 75)."
+  ],
+  "questions": [
+   {
+    "q": "Can any kind of leave be combined with another kind?",
+    "options": [
+     "No, never",
+     "Only casual leave can be combined",
+     "Yes, except leave under Appendices",
+     "Only with Government sanction"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 73."
+   },
+   {
+    "q": "On what date is eligibility for leave determined?",
+    "options": [
+     "The date of application",
+     "The date the officer proceeds on leave",
+     "The date of sanction",
+     "The date of return"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 73 Ruling."
+   },
+   {
+    "q": "What is the limit on earned leave and commuted leave combined?",
+    "options": [
+     "240 days",
+     "120 days",
+     "180 days",
+     "300 days"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 74."
+   },
+   {
+    "q": "Is there a limit on half-pay leave taken at a time on medical certificate?",
+    "options": [
+     "90 days",
+     "180 days",
+     "240 days",
+     "No limit"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 74."
+   },
+   {
+    "q": "Can leave be granted beyond the date of compulsory retirement?",
+    "options": [
+     "Yes, up to 90 days",
+     "Yes, earned leave only",
+     "No",
+     "Yes, with medical certificate"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 75."
+   }
+  ]
+ }
+}

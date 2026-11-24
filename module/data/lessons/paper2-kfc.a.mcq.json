@@ -1,0 +1,912 @@
+{
+ "p-01": {
+  "remember": [
+   "Original works: new construction, additions, alterations, reconstruction of whole structures.",
+   "A mixed work is treated as an original work for finding the sanctioning authority.",
+   "No work may start before the estimate is sanctioned; estimate rates are confidential."
+  ],
+  "questions": [
+   {
+    "q": "How are repairs further classified?",
+    "options": [
+     "Ordinary repairs and special repairs",
+     "Minor repairs and major repairs",
+     "Annual repairs and special repairs",
+     "Ordinary repairs and emergency repairs"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 164: repairs are ordinary repairs and special repairs."
+   },
+   {
+    "q": "A mixed work (part original, part repair) is treated as which kind for finding the sanctioning authority?",
+    "options": [
+     "A repair work",
+     "The kind with the larger cost",
+     "An original work",
+     "A special repair"
+    ],
+    "answer": 2,
+    "why": "KFC Vol I Art. 164: a mixed work is treated as an original work."
+   },
+   {
+    "q": "What is Technical Sanction?",
+    "options": [
+     "Formal acceptance of a proposal by an administrative department",
+     "Order of a competent authority sanctioning a properly detailed estimate of cost",
+     "Order awarding the work to a contractor",
+     "Approval of the tender by the Accountant General"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 2: Technical Sanction sanctions a properly detailed estimate."
+   },
+   {
+    "q": "Can estimate rates be told to a prospective tenderer?",
+    "options": [
+     "Yes, after the tender notice",
+     "Yes, if the tenderer asks in writing",
+     "Only the total amount may be told",
+     "No, they are strictly confidential"
+    ],
+    "answer": 3,
+    "why": "KFC Vol I Art. 175: no information may be communicated to any contractor, piece-worker or tenderer."
+   },
+   {
+    "q": "Can a work be started before the estimate is sanctioned?",
+    "options": [
+     "Yes, if the work is urgent",
+     "No, a proper estimate must first be prepared and sanctioned",
+     "Yes, with the Head of Office's order",
+     "Yes, up to 10 per cent of the cost"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 173(a): no work may be started before a sanctioned estimate."
+   }
+  ]
+ },
+ "p-02": {
+  "remember": [
+   "Abandoned section of 5 per cent or more of sanctioned cost is substantial.",
+   "Five methods of execution; Measurement Book is Form K.P.W. 21; no erasures, red ink diagonal line at payment.",
+   "No advance to a contractor without special sanction."
+  ],
+  "questions": [
+   {
+    "q": "An abandoned section is substantial if its estimated cost is not less than what share of the total sanctioned cost?",
+    "options": [
+     "5 per cent",
+     "2 per cent",
+     "10 per cent",
+     "15 per cent"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 176(b): not less than 5 per cent."
+   },
+   {
+    "q": "How many methods of executing works are listed?",
+    "options": [
+     "Three",
+     "Four",
+     "Five",
+     "Six"
+    ],
+    "answer": 2,
+    "why": "KFC Vol I Art. 178: five methods including daily labour, piece-work, schedule, lump sum and percentage rate."
+   },
+   {
+    "q": "Which form is the Measurement Book?",
+    "options": [
+     "Form K.P.W. 8",
+     "Form K.P.W. 21",
+     "Form K.P.W. 31",
+     "Form 10"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 189(a): Measurement Book, Form K.P.W. 21."
+   },
+   {
+    "q": "Who must acknowledge receipt in writing when a Measurement Book changes hands?",
+    "options": [
+     "The Head of Office only",
+     "Any peon or attender",
+     "An officer not below Superintendent",
+     "A responsible person not below the grade of a clerk"
+    ],
+    "answer": 3,
+    "why": "KFC Vol I Art. 189(b)."
+   },
+   {
+    "q": "How is a mistake in the Measurement Book dealt with?",
+    "options": [
+     "Corrected and attested with dated initials; no erasures",
+     "Erased and rewritten",
+     "Cancelled with a blue ink line",
+     "Corrected by the Accountant General"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 190(6): no erasures permitted."
+   },
+   {
+    "q": "An advance to a contractor may be paid only with whose special sanction?",
+    "options": [
+     "The Executive Engineer alone",
+     "Government or a competent authority",
+     "The Accountant General",
+     "The Treasury Officer"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 192(a)."
+   }
+  ]
+ },
+ "p-03": {
+  "remember": [
+   "Drawing officer is primarily responsible for correctness of bills.",
+   "Recovery from pay ordinarily not above one-third.",
+   "Reply to objection slips within a fortnight; unreplied after one month the Treasury may be told to refuse bills; over three months reported to Government.",
+   "Register in Form 4, one register per office, numbered by calendar year in column 1."
+  ],
+  "questions": [
+   {
+    "q": "Who is primarily responsible for the correctness of the amount in a pay or contingent bill?",
+    "options": [
+     "The officer who draws the bill",
+     "The Treasury Officer",
+     "The Accountant General",
+     "The Controlling Authority"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 60."
+   },
+   {
+    "q": "What is the usual limit on recovery from a Government servant's pay?",
+    "options": [
+     "One-fourth of his pay",
+     "One-third of his pay",
+     "Half of his pay",
+     "One-fifth of his pay"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 62: ordinarily not exceeding one-third."
+   },
+   {
+    "q": "Within what time must audit objection slips be replied to?",
+    "options": [
+     "One week from receipt",
+     "One month from receipt",
+     "A fortnight from receipt",
+     "Four weeks from receipt"
+    ],
+    "answer": 2,
+    "why": "KFC Vol I Art. 63(a)."
+   },
+   {
+    "q": "If an objection is not replied to within one month, what can the Audit Officer do?",
+    "options": [
+     "Suspend the officer",
+     "Recover the amount from salary",
+     "Report to the High Court",
+     "Direct the Treasury to refuse encashment of further bills of the same class"
+    ],
+    "answer": 3,
+    "why": "KFC Vol I Art. 63(a)."
+   },
+   {
+    "q": "After how long are officers with unremedied objections reported to Government?",
+    "options": [
+     "More than three months",
+     "More than one month",
+     "More than six months",
+     "More than two months"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 63(a)."
+   }
+  ]
+ },
+ "p-04": {
+  "remember": [
+   "Register reviewed monthly by Head of Office and fortnightly by Head Clerk or PA.",
+   "Item closed on final reply to AG; number rounded off in red ink.",
+   "First replies to inspection reports within four weeks; pending IRs noted in Form 4-B."
+  ],
+  "questions": [
+   {
+    "q": "How often does the Head of the Office review the Audit Objection Register?",
+    "options": [
+     "Every fortnight",
+     "Monthly",
+     "Quarterly",
+     "Yearly"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 63(b)(7): Head of Office monthly, Head Clerk fortnightly."
+   },
+   {
+    "q": "How is a closed audit objection item marked?",
+    "options": [
+     "Serial number rounded off in red ink",
+     "Serial number struck out in black ink",
+     "Initialled in blue ink",
+     "Underlined in green ink"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 63(b)(5): closed on final reply to the Accountant General."
+   },
+   {
+    "q": "Within what time must first replies to inspection reports be sent?",
+    "options": [
+     "One week from receipt",
+     "Two weeks from receipt",
+     "Four weeks from receipt",
+     "Two months from receipt"
+    ],
+    "answer": 2,
+    "why": "KFC Vol I Art. 63(c)."
+   },
+   {
+    "q": "Which form is the register of pending Inspection Reports and paras?",
+    "options": [
+     "Form 4-B",
+     "Form 4",
+     "Form 4-A",
+     "Form 8"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 63(d)(i)."
+   },
+   {
+    "q": "When is an audit objection item treated as closed?",
+    "options": [
+     "When the first reply is sent",
+     "When the Head of Office signs the register",
+     "After three months",
+     "When final reply is given to the Accountant General"
+    ],
+    "answer": 3,
+    "why": "KFC Vol I Art. 63(b)(5)."
+   }
+  ]
+ },
+ "p-05": {
+  "remember": [
+   "Permanent advance is an exception to the rule of drawing only for immediate disbursement.",
+   "Government fixes the Head of Department's advance; application goes through the AG.",
+   "Acknowledgment to AG every 15th April and on change of incumbent or amount: Form 8 (change of incumbent), Form 8A (other cases)."
+  ],
+  "questions": [
+   {
+    "q": "Who fixes and sanctions the permanent advance of a Head of Department?",
+    "options": [
+     "Government",
+     "The Accountant-General",
+     "The Finance Secretary only",
+     "The Treasury Officer"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 95(a)."
+   },
+   {
+    "q": "Through whom is an application for a permanent advance submitted?",
+    "options": [
+     "The Treasury Officer",
+     "The Accountant-General",
+     "The Head of Department only",
+     "The Controlling Authority"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 95(d)."
+   },
+   {
+    "q": "On which date every year must a permanent advance holder send an acknowledgment?",
+    "options": [
+     "1st April",
+     "31st March",
+     "15th April",
+     "15th May"
+    ],
+    "answer": 2,
+    "why": "KFC Vol I Art. 96."
+   },
+   {
+    "q": "Which form is used for the acknowledgment when there is a change of incumbent?",
+    "options": [
+     "Form No. 8",
+     "Form No. 8A",
+     "Form No. 10",
+     "Form No. 4"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 96: Form 8 for change of incumbent, Form 8A in other cases."
+   },
+   {
+    "q": "Orders sanctioning or revising a permanent advance are communicated to whom?",
+    "options": [
+     "The Treasury Officer only",
+     "The Government servant only",
+     "The Head of Department only",
+     "The Government servant and the Accountant-General"
+    ],
+    "answer": 3,
+    "why": "KFC Vol I Art. 95(c)."
+   }
+  ]
+ },
+ "p-06": {
+  "remember": [
+   "At month end the cashier rules a red ink line in the contingent register, adds columns and posts totals in the bill.",
+   "Head of Office marks original sub-vouchers as paid and is personally responsible for a second payment."
+  ],
+  "questions": [
+   {
+    "q": "Who rules a red ink line across the contingent register at month end for recoupment?",
+    "options": [
+     "The cashier",
+     "The Head of Office",
+     "The Treasury Officer",
+     "The Accountant General"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 97."
+   },
+   {
+    "q": "What must the Head of Office do on sub-vouchers when signing a contingent bill?",
+    "options": [
+     "Return them to the payees",
+     "Send them to the Treasury unmarked",
+     "Mark the original sub-vouchers as paid",
+     "Destroy them after the bill is passed"
+    ],
+    "answer": 2,
+    "why": "KFC Vol I Art. 97: so they cannot support a second claim."
+   },
+   {
+    "q": "Who is held personally responsible if a second payment is made on the same sub-vouchers?",
+    "options": [
+     "The cashier only",
+     "The Head of Office",
+     "The payee",
+     "The Accountant General"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 97."
+   }
+  ]
+ },
+ "p-07": {
+  "remember": [
+   "Servant is personally responsible for loss from his fraud or negligence.",
+   "Inform the head of office immediately; preliminary report to AG and Head of Department.",
+   "Petty loss up to Rs. 300 reported only to write-off authority.",
+   "Securities verified at least once a year in May."
+  ],
+  "questions": [
+   {
+    "q": "Whom must a Government servant inform on noticing a defalcation or loss?",
+    "options": [
+     "The head of the office, immediately",
+     "The Treasury Officer",
+     "The police only",
+     "The Accountant General only"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 297."
+   },
+   {
+    "q": "Up to what amount is a petty loss reported only to the authority competent to write it off?",
+    "options": [
+     "Rs. 100",
+     "Rs. 300",
+     "Rs. 500",
+     "Rs. 1,000"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 297: petty loss not exceeding Rs. 300 without embezzlement or serious irregularity."
+   },
+   {
+    "q": "Within what period must restoration of damaged immovable property begin so its value need not be written off?",
+    "options": [
+     "One year from the date of damage",
+     "Three years from the date of damage",
+     "Two years from the date of damage",
+     "Six months from the date of damage"
+    ],
+    "answer": 2,
+    "why": "KFC Vol I Art. 302."
+   },
+   {
+    "q": "In which month must securities be verified at least once a year?",
+    "options": [
+     "March",
+     "April",
+     "June",
+     "May"
+    ],
+    "answer": 3,
+    "why": "KFC Vol I Art. 293."
+   },
+   {
+    "q": "To whom does the Head of Office send the preliminary loss report?",
+    "options": [
+     "The Accountant General and the Head of the Department",
+     "The Treasury Officer and the Finance Department",
+     "The Controlling Authority only",
+     "The Public Service Commission"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 297."
+   }
+  ]
+ },
+ "p-08": {
+  "remember": [
+   "Contingent charges: countersigned and non-countersigned (audited contingencies).",
+   "Secret service sub-vouchers are not attached; accounts not scrutinised by the AG.",
+   "A sanction is not an order for lump sum drawal; unneeded money is returned by short-drawing from the next bill."
+  ],
+  "questions": [
+   {
+    "q": "Into how many groups are contingent charges classified for control and audit?",
+    "options": [
+     "Two: countersigned and non-countersigned",
+     "Three: recurring, non-recurring and secret",
+     "Two: voted and charged",
+     "Four: by Major head"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 103."
+   },
+   {
+    "q": "What are non-countersigned contingencies also called?",
+    "options": [
+     "Secret contingencies",
+     "Audited contingencies",
+     "Recurring contingencies",
+     "Controlled contingencies"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 103: audited without Controlling Authority scrutiny."
+   },
+   {
+    "q": "Are sub-vouchers for Secret Service Expenses attached to the bills?",
+    "options": [
+     "Yes, always",
+     "Yes, for amounts above Rs. 100",
+     "No, they are not attached",
+     "Only when the AG asks"
+    ],
+    "answer": 2,
+    "why": "KFC Vol I Art. 103."
+   },
+   {
+    "q": "Can a sanctioned amount be drawn in a lump sum on a contingent bill?",
+    "options": [
+     "Yes, at the start of the year",
+     "Yes, with the Treasury Officer's consent",
+     "Yes, if the amount is below Rs. 10,000",
+     "No, a sanction is only authority to incur expenditure within limits"
+    ],
+    "answer": 3,
+    "why": "KFC Vol I Art. 103 Note 4."
+   },
+   {
+    "q": "How is unneeded money drawn on a contingent bill returned?",
+    "options": [
+     "By short-drawing from the next contingent bill",
+     "By remitting to the Treasury at once",
+     "By adding it to the permanent advance",
+     "By paying it to the Accountant General"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 103 Note 5."
+   }
+  ]
+ },
+ "p-09": {
+  "remember": [
+   "Secret service bills are not supported by vouchers; officer keeps a secret cash book.",
+   "Controlling officer nominated by Government audits at least once every financial year.",
+   "Certificate to AG by 31st August; accounts not scrutinised by audit."
+  ],
+  "questions": [
+   {
+    "q": "In what form does the secret service officer keep the record of expenditure and receipts?",
+    "options": [
+     "A cash book",
+     "A contingent register",
+     "A stock register",
+     "A measurement book"
+    ],
+    "answer": 0,
+    "why": "KFC Vol II Appendix 6 para 3."
+   },
+   {
+    "q": "Who nominates the controlling officer for administrative audit of secret service expenditure?",
+    "options": [
+     "Government",
+     "The Accountant General",
+     "The Head of Department",
+     "The Treasury Officer"
+    ],
+    "answer": 0,
+    "why": "KFC Vol II Appendix 6 para 4."
+   },
+   {
+    "q": "By what date must the secret service certificate reach the Accountant-General?",
+    "options": [
+     "31st March following the year",
+     "30th June following the year",
+     "31st August following the year",
+     "30th September following the year"
+    ],
+    "answer": 2,
+    "why": "KFC Vol II Appendix 6 para 4."
+   },
+   {
+    "q": "How often is the administrative audit of secret service expenditure conducted at least?",
+    "options": [
+     "Once every month",
+     "Once in every financial year",
+     "Once every six months",
+     "Once in two years"
+    ],
+    "answer": 1,
+    "why": "KFC Vol II Appendix 6 para 4."
+   },
+   {
+    "q": "Are secret service bills supported by vouchers?",
+    "options": [
+     "Yes, by original vouchers",
+     "Yes, by sub-vouchers above Rs. 100",
+     "Yes, by countersigned vouchers",
+     "No"
+    ],
+    "answer": 3,
+    "why": "KFC Vol II Appendix 6 para 1."
+   }
+  ]
+ },
+ "p-10": {
+  "remember": [
+   "Expenditure needs competent sanction and sufficient funds, both independent.",
+   "All appropriations lapse at year end; no rush of expenditure in March to prevent it.",
+   "Public money may benefit a person if the amount is Rs. 100 or less, enforceable in court, or per recognised policy."
+  ],
+  "questions": [
+   {
+    "q": "What happens to appropriations at the close of the financial year?",
+    "options": [
+     "They lapse",
+     "They carry forward to next year",
+     "They are credited to the Contingency Fund",
+     "They are kept by the department"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 40(c)(6)."
+   },
+   {
+    "q": "May a lapse of appropriation be prevented by a rush of expenditure in March?",
+    "options": [
+     "Yes, with the Head of Office's order",
+     "No, no such attempt should be made",
+     "Yes, up to 10 per cent",
+     "Yes, for capital works"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 40(c)(7)."
+   },
+   {
+    "q": "Public money may benefit a particular person if the expenditure is how much or less?",
+    "options": [
+     "Rs. 100",
+     "Rs. 50",
+     "Rs. 500",
+     "Rs. 1,000"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 40(b)(3)."
+   },
+   {
+    "q": "Before incurring expenditure, what two things are needed?",
+    "options": [
+     "Sanction and Treasury Officer's consent",
+     "Sufficient funds and AG's approval",
+     "Competent sanction and sufficient funds",
+     "Administrative Approval and a tender"
+    ],
+    "answer": 2,
+    "why": "KFC Vol I Art. 40(a): both are independent."
+   }
+  ]
+ },
+ "p-11": {
+  "remember": [
+   "Contingent Register unit is the Major head, arrangement as in Form 10.",
+   "Form 10 is Register of contingent charges; Form 10-A is Register of recurring charges.",
+   "Detailed countersigned bill reaches the Controlling Authority by the 10th of the next month."
+  ],
+  "questions": [
+   {
+    "q": "What is the unit of the Contingent Register?",
+    "options": [
+     "The Minor head of account",
+     "The Major head of account",
+     "The Sub head",
+     "The detailed head"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 104."
+   },
+   {
+    "q": "Which form is the Register of recurring charges?",
+    "options": [
+     "Form 10-A",
+     "Form 10",
+     "Form 9-B",
+     "Form 4-B"
+    ],
+    "answer": 0,
+    "why": "KFC Vol II Forms list: Form 10 is contingent charges, 10-A recurring charges."
+   },
+   {
+    "q": "By what date must the monthly detailed countersigned bill reach the Controlling Authority?",
+    "options": [
+     "10th of the following month",
+     "5th of the following month",
+     "15th of the following month",
+     "Last day of the same month"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 107(a)."
+   },
+   {
+    "q": "Which entries does the cashier make in the Contingent Register on payment?",
+    "options": [
+     "Date, voucher number and Head of Office's initials",
+     "Payee name and balance in hand only",
+     "Date, payee name, amount and number of sub-vouchers",
+     "Date, amount and Treasury token number"
+    ],
+    "answer": 2,
+    "why": "KFC Vol I Art. 105(a)."
+   }
+  ]
+ },
+ "p-12": {
+  "remember": [
+   "TA bills of Ministers, PSC Chairman and High Court Judges need no countersignature.",
+   "Controlling officer countersigns a gazetted officer's TA bill before it is paid.",
+   "Form 9-B is the T.A. Check register; check that the same journey was not claimed before."
+  ],
+  "questions": [
+   {
+    "q": "Whose TA bills need no countersignature?",
+    "options": [
+     "Ministers, PSC Chairman and High Court Judges",
+     "Secretaries to Government",
+     "District Collectors",
+     "All gazetted officers"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 85(a) Note 1."
+   },
+   {
+    "q": "When must a controlling officer countersign a gazetted officer's TA bill?",
+    "options": [
+     "After it is paid",
+     "Before it is paid",
+     "Within a year of payment",
+     "At the time of audit"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 85(a)."
+   },
+   {
+    "q": "Which form is the T.A. Check register?",
+    "options": [
+     "Form 9-B",
+     "Form 9-A",
+     "Form 10",
+     "Form 8"
+    ],
+    "answer": 0,
+    "why": "KFC Vol II Forms list."
+   },
+   {
+    "q": "What is checked on a new TA bill using the check register?",
+    "options": [
+     "That the rate of DA is correct",
+     "That the officer holds a permanent advance",
+     "That the same journey was not claimed before",
+     "That the bill is countersigned by the AG"
+    ],
+    "answer": 2,
+    "why": "KFC Vol I Art. 85(d)."
+   }
+  ]
+ },
+ "p-13": {
+  "remember": [
+   "Contingent expenditure sanctioned by Heads of Offices should be non-recurring.",
+   "Power may be delegated to any Gazetted servant under the Head.",
+   "A responsible non-gazetted subordinate such as a Head Clerk may incur urgent small expenditure."
+  ],
+  "questions": [
+   {
+    "q": "Contingent expenditure sanctioned by Heads of Offices should ordinarily be of what kind?",
+    "options": [
+     "Non-recurring",
+     "Recurring",
+     "Both recurring and non-recurring",
+     "Capital only"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 92(a)(1)."
+   },
+   {
+    "q": "To whom may a Head of Office delegate power to sanction contingent expenditure?",
+    "options": [
+     "Any clerk in the office",
+     "Any Gazetted Government servant under him",
+     "Only the Head Clerk",
+     "Any retired officer"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 92(b)."
+   },
+   {
+    "q": "Who may incur urgent contingent expenditure in anticipation of sanction?",
+    "options": [
+     "A responsible non-gazetted subordinate such as a Head Clerk",
+     "A peon of the office",
+     "The Treasury Officer",
+     "The Accountant General's staff"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 92(b) para 2."
+   }
+  ]
+ },
+ "p-14": {
+  "remember": [
+   "Temporary advance for a specified purpose not covered by standing sanction needs Government sanction.",
+   "Adjust by detailed bills and vouchers as soon as possible.",
+   "Tour advance: a month or tour duration, whichever is shorter."
+  ],
+  "questions": [
+   {
+    "q": "How must a temporary advance be adjusted?",
+    "options": [
+     "By detailed bills and vouchers as soon as possible",
+     "By a lump sum certificate at year end",
+     "By recovery from the next pay bill",
+     "By a note in the Contingent Register only"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 99."
+   },
+   {
+    "q": "A Head of Office may sanction a tour contingent advance for how long?",
+    "options": [
+     "Three months",
+     "A month or the probable duration of the tour, whichever is shorter",
+     "A month or the tour duration, whichever is longer",
+     "One year"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 100."
+   },
+   {
+    "q": "When is Government sanction needed for a temporary advance for contingent expenditure?",
+    "options": [
+     "For every temporary advance",
+     "Only when it exceeds Rs. 1,000",
+     "When it is for a specified purpose and not covered by standing sanction",
+     "Never, the Head of Office decides"
+    ],
+    "answer": 2,
+    "why": "KFC Vol I Art. 99."
+   }
+  ]
+ },
+ "p-15": {
+  "remember": [
+   "Pay and monthly recurring payments fall due only on expiry of the month.",
+   "No advance of leave salary if leave is less than a month (30 days)."
+  ],
+  "questions": [
+   {
+    "q": "When do pay and monthly recurring payments fall due?",
+    "options": [
+     "On the expiry of the month to which they relate",
+     "On the first day of the month",
+     "In the middle of the month",
+     "On the 10th of the next month"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 75(a)."
+   },
+   {
+    "q": "For leave of what length is an advance of leave salary not allowed?",
+    "options": [
+     "Less than 15 days",
+     "Less than a month (30 days)",
+     "Less than three months",
+     "Less than one year"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 75(d)."
+   }
+  ]
+ },
+ "p-16": {
+  "remember": [
+   "TA advance must never exceed the TA expected for the journey.",
+   "Adjust in full in the final TA bill, drawn before the close of the month following the journey month."
+  ],
+  "questions": [
+   {
+    "q": "The TA advance for a tour must never exceed what?",
+    "options": [
+     "The TA the sanctioning authority expects the officer to be entitled to",
+     "Half the officer's monthly pay",
+     "The previous tour's TA",
+     "One month's pay"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 88."
+   },
+   {
+    "q": "By when must the final TA bill adjusting the advance be drawn?",
+    "options": [
+     "Within seven days of return",
+     "Before the close of the month following the journey month",
+     "Before the close of the same month",
+     "Within six months"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 88."
+   }
+  ]
+ },
+ "p-17": {
+  "remember": [
+   "Tenders must be invited if stores value is Rs. 10,000 or above.",
+   "Earnest money is ordinarily taken for tenders of Rs. 10,000 or more; for special tenders it is 1 per cent of total cost."
+  ],
+  "questions": [
+   {
+    "q": "Tenders must be invited if the estimated value of stores is at least how much?",
+    "options": [
+     "Rs. 10,000",
+     "Rs. 1,000",
+     "Rs. 5,000",
+     "Rs. 50,000"
+    ],
+    "answer": 0,
+    "why": "KFC Vol I Art. 126(b)."
+   },
+   {
+    "q": "What is the earnest money for special tenders?",
+    "options": [
+     "5 per cent of the total cost",
+     "2 per cent of the total cost",
+     "1 per cent of the total cost",
+     "10 per cent of the total cost"
+    ],
+    "answer": 2,
+    "why": "KFC Vol I Art. 132."
+   },
+   {
+    "q": "Earnest money is ordinarily taken for tenders involving at least how much?",
+    "options": [
+     "Rs. 1,000",
+     "Rs. 10,000",
+     "Rs. 5,000",
+     "Rs. 25,000"
+    ],
+    "answer": 1,
+    "why": "KFC Vol I Art. 132."
+   }
+  ]
+ }
+}

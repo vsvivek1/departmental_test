@@ -1,0 +1,736 @@
+{
+ "p-01": {
+  "remember": [
+   "The Comptroller and Auditor General, with the President's approval, decides classification of any transaction.",
+   "Government accounts are kept in three parts. Part I has Revenue, and Capital, Public Debt, Loans etc.",
+   "Major head is the main unit; detailed head is the fifth and last tier (object classification)."
+  ],
+  "questions": [
+   {
+    "q": "Who decides the classification of any transaction in Government accounts?",
+    "options": [
+     "The Finance Secretary, with the approval of the Governor",
+     "The Accountant General, with the approval of the Governor",
+     "The Comptroller and Auditor General, with the approval of the President",
+     "The Comptroller and Auditor General, with the approval of the Finance Minister"
+    ],
+    "answer": 2,
+    "why": "KAC Vol I, Art. 29: the CAG with the President's approval is the authority."
+   },
+   {
+    "q": "Classification of transactions has closer reference to which of these?",
+    "options": [
+     "The department that spends the money",
+     "Function, programme and activity, and the object of revenue or expenditure",
+     "The treasury that pays the bill",
+     "The Government servant who draws the money"
+    ],
+    "answer": 1,
+    "why": "KAC Vol I, Art. 30: closer reference to function, programme, activity and object, rather than the department."
+   },
+   {
+    "q": "Into how many parts are Government accounts kept?",
+    "options": [
+     "Three",
+     "Two",
+     "Four",
+     "Five"
+    ],
+    "answer": 0,
+    "why": "KAC Vol I, Art. 24(a): accounts are kept in three parts."
+   },
+   {
+    "q": "What is the main unit of classification in accounts?",
+    "options": [
+     "Minor head",
+     "Sub-head",
+     "Detailed head",
+     "Major head"
+    ],
+    "answer": 3,
+    "why": "KAC Vol I, Art. 26(a): the major head is the main unit of classification."
+   },
+   {
+    "q": "Which tier of classification is the detailed head?",
+    "options": [
+     "The third tier, the programme classification",
+     "The fourth tier, below the sub-head",
+     "The fifth and last tier, the object classification",
+     "The first tier, the function classification"
+    ],
+    "answer": 2,
+    "why": "KAC Vol I, Art. 26(c): the detailed head is the fifth and last tier."
+   }
+  ]
+ },
+ "p-02": {
+  "remember": [
+   "Major head blocks: Revenue Receipts 020-199, Revenue Expenditure 211-399, Capital Expenditure 411-599.",
+   "Contingency Fund is 800; Public Account heads are 801 to 899.",
+   "Residential buildings: 2216 / 4216. Roads and bridges: 3054 / 5054. Non-residential building repairs: 2059."
+  ],
+  "questions": [
+   {
+    "q": "What number block do major heads in the Revenue Receipts Section carry?",
+    "options": [
+     "211 to 399",
+     "411 to 599",
+     "801 to 899",
+     "020 to 199"
+    ],
+    "answer": 3,
+    "why": "Kerala Budget Manual, Para 9(3): Revenue Receipts are 020 to 199."
+   },
+   {
+    "q": "Major heads in Capital Expenditure carry which numbers?",
+    "options": [
+     "211 to 399",
+     "020 to 199",
+     "411 to 599",
+     "801 to 899"
+    ],
+    "answer": 2,
+    "why": "Kerala Budget Manual, Para 9(3): Capital Expenditure is 411 to 599."
+   },
+   {
+    "q": "Which major head number belongs to the Contingency Fund?",
+    "options": [
+     "400",
+     "800",
+     "801",
+     "899"
+    ],
+    "answer": 1,
+    "why": "Kerala Budget Manual, Para 9(3): the only major head in Part II, Contingency Fund, is 800."
+   },
+   {
+    "q": "The minor head is which tier of classification?",
+    "options": [
+     "The third tier",
+     "The second tier",
+     "The fourth tier",
+     "The fifth tier"
+    ],
+    "answer": 0,
+    "why": "Kerala Budget Manual, Para 11: the minor head is the third tier and denotes Plan or Non-Plan programmes."
+   },
+   {
+    "q": "Under which major head is repair of Government non-residential buildings accounted?",
+    "options": [
+     "2216 Housing",
+     "3054 Roads and Bridges",
+     "4216 Capital Outlay on Housing",
+     "2059 Public Works"
+    ],
+    "answer": 3,
+    "why": "KAC Vol I, Art. 33, item 3: maintenance and repairs of non-residential buildings go to 2059 Public Works."
+   }
+  ]
+ },
+ "p-03": {
+  "remember": [
+   "A grant is the sum sanctioned by the Legislature for a service on a demand presented to it.",
+   "The Appropriation Act is the legal authority to withdraw from the Consolidated Fund.",
+   "Supplementary grant: over and above the amount already authorised. Chief Controlling Officer has primary responsibility."
+  ],
+  "questions": [
+   {
+    "q": "What is the legal authority for withdrawing money from the Consolidated Fund?",
+    "options": [
+     "The Appropriation Act",
+     "The Annual Financial Statement",
+     "The Finance Department order",
+     "The Budget Manual"
+    ],
+    "answer": 0,
+    "why": "Kerala Budget Manual, Para 4: the Appropriation Act is the legal authority and fixes the maximum for each service."
+   },
+   {
+    "q": "What is a supplementary grant?",
+    "options": [
+     "A sum sanctioned by the Finance Department from savings",
+     "A grant made to regularise past excess expenditure",
+     "The transfer of funds from one unit of appropriation to another",
+     "A sum sanctioned by the Legislature for a service over and above the amount already authorised"
+    ],
+    "answer": 3,
+    "why": "Kerala Budget Manual, Para 87: supplementary grant is over and above the amount already authorised."
+   },
+   {
+    "q": "Who has primary responsibility for supplementary appropriation proposals?",
+    "options": [
+     "The Disbursing Officer",
+     "The Accountant General",
+     "The Chief Controlling Officer",
+     "The Administrative Department"
+    ],
+    "answer": 2,
+    "why": "Kerala Budget Manual, Para 89(1): the Chief Controlling Officer has primary responsibility."
+   },
+   {
+    "q": "The Administrative Department examines supplementary proposals and passes them to whom, with its recommendations?",
+    "options": [
+     "The Accountant General",
+     "The Finance Department",
+     "The Governor",
+     "The Public Accounts Committee"
+    ],
+    "answer": 1,
+    "why": "Kerala Budget Manual, Para 89(2): proposals go to the Finance Department with recommendations."
+   },
+   {
+    "q": "Which Article of the Constitution requires a supplementary statement for a new service?",
+    "options": [
+     "Article 205",
+     "Article 202",
+     "Article 267",
+     "Article 204"
+    ],
+    "answer": 0,
+    "why": "Kerala Budget Manual, Para 94(2): Article 205 requires a supplementary statement laid before the Legislature."
+   }
+  ]
+ },
+ "p-04": {
+  "remember": [
+   "No spending on a new service before a supplementary grant, even if savings exist.",
+   "Token sum Rs. 100 (or balance needed) is shown if met from savings.",
+   "Contingency Fund: Article 267 (2); advance given pending Legislature authorisation."
+  ],
+  "questions": [
+   {
+    "q": "Can money be spent on a new service from savings before a supplementary grant is obtained?",
+    "options": [
+     "Yes, if there are savings within the grant",
+     "No, even if there are savings within the grant",
+     "Yes, if the Finance Department concurs",
+     "Yes, up to Rs. 100 only"
+    ],
+    "answer": 1,
+    "why": "Kerala Budget Manual, Para 94(2): no expenditure on a new service before a supplementary grant."
+   },
+   {
+    "q": "What token sum is shown if a new service can be met from savings in the grant?",
+    "options": [
+     "Rs. 100, or the balance actually required",
+     "Rs. 10, or the balance actually required",
+     "Rs. 1,000, or the balance actually required",
+     "Rs. 500, or the balance actually required"
+    ],
+    "answer": 0,
+    "why": "Kerala Budget Manual, Para 94(2): a token sum (Rs. 100) or the balance required is shown."
+   },
+   {
+    "q": "How is interim provision found for an urgent new service before a supplementary grant?",
+    "options": [
+     "By reappropriation from another grant",
+     "By a loan from the Public Account",
+     "By surrender of savings to the Finance Department",
+     "By an advance from the Contingency Fund"
+    ],
+    "answer": 3,
+    "why": "Kerala Budget Manual, Para 94(2): an advance from the Contingency Fund pending authorisation."
+   },
+   {
+    "q": "Under which Article of the Constitution is the Contingency Fund created?",
+    "options": [
+     "Article 205",
+     "Article 202",
+     "Article 267 (2)",
+     "Article 266"
+    ],
+    "answer": 2,
+    "why": "Kerala Budget Manual, Para 96: created under Article 267 (2), like an imprest at the Governor's disposal."
+   },
+   {
+    "q": "For urgent expenditure not on a new service with no savings, who may authorise it with Finance concurrence?",
+    "options": [
+     "The Chief Controlling Officer",
+     "The Administrative Department",
+     "The Accountant General",
+     "The Disbursing Officer"
+    ],
+    "answer": 1,
+    "why": "Kerala Budget Manual, Para 95(3): the Administrative Department, with Finance Department concurrence."
+   }
+  ]
+ },
+ "p-05": {
+  "remember": [
+   "Reappropriation is transfer of funds from one unit of appropriation to another.",
+   "Between minor heads within a grant: only Finance Department. Not allowed between grants.",
+   "Amount must be a multiple of Rs. 100; excess or saving up to Rs. 100 need not be regularised."
+  ],
+  "questions": [
+   {
+    "q": "What is reappropriation?",
+    "options": [
+     "Sanction of a sum above the amount already authorised",
+     "Return of unspent funds to the Finance Department",
+     "Transfer of funds from one unit of appropriation to another",
+     "A grant to regularise past excess expenditure"
+    ],
+    "answer": 2,
+    "why": "Kerala Budget Manual, Para 11: reappropriation is transfer from one unit of appropriation to another."
+   },
+   {
+    "q": "Who alone can reappropriate between minor heads within a grant?",
+    "options": [
+     "The Administrative Department",
+     "The Finance Department",
+     "The Chief Controlling Officer",
+     "The Accountant General"
+    ],
+    "answer": 1,
+    "why": "Kerala Budget Manual, Para 84(1): exclusively the Finance Department."
+   },
+   {
+    "q": "Can reappropriation involve a recurring liability extending beyond the current financial year?",
+    "options": [
+     "No",
+     "Yes, if the Finance Department agrees",
+     "Yes, up to two years",
+     "Yes, for Plan schemes only"
+    ],
+    "answer": 0,
+    "why": "Kerala Budget Manual, Para 84(1)(ii): no recurring liability beyond the current year."
+   },
+   {
+    "q": "Is reappropriation permissible between grants?",
+    "options": [
+     "Yes, with Finance Department sanction",
+     "Yes, between voted grants only",
+     "Yes, between revenue grants only",
+     "No"
+    ],
+    "answer": 3,
+    "why": "Kerala Budget Manual, Para 84(2): none between grants, charged and voted, or revenue and capital sections."
+   },
+   {
+    "q": "The amount reappropriated should invariably be a multiple of what?",
+    "options": [
+     "Rs. 10",
+     "Rs. 1,000",
+     "Rs. 100",
+     "Rs. 500"
+    ],
+    "answer": 2,
+    "why": "Kerala Budget Manual, Para 84, Note 1: a multiple of Rs. 100."
+   }
+  ]
+ },
+ "p-06": {
+  "remember": [
+   "Reappropriation sanction is in Form KBM 22; one copy goes direct to the Accountant General.",
+   "Reappropriation and resumption only up to the last day of the financial year, not after.",
+   "Proposals reach Administrative Department by 15th February and Finance Department by 25th February."
+  ],
+  "questions": [
+   {
+    "q": "Which form is used for proceedings sanctioning reappropriation?",
+    "options": [
+     "Form KBM 12",
+     "Form KBM 13",
+     "Form KBM 15",
+     "Form KBM 22"
+    ],
+    "answer": 3,
+    "why": "Kerala Budget Manual, Para 86(1): proceedings in Form KBM 22."
+   },
+   {
+    "q": "To whom is one copy of the reappropriation proceedings sent direct?",
+    "options": [
+     "The Finance Secretary",
+     "The Treasury Officer",
+     "The Accountant General",
+     "The Public Accounts Committee"
+    ],
+    "answer": 2,
+    "why": "Kerala Budget Manual, Para 86(1): one copy direct to the Accountant General."
+   },
+   {
+    "q": "By what date must proposals from Chief Controlling Officers reach the Administrative Department?",
+    "options": [
+     "25th February",
+     "15th February",
+     "15th March",
+     "30th November"
+    ],
+    "answer": 1,
+    "why": "Kerala Budget Manual, Para 93(1)(i): 15th February."
+   },
+   {
+    "q": "By what date must proposals reach the Finance Department from the Administrative Department?",
+    "options": [
+     "25th February",
+     "15th February",
+     "31st March",
+     "10th April"
+    ],
+    "answer": 0,
+    "why": "Kerala Budget Manual, Para 93(1)(ii): 25th February."
+   },
+   {
+    "q": "Up to when may reappropriation and resumption be ordered?",
+    "options": [
+     "Up to 15th February only",
+     "Up to 25th February only",
+     "Up to two months after the year ends",
+     "Up to the last day of the financial year, not after its expiry"
+    ],
+    "answer": 3,
+    "why": "Kerala Budget Manual, Para 93(1): not after the expiry of the financial year."
+   }
+  ]
+ },
+ "p-07": {
+  "remember": [
+   "Article 202: Annual Financial Statement laid before the Legislature.",
+   "Non-plan estimates by 15th September; Plan and Revenue estimates by 30th November.",
+   "Estimates are on cash basis. Revised Estimate uses first five months' actuals and does not authorise extra spending."
+  ],
+  "questions": [
+   {
+    "q": "Which Article requires the Annual Financial Statement to be laid before the Legislature?",
+    "options": [
+     "Article 202",
+     "Article 205",
+     "Article 267",
+     "Article 204"
+    ],
+    "answer": 0,
+    "why": "Kerala Budget Manual, Para 2: Article 202."
+   },
+   {
+    "q": "By when are the Non-plan estimates received in the Finance Department?",
+    "options": [
+     "30th of November",
+     "15th of February",
+     "30th of September",
+     "15th of September"
+    ],
+    "answer": 3,
+    "why": "Kerala Budget Manual, Para 3(2): Non-plan estimates by 15th September."
+   },
+   {
+    "q": "On what basis are budget estimates prepared?",
+    "options": [
+     "Accrual basis, including liabilities not yet paid",
+     "Sanction basis, including all sanctions issued",
+     "Cash basis, what is expected to be actually received or paid, including arrears",
+     "Previous year's actuals alone"
+    ],
+    "answer": 2,
+    "why": "Kerala Budget Manual, Para 15: cash basis, including arrears of past years."
+   },
+   {
+    "q": "How many months of actual expenditure of the current year guide the Revised Estimate?",
+    "options": [
+     "The first three months",
+     "The first five months",
+     "The first six months",
+     "The first nine months"
+    ],
+    "answer": 1,
+    "why": "Kerala Budget Manual, Para 20(3): first five months."
+   },
+   {
+    "q": "Does a Revised Estimate authorise additional expenditure?",
+    "options": [
+     "No, it does not nullify the budget nor authorise additional expenditure",
+     "Yes, up to the revised amount",
+     "Yes, with Finance Department sanction only",
+     "Yes, for Plan schemes only"
+    ],
+    "answer": 0,
+    "why": "Kerala Budget Manual, Para 20(5)."
+   }
+  ]
+ },
+ "p-08": {
+  "remember": [
+   "The Revised Estimate for the current year is the basis for the next year's Budget Estimate.",
+   "Due allowance is made for any special factor."
+  ],
+  "questions": [
+   {
+    "q": "What forms the basis for preparing the Budget Estimate for the coming year?",
+    "options": [
+     "The Budget Estimate of the previous year",
+     "The Revised Estimate for the current year",
+     "The Appropriation Accounts of the last year",
+     "The supplementary grants of the current year"
+    ],
+    "answer": 1,
+    "why": "Kerala Budget Manual, Para 21: the Revised Estimate is the basis."
+   },
+   {
+    "q": "What is allowed for when the Revised Estimate is used as the basis for the next Budget Estimate?",
+    "options": [
+     "Due allowance for any special factor",
+     "A fixed ten percent increase",
+     "Reduction of all Plan provisions",
+     "Addition of all surrendered savings"
+    ],
+    "answer": 0,
+    "why": "Kerala Budget Manual, Para 21: with due allowance for any special factor."
+   },
+   {
+    "q": "Which estimate is used as the basis for the coming year's Budget Estimate?",
+    "options": [
+     "Non-plan estimate of the coming year",
+     "Supplementary estimate of the previous year",
+     "Excess grant estimate of the previous year",
+     "Revised Estimate of the current year"
+    ],
+    "answer": 3,
+    "why": "Kerala Budget Manual, Para 21."
+   }
+  ]
+ },
+ "p-09": {
+  "remember": [
+   "Disbursing Officer: expenditure register KBM 12; Liability Register KBM 13; monthly statement to Controlling Officer KBM 14.",
+   "Subordinate Controlling Officer consolidates in KBM 15; Controlling Officers also keep KBM 13.",
+   "Treasury returns bill uncashed if appropriation is insufficient. PWD: Register of Revenue K.P.W. Form 4; Registers of Works Forms 38 and 39."
+  ],
+  "questions": [
+   {
+    "q": "In which form does a Disbursing Officer maintain the register of expenditure and liabilities?",
+    "options": [
+     "Form KBM 13",
+     "Form KBM 14",
+     "Form KBM 12",
+     "Form KBM 15"
+    ],
+    "answer": 2,
+    "why": "Kerala Budget Manual, Para 70(1): Form KBM 12."
+   },
+   {
+    "q": "In which form is the separate Liability Register kept?",
+    "options": [
+     "Form KBM 12",
+     "Form KBM 13",
+     "Form KBM 14",
+     "Form KBM 22"
+    ],
+    "answer": 1,
+    "why": "Kerala Budget Manual, Para 70(2): Form KBM 13."
+   },
+   {
+    "q": "Which form is the monthly statement of liabilities forwarded to the Controlling Officer?",
+    "options": [
+     "Form KBM 14",
+     "Form KBM 12",
+     "Form KBM 13",
+     "Form KBM 15"
+    ],
+    "answer": 0,
+    "why": "Kerala Budget Manual, Para 70(2): Form KBM 14."
+   },
+   {
+    "q": "A Subordinate Controlling Officer consolidates disbursement figures in which form?",
+    "options": [
+     "Form KBM 12",
+     "Form KBM 14",
+     "Form KBM 22",
+     "Form KBM 15"
+    ],
+    "answer": 3,
+    "why": "Kerala Budget Manual, Para 71: Form KBM 15."
+   },
+   {
+    "q": "What happens at the treasury if the available appropriation is insufficient to cover a bill?",
+    "options": [
+     "The bill is cashed and reported to the Finance Department",
+     "The bill is kept pending until a supplementary grant",
+     "The bill is returned uncashed",
+     "The bill is cashed from the Contingency Fund"
+    ],
+    "answer": 2,
+    "why": "Kerala Budget Manual, Para 67: the bill is returned uncashed."
+   }
+  ]
+ },
+ "p-10": {
+  "remember": [
+   "Capital expenditure: increases concrete assets of a material and permanent character, or extinguishes or reduces recurring liabilities.",
+   "Assets must belong to the spending authority; grants-in-aid to local bodies are not capital; temporary assets are not capital.",
+   "Capital bears first construction and equipment; revenue bears later maintenance and working expenses."
+  ],
+  "questions": [
+   {
+    "q": "Capital expenditure is broadly expenditure to do what?",
+    "options": [
+     "Meet the day-to-day working expenses of a project",
+     "Pay grants-in-aid to local bodies for their own assets",
+     "Increase concrete assets of a material and permanent character, or extinguish or reduce recurring liabilities",
+     "Create temporary assets of any value"
+    ],
+    "answer": 2,
+    "why": "KAC Vol I, Art. 30-A(1)."
+   },
+   {
+    "q": "For spending to be capital, to whom must the assets produced belong?",
+    "options": [
+     "Any local body or institution",
+     "The authority incurring the expenditure",
+     "The Public Account",
+     "The Comptroller and Auditor General"
+    ],
+    "answer": 1,
+    "why": "KAC Vol I, Art. 30-A(2): grants-in-aid for assets of local bodies are not capital."
+   },
+   {
+    "q": "Can expenditure on a temporary asset ordinarily be considered capital?",
+    "options": [
+     "No",
+     "Yes, always",
+     "Yes, if above a fixed amount",
+     "Yes, if the Finance Department agrees"
+    ],
+    "answer": 0,
+    "why": "KAC Vol I, Art. 30-A(3)."
+   },
+   {
+    "q": "What should capital bear for a new project?",
+    "options": [
+     "All later maintenance charges and working expenses",
+     "Only the cost of replacing wastage",
+     "Only the interest on loans",
+     "First construction and equipment charges, and intermediate maintenance while not yet opened for service"
+    ],
+    "answer": 3,
+    "why": "KAC Vol I, Art. 30-A(5)."
+   },
+   {
+    "q": "Subject to the exceptions, what should revenue bear after the project is opened?",
+    "options": [
+     "First construction and equipment charges",
+     "Intermediate maintenance before opening",
+     "All subsequent maintenance charges and working expenses",
+     "Only the cost of genuine improvements"
+    ],
+    "answer": 2,
+    "why": "KAC Vol I, Art. 30-A(6)."
+   }
+  ]
+ },
+ "p-11": {
+  "remember": [
+   "Excess grant regularises expenditure above the amount granted in a previous financial year.",
+   "Excess expenditure noticed after year end is always an irregularity.",
+   "Notes on excesses: Administrative Departments to Audit within two months; Audit returns within a fortnight; to the Committee after Appropriation Accounts or 10th April, whichever is later."
+  ],
+  "questions": [
+   {
+    "q": "What is an excess grant?",
+    "options": [
+     "A sum sanctioned over and above the amount already authorised in the current year",
+     "A transfer of funds from one unit of appropriation to another",
+     "Funds surrendered by a Disbursing Officer",
+     "A grant to regularise expenditure over the amounts granted for a service in a previous financial year"
+    ],
+    "answer": 3,
+    "why": "Kerala Budget Manual, Para 11: excess grant regularises previous year's excess."
+   },
+   {
+    "q": "How is excess expenditure noticed after the financial year ends looked upon?",
+    "options": [
+     "As a normal saving",
+     "As an allowed variation",
+     "Always as an irregularity",
+     "As a matter for the Treasury alone"
+    ],
+    "answer": 2,
+    "why": "Kerala Budget Manual, Para 97(1)."
+   },
+   {
+    "q": "Within what time must Administrative Departments submit notes on excesses to Audit?",
+    "options": [
+     "Within one month",
+     "Within two months",
+     "Within a fortnight",
+     "Within six months"
+    ],
+    "answer": 1,
+    "why": "Kerala Budget Manual, Appendix 15: within two months, after scrutiny by the Finance Department."
+   },
+   {
+    "q": "Within what time does Audit return the vetted notes on excesses?",
+    "options": [
+     "Within a fortnight of receipt",
+     "Within two months of receipt",
+     "Within ten days of receipt",
+     "Within one month of receipt"
+    ],
+    "answer": 0,
+    "why": "Kerala Budget Manual, Appendix 15: within a fortnight."
+   },
+   {
+    "q": "When are the notes on excesses submitted to the Public Accounts Committee?",
+    "options": [
+     "On 15th February",
+     "Before the Appropriation Accounts are presented",
+     "On 31st March, whichever is earlier",
+     "After the Appropriation Accounts are presented, or on 10th April, whichever is later"
+    ],
+    "answer": 3,
+    "why": "Kerala Budget Manual, Appendix 15."
+   }
+  ]
+ },
+ "p-12": {
+  "remember": [
+   "Surrender: reporting back unspent or excess appropriation to the Finance Department through the Administrative Department.",
+   "Anticipated savings are surrendered immediately when foreseen, not at year end.",
+   "Resumption: Finance Department's formal acceptance of surrendered funds. Order: resume for probable-savings reduction, reappropriate, resume the rest."
+  ],
+  "questions": [
+   {
+    "q": "What is surrender of funds?",
+    "options": [
+     "Reporting back to the Finance Department, through the Administrative Department, appropriation in excess of needs",
+     "Transfer of funds from one unit of appropriation to another",
+     "A grant to regularise earlier excess expenditure",
+     "Advance from the Contingency Fund"
+    ],
+    "answer": 0,
+    "why": "Kerala Budget Manual, Para 11: Surrender."
+   },
+   {
+    "q": "When should anticipated savings be surrendered?",
+    "options": [
+     "Only at the end of the financial year",
+     "Only after 15th February",
+     "Only after the Appropriation Accounts are prepared",
+     "Immediately they are foreseen, without waiting till the end of the year"
+    ],
+    "answer": 3,
+    "why": "Kerala Budget Manual, Para 91(1)."
+   },
+   {
+    "q": "What is resumption of funds?",
+    "options": [
+     "Reporting back unspent funds to the Finance Department",
+     "Transfer of funds between minor heads",
+     "Formal acceptance by the Finance Department of funds found in excess, out of sums surrendered",
+     "Sanction of a supplementary grant"
+    ],
+    "answer": 2,
+    "why": "Kerala Budget Manual, Para 11: Resumption."
+   },
+   {
+    "q": "What does the Finance Department do first with reported savings where a reduction for probable savings was made?",
+    "options": [
+     "Reappropriates all savings at once",
+     "Resumes savings to the extent needed to give effect to the reduction",
+     "Returns all savings to the Disbursing Officer",
+     "Surrenders them to the Accountant General"
+    ],
+    "answer": 1,
+    "why": "Kerala Budget Manual, Para 92: first resumption, then reappropriation, then resumption of the remainder."
+   }
+  ]
+ }
+}

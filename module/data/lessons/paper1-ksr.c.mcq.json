@@ -1,0 +1,960 @@
+{
+ "p-40": {
+  "remember": [
+   "Child adoption leave: up to 180 days for adoptive mothers (Rule 102A).",
+   "Paternity leave: up to 10 days, for two deliveries, before or within three months after delivery (Rule 102B).",
+   "Hospital leave is not debited to the leave account and can be combined with other leave (Rule 106)."
+  ],
+  "questions": [
+   {
+    "q": "For how many days can child adoption leave be granted?",
+    "options": [
+     "Up to 90 days",
+     "Up to 180 days",
+     "Up to 120 days",
+     "Up to 60 days"
+    ],
+    "answer": 1,
+    "why": "Rule 102A allows up to 180 days to female employees who are adoptive mothers."
+   },
+   {
+    "q": "Paternity leave of up to 10 days is allowed for how many deliveries?",
+    "options": [
+     "One delivery",
+     "Three deliveries",
+     "Two deliveries",
+     "Every delivery"
+    ],
+    "answer": 2,
+    "why": "KSR Part I Rule 102B grants it for two deliveries."
+   },
+   {
+    "q": "Paternity leave may be taken up to 10 days before, or within how long after, the date of delivery?",
+    "options": [
+     "Three months",
+     "One month",
+     "Six months",
+     "Twelve months"
+    ],
+    "answer": 0,
+    "why": "KSR Part I Rule 102B(a): before or within three months after delivery."
+   },
+   {
+    "q": "Hospital leave salary for the first 120 days is equal to which leave salary?",
+    "options": [
+     "Half pay leave salary",
+     "Commuted leave salary",
+     "Leave without allowances",
+     "Earned leave salary"
+    ],
+    "answer": 3,
+    "why": "KSR Part I Rule 104: earned leave salary for 120 days, then half pay leave salary."
+   },
+   {
+    "q": "Hospital leave is treated how with respect to the leave account?",
+    "options": [
+     "Debited as earned leave",
+     "Not debited to the leave account",
+     "Debited as half pay leave",
+     "Debited at double the days"
+    ],
+    "answer": 1,
+    "why": "KSR Part I Rule 106: not debited and may be combined with other admissible leave."
+   }
+  ]
+ },
+ "p-41": {
+  "remember": [
+   "Retrospective commutation is into any kind of leave admissible when the original leave was granted (Rule 76).",
+   "No commutation after one year from the date of sanction of leave (Rule 76 / 89(i)).",
+   "Officer cannot claim retrospective commutation as a right; arrears are drawn or overdrawn amounts recovered (Rule 89)."
+  ],
+  "questions": [
+   {
+    "q": "What is the time limit for retrospective commutation of leave?",
+    "options": [
+     "Six months from sanction",
+     "Two years from sanction",
+     "One year from the date of sanction",
+     "Three months from sanction"
+    ],
+    "answer": 2,
+    "why": "KSR Part I Rule 76 proviso: none after one year from the date of sanction."
+   },
+   {
+    "q": "Can an officer claim retrospective commutation of leave as a matter of right?",
+    "options": [
+     "No, he cannot",
+     "Yes, always",
+     "Yes, within one year",
+     "Yes, for earned leave only"
+    ],
+    "answer": 0,
+    "why": "KSR Part I Rule 89(i): the authority may commute, but it is not a right."
+   },
+   {
+    "q": "Leave may be retrospectively commuted into a kind of leave admissible at what time?",
+    "options": [
+     "On the date of the application for commutation",
+     "When the original leave was granted",
+     "On the date of joining duty",
+     "On the date of retirement"
+    ],
+    "answer": 1,
+    "why": "KSR Part I Rule 76."
+   },
+   {
+    "q": "What follows automatically when one kind of leave is commuted into another?",
+    "options": [
+     "Loss of the leave account",
+     "Forfeiture of leave salary",
+     "A fresh sanction by Government",
+     "Drawal of arrears or recovery of amounts overdrawn"
+    ],
+    "answer": 3,
+    "why": "KSR Part I Rule 89(ii)."
+   }
+  ]
+ },
+ "p-42": {
+  "remember": [
+   "Ordinary leave: earned, half-pay, commuted, leave not due and leave without allowances (Rule 77(i)).",
+   "Special leave: disability, maternity, paternity, child adoption and hospital leave (Rule 77(ii)).",
+   "Half-pay leave is earned for completed years of service (Rule 77(iv))."
+  ],
+  "questions": [
+   {
+    "q": "Which of these is included in 'ordinary leave'?",
+    "options": [
+     "Hospital leave",
+     "Leave not due",
+     "Maternity leave",
+     "Paternity leave"
+    ],
+    "answer": 1,
+    "why": "KSR Part I Rule 77(i): earned, half-pay, commuted, leave not due and leave without allowances."
+   },
+   {
+    "q": "Which of these is included in 'special leave'?",
+    "options": [
+     "Earned leave",
+     "Half-pay leave",
+     "Hospital leave",
+     "Commuted leave"
+    ],
+    "answer": 2,
+    "why": "KSR Part I Rule 77(ii) lists hospital leave among special leave."
+   },
+   {
+    "q": "Half-pay leave is earned in respect of what?",
+    "options": [
+     "Completed years of service",
+     "Completed months of service",
+     "Days of duty actually worked",
+     "Each year of age"
+    ],
+    "answer": 0,
+    "why": "KSR Part I Rule 77(iv)."
+   },
+   {
+    "q": "An 'officer in permanent employ' is one who holds what?",
+    "options": [
+     "Any post for over one year",
+     "A temporary post for five years",
+     "An officiating post for two years",
+     "A permanent post substantively, or a lien on one"
+    ],
+    "answer": 3,
+    "why": "KSR Part I Rule 77(viii)."
+   }
+  ]
+ },
+ "p-43": {
+  "remember": [
+   "Half-pay leave: 20 days for each completed year of service (Rule 83), on private affairs or medical certificate (Rule 82).",
+   "Commuted leave: not more than half the half-pay leave due (Rule 84).",
+   "Twice the commuted leave is debited against half-pay leave (Rule 84)."
+  ],
+  "questions": [
+   {
+    "q": "How many days of half-pay leave are admissible per completed year of service?",
+    "options": [
+     "10 days",
+     "20 days",
+     "30 days",
+     "15 days"
+    ],
+    "answer": 1,
+    "why": "KSR Part I Rule 83."
+   },
+   {
+    "q": "Half-pay leave may be availed on private affairs or on what other ground?",
+    "options": [
+     "Study purposes",
+     "Disability alone",
+     "Medical certificate",
+     "Official tour"
+    ],
+    "answer": 2,
+    "why": "KSR Part I Rule 82."
+   },
+   {
+    "q": "How much commuted leave can be granted?",
+    "options": [
+     "Not more than half the half-pay leave due",
+     "Equal to the half-pay leave due",
+     "One-third of the half-pay leave due",
+     "Double the half-pay leave due"
+    ],
+    "answer": 0,
+    "why": "KSR Part I Rule 84."
+   },
+   {
+    "q": "When commuted leave is granted, how much is debited against half-pay leave due?",
+    "options": [
+     "Half the commuted leave",
+     "The same amount",
+     "Three times the commuted leave",
+     "Twice the commuted leave"
+    ],
+    "answer": 3,
+    "why": "KSR Part I Rule 84."
+   }
+  ]
+ },
+ "p-44": {
+  "remember": [
+   "Rule 91: two years of continuous officiating or temporary service; covers the entire course, not broken periods.",
+   "Rule 91A: post-graduate course leave needs 5 years of continuous officiating or temporary service.",
+   "Rule 91 leave by authority competent for eligible leave and LWA; Rule 99 study leave only by Government."
+  ],
+  "questions": [
+   {
+    "q": "What minimum continuous service is needed for leave for superior qualifications under Rule 91?",
+    "options": [
+     "One year",
+     "Two years",
+     "Three years",
+     "Five years"
+    ],
+    "answer": 1,
+    "why": "KSR Part I Rule 91: officiating or temporary service of two years or more."
+   },
+   {
+    "q": "Is Rule 91 leave given for broken periods?",
+    "options": [
+     "Yes, for any part of the course",
+     "Yes, but only for six months",
+     "No, it covers the entire period of the course",
+     "Yes, only in the final year"
+    ],
+    "answer": 2,
+    "why": "KSR Part I Rule 91."
+   },
+   {
+    "q": "What service is needed for post-graduate course leave under Rule 91A?",
+    "options": [
+     "5 years or more",
+     "2 years or more",
+     "3 years or more",
+     "10 years or more"
+    ],
+    "answer": 0,
+    "why": "KSR Part I Rule 91A."
+   },
+   {
+    "q": "Who alone can sanction study leave under Rule 99?",
+    "options": [
+     "The Head of Office",
+     "The Audit Officer",
+     "The authority sanctioning eligible leave",
+     "Government"
+    ],
+    "answer": 3,
+    "why": "KSR Part I Rule 91 Government Decision: Rule 99 study leave only by Government."
+   }
+  ]
+ },
+ "p-45": {
+  "remember": [
+   "Full charge of a second post: special allowance not over 6 per cent of the minimum of that scale (Rule 53(b)(1)).",
+   "Current duties only: not over 3 per cent (Rule 53(b)(3)).",
+   "Allowed only if charge exceeds 14 working days (full) or one month (current duties); never beyond three months (Rule 53(c))."
+  ],
+  "questions": [
+   {
+    "q": "Special allowance for full additional charge must not exceed what share of the minimum of the other post's scale?",
+    "options": [
+     "3 per cent",
+     "6 per cent",
+     "10 per cent",
+     "12 per cent"
+    ],
+    "answer": 1,
+    "why": "KSR Part I Rule 53(b)(1)."
+   },
+   {
+    "q": "Special allowance for current duties only of an additional post must not exceed what?",
+    "options": [
+     "6 per cent of the minimum of the scale",
+     "3 per cent of the maximum of the scale",
+     "3 per cent of the minimum of the scale of that post",
+     "1 per cent of the minimum of the scale"
+    ],
+    "answer": 2,
+    "why": "KSR Part I Rule 53(b)(3)."
+   },
+   {
+    "q": "Special allowance for full additional charge is allowed only if the charge exceeds how long?",
+    "options": [
+     "Fourteen working days",
+     "Seven working days",
+     "One month",
+     "Three months"
+    ],
+    "answer": 0,
+    "why": "KSR Part I Rule 53(c): 14 working days for full charge, one month for current duties only."
+   },
+   {
+    "q": "What is the maximum period for which special allowance for additional charge can be allowed?",
+    "options": [
+     "Six months",
+     "One month",
+     "One year",
+     "Three months"
+    ],
+    "answer": 3,
+    "why": "KSR Part I Rule 53(c): not exceeding three months on any account."
+   }
+  ]
+ },
+ "p-46": {
+  "remember": [
+   "Casual leave: at most 20 days a calendar year; teaching staff 15 days (App VII para 2(i)).",
+   "Casual leave with holidays: resulting absence not over fifteen days at a stretch.",
+   "Casual leave is not recognised as leave, so it cannot be retrospectively commuted (para 7)."
+  ],
+  "questions": [
+   {
+    "q": "What is the maximum casual leave in a calendar year for an officer?",
+    "options": [
+     "Fifteen days",
+     "Twenty days",
+     "Ten days",
+     "Thirty days"
+    ],
+    "answer": 1,
+    "why": "KSR Part I Appendix VII para 2(i)."
+   },
+   {
+    "q": "Teaching staff of educational institutions are eligible for how many days of casual leave in a year?",
+    "options": [
+     "Fifteen days",
+     "Twenty days",
+     "Twelve days",
+     "Ten days"
+    ],
+    "answer": 0,
+    "why": "KSR Part I Appendix VII para 2(i)."
+   },
+   {
+    "q": "Casual leave combined with holidays must not result in absence exceeding how long at a stretch?",
+    "options": [
+     "Seven days",
+     "Ten days",
+     "Twenty days",
+     "Fifteen days"
+    ],
+    "answer": 3,
+    "why": "KSR Part I Appendix VII para 2(ii)."
+   },
+   {
+    "q": "Can casual leave be retrospectively commuted into another kind of leave?",
+    "options": [
+     "Yes, into earned leave",
+     "Yes, into half-pay leave",
+     "No, as it is not recognised as leave",
+     "Yes, within one year"
+    ],
+    "answer": 2,
+    "why": "KSR Part I Appendix VII para 7."
+   }
+  ]
+ },
+ "p-47": {
+  "remember": [
+   "Honorarium only with prior Government consent and amount settled in advance (Rule 49).",
+   "One-third of a non-recurring fee over Rs 2000 or recurring fee over Rs 1250 a year goes to General Revenues (Rule 48).",
+   "No outside work or fee without Government sanction (Rule 47)."
+  ],
+  "questions": [
+   {
+    "q": "An honorarium should not be sanctioned unless the work had whose prior consent?",
+    "options": [
+     "The Head of Office",
+     "The Audit Officer",
+     "The Government",
+     "The Accountant General"
+    ],
+    "answer": 2,
+    "why": "KSR Part I Rule 49."
+   },
+   {
+    "q": "What share of a non-recurring fee exceeding Rs 2000 is credited to General Revenues?",
+    "options": [
+     "One-third",
+     "One-half",
+     "One-fourth",
+     "Two-thirds"
+    ],
+    "answer": 0,
+    "why": "KSR Part I Rule 48."
+   },
+   {
+    "q": "A recurring fee exceeding what amount a year attracts credit of one-third to General Revenues?",
+    "options": [
+     "Rs 2000",
+     "Rs 1250",
+     "Rs 1000",
+     "Rs 2500"
+    ],
+    "answer": 1,
+    "why": "KSR Part I Rule 48."
+   },
+   {
+    "q": "An officer may undertake work for a private body or accept a fee only with whose sanction?",
+    "options": [
+     "The Government",
+     "The Head of Department",
+     "The Audit Officer",
+     "No sanction is needed"
+    ],
+    "answer": 0,
+    "why": "KSR Part I Rule 47."
+   },
+   {
+    "q": "An honorarium's amount must be settled when?",
+    "options": [
+     "After the work is done",
+     "At the end of the year",
+     "On the date of payment",
+     "In advance"
+    ],
+    "answer": 3,
+    "why": "KSR Part I Rule 49: the amount must be settled in advance."
+   }
+  ]
+ },
+ "p-48": {
+  "remember": [
+   "Leave with allowances is cancelled for the period of suspension; subsistence allowance is paid (Rule 55B(ii)).",
+   "On leave without allowances, no subsistence allowance during leave; payable on expiry if suspension continues (Rule 55B(i))."
+  ],
+  "questions": [
+   {
+    "q": "An officer on leave with allowances is suspended. What is the effect on the leave?",
+    "options": [
+     "It continues in full",
+     "It is cancelled for the period of suspension",
+     "It is converted to half-pay leave",
+     "It is converted to leave without allowances"
+    ],
+    "answer": 1,
+    "why": "KSR Part I Rule 55B(ii)."
+   },
+   {
+    "q": "An officer on leave with allowances is suspended. What is he entitled to?",
+    "options": [
+     "Subsistence allowance",
+     "Full leave salary",
+     "No payment",
+     "Half pay leave salary"
+    ],
+    "answer": 0,
+    "why": "KSR Part I Rule 55B(ii)."
+   },
+   {
+    "q": "An officer on leave without allowances is suspended. Is subsistence allowance payable during that leave?",
+    "options": [
+     "Yes, from the date of suspension",
+     "Yes, at half rate",
+     "No, not during the leave",
+     "Yes, at double rate"
+    ],
+    "answer": 2,
+    "why": "KSR Part I Rule 55B(i)."
+   },
+   {
+    "q": "When does subsistence allowance become payable to an officer suspended during leave without allowances?",
+    "options": [
+     "On the date of suspension",
+     "After three months of leave",
+     "Never",
+     "On expiry of the leave, if suspension continues"
+    ],
+    "answer": 3,
+    "why": "KSR Part I Rule 55B(i)."
+   }
+  ]
+ },
+ "p-49": {
+  "remember": [
+   "Leave and extension are applied for in Form No. 13 to the competent authority (Rule 113).",
+   "Audit Officer keeps the leave account of gazetted officers; Head of Office keeps it for non-gazetted officers (Rule 112 Note)."
+  ],
+  "questions": [
+   {
+    "q": "On which form is an application for leave made?",
+    "options": [
+     "Form No. 13",
+     "Form No. 11",
+     "Form No. 10",
+     "Form No. 15"
+    ],
+    "answer": 0,
+    "why": "KSR Part I Rule 113."
+   },
+   {
+    "q": "An application for leave must be made to whom?",
+    "options": [
+     "The Audit Officer",
+     "The authority competent to grant the leave",
+     "Government always",
+     "The Accountant General"
+    ],
+    "answer": 1,
+    "why": "KSR Part I Rule 113."
+   },
+   {
+    "q": "Who maintains the leave account of a gazetted officer?",
+    "options": [
+     "The Head of the Office",
+     "The Government",
+     "The Audit Officer",
+     "The Treasury Officer"
+    ],
+    "answer": 2,
+    "why": "KSR Part I Rule 112 Note."
+   },
+   {
+    "q": "Who maintains the leave account of a non-gazetted officer?",
+    "options": [
+     "The Audit Officer",
+     "The Accountant General",
+     "The Treasury Officer",
+     "The Head of the Office in which he is employed"
+    ],
+    "answer": 3,
+    "why": "KSR Part I Rule 112 Note."
+   }
+  ]
+ },
+ "p-50": {
+  "remember": [
+   "Government may dispense with or relax a rule causing undue hardship in a particular case (Rule 7).",
+   "In doubt whether the rules apply to a person, refer to Government; its decision is final (Rule 4)."
+  ],
+  "questions": [
+   {
+    "q": "Who may dispense with or relax a rule that causes undue hardship?",
+    "options": [
+     "The Head of Office",
+     "The Government",
+     "The Audit Officer",
+     "The Accountant General"
+    ],
+    "answer": 1,
+    "why": "KSR Part I Rule 7."
+   },
+   {
+    "q": "A rule may be relaxed when Government is satisfied of what?",
+    "options": [
+     "That the officer has asked for it",
+     "That the officer is senior",
+     "That it causes undue hardship in a particular case",
+     "That the Head of Office agrees"
+    ],
+    "answer": 2,
+    "why": "KSR Part I Rule 7."
+   },
+   {
+    "q": "If doubt arises whether the rules apply to a person, to whom is it referred?",
+    "options": [
+     "The Government",
+     "The Audit Officer",
+     "The Head of Office",
+     "The High Court"
+    ],
+    "answer": 0,
+    "why": "KSR Part I Rule 4."
+   },
+   {
+    "q": "What is the nature of the Government's decision on such doubt?",
+    "options": [
+     "It is open to appeal to the Audit Officer",
+     "It is valid for one year only",
+     "It needs approval of the Head of Office",
+     "It is final"
+    ],
+    "answer": 3,
+    "why": "KSR Part I Rule 4: the decision of the Government shall be final."
+   }
+  ]
+ },
+ "p-51": {
+  "remember": [
+   "On substantive appointment to a permanent post, the officer acquires a lien on it and loses any earlier lien (Rule 16).",
+   "A lien cannot be terminated, even with consent, if it leaves him with no lien or suspended lien on a permanent post (Rule 19(a))."
+  ],
+  "questions": [
+   {
+    "q": "An officer is substantively appointed to a permanent post. What happens to his earlier lien on another post?",
+    "options": [
+     "He keeps both liens",
+     "He ceases to hold it",
+     "It is suspended for one year",
+     "It passes to the next senior officer"
+    ],
+    "answer": 1,
+    "why": "KSR Part I Rule 16."
+   },
+   {
+    "q": "On substantive appointment to a permanent post, the officer acquires what?",
+    "options": [
+     "A lien on that post",
+     "A right to pension at once",
+     "A right to promotion",
+     "A right to transfer anywhere"
+    ],
+    "answer": 0,
+    "why": "KSR Part I Rule 16."
+   },
+   {
+    "q": "Can a lien be terminated with the officer's consent if it leaves him with no lien on a permanent post?",
+    "options": [
+     "Yes, with his written consent",
+     "Yes, with Head of Office approval",
+     "No, in no circumstances",
+     "Yes, after one year"
+    ],
+    "answer": 2,
+    "why": "KSR Part I Rule 19(a)."
+   },
+   {
+    "q": "A lien may in no circumstances be terminated if the result leaves the officer without what?",
+    "options": [
+     "A temporary post",
+     "An officiating post",
+     "Any leave due",
+     "A lien or suspended lien on a permanent post"
+    ],
+    "answer": 3,
+    "why": "KSR Part I Rule 19(a)."
+   }
+  ]
+ },
+ "p-52": {
+  "remember": [
+   "Except for inefficiency or misbehaviour, or on his written request, no substantive transfer to a lower-paid post (Rule 21(a)).",
+   "Transfer means movement from one headquarter station to another (Rule 12(36))."
+  ],
+  "questions": [
+   {
+    "q": "Under Rule 21(a), an officer may be transferred to a post carrying less pay on account of what?",
+    "options": [
+     "Seniority",
+     "Long leave",
+     "Inefficiency or misbehaviour",
+     "Age above fifty"
+    ],
+    "answer": 2,
+    "why": "KSR Part I Rule 21(a): inefficiency or misbehaviour, or his written request."
+   },
+   {
+    "q": "An officer may be transferred to a lower-paid post on his own request in what form?",
+    "options": [
+     "Written request",
+     "Oral request",
+     "Request through a colleague",
+     "Request to the Audit Officer"
+    ],
+    "answer": 0,
+    "why": "KSR Part I Rule 21(a)."
+   },
+   {
+    "q": "What does 'transfer' mean under Rule 12(36)?",
+    "options": [
+     "Movement within the same office",
+     "Movement from one headquarter station to another",
+     "Change of designation only",
+     "Movement on leave"
+    ],
+    "answer": 1,
+    "why": "KSR Part I Rule 12(36)."
+   },
+   {
+    "q": "Under Rule 21(a), an officer shall not be transferred substantively to a post carrying what?",
+    "options": [
+     "More pay than his permanent post",
+     "Equal pay to his permanent post",
+     "No pay scale",
+     "Less pay than his permanent post"
+    ],
+    "answer": 3,
+    "why": "KSR Part I Rule 21(a)."
+   }
+  ]
+ },
+ "p-53": {
+  "remember": [
+   "On reinstatement after full exoneration, full pay and allowances as if never dismissed, removed, compulsorily retired or suspended (Rule 56(2)).",
+   "Payment is limited to three years immediately preceding reinstatement or superannuation (Rule 56(4) proviso)."
+  ],
+  "questions": [
+   {
+    "q": "An officer is reinstated after being fully exonerated. What pay is he given?",
+    "options": [
+     "Half pay only",
+     "Full pay and allowances as if not dismissed",
+     "Subsistence allowance only",
+     "No arrears"
+    ],
+    "answer": 1,
+    "why": "KSR Part I Rule 56(2)."
+   },
+   {
+    "q": "Payment on reinstatement is restricted to what period?",
+    "options": [
+     "Three years immediately preceding reinstatement or superannuation",
+     "One year before reinstatement",
+     "Five years before reinstatement",
+     "The whole period without limit"
+    ],
+    "answer": 0,
+    "why": "KSR Part I Rule 56(4) proviso."
+   },
+   {
+    "q": "Rule 56(2) pay applies as if the officer had not been dismissed, removed, compulsorily retired or what else?",
+    "options": [
+     "Transferred",
+     "Promoted",
+     "Deputed",
+     "Suspended"
+    ],
+    "answer": 3,
+    "why": "KSR Part I Rule 56(2)."
+   },
+   {
+    "q": "How many years is the limit on payment under Rule 56(4)?",
+    "options": [
+     "Two years",
+     "Four years",
+     "Three years",
+     "Five years"
+    ],
+    "answer": 2,
+    "why": "KSR Part I Rule 56(4) proviso."
+   }
+  ]
+ },
+ "p-54": {
+  "remember": [
+   "Superannuation pension is granted to an officer entitled or compelled, by rule, to retire at a particular age (Part III Rule 55)."
+  ],
+  "questions": [
+   {
+    "q": "To whom is a superannuation pension granted?",
+    "options": [
+     "An officer dismissed for misconduct",
+     "An officer declared medically unfit",
+     "An officer entitled or compelled by rule to retire at a particular age",
+     "An officer who resigns at will"
+    ],
+    "answer": 2,
+    "why": "KSR Part III Rule 55."
+   },
+   {
+    "q": "Superannuation pension is linked to retirement at what?",
+    "options": [
+     "A particular age fixed by rule",
+     "A fixed number of leave days",
+     "A medical certificate",
+     "A transfer order"
+    ],
+    "answer": 0,
+    "why": "KSR Part III Rule 55: retirement at a particular age."
+   },
+   {
+    "q": "Under which KSR Part and Rule is superannuation pension defined?",
+    "options": [
+     "Part I, Rule 55",
+     "Part III, Rule 55",
+     "Part III, Rule 42",
+     "Part II, Rule 55"
+    ],
+    "answer": 1,
+    "why": "The quote is from KSR Part III, Rule 55."
+   }
+  ]
+ },
+ "p-55": {
+  "remember": [
+   "Invalid pension: for an employee certified by a Medical Board or Medical Officer as permanently incapacitated for public service (Part III Rule 42(2))."
+  ],
+  "questions": [
+   {
+    "q": "Who certifies an employee as permanently incapacitated for invalid pension?",
+    "options": [
+     "The Head of Office",
+     "A Medical Board or Medical Officer",
+     "The Audit Officer",
+     "The Treasury Officer"
+    ],
+    "answer": 1,
+    "why": "KSR Part III Rule 42(2)."
+   },
+   {
+    "q": "Invalid pension is granted for what kind of incapacity?",
+    "options": [
+     "Temporary illness of one month",
+     "Absence on casual leave",
+     "Permanent incapacity for public service",
+     "Incapacity for a single day"
+    ],
+    "answer": 2,
+    "why": "KSR Part III Rule 42(2)."
+   },
+   {
+    "q": "Which rule deals with invalid pension?",
+    "options": [
+     "KSR Part III, Rule 42(2)",
+     "KSR Part III, Rule 55",
+     "KSR Part I, Rule 42(2)",
+     "KSR Part III, Rule 91"
+    ],
+    "answer": 0,
+    "why": "The quote is KSR Part III Rule 42(2)."
+   }
+  ]
+ },
+ "p-56": {
+  "remember": [
+   "Compassionate allowance to a dismissed or removed employee must not exceed two-thirds of the pension he would have got on retirement on that date (Part III Rule 5(a))."
+  ],
+  "questions": [
+   {
+    "q": "What is the limit on a compassionate allowance to a dismissed employee?",
+    "options": [
+     "Two-thirds of the pension admissible",
+     "One-half of the pension admissible",
+     "Full pension admissible",
+     "One-third of the pension admissible"
+    ],
+    "answer": 0,
+    "why": "KSR Part III Rule 5(a)."
+   },
+   {
+    "q": "The limit is computed on the pension he would have got if he retired on what date?",
+    "options": [
+     "The date of joining service",
+     "The date of the enquiry",
+     "The date of application",
+     "The date of dismissal or removal"
+    ],
+    "answer": 3,
+    "why": "KSR Part III Rule 5(a)."
+   },
+   {
+    "q": "To whom can such a compassionate allowance be granted?",
+    "options": [
+     "An employee on casual leave",
+     "A dismissed or removed employee",
+     "An employee on study leave",
+     "An employee who got promotion"
+    ],
+    "answer": 1,
+    "why": "KSR Part III Rule 5(a)."
+   }
+  ]
+ },
+ "p-57": {
+  "remember": [
+   "Pension application must be submitted at least one year before anticipated retirement, in Form 11 (Part III Rule 110)."
+  ],
+  "questions": [
+   {
+    "q": "How early must a formal pension application be submitted?",
+    "options": [
+     "At least three months before",
+     "At least one year before anticipated retirement",
+     "At least six months before",
+     "On the date of retirement"
+    ],
+    "answer": 1,
+    "why": "KSR Part III Rule 110."
+   },
+   {
+    "q": "Who must submit a formal application for pension?",
+    "options": [
+     "Only gazetted officers",
+     "Only the Head of Office",
+     "Every government employee",
+     "Only the Audit Officer"
+    ],
+    "answer": 2,
+    "why": "KSR Part III Rule 110."
+   },
+   {
+    "q": "The pension application is submitted in which form?",
+    "options": [
+     "Form 11",
+     "Form 13",
+     "Form 10",
+     "Form 12"
+    ],
+    "answer": 0,
+    "why": "KSR Part III Rule 110 (application in Form 11)."
+   }
+  ]
+ },
+ "p-58": {
+  "remember": [
+   "An employee may not retire with a view to being re-employed and drawing pension in addition to pay (Part III Rule 91)."
+  ],
+  "questions": [
+   {
+    "q": "Can an employee retire in order to be re-employed and draw pension plus pay?",
+    "options": [
+     "Yes, with Head of Office approval",
+     "Yes, after one year",
+     "Yes, if medically fit",
+     "No"
+    ],
+    "answer": 3,
+    "why": "KSR Part III Rule 91."
+   },
+   {
+    "q": "An employee may not retire with the view to being re-employed and drawing what in addition to pay?",
+    "options": [
+     "Subsistence allowance",
+     "Pension",
+     "Study leave salary",
+     "Honorarium"
+    ],
+    "answer": 1,
+    "why": "KSR Part III Rule 91."
+   },
+   {
+    "q": "Which rule bars retiring in order to be re-employed with pension and pay?",
+    "options": [
+     "KSR Part I, Rule 91",
+     "KSR Part III, Rule 110",
+     "KSR Part III, Rule 91",
+     "KSR Part III, Rule 55"
+    ],
+    "answer": 2,
+    "why": "KSR Part III Rule 91."
+   }
+  ]
+ }
+}

@@ -1,0 +1,1007 @@
+[
+ {
+  "slug": "servi-01",
+  "unit": "Promotion",
+  "title": "Promotion (1)",
+  "facts": [
+   {
+    "id": "b6_050",
+    "prompt": "Who may be promoted from the category in which he was appointed?",
+    "tip": "Only a member who has satisfactorily completed probation in that category (except for Heads of Departments).",
+    "quote": {
+     "text": "Except in the case of appointment to the posts of Heads of Departments no member of a service or class of a service shall be eligible for promotion from the category in which he was appointed to the service unless he has satisfactorily completed his probation in that category:",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(a)(i) Promotion",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_051",
+    "prompt": "What must a member be to be promoted from a specified class under Special Rules?",
+    "tip": "A full member or an approved probationer in that class.",
+    "quote": {
+     "text": "no member shall be eligible for such appointment unless he is a full member or an approved probationer in the class or category so specified:",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(a)(ii)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_052",
+    "prompt": "What service is needed if the post held has no probation prescribed?",
+    "tip": "Satisfactory service for one year on duty within a continuous period of two years.",
+    "quote": {
+     "text": "he shall not be eligible for promotion unless he has put in satisfactory service in that post for a period of one year on duty within a continuous period of two years.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(a)(ii) proviso",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_053",
+    "prompt": "What is the basis of selection for promotion to selection posts?",
+    "tip": "Merit and ability; seniority counts only when merit and ability are approximately equal.",
+    "quote": {
+     "text": "on the basis of merit and ability, seniority being considered only when merit and ability are approximately equal.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i) Promotion and appointment by transfer",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_054",
+    "prompt": "Who selects candidates for selection categories or grades?",
+    "tip": "Departmental Promotion Committees constituted for each Department.",
+    "quote": {
+     "text": "Selection of candidates for appointment to selection categories or grades shall be made by Departmental Promotion Committees constituted for each Department.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i)(1)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_055",
+    "prompt": "Who chairs the Departmental Promotion Committee and who is its Convener?",
+    "tip": "A PSC member is Chairman; the appointing authority is Convener.",
+    "quote": {
+     "text": "The member of the Public Service Commission shall be the Chairman of the Departmental Promotion Committee and the authority to initiate action and to function as Convener of the Committee shall be the appointing authority.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i)(3)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_056",
+    "prompt": "What is the criterion for assessing merit, and for how many years are reports needed?",
+    "tip": "Confidential reports; those of at least the preceding three years must be made available.",
+    "quote": {
+     "text": "The criterion for assessment of merit shall be the confidential reports of the officers. The confidential reports of the officers for at least the preceding three years shall be made available to the Committee for this purpose.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i)(4)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_057",
+    "prompt": "For which year are select lists prepared?",
+    "tip": "Select lists are prepared in a calendar year for vacancies estimated in the next calendar year.",
+    "quote": {
+     "text": "Select lists shall be prepared during a calendar year for the vacancies estimated to arise in the next calendar year;",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i)(4)(a)",
+     "book": "KSSSR_Revised_2025"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "servi-02",
+  "unit": "Promotion",
+  "title": "Promotion (2)",
+  "facts": [
+   {
+    "id": "b6_058",
+    "prompt": "By what date must confidential reports and seniority lists be made up to date?",
+    "tip": "Before 30th June.",
+    "quote": {
+     "text": "Confidential Reports and seniority lists shall be made up to date before 30th June;",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i)(4)(b)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_059",
+    "prompt": "When are select lists notified?",
+    "tip": "Before 30th November, and in any case not later than December 31.",
+    "quote": {
+     "text": "select lists prepared which will be notified before 30th November and in any case not later than December 31.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i)(4)(d)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_060",
+    "prompt": "How large should the field of choice be?",
+    "tip": "As far as possible thrice, and at least twice, the expected vacancies plus superseded officers of the previous year.",
+    "quote": {
+     "text": "The field of choice shall as far as possible be thrice and at least twice the number of vacancies expected within a year plus the number of the superseded officers of the previous year.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i)(6) Note",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_061",
+    "prompt": "How many names go into a select list?",
+    "tip": "The same number as the estimated vacancies likely to arise during the next year.",
+    "quote": {
+     "text": "The number of names to be included in the \"select list\" shall be the same as the estimated number of vacancies likely to arise during the next year.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i)(7)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_062",
+    "prompt": "How are persons ranked in the select list?",
+    "tip": "According to their seniority in the feeder category.",
+    "quote": {
+     "text": "Persons selected for inclusion in the Select List shall be ranked in the Select List according to their seniority in the feeder category.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i)(7)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_063",
+    "prompt": "Can officers under suspension be included in a select list?",
+    "tip": "No. Officers under suspension should not be included in the select list.",
+    "quote": {
+     "text": "Officers under suspension and officers against whom criminal proceedings are pending in a Sessions Court or in any other higher Court for grave offences like murder, dacoity, etc; and Officers against whom departmental proceedings are taken for the imposition of a major penalty under the disciplinary rules applicable to them should not be included in the select list.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i)(7) Note (i)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_064",
+    "prompt": "Can officers facing proceedings for a minor penalty be in the select list?",
+    "tip": "Yes, provisionally, if found suitable but for the pending proceedings.",
+    "quote": {
+     "text": "Officers against whom departmental proceedings are taken for the imposition of a minor penalty may be included in the select list provisionally if they are found suitable",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i)(7) Note (i)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_065",
+    "prompt": "Is a censure or warning considered when deciding promotion under Notes (ii), (iii) and (iii a)?",
+    "tip": "No. A censure under Rule 11(1)(i) CCA or a warning need not be taken into account.",
+    "quote": {
+     "text": "A censure under rule 11 (1) (i) of the Kerala Civil Services (Classification, Control and Appeal) Rules, 1960 or a warning awarded or proposed to be awarded to an Officer need not be taken into account",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i)(7) Note (v)",
+     "book": "KSSSR_Revised_2025"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "servi-03",
+  "unit": "Promotion",
+  "title": "Promotion (3)",
+  "facts": [
+   {
+    "id": "b6_066",
+    "prompt": "Within what time can a superseded officer ask for revision of the select list?",
+    "tip": "Within one month from the date of publication of the list.",
+    "quote": {
+     "text": "if any officer who has been superseded and whose name has not been included in the list makes, within one month from the date of publication of the list, a written representation to the Convener of the Departmental Promotion Committee requesting a revision of the list, the Committee shall consider the representation.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i)(8)(a)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_067",
+    "prompt": "How long does a select list remain in force?",
+    "tip": "It is reviewed annually and remains in force until it is revised.",
+    "quote": {
+     "text": "The \"Select List\" shall be reviewed annually and it shall remain in force until it is revised.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i)(9)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_068",
+    "prompt": "How should SC and ST candidates be treated by the Promotion Committee?",
+    "tip": "They should not be superseded by too rigid a standard of suitability.",
+    "quote": {
+     "text": "Candidates belonging to Scheduled Castes and Scheduled Tribes shall not be superseded for appointment to Selection categories or grades by the application of too rigid a standard of suitability.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(b)(i)(13)",
+     "book": "KSSSR_Revised_2025"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "servi-04",
+  "unit": "Probation Period",
+  "title": "Probation Period (4)",
+  "facts": [
+   {
+    "id": "b6_001",
+    "prompt": "What is the probation period for direct recruits and PSC transfer appointees?",
+    "tip": "Two years on duty within a continuous period of three years.",
+    "quote": {
+     "text": "the period of probation for persons appointed by direct recruitment or recruitment by transfer through Public Service Commission shall be two years on duty within a continuous period of three years",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(a)(iii) Promotion",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_002",
+    "prompt": "What is the probation period for those moved from another post or category in the same service?",
+    "tip": "One year on duty within a continuous period of two years.",
+    "quote": {
+     "text": "for persons appointed in a post or category from another post or category in the same service or appointed by transfer from one service to another within the same Department or in another Department (where direct recruitment is not resorted to) shall be one year on duty within a continuous period of two years.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(a)(iii) Promotion",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_003",
+    "prompt": "What is the probation period for promotion to selection posts in State Services after 1 April 2010?",
+    "tip": "Six months on duty within a continuous period of one year.",
+    "quote": {
+     "text": "the period of probation for persons who were appointed on or after the 1st April, 2010 to selection posts in the State Services, by promotion or by transfer within the Department where direct recruitment is not one of the methods of appointment as per the Special Rules, shall be six months on duty within a continuous period of one year.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 28(a)(iii) proviso",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_004",
+    "prompt": "How long can the appointing authority extend probation?",
+    "tip": "The appointing authority may extend probation for a maximum of one year; Government may extend it beyond one year.",
+    "quote": {
+     "text": "the appointing authority may extend his probation for a maximum period of one year to enable him to acquire special qualifications or pass the prescribed tests, as the case may be, or to enable the appointing authority to decide whether the probationer is suitable for full membership or not. Extension of probation beyond one year may, however, be ordered by Government if found necessary.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 21 Extension of probation",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_005",
+    "prompt": "Is stoppage of increment during extended probation a penalty?",
+    "tip": "No. It is only a condition of extension of probation, not a penalty.",
+    "quote": {
+     "text": "Such stoppage of increment shall not be treated as a penalty but only as a condition of extension of probation",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 21 Extension of probation",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_006",
+    "prompt": "From which date is a probationer deemed to have completed probation?",
+    "tip": "From the date of expiry of the prescribed or extended period of probation.",
+    "quote": {
+     "text": "On the issue of such order, the probationer shall be deemed to have satisfactorily completed his probation on the date of the expiry of the prescribed or extended period of probation:",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 20(b) Probationer's suitability for full membership",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_007",
+    "prompt": "What must be given before discharging an unsuitable probationer?",
+    "tip": "A reasonable opportunity of showing cause against the proposed action.",
+    "quote": {
+     "text": "it shall unless the period of probation is extended under Rule 21 by order discharge him after giving him a reasonable opportunity of showing cause against the action proposed to be taken in regard to him:",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 20(c) Probationer's suitability for full membership",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_008",
+    "prompt": "Who may appeal against discharge of a probationer?",
+    "tip": "A probationer discharged under Rule 19(a)(ii) or Rule 20(c) may appeal, as against dismissal of a full member.",
+    "quote": {
+     "text": "A probationer who is discharged under clause (ii) of sub- rule (a) of rule 19 or under sub- rule (c) of rule 20 shall be entitled to appeal against the order of discharge",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 23(a) Appeal against discharge",
+     "book": "KSSSR_Revised_2025"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "servi-05",
+  "unit": "Probation Period",
+  "title": "Probation Period (5)",
+  "facts": [
+   {
+    "id": "b6_009",
+    "prompt": "Within what time can the appeal authority revise a probationer's discharge order?",
+    "tip": "Within one year of the date of the order.",
+    "quote": {
+     "text": "may, either of its own motion or otherwise, revise any order discharging a probationer under any of the provisions referred to in the said sub-rule, within one year of the date of such order.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 23(b)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_010",
+    "prompt": "Which probationers are discharged first for want of vacancies?",
+    "tip": "Probationers go first, in order of juniority, then approved probationers in order of juniority.",
+    "quote": {
+     "text": "first, the probationers in order of juniority, and second the approved probationers in order of juniority.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 7(a)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_011",
+    "prompt": "In what order are discharged probationers re-appointed?",
+    "tip": "In the inverse of the order of discharge, as vacancies arise.",
+    "quote": {
+     "text": "Approved probationers and probationers who have been discharged for want of vacancies shall be re-appointed as vacancies arise in the inverse of the order laid down in sub-rule (a):",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 7(b)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_012",
+    "prompt": "Can a person be a full member of two services at once?",
+    "tip": "No. No person can be a full member of more than one service at the same time.",
+    "quote": {
+     "text": "No person shall at the same time be a full member of more than one service.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 26",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_013",
+    "prompt": "Must a probationer in an entry cadre pass a Malayalam test, and with what marks?",
+    "tip": "If he has not studied Malayalam, he must pass the KPSC Malayalam test within probation with not less than 40% marks.",
+    "quote": {
+     "text": "shall pass within the period of probation, a language test in Malayalam with not less than 40% marks conducted by the Kerala Public Service Commission",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 10A",
+     "book": "KSSSR_Revised_2025"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "servi-06",
+  "unit": "Appointment",
+  "title": "Appointment (6)",
+  "facts": [
+   {
+    "id": "b6_022",
+    "prompt": "Who makes first appointments to posts within PSC purview?",
+    "tip": "The appointing authority, on the advice of the Commission.",
+    "quote": {
+     "text": "All first appointments to the service shall be made by the appointing authority on the advice of the Commission in respect of posts falling within the purview of the Commission",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 3(a) Approved Candidates",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_023",
+    "prompt": "Does inclusion in a list of approved candidates give a right to appointment?",
+    "tip": "No. It does not give any claim to appointment.",
+    "quote": {
+     "text": "shall not confer on him any claim to appointment to the service, class or category.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 3(b)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_024",
+    "prompt": "Within what time must the Commission cancel an advice made by mistake and the service be terminated?",
+    "tip": "Within one year from the date of the advice.",
+    "quote": {
+     "text": "the cancellation of advice for appointment by the Commission and the subsequent termination of service of the candidate by the appointing authority shall be made within a period of one year from the date of such advice:",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 3(c)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_025",
+    "prompt": "Which vacancies are treated as short duration under Rule 5?",
+    "tip": "Vacancies from leave and deputation of less than six months.",
+    "quote": {
+     "text": "The vacancies on account of leave and deputation with a duration of less than six months shall be treated as vacancies of short duration",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 5 Note (2)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_026",
+    "prompt": "How is the quota for each method of recruitment calculated?",
+    "tip": "By applying the fixed ratio or percentage to the cadre strength of the post, not to existing vacancies.",
+    "quote": {
+     "text": "the number of vacancies to be filled up by candidates from each method shall be decided by applying the fixed ratio or percentage to the cadre strength of the post to which the recruitment/transfer is made and not to the vacancies existing at that time.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 5 Note (3)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_027",
+    "prompt": "For how many days can a direct-recruit temporary appointee continue (non-teaching posts)?",
+    "tip": "Not more than one hundred and eighty days.",
+    "quote": {
+     "text": "Provided further that a person appointed under this clause by direct recruitment to a post other than teaching post and a post covered by the proviso to clause (iii) of rule 10 (b) shall not be allowed to continue in such post for a period exceeding one hundred and eighty days:",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 9(a)(i) proviso",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_028",
+    "prompt": "Is a person appointed temporarily under Rule 9 a probationer?",
+    "tip": "No. He is not a probationer and has no preferential claim to future appointment.",
+    "quote": {
+     "text": "A person appointed under clause (i) or (ii) shall not be regarded as a probationer in such service, class or category or be entitled by reason only of such appointment to any preferential claim to future appointment to such service, class or category.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 9(a)(iv)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_029",
+    "prompt": "By how many years is the upper age limit raised for SC/ST and OBC candidates?",
+    "tip": "SC/ST candidates get 5 years more and Other Backward Classes get 3 years more.",
+    "quote": {
+     "text": "be raised by 5 years in the case of a candidate belonging to any of the Scheduled Castes or adult members of such castes and their children when such adult members are converted to other religions, or Scheduled Tribes and by 3 years in the case of a candidate belonging to any of the Other Backward Classes:",
+     "ref": "KSSSR 1958, Part II, Rule 10(c)",
+     "book": "KSSSR_1958"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "servi-07",
+  "unit": "Appointment",
+  "title": "Appointment (7)",
+  "facts": [
+   {
+    "id": "b6_030",
+    "prompt": "Who must be promoted first when a temporary promotion is made in an emergency?",
+    "tip": "Persons admittedly senior to him must also be promoted first.",
+    "quote": {
+     "text": "Provided that before a person is promoted under this clause, persons who are admittedly senior to him shall also be promoted,",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 31(a)(i) proviso",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_031",
+    "prompt": "Does temporary promotion make a person a probationer in the higher category?",
+    "tip": "No. He is not a probationer and gets no preferential claim to future promotion.",
+    "quote": {
+     "text": "A person promoted under sub- rule (a) or (b) shall not be regarded as a probationer in the higher category or be entitled by reason only of such promotion to any preferential claim to future promotion to such higher category.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 31(d)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_032",
+    "prompt": "What happens to previous service if a member resigns?",
+    "tip": "He forfeits all his previous service under the Government.",
+    "quote": {
+     "text": "A member of a service shall, if he resigns his appointment, forfeit not only the service rendered by him in the particular post held by him at the time of resignation but all his previous service under the Government.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 33 Consequences of resignation",
+     "book": "KSSSR_Revised_2025"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "servi-08",
+  "unit": "Reservation",
+  "title": "Reservation (8)",
+  "facts": [
+   {
+    "id": "b6_033",
+    "prompt": "In a unit of 20 appointments, how many posts are reserved for SC and ST together?",
+    "tip": "2 of every 20.",
+    "quote": {
+     "text": "The unit of appointment for the purpose of this rule shall be 20, of which 2 shall be reserved for Scheduled Castes and Scheduled Tribes, 8 shall be reserved for the Other Backward Classes, 2 shall be reserved for Economically Weaker Sections in general category and the remaining 8 shall be filled on the basis of merit;",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 14(a) Reservation of appointments",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_034",
+    "prompt": "In a unit of 20 appointments, how many are reserved for Other Backward Classes?",
+    "tip": "8 of every 20.",
+    "quote": {
+     "text": "The unit of appointment for the purpose of this rule shall be 20, of which 2 shall be reserved for Scheduled Castes and Scheduled Tribes, 8 shall be reserved for the Other Backward Classes, 2 shall be reserved for Economically Weaker Sections in general category and the remaining 8 shall be filled on the basis of merit;",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 14(a) Reservation of appointments",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_035",
+    "prompt": "Of every five posts reserved for SC and ST, how many go to ST?",
+    "tip": "One goes to an ST candidate and four to SC candidates.",
+    "quote": {
+     "text": "out of every five posts reserved for Scheduled Castes and Scheduled Tribes, one shall go to Scheduled Tribe candidate and the remaining four shall go to Scheduled Caste candidates",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 14(a) proviso",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_036",
+    "prompt": "Is reservation for Economically Weaker Sections given for a single post?",
+    "tip": "No. There is no EWS reservation where the cadre strength of the post is one.",
+    "quote": {
+     "text": "There shall be no reservation to Economically Weaker Sections for appointment to single post where the cadre strength of the post is 1(one).",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 14(ba)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_037",
+    "prompt": "How large must the supplementary list for reservation be?",
+    "tip": "Not less than five times the reservation quota, if available.",
+    "quote": {
+     "text": "A supplementary list of sufficient number of suitable candidates, not less than five times the reservation quota, if available, from each community or group of communities for the purpose of satisfying the reservation quota, shall be prepared and published.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 14(e)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_038",
+    "prompt": "What is the ceiling on reservation in a selection year?",
+    "tip": "Reservation shall not exceed 60% of the vacancies for which selection is made in a selection year.",
+    "quote": {
+     "text": "Reservation to a category of posts shall not exceed 60 % of the total number of vacancies for which selection is resorted to in a selection year:",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 15(d)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_039",
+    "prompt": "What happens to an unfilled EWS vacancy?",
+    "tip": "It is not carried forward as backlog; it goes to open competition.",
+    "quote": {
+     "text": "such vacancies shall not be carried forward as back log and such vacancy shall be allotted to open competition.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 15(ca)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_040",
+    "prompt": "If no SC candidate is available for an SC turn, who gets the post?",
+    "tip": "It goes to a suitable ST candidate, and vice versa.",
+    "quote": {
+     "text": "the said group shall be passed over and the post shall be filled up by a suitable candidate from the group of communities classified \"Scheduled Tribes\" and vice-versa.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 15(b)",
+     "book": "KSSSR_Revised_2025"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "servi-09",
+  "unit": "Reservation",
+  "title": "Reservation (9)",
+  "facts": [
+   {
+    "id": "b6_041",
+    "prompt": "How many of every 40 OBC appointments go to Ezhavas, Thiyyas and Billavas (posts other than Last Grade)?",
+    "tip": "14 of every 40.",
+    "quote": {
+     "text": "Out of every 40 appointments, 14 shall be given to Ezhavas, Thiyyas and Billavas, 12 to Muslims, 4 to Latin Catholics and Anglo Indians, 1 to Hindu Nadars and 1 to Nadars included in S.I.U.C., 1 to Scheduled Caste Converts to Christianity, 3 to Viswakarmas, 1 to Dheevaras and 3 to Other Backward Classes put together.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 17(2)(a)(ii)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_042",
+    "prompt": "What is the consequence of wilful violation of reservation rules?",
+    "tip": "The officer is liable to proceedings and penalties under the CCA Rules for dereliction of duty.",
+    "quote": {
+     "text": "who violate the Principles of reservation of appointments as provided in rule 14 to rule 17 of these rules wilfully and deliberately shall be liable to be proceeded against under the said Rules for dereliction of duty",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 17D",
+     "book": "KSSSR_Revised_2025"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "servi-10",
+  "unit": "Penalties",
+  "title": "Penalties (10)",
+  "facts": [
+   {
+    "id": "b6_075",
+    "prompt": "What is the minimum and maximum period for temporary withholding of increments?",
+    "tip": "Not less than 3 months; both increments and promotion withholding are limited to three years.",
+    "quote": {
+     "text": "Temporary period of withholding of increments shall not be less than 3 months and the temporary period of withholding of promotion shall not be less than six months and both shall not be for more than three years.",
+     "ref": "KCS (CCA) Rules 1960, Rule 11(1)(iii) Note (2)",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_076",
+    "prompt": "What is the period of permanent barring of increment?",
+    "tip": "Not less than one year and not more than three years.",
+    "quote": {
+     "text": "The minimum period of permanent barring of increment shall not be less than one year and the maximum period shall not be for more than three years.",
+     "ref": "KCS (CCA) Rules 1960, Rule 11(1) Note (2A)",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_077",
+    "prompt": "Does withholding of promotion cause loss of seniority?",
+    "tip": "No. It does not entail loss of seniority in that grade.",
+    "quote": {
+     "text": "Withholding of promotion shall not entail loss of seniority in that grade.",
+     "ref": "KCS (CCA) Rules 1960, Rule 11(1)(iii) Note (4)",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_078",
+    "prompt": "What is the period of reduction to a lower rank, grade, post or time scale?",
+    "tip": "Not less than six months and not more than five years.",
+    "quote": {
+     "text": "The period of reduction shall not be less than six months and not more than five years.",
+     "ref": "KCS (CCA) Rules 1960, Rule 11(1)(v) Note (1)",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_079",
+    "prompt": "Does reduction to a lower post or time scale cause loss of seniority?",
+    "tip": "Yes. It entails loss of seniority.",
+    "quote": {
+     "text": "An order of reduction to a lower post or to a lower time scale shall entail loss of seniority.",
+     "ref": "KCS (CCA) Rules 1960, Rule 11(1)(v) Note (3)",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_080",
+    "prompt": "To what grade can a Government servant be reduced?",
+    "tip": "The grade immediately lower, but not below the grade of initial appointment.",
+    "quote": {
+     "text": "Reduction to a lower grade or post shall be to the grade or the post immediately lower to the grade or the post held by the officer, but not to a grade or post lower than the grade or post to which he was initially appointed.",
+     "ref": "KCS (CCA) Rules 1960, Rule 11(1)(v) Note (IA)",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_081",
+    "prompt": "Which group of Government servants can be fined?",
+    "tip": "Only Last Grade Service, Part-time Contingent Service, Jail Warders and Villagemen.",
+    "quote": {
+     "text": "The penalty of fine as such shall be imposed only on members of the Kerala Last Grade Service, members of the Kerala Part-time Contingent Service, Warders of the Jail Department and Villagemen.",
+     "ref": "KCS (CCA) Rules 1960, Rule 11(2)",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_082",
+    "prompt": "Is withholding of increments for failing a departmental test a penalty?",
+    "tip": "No. It does not amount to a penalty under Rule 11.",
+    "quote": {
+     "text": "Withholding of increments of a Government servant for failure to pass a departmental examination or consequential to the extension of probation in accordance with the rules or orders governing the service or post or the terms of his appointment;",
+     "ref": "KCS (CCA) Rules 1960, Rule 11 Explanation (i)",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "servi-11",
+  "unit": "Penalties",
+  "title": "Penalties (11)",
+  "facts": [
+   {
+    "id": "b6_083",
+    "prompt": "Is termination of a probationer's services at the end of probation a penalty?",
+    "tip": "No. It is not a penalty if done under the terms of appointment or probation rules.",
+    "quote": {
+     "text": "Termination of services.___ (a) of a Government servant appointed on probation, during or at the end of the prescribed or extended period of probation, in accordance with the terms of his appointment or the rules and orders governing probation;",
+     "ref": "KCS (CCA) Rules 1960, Rule 11 Explanation (viii)",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_084",
+    "prompt": "Which penalties need a formal inquiry under Rule 15?",
+    "tip": "Penalties in items (v) to (ix) of Rule 11(1): reduction, compulsory retirement, removal, dismissal and reduction of pension.",
+    "quote": {
+     "text": "no order imposing on a Government servant any of the penalties specified in items (v) to (ix) of rule 11 (1) shall be passed except after an inquiry held as far as may be, in the manner hereinafter provided.",
+     "ref": "KCS (CCA) Rules 1960, Rule 15(1) Procedure for imposing major penalties",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "servi-12",
+  "unit": "Definitions",
+  "title": "Definitions",
+  "facts": [
+   {
+    "id": "b6_014",
+    "prompt": "Define a probationer.",
+    "tip": "A probationer is a member of a service who has not completed his probation.",
+    "quote": {
+     "text": "\"Probationer\" in a service means a member of that service who has not completed his probation.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part I, Rule 2(10) Probationer",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_015",
+    "prompt": "Define an approved probationer.",
+    "tip": "A member who has satisfactorily completed probation and awaits appointment as a full member.",
+    "quote": {
+     "text": "\"Approved probationer\" in a service, class or category means a member of that service, class or category who has satisfactorily completed his probation and awaits appointment as a full member of such service, class or category.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part I, Rule 2(3) Approved probationer",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_016",
+    "prompt": "Define a full member of a service.",
+    "tip": "A member appointed substantively to a permanent post borne on the cadre of that service.",
+    "quote": {
+     "text": "\"Full member\" of a service means a member of that service who has been appointed substantively to a permanent post borne on the cadre thereof.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part I, Rule 2(7) Full member",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_017",
+    "prompt": "Define promotion.",
+    "tip": "Appointment of a member of a category or grade to a higher category or grade of the service or class.",
+    "quote": {
+     "text": "\"Promotion\" means the appointment of a member of any category or grade of a service or a class of service to a higher category or grade of such service or class.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part I, Rule 2(11) Promotion",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_018",
+    "prompt": "Define discharge of a probationer.",
+    "tip": "It means reverting him to his other service or class, or otherwise dispensing with his services.",
+    "quote": {
+     "text": "\" Discharge of a probationer\" means, in case the probationer is a full member or an approved probationer of another service, class or category, reverting him to such service, class or category and in any other case, dispensing with his services.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part I, Rule 2(5) Discharge of a probationer",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_019",
+    "prompt": "Is casual leave treated as duty?",
+    "tip": "Yes, if taken as per the leave instructions and he was on duty immediately before and after it.",
+    "quote": {
+     "text": "(c) when he is absent from duty during vacation or on authorized holidays or on casual leave taken in accordance with the instructions regulating such leave issued by the State Government having been on duty immediately before and immediately after such absence; or",
+     "ref": "KSSSR 1958 (Rev. 2025), Part I, Rule 2(6) Duty",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_020",
+    "prompt": "How long must continuous service be to count as Military Service?",
+    "tip": "Not less than 6 months.",
+    "quote": {
+     "text": "\"Military Service\" means service in the Armed Forces under the Ministry of Defence, Government of India, whether as a combatant or a non-combatant, for a continuous period of not less than 6 months,",
+     "ref": "KSSSR 1958 (Rev. 2025), Part I, Rule 2(9A) Military Service",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_021",
+    "prompt": "When can a person be recruited by transfer from a post with no probation?",
+    "tip": "After satisfactory service of two years on duty within a continuous period of three years in that post.",
+    "quote": {
+     "text": "he is the holder of a post in any other service for which no probation has been prescribed, and has put in satisfactory service in that post for a period of two years on duty within a continuous period of three years.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part I, Rule 2(13)(ii)(b) Recruited by transfer",
+     "book": "KSSSR_Revised_2025"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "servi-13",
+  "unit": "Seniority",
+  "title": "Seniority",
+  "facts": [
+   {
+    "id": "b6_043",
+    "prompt": "How is seniority generally determined?",
+    "tip": "By the date of the order of first appointment to the service, class, category or grade.",
+    "quote": {
+     "text": "Seniority of a person in a service, class, category or grade shall, unless he has been reduced to a lower rank as punishment, be determined by the date of the order of his first appointment to such service, class, category or grade.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 27(a) Seniority",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_044",
+    "prompt": "Which appointments are excluded from 'appointment' for seniority under Rule 27(a)?",
+    "tip": "Appointments under Rule 9 (temporary) and promotions under Rule 31.",
+    "quote": {
+     "text": "\"appointment\" shall not include appointment under rule 9 or appointment by promotion under rule 31.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 27(a) Explanation",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_045",
+    "prompt": "How is seniority fixed for those appointed on PSC advice?",
+    "tip": "By the date of first effective advice of the Commission.",
+    "quote": {
+     "text": "the seniority of a person appointed to a class, category or grade in a service on the advice of the Commission shall, unless he has been reduced to a lower rank as punishment, be determined by the date of first effective advice made for his appointment to such class, category or grade",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 27(c)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_046",
+    "prompt": "If several are in the same advice list, how is their seniority fixed?",
+    "tip": "By the order in which their names appear in the advice list.",
+    "quote": {
+     "text": "when two or more persons are included in the same list of candidates advised, their relatives seniority shall be fixed according to the order in which their names are arranged in the advice list:",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 27(c)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_047",
+    "prompt": "When is seniority fixed by joining date instead of advice date?",
+    "tip": "If extension to join is beyond three months from the appointment order (except essential course or training).",
+    "quote": {
+     "text": "the seniority of candidates who have been granted extension of time to join duty beyond three months from the date of the appointment order, except those who are undergoing courses of study or training which are prescribed as essential qualification for the post to which they are advised for appointment, shall be determined by the date of their joining duty:",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 27(c) first proviso",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_048",
+    "prompt": "Who fixes order of preference when two or more are appointed simultaneously?",
+    "tip": "The appointing authority, in the appointment order.",
+    "quote": {
+     "text": "The Appointing Authority shall, at the time of passing an order appointing two or more persons simultaneously to a service, fix the order of preference among them; and seniority shall be determined in accordance with it:",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 27(b)",
+     "book": "KSSSR_Revised_2025"
+    }
+   },
+   {
+    "id": "b6_049",
+    "prompt": "Within what time must a seniority dispute representation be submitted to Government?",
+    "tip": "Within six months from receipt or Gazette publication of the order, whichever is later.",
+    "quote": {
+     "text": "representations for reconsideration of such order shall be submitted to Government by the aggrieved person within a period of six months from the date of receipt of the order, or the date of publication of the order in the Kerala Gazette, whichever is later.",
+     "ref": "KSSSR 1958 (Rev. 2025), Part II, Rule 27B",
+     "book": "KSSSR_Revised_2025"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "servi-14",
+  "unit": "Suspension",
+  "title": "Suspension",
+  "facts": [
+   {
+    "id": "b6_069",
+    "prompt": "Who can place a Government servant under suspension?",
+    "tip": "The appointing authority, an authority above it, or any authority empowered by Government.",
+    "quote": {
+     "text": "The appointing authority or any authority to which it is subordinate or any other authority empowered by the Government in that behalf may at any time place a Government servant under suspension.",
+     "ref": "KCS (CCA) Rules 1960, Rule 10(1) Suspension",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_070",
+    "prompt": "What must an authority lower than the appointing authority do after suspending someone?",
+    "tip": "Forthwith report the circumstances to the Appointing Authority.",
+    "quote": {
+     "text": "Where the order of suspension is made by an authority lower than the appointing authority, such authority shall forthwith report to the Appointing Authority, the circumstances in which the order was made.",
+     "ref": "KCS (CCA) Rules 1960, Rule 10(2)",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_071",
+    "prompt": "When is a Government servant deemed suspended on detention in custody?",
+    "tip": "If detained in custody for more than forty eight hours, from the date of detention.",
+    "quote": {
+     "text": "A Government servant who is detained in custody, whether on a criminal charge or otherwise, for a period exceeding forty eight hours shall be deemed to have been suspended with effect from the date of detention,",
+     "ref": "KCS (CCA) Rules 1960, Rule 10(3)",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_072",
+    "prompt": "Who can revoke an order of suspension?",
+    "tip": "The authority that made it, or any authority to which it is subordinate.",
+    "quote": {
+     "text": "An order of suspension made or deemed to have been made under this rule may at any time be revoked by the authority which made or is deemed to have made the order or by any authority to which that authority is subordinate.",
+     "ref": "KCS (CCA) Rules 1960, Rule 10(6)",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_073",
+    "prompt": "What is paid to a Government servant under suspension?",
+    "tip": "Subsistence and other allowances admissible under the rules in force.",
+    "quote": {
+     "text": "Whenever a Government servant is placed under suspension, he shall be paid such subsistence and other allowances admissible under the rules for the time being in force regulating such matters.",
+     "ref": "KCS (CCA) Rules 1960, Rule 10(7)",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_074",
+    "prompt": "Where does an appeal against suspension lie?",
+    "tip": "To the authority to which the authority that made the order is immediately subordinate.",
+    "quote": {
+     "text": "A Government servant may appeal against an order of suspension to the authority to which the authority which made or is deemed to have made the order is immediately subordinate.",
+     "ref": "KCS (CCA) Rules 1960, Rule 22 Appeals against orders of suspension",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "servi-15",
+  "unit": "Disciplinary Procedure",
+  "title": "Disciplinary Procedure",
+  "facts": [
+   {
+    "id": "b6_085",
+    "prompt": "What must the authority do before imposing a minor penalty?",
+    "tip": "Inform him in writing of the proposal and allegations and consider his representation.",
+    "quote": {
+     "text": "the Government servant is informed in writing of the proposal to take action against him and of the allegations on which it is proposed to be taken and given opportunity to make any representation he may wish to make; (b) such representation, if any, is taken into consideration by the Disciplinary Authority;",
+     "ref": "KCS (CCA) Rules 1960, Rule 16(1) Procedure for imposing minor penalties",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_086",
+    "prompt": "Can a delinquent officer engage a legal practitioner?",
+    "tip": "Not unless the presenting person is a legal practitioner or the Inquiring Authority permits.",
+    "quote": {
+     "text": "but may not engage a legal practitioner for the purpose unless the person nominated by the Disciplinary Authority as aforesaid is a legal practitioner or unless the Inquiring Authority having regard to the circumstances of the case, so permits.",
+     "ref": "KCS (CCA) Rules 1960, Rule 15(6)",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_087",
+    "prompt": "How long is given to represent against the proposed major penalty?",
+    "tip": "A specified time which may not generally exceed one month.",
+    "quote": {
+     "text": "calling upon him to submit within a specified time which may not generally exceed one month such representation as he may wish to make against the proposed action:",
+     "ref": "KCS (CCA) Rules 1960, Rule 15(12)(i)(b)",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_088",
+    "prompt": "Within what time must an appeal be submitted?",
+    "tip": "Within two months from receipt of a copy of the order.",
+    "quote": {
+     "text": "No appeal under this part shall be entertained unless it is submitted within a period of two months from the date on which the appellant receives a copy of the order appealed against:",
+     "ref": "KCS (CCA) Rules 1960, Rule 25 Period of limitation for appeals",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_089",
+    "prompt": "Is there an appeal against an order passed by Government?",
+    "tip": "No. Where the order is passed by Government there is no appeal.",
+    "quote": {
+     "text": "Provided that where an order is passed by the Government, there shall be no appeal.",
+     "ref": "KCS (CCA) Rules 1960, Rule 23 Appeals against orders imposing penalties",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   },
+   {
+    "id": "b6_090",
+    "prompt": "How many reviews of original orders by Government are allowed and within what time?",
+    "tip": "Only one review, applied for within two months of the order.",
+    "quote": {
+     "text": "There shall be only one review and application for review shall be made within a period of two months from the date of the order.",
+     "ref": "KCS (CCA) Rules 1960, Rule 35 Review of original orders",
+     "book": "KCS_CCA_Rules_1960"
+    }
+   }
+  ]
+ }
+]

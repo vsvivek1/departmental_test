@@ -1,0 +1,1237 @@
+{
+ "p-01": {
+  "remember": [
+   "Foreign service means pay from a source other than the Consolidated Fund of India or of a State, with Government sanction.",
+   "Deputation to foreign service is first for one year, extended year by year up to five years continuous.",
+   "Overstay: disciplinary action, no pension credit, increment deferred, no ex post facto regularisation."
+  ],
+  "questions": [
+   {
+    "q": "What is foreign service under KSR?",
+    "options": [
+     "Service in which an officer gets pay, with Government sanction, from a source other than the Consolidated Fund of India or of a State",
+     "Service in another State Government paid from the Consolidated Fund",
+     "Service abroad paid by the Government of India",
+     "Service in a Government office on a higher scale of pay"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 12(9) defines foreign service by the source of pay."
+   },
+   {
+    "q": "For what period is deputation to foreign service initially sanctioned?",
+    "options": [
+     "Two years",
+     "One year",
+     "Six months",
+     "Three years"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 140(c): initially one year, extended year by year."
+   },
+   {
+    "q": "Up to what continuous period can foreign service be extended year by year?",
+    "options": [
+     "Three years in the aggregate",
+     "Seven years in the aggregate",
+     "Five years in the aggregate",
+     "Ten years in the aggregate"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 140(c) allows extension up to five continuous years."
+   },
+   {
+    "q": "What is the position of an officer who overstays foreign service?",
+    "options": [
+     "Overstay is counted for pension but increments are stopped",
+     "Overstay is regularised on payment of a fine",
+     "Overstay is counted as leave without allowances",
+     "Liable to disciplinary action and overstay is not counted for pension"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 140(c)."
+   },
+   {
+    "q": "Can overstay on foreign service be regularised by ex post facto approval?",
+    "options": [
+     "No, ex post facto approval is not allowed",
+     "Yes, by the Government at any time",
+     "Yes, by the Finance Department only",
+     "Yes, if the foreign employer agrees"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 140(c)."
+   }
+  ]
+ },
+ "p-02": {
+  "remember": [
+   "Overstaying officer is barred from pay and allowances from the date the sanctioned term expires.",
+   "Leave taken after foreign service before joining is not overstay.",
+   "Rule 24 applies if foreign service exceeds five years; officer stays in his old cadre."
+  ],
+  "questions": [
+   {
+    "q": "From when is an overstaying officer precluded from drawing pay and allowances?",
+    "options": [
+     "From the date he applies for extension",
+     "From the date the sanctioned term of foreign service expires",
+     "From the date he rejoins his parent cadre",
+     "From the date of the disciplinary order"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 140(c)."
+   },
+   {
+    "q": "Leave taken on conclusion of foreign service, before joining the post, is treated as:",
+    "options": [
+     "Overstay without pay",
+     "Overstay for pension purposes only",
+     "Not an overstay",
+     "Leave without allowances only"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 140(c) proviso."
+   },
+   {
+    "q": "Which rule applies to an officer in foreign service for more than five years at a time?",
+    "options": [
+     "Rule 12",
+     "Rule 60",
+     "Rule 143",
+     "Rule 24"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 140 (last para)."
+   },
+   {
+    "q": "Transfer to foreign service is admissible only if the duties are such as should be done by:",
+    "options": [
+     "Any private person for public reasons",
+     "An officer of the foreign employer only",
+     "A retired Government officer",
+     "A Government officer, for public reasons"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 141(a)."
+   },
+   {
+    "q": "An officer on leave is transferred to foreign service. What follows?",
+    "options": [
+     "He continues leave until it ends",
+     "He ceases to be on leave and to draw leave salary from the date of transfer",
+     "He draws half leave salary",
+     "He reverts to duty after fifteen days"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 142."
+   }
+  ]
+ },
+ "p-03": {
+  "remember": [
+   "Authority sanctioning the transfer fixes pay in consultation with the foreign employer.",
+   "Prior consultation with Finance Department is a must; no deputation allowance.",
+   "Pension contribution 15%, leave salary 10%, combined 25% of maximum of scale of parent post."
+  ],
+  "questions": [
+   {
+    "q": "Who fixes the pay of an officer in foreign service?",
+    "options": [
+     "The foreign employer alone",
+     "The Accountant General",
+     "The authority sanctioning the transfer, in consultation with the foreign employer",
+     "The Public Service Commission"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 144."
+   },
+   {
+    "q": "With whom must there be previous consultation before ordering transfer to foreign service?",
+    "options": [
+     "The Law Department",
+     "The Accountant General",
+     "The Public Service Commission",
+     "The Finance Department"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 144 Note 2."
+   },
+   {
+    "q": "Is deputation allowance paid to officers on deputation to foreign service?",
+    "options": [
+     "No deputation allowance is paid",
+     "Yes, at ten per cent of pay",
+     "Yes, at the Government's discretion",
+     "Yes, if the foreign employer agrees"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 144 Note 3."
+   },
+   {
+    "q": "What is the rate of pension contribution for foreign service?",
+    "options": [
+     "10 per cent of the maximum of the scale of pay",
+     "15 per cent of the maximum of the scale of pay of the parent post",
+     "25 per cent of the maximum of the scale of pay",
+     "15 per cent of the minimum of the scale of pay"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 146."
+   },
+   {
+    "q": "What is the combined rate of leave salary and pension contribution?",
+    "options": [
+     "15 per cent of the maximum of the scale of pay",
+     "20 per cent of the maximum of the scale of pay",
+     "25 per cent of the maximum of the scale of pay",
+     "30 per cent of the maximum of the scale of pay"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 146: 15% pension plus 10% leave salary."
+   }
+  ]
+ },
+ "p-04": {
+  "remember": [
+   "No contribution during joining time; officer pays contributions himself unless foreign employer consents.",
+   "Pay annually within fifteen days of calendar year end, or at end of foreign service.",
+   "Pension or gratuity from foreign employer needs Government sanction; reversion on taking charge of Government post."
+  ],
+  "questions": [
+   {
+    "q": "Is contribution payable for periods of joining time in foreign service?",
+    "options": [
+     "Yes, at half the normal rate",
+     "Yes, at the full rate",
+     "Only the pension contribution is paid",
+     "No contribution is paid for joining time"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 146."
+   },
+   {
+    "q": "Who pays the foreign service contributions?",
+    "options": [
+     "The officer himself, unless the foreign employer consents to pay",
+     "The foreign employer always",
+     "The Government always",
+     "The Accountant General"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 145(b)."
+   },
+   {
+    "q": "Within what time from the end of each calendar year may contribution be paid annually?",
+    "options": [
+     "Thirty days",
+     "Fifteen days",
+     "Three months",
+     "Seven days"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 150."
+   },
+   {
+    "q": "Can an officer in foreign service accept a pension or gratuity from the foreign employer?",
+    "options": [
+     "Yes, without any permission",
+     "Only with the sanction of the Finance Department",
+     "Not without the sanction of the Government",
+     "Only with the sanction of the foreign employer"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 151."
+   },
+   {
+    "q": "On what date does an officer revert from foreign service to Government service?",
+    "options": [
+     "The date foreign service ends",
+     "The date he applies for reversion",
+     "The first day of the next month",
+     "The date on which he takes charge of his post in Government service"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 154."
+   }
+  ]
+ },
+ "p-05": {
+  "remember": [
+   "Service does not qualify until 18 years of age (except compensation gratuity).",
+   "Service begins on taking charge of the office first appointed to.",
+   "Probation followed by qualifying service counts; leave with allowances counts as qualifying."
+  ],
+  "questions": [
+   {
+    "q": "Until what age does an employee's service not qualify for pension, except for compensation gratuity?",
+    "options": [
+     "16 years",
+     "20 years",
+     "21 years",
+     "18 years"
+    ],
+    "answer": 3,
+    "why": "KSR Part III, Rule 9(a)."
+   },
+   {
+    "q": "When does the service of an employee begin, unless otherwise provided?",
+    "options": [
+     "On the date of the appointment order",
+     "When he takes charge of the office to which he is first appointed",
+     "On the date of the advice by the PSC",
+     "On the date of medical examination"
+    ],
+    "answer": 1,
+    "why": "KSR Part III, Rule 9(b)."
+   },
+   {
+    "q": "Probationary service followed by qualifying service:",
+    "options": [
+     "Does not count for pension",
+     "Counts for half its length",
+     "Counts for pension",
+     "Counts only with Government orders in each case"
+    ],
+    "answer": 2,
+    "why": "KSR Part III, Rule 16."
+   },
+   {
+    "q": "Which apprentices' service qualifies for pension?",
+    "options": [
+     "All apprentices in Government service",
+     "Engineer Apprentices in the PWD only",
+     "Apprentice Compositors and Typists in the Government Press",
+     "Engineer Apprentices in the PWD and Apprentice Compositors in the Government Press"
+    ],
+    "answer": 3,
+    "why": "KSR Part III, Rule 15."
+   },
+   {
+    "q": "Does time on leave of all kinds with allowances count as qualifying service?",
+    "options": [
+     "Yes, it counts as qualifying service",
+     "No, it never counts",
+     "Only earned leave counts",
+     "Only half of it counts"
+    ],
+    "answer": 0,
+    "why": "KSR Part III, Rule 26(a)."
+   }
+  ]
+ },
+ "p-06": {
+  "remember": [
+   "Leave without allowances generally does not count, except specified cases (e.g. medical certificate).",
+   "Suspension period does not count unless ordered; counts in full if fully exonerated.",
+   "Resignation or dismissal forfeits past service; moving to a counting post is not resignation."
+  ],
+  "questions": [
+   {
+    "q": "Does time on leave without allowances count as qualifying service?",
+    "options": [
+     "Yes, always",
+     "Yes, up to one year",
+     "Generally not, except specified cases such as LWA on medical certificate",
+     "Yes, but only for gazetted officers"
+    ],
+    "answer": 2,
+    "why": "KSR Part III, Rule 26(b)."
+   },
+   {
+    "q": "Who is the authority to declare a spell of leave as non-qualifying for pension?",
+    "options": [
+     "The Head of Office",
+     "The Accountant General",
+     "The appointing authority",
+     "The Government"
+    ],
+    "answer": 3,
+    "why": "KSR Part III, Rule 26 Government Decision."
+   },
+   {
+    "q": "Does time passed under suspension count for pension?",
+    "options": [
+     "No, unless otherwise ordered by the competent authority",
+     "Yes, always in full",
+     "Yes, for half the period",
+     "Only if the suspension exceeds one year"
+    ],
+    "answer": 0,
+    "why": "KSR Part III, Rule 28."
+   },
+   {
+    "q": "When does suspension time count in full for pension?",
+    "options": [
+     "When the employee resigns later",
+     "When the employee is fully exonerated or the suspension is held wholly unjustified",
+     "When the suspension lasts less than three months",
+     "When the employee pays a fine"
+    ],
+    "answer": 1,
+    "why": "KSR Part III, Rule 28."
+   },
+   {
+    "q": "What is the effect of dismissal or removal from public service on past service?",
+    "options": [
+     "Past service is counted in full",
+     "Past service is counted for half",
+     "It entails forfeiture of past service",
+     "Only service of the last five years is lost"
+    ],
+    "answer": 2,
+    "why": "KSR Part III, Rule 29(a)."
+   }
+  ]
+ },
+ "p-07": {
+  "remember": [
+   "Interruptions count for pension unless rules or competent authority order otherwise, recorded in Service Book.",
+   "If interruption exceeds one year, benefit is restricted to service actually put in before the interruption."
+  ],
+  "questions": [
+   {
+    "q": "Do interruptions in service count for pension?",
+    "options": [
+     "No, never",
+     "Yes, only up to six months",
+     "Only if the Accountant General permits",
+     "Yes, unless the rules or competent authority order otherwise, recorded in the Service Book"
+    ],
+    "answer": 3,
+    "why": "KSR Part III, Rule 31."
+   },
+   {
+    "q": "Where must an order that an interruption does not count be recorded?",
+    "options": [
+     "In the Pension Register",
+     "In the Service Book",
+     "In the Audit Register",
+     "In the Gazette"
+    ],
+    "answer": 1,
+    "why": "KSR Part III, Rule 31."
+   },
+   {
+    "q": "An interruption in service exceeds one year. How is the benefit of reckoning limited?",
+    "options": [
+     "To the periods actually in service after the interruption",
+     "To half of the total service",
+     "To the periods actually in service before the interruption",
+     "To the period of the interruption alone"
+    ],
+    "answer": 2,
+    "why": "KSR Part III, Rule 31 Note 3."
+   },
+   {
+    "q": "From which length of interruption does the restriction in Note 3 apply?",
+    "options": [
+     "Exceeding six months",
+     "Exceeding two years",
+     "Exceeding three months",
+     "Exceeding one year"
+    ],
+    "answer": 3,
+    "why": "KSR Part III, Rule 31 Note 3."
+   }
+  ]
+ },
+ "p-08": {
+  "remember": [
+   "Compulsory retirement: afternoon of last day of the month of attaining 56; retention only by Government, not beyond 60 normally.",
+   "NPS officers appointed on/after 1 April 2013: retire at 60, retention not after 64.",
+   "Judicial officers 60 (option 58); Last Grade Service 60; teachers continue to end of academic year."
+  ],
+  "questions": [
+   {
+    "q": "At what age does compulsory retirement of an officer take effect under Rule 60(a)?",
+    "options": [
+     "56 years, from the afternoon of the last day of the month",
+     "55 years, from the forenoon of the last day of the month",
+     "58 years, from the afternoon of the last day of the month",
+     "60 years, from the afternoon of the last day of the month"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 60(a)."
+   },
+   {
+    "q": "Who can retain an officer after the retirement age?",
+    "options": [
+     "The head of office",
+     "Only the Government, on public grounds recorded in writing",
+     "The appointing authority",
+     "The Accountant General"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 60(a)."
+   },
+   {
+    "q": "Up to what age must an officer not be retained, except in very special circumstances?",
+    "options": [
+     "58 years",
+     "62 years",
+     "60 years",
+     "64 years"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 60(a)."
+   },
+   {
+    "q": "For NPS officers appointed on or after 1 April 2013, retention is not allowed beyond which age except in very special circumstances?",
+    "options": [
+     "60 years",
+     "62 years",
+     "66 years",
+     "64 years"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 60(af)."
+   },
+   {
+    "q": "At what age do Judicial Service officers ordinarily retire, and what is their option?",
+    "options": [
+     "60 years, with an option to retire at 58",
+     "56 years, with an option to retire at 55",
+     "58 years, with an option to retire at 56",
+     "62 years, with an option to retire at 60"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 60(aa)."
+   }
+  ]
+ },
+ "p-09": {
+  "remember": [
+   "Only year known: 1 July is date of birth; year and month known: 16th of the month.",
+   "Retirement is automatic unless extension is sanctioned.",
+   "Re-employment not ordinarily for more than one year at a time; born 1 July completes 56 on 30 June."
+  ],
+  "questions": [
+   {
+    "q": "Only the year of birth is known. Which date is taken as the date of birth?",
+    "options": [
+     "First January",
+     "First April",
+     "First July",
+     "31st December"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 60 Note 4."
+   },
+   {
+    "q": "Year and month of birth are known but not the date. Which day is taken?",
+    "options": [
+     "The 1st day of the month",
+     "The last day of the month",
+     "The 15th day of the month",
+     "The 16th day of the month"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 60 Note 4."
+   },
+   {
+    "q": "Is a separate sanction needed for retirement on superannuation?",
+    "options": [
+     "Yes, from the appointing authority",
+     "Yes, from the Government",
+     "Yes, from the Accountant General",
+     "No, retirement is automatic unless extension is sanctioned"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 60 Note 5."
+   },
+   {
+    "q": "For how long is re-employment after retirement ordinarily sanctioned at a time?",
+    "options": [
+     "Not more than two years",
+     "Not more than one year",
+     "Not more than six months",
+     "Not more than three years"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 60 Note 3."
+   },
+   {
+    "q": "A person born on 1 July completes his 56th year on:",
+    "options": [
+     "1st July",
+     "31st July",
+     "30th June",
+     "31st December"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 60 Note 7."
+   }
+  ]
+ },
+ "p-10": {
+  "remember": [
+   "Four grades of officers for TA; five kinds of TA.",
+   "Daily allowance: uniform allowance per day of absence from headquarters.",
+   "Free board and lodging: 1/4 DA; only board free: 1/2; only lodging free: 2/3. Max ten days halt; 8 km radius."
+  ],
+  "questions": [
+   {
+    "q": "Into how many grades are officers classified for calculating Travelling Allowances?",
+    "options": [
+     "Three",
+     "Five",
+     "Six",
+     "Four"
+    ],
+    "answer": 3,
+    "why": "KSR Part II, Rule 1."
+   },
+   {
+    "q": "Which is NOT one of the kinds of Travelling Allowance in Rule 5?",
+    "options": [
+     "Transfer Allowance",
+     "Mileage Allowance",
+     "Conveyance Allowance",
+     "Actual Travelling Expenses"
+    ],
+    "answer": 0,
+    "why": "KSR Part II, Rule 5 lists Permanent TA, Conveyance, Mileage, Daily Allowance and Actual Travelling Expenses."
+   },
+   {
+    "q": "What fraction of daily allowance may be drawn if free boarding and lodging is provided?",
+    "options": [
+     "One half",
+     "One fourth",
+     "Two thirds",
+     "Three fourths"
+    ],
+    "answer": 1,
+    "why": "KSR Part II, Rule 39 proviso."
+   },
+   {
+    "q": "What fraction of daily allowance may be drawn if only boarding is provided free?",
+    "options": [
+     "One fourth",
+     "Two thirds",
+     "One half",
+     "Full rate"
+    ],
+    "answer": 2,
+    "why": "KSR Part II, Rule 39 proviso."
+   },
+   {
+    "q": "What fraction of daily allowance may be drawn if only lodging is provided free?",
+    "options": [
+     "One fourth",
+     "One half",
+     "Three fourths",
+     "Two thirds"
+    ],
+    "answer": 3,
+    "why": "KSR Part II, Rule 39 proviso."
+   }
+  ]
+ },
+ "p-11": {
+  "remember": [
+   "TA on transfer only if transferred for public convenience and entitled to pay during the journey.",
+   "Transfer at own request is not public convenience unless authority records special reasons.",
+   "Examination TA not more than twice; Permanent TA not drawn during leave, temporary transfer or joining time."
+  ],
+  "questions": [
+   {
+    "q": "TA on transfer is admissible only if the officer is transferred:",
+    "options": [
+     "At his own request and is entitled to pay during the journey",
+     "For the public convenience and is entitled to pay during the journey",
+     "For the public convenience irrespective of pay during the journey",
+     "For any reason, if the Government permits"
+    ],
+    "answer": 1,
+    "why": "KSR Part II, Rule 65."
+   },
+   {
+    "q": "A transfer at own request is treated as public convenience when:",
+    "options": [
+     "The officer pays the cost",
+     "It is within the same district",
+     "The sanctioning authority so directs for recorded special reasons",
+     "It is approved by the Accountant General"
+    ],
+    "answer": 2,
+    "why": "KSR Part II, Rule 65."
+   },
+   {
+    "q": "An officer goes on leave between giving over old charge and taking new charge. Up to what leave is TA under this section admissible?",
+    "options": [
+     "Two months",
+     "Six months",
+     "One month",
+     "Four months"
+    ],
+    "answer": 3,
+    "why": "KSR Part II, Rule 72."
+   },
+   {
+    "q": "How many times may TA be drawn for a journey to an obligatory departmental examination?",
+    "options": [
+     "Only once for any examination",
+     "Not more than three times for any examination",
+     "Any number of times",
+     "Not more than twice for any particular examination"
+    ],
+    "answer": 3,
+    "why": "KSR Part II, Rule 77."
+   },
+   {
+    "q": "During which period may a Permanent Travelling Allowance NOT be drawn?",
+    "options": [
+     "Casual leave only",
+     "Leave, temporary transfer or joining time",
+     "Tour of more than ten days",
+     "Annual inspection"
+    ],
+    "answer": 1,
+    "why": "KSR Part II, Rule 7."
+   }
+  ]
+ },
+ "p-12": {
+  "remember": [
+   "Retiring pension after 20 years of qualifying service on voluntary retirement.",
+   "Three months' written notice to the appointing or pension sanctioning authority.",
+   "Rounding under Rule 57 not allowed; effective on permission, or from notice date if not refused."
+  ],
+  "questions": [
+   {
+    "q": "After how many years of qualifying service can an employee retire voluntarily on retiring pension?",
+    "options": [
+     "15 years",
+     "25 years",
+     "20 years",
+     "30 years"
+    ],
+    "answer": 2,
+    "why": "KSR Part III, Rule 56."
+   },
+   {
+    "q": "How much notice in writing must be given for voluntary retirement?",
+    "options": [
+     "At least one month",
+     "At least six months",
+     "At least fifteen days",
+     "At least three months"
+    ],
+    "answer": 3,
+    "why": "KSR Part III, Rule 56(i)."
+   },
+   {
+    "q": "Is rounding of qualifying service under Rule 57 allowed to complete 20 years for voluntary retirement?",
+    "options": [
+     "No, it is not permissible at this stage",
+     "Yes, up to six months",
+     "Yes, up to one year",
+     "Yes, if the Government permits"
+    ],
+    "answer": 0,
+    "why": "KSR Part III, Rule 56(iii)."
+   },
+   {
+    "q": "When does voluntary retirement become effective?",
+    "options": [
+     "On the date of submitting the notice",
+     "On the grant of permission by the authority competent to appoint to the post",
+     "On the date of the medical board",
+     "On the date of the pension sanction"
+    ],
+    "answer": 1,
+    "why": "KSR Part III, Rule 56(iv)."
+   },
+   {
+    "q": "The appointing authority does not refuse permission before the intended date. What happens?",
+    "options": [
+     "Retirement is postponed by three months",
+     "The employee must apply again",
+     "Retirement becomes effective from the date specified in the notice",
+     "The case goes to the Accountant General"
+    ],
+    "answer": 2,
+    "why": "KSR Part III, Rule 56(iv) proviso."
+   }
+  ]
+ },
+ "p-13": {
+  "remember": [
+   "Weightage up to 5 years added to qualifying service on voluntary retirement.",
+   "Total after weightage not above 33 years (retirement on/after 1/7/1978), 30 years before.",
+   "No notional pay fixation on weightage; rule not applicable if absorbed in autonomous body or PSU."
+  ],
+  "questions": [
+   {
+    "q": "By what period may qualifying service be increased on voluntary retirement as weightage?",
+    "options": [
+     "A period not exceeding 5 years",
+     "A period not exceeding 3 years",
+     "A period not exceeding 7 years",
+     "A period not exceeding 10 years"
+    ],
+    "answer": 0,
+    "why": "KSR Part III, Rule 56(vii)."
+   },
+   {
+    "q": "What is the cap on total qualifying service after weightage for retirements on or after 1/7/1978?",
+    "options": [
+     "30 years",
+     "33 years",
+     "35 years",
+     "25 years"
+    ],
+    "answer": 1,
+    "why": "KSR Part III, Rule 56(vii)."
+   },
+   {
+    "q": "What is the cap for retirements before 1/7/1978?",
+    "options": [
+     "33 years",
+     "28 years",
+     "30 years",
+     "35 years"
+    ],
+    "answer": 2,
+    "why": "KSR Part III, Rule 56(vii)."
+   },
+   {
+    "q": "Is notional fixation of pay allowed on the basis of service increased by weightage?",
+    "options": [
+     "Yes, always",
+     "Yes, for gazetted officers",
+     "Yes, once in service",
+     "No, it is not permissible"
+    ],
+    "answer": 3,
+    "why": "KSR Part III, Rule 56(viii)."
+   },
+   {
+    "q": "Does the voluntary retirement rule apply to an employee absorbed permanently in an autonomous body or PSU?",
+    "options": [
+     "Yes, with full weightage",
+     "Yes, but without weightage",
+     "Yes, with half weightage",
+     "No, the rule does not apply"
+    ],
+    "answer": 3,
+    "why": "KSR Part III, Rule 56(xi)."
+   }
+  ]
+ },
+ "p-14": {
+  "remember": [
+   "Probationer: employed on probation in or against a substantive vacancy in a cadre.",
+   "Substantive pay, special pay, personal pay (saves loss of substantive pay on revision) are different.",
+   "Lien: title to a permanent post; a day is absence up to 24 hours; competent authority is the appointing authority."
+  ],
+  "questions": [
+   {
+    "q": "What is a probationer?",
+    "options": [
+     "An officer appointed to test fitness in any temporary vacancy",
+     "An officer employed on probation in or against a substantive vacancy in the cadre of a department",
+     "An officer on trial for disciplinary action",
+     "An officer officiating in a higher post"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 12(28)."
+   },
+   {
+    "q": "Personal pay is granted to an officer to:",
+    "options": [
+     "Reward special work of an occasional character",
+     "Compensate for a higher cost of living",
+     "Save him from loss of substantive pay in a permanent post due to pay revision",
+     "Give him an addition for holding two posts"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 12(26)."
+   },
+   {
+    "q": "What is a lien?",
+    "options": [
+     "The title to hold any temporary post",
+     "The right to promotion",
+     "The right to draw increments",
+     "The title of an officer to hold substantively a permanent post"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 12(18)."
+   },
+   {
+    "q": "An absence from headquarters not exceeding how many hours is reckoned as one day?",
+    "options": [
+     "24 hours",
+     "12 hours",
+     "18 hours",
+     "48 hours"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 12(6)."
+   },
+   {
+    "q": "Where no power is delegated, who is the competent authority?",
+    "options": [
+     "The Head of Department in all cases",
+     "The authority in whom the power to appoint such officer is vested",
+     "The Accountant General",
+     "The Government always"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 12(5A)."
+   }
+  ]
+ },
+ "p-15": {
+  "remember": [
+   "Honorarium: payment from General Revenues for special work of occasional or intermittent character.",
+   "Fee: payment to an officer from a source other than General Revenues.",
+   "Month means a calendar month."
+  ],
+  "questions": [
+   {
+    "q": "What is an honorarium?",
+    "options": [
+     "A payment from a source other than the General Revenues",
+     "A regular monthly addition to pay",
+     "A payment to save loss of pay on revision",
+     "A payment from the General Revenues as remuneration for special work of an occasional or intermittent character"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 12(15)."
+   },
+   {
+    "q": "What is a fee?",
+    "options": [
+     "A payment to an officer from a source other than the General Revenues",
+     "A payment from the General Revenues for special work",
+     "A pension paid on retirement",
+     "An allowance for travelling"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 12(8)."
+   },
+   {
+    "q": "What does the term 'month' mean in KSR?",
+    "options": [
+     "A period of thirty days",
+     "A calendar month",
+     "A period of four weeks",
+     "A month of working days"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 12(21)."
+   },
+   {
+    "q": "An honorarium may be recurring or non-recurring, and is granted from:",
+    "options": [
+     "Local Funds only",
+     "Trust Funds only",
+     "The General Revenues of the State",
+     "Any outside source"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 12(15)."
+   }
+  ]
+ },
+ "p-16": {
+  "remember": [
+   "Pay cannot exceed the pay sanctioned for the post without Government sanction (except personal pay).",
+   "Increment is drawn as a matter of course unless withheld for bad conduct or unsatisfactory work.",
+   "Increment from first day of month due; first increment needs SLI and GIS; efficiency bar increment needs specific sanction."
+  ],
+  "questions": [
+   {
+    "q": "Can an officer's pay exceed the pay sanctioned for his post?",
+    "options": [
+     "Yes, at the head of office's discretion",
+     "Yes, with the Accountant General's sanction",
+     "Yes, always",
+     "Not without the sanction of Government"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 25."
+   },
+   {
+    "q": "An increment is ordinarily drawn:",
+    "options": [
+     "Only on application by the officer",
+     "Only with the sanction of the Government",
+     "Only after a departmental test",
+     "As a matter of course unless it is withheld"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 31."
+   },
+   {
+    "q": "When can an increment be withheld?",
+    "options": [
+     "If the officer is on leave",
+     "If the officer's conduct has not been good or his work has not been satisfactory",
+     "If the officer applies for transfer",
+     "If the officer is absent for one day"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 31."
+   },
+   {
+    "q": "From which date is an increment granted?",
+    "options": [
+     "From the last day of the month in which it falls due",
+     "From the date the officer applies",
+     "From the first day of the month in which it falls due",
+     "From the first day of the next month"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 31 Govt Decision No. 1."
+   },
+   {
+    "q": "An officer cannot draw his first increment until he subscribes to:",
+    "options": [
+     "The General Provident Fund only",
+     "The Pension Fund only",
+     "The Welfare Fund only",
+     "State Life Insurance and Group Insurance Schemes"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 31 Note 3."
+   }
+  ]
+ },
+ "p-17": {
+  "remember": [
+   "Reduction order must state its period and whether it postpones future increments.",
+   "Officiating on higher time-scale: initial pay is the stage next above pay in the lower scale.",
+   "Personal pay is reduced by any pay increase and ceases when pay rises by an equal amount."
+  ],
+  "questions": [
+   {
+    "q": "What must an order reducing an officer to a lower stage state?",
+    "options": [
+     "Only the reason for the reduction",
+     "The period for which it is effective and whether it postpones future increments",
+     "Only the officer's new designation",
+     "Only the date of restoration of the old post"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 36."
+   },
+   {
+    "q": "An officer officiating in a higher time-scale draws as initial pay:",
+    "options": [
+     "The minimum of the higher time-scale",
+     "The maximum of the lower time-scale",
+     "The stage next above his pay in the lower time-scale",
+     "The same pay as in the lower time-scale"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 37(a)."
+   },
+   {
+    "q": "What happens to personal pay when the recipient's pay is increased?",
+    "options": [
+     "It continues unchanged",
+     "It is doubled",
+     "It ceases at once on any increase",
+     "It is reduced by the amount of the increase and ceases when the increase equals it"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 41."
+   },
+   {
+    "q": "A reduction order operating on restoration may postpone:",
+    "options": [
+     "Future increments",
+     "Leave due",
+     "Pension",
+     "Travelling allowance"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 36."
+   }
+  ]
+ },
+ "p-18": {
+  "remember": [
+   "Leave is not a right; authority may refuse or revoke but cannot alter its nature.",
+   "Leave begins on the day charge is transferred and ends the day before charge is resumed.",
+   "Holidays prefixed: leave from first day after; affixed: leave treated as ended when it would have; recall: on duty from day of starting."
+  ],
+  "questions": [
+   {
+    "q": "Can an officer claim leave as a matter of right?",
+    "options": [
+     "Yes, if it is due",
+     "No, leave cannot be claimed as a right",
+     "Yes, earned leave only",
+     "Yes, after one year of service"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 65."
+   },
+   {
+    "q": "Can the sanctioning authority alter the nature of leave applied for?",
+    "options": [
+     "Yes, at its discretion",
+     "Yes, with the officer's consent only",
+     "No, it can only refuse or revoke it",
+     "Yes, if no leave is due"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 65 Note."
+   },
+   {
+    "q": "When does leave ordinarily begin and end?",
+    "options": [
+     "Begins the day after charge is transferred and ends on the day charge is resumed",
+     "Begins and ends on the day charge is transferred",
+     "Begins on the day of the order and ends a week later",
+     "Begins on the day charge is transferred and ends on the day before charge is resumed"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 66."
+   },
+   {
+    "q": "Holidays are prefixed to leave. From when does the leave take effect, unless directed otherwise?",
+    "options": [
+     "From the first day of the holidays",
+     "From the last day of the holidays",
+     "From the date of the application",
+     "From the first day after the holidays"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 68(a)."
+   },
+   {
+    "q": "An officer on leave wants to take other employment. Whose previous sanction is needed?",
+    "options": [
+     "The Accountant General",
+     "The authority empowered to fill up the post held by him",
+     "The foreign employer",
+     "The Finance Department"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 69."
+   }
+  ]
+ },
+ "p-19": {
+  "remember": [
+   "An officer on leave preparatory to retirement cannot withdraw and return except with consent of the appointing authority.",
+   "No formal cancellation of unexpired leave on early return.",
+   "Audit Officer cancels for gazetted officers; Head of office for non-gazetted."
+  ],
+  "questions": [
+   {
+    "q": "Can an officer on leave preparatory to retirement withdraw his request and return to duty?",
+    "options": [
+     "Yes, at any time",
+     "Yes, within one month",
+     "Yes, with the Accountant General's consent",
+     "No, unless the authority empowered to appoint him consents"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 72(2)."
+   },
+   {
+    "q": "Is formal cancellation of unexpired leave needed when an officer returns before leave expires?",
+    "options": [
+     "No formal cancellation is necessary",
+     "Yes, by Government order",
+     "Yes, by a notification in the Gazette",
+     "Yes, by the officer's application"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 72 Note 1."
+   },
+   {
+    "q": "Who cancels the unexpired leave of a gazetted officer?",
+    "options": [
+     "The Head of office",
+     "The Audit Officer",
+     "The Government",
+     "The appointing authority"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 72 Note 1."
+   },
+   {
+    "q": "Who cancels the unexpired leave of a non-gazetted officer?",
+    "options": [
+     "The Audit Officer",
+     "The Accountant General",
+     "The Head of office",
+     "The Government"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 72 Note 1."
+   }
+  ]
+ },
+ "p-20": {
+  "remember": [
+   "Earned leave: one-eleventh of duty period; stops accruing at 300 days.",
+   "Maximum 180 days at a time; 300 days for leave preparatory to retirement.",
+   "Vacation department: none if full vacation taken; else proportion of 30 days; non-permanent first year 1/22."
+  ],
+  "questions": [
+   {
+    "q": "At what rate is earned leave earned by a permanent officer?",
+    "options": [
+     "One-twelfth of the period spent on duty",
+     "One-twenty-second of the period spent on duty",
+     "One-tenth of the period spent on duty",
+     "One-eleventh of the period spent on duty"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 78."
+   },
+   {
+    "q": "Earned leave ceases to be earned when the earned leave due reaches:",
+    "options": [
+     "300 days",
+     "180 days",
+     "240 days",
+     "365 days"
+    ],
+    "answer": 0,
+    "why": "KSR Part I, Rule 78."
+   },
+   {
+    "q": "What is the maximum earned leave that may be granted at a time?",
+    "options": [
+     "120 days",
+     "180 days",
+     "240 days",
+     "300 days"
+    ],
+    "answer": 1,
+    "why": "KSR Part I, Rule 79."
+   },
+   {
+    "q": "What is the maximum earned leave at a time for leave preparatory to retirement?",
+    "options": [
+     "180 days",
+     "240 days",
+     "300 days",
+     "365 days"
+    ],
+    "answer": 2,
+    "why": "KSR Part I, Rule 79 exception."
+   },
+   {
+    "q": "Is earned leave admissible to a vacation department officer who avails himself of the full vacation in a year?",
+    "options": [
+     "Yes, one-eleventh of duty",
+     "Yes, 15 days",
+     "Yes, 30 days",
+     "No, not for duty in that year"
+    ],
+    "answer": 3,
+    "why": "KSR Part I, Rule 80."
+   }
+  ]
+ }
+}

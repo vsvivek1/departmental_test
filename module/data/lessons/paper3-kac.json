@@ -1,0 +1,836 @@
+[
+ {
+  "slug": "p-01",
+  "unit": "Classification Of Accounts",
+  "title": "Classification Of Accounts (1)",
+  "facts": [
+   {
+    "id": "b5_008",
+    "prompt": "Who decides how a transaction is classified in Government accounts?",
+    "tip": "The Comptroller and Auditor General, with the approval of the President, decides the classification of any transaction or class of transactions.",
+    "quote": {
+     "text": "the Comptroller and Auditor General with the approval of the President, is the authority to determine the classification of any transaction or class of transactions in Government accounts.",
+     "ref": "KAC Vol I, Art. 29 Classification: limitations",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_009",
+    "prompt": "What does classification mainly refer to, as a general rule?",
+    "tip": "Classification refers mainly to the function, programme and activity of Government and the object of the revenue or expenditure, rather than the department.",
+    "quote": {
+     "text": "the classification of transactions in Government accounts shall have closer reference to the function, programme and activity of the Government and the object of the revenue or expenditure, rather than the department",
+     "ref": "KAC Vol I, Art. 30 General principle of classification",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_010",
+    "prompt": "Into how many parts are Government accounts kept?",
+    "tip": "Government accounts are kept in three parts: Part I, Part II and Part III.",
+    "quote": {
+     "text": "The Government Accounts shall be kept in the following three parts:—",
+     "ref": "KAC Vol I, Art. 24(a) Main division of accounts",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_011",
+    "prompt": "What are the two main divisions in Part I of the accounts?",
+    "tip": "Part I has two main divisions: Revenue, and Capital, Public Debt, Loans, etc.",
+    "quote": {
+     "text": "(1) Revenue [consisting of sections for Receipt Heads (Revenue Account) and Expenditure Heads (Revenue Account)]. (2) Capital, Public Debt, Loans, etc.,",
+     "ref": "KAC Vol I, Art. 24(b)",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_012",
+    "prompt": "What is the main unit of classification in accounts?",
+    "tip": "The major head is the main unit of classification. Major, minor, sub-head and detailed head with sectors make a five tier structure.",
+    "quote": {
+     "text": "The main unit of classification in accounts shall be the major head which shall be divided into minor heads, each of which shall have a number of subordinate heads, generally known as sub-heads.",
+     "ref": "KAC Vol I, Art. 26(a) Major, minor and detailed heads",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_013",
+    "prompt": "Which tier is the detailed head in the classification?",
+    "tip": "The detailed head is the fifth and last tier of classification. It is the object classification.",
+    "quote": {
+     "text": "The detailed head, the fifth and the last tier of classification, constitutes the object classification.",
+     "ref": "KAC Vol I, Art. 26(c)",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_014",
+    "prompt": "Who approves a new major head or minor head?",
+    "tip": "Introducing a new major or minor head, or abolishing or renaming existing heads, needs approval of the Comptroller and Auditor General.",
+    "quote": {
+     "text": "The introduction of any new major head or minor head, as well as the abolition or change of nomenclature of any of the existing heads, shall require the approval of the Comptroller and Auditor General",
+     "ref": "KAC Vol I, Art. 27",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_015",
+    "prompt": "How are voted and charged expenditure shown in accounts?",
+    "tip": "Voted expenditure is shown separately from charged expenditure. The words Charged or Voted are appended to the heads concerned.",
+    "quote": {
+     "text": "The expression ‘Charged’ or ‘Voted’ shall be appended to the heads concerned to distinguish the two categories of expenditure.",
+     "ref": "KAC Vol I, Art. 28 Charged or Voted",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-02",
+  "unit": "Classification Of Accounts",
+  "title": "Classification Of Accounts (2)",
+  "facts": [
+   {
+    "id": "b5_016",
+    "prompt": "What number block do revenue receipt major heads carry?",
+    "tip": "Major heads in the Revenue Receipts Section are assigned numbers 020 to 199.",
+    "quote": {
+     "text": "the major heads in the Revenue Receipts Section are assigned the block of numbers 020 to 199, those in the Revenue Expenditure section 211 to 399",
+     "ref": "Kerala Budget Manual, Para 9(3) Five-tier classification",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_017",
+    "prompt": "What number block do capital expenditure major heads carry?",
+    "tip": "Major heads in Capital Expenditure carry numbers 411 to 599. Revenue Expenditure heads carry 211 to 399.",
+    "quote": {
+     "text": "those in the Revenue Expenditure section 211 to 399, and the only major head in the Capital Receipts Section the number 400. Major head in the Capital Expenditure 411 to 599",
+     "ref": "Kerala Budget Manual, Para 9(3) Five-tier classification",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_018",
+    "prompt": "Which major head number is Contingency Fund?",
+    "tip": "The only major head in Part II, Contingency Fund, bears the number 800. Public Account heads are 801 to 899.",
+    "quote": {
+     "text": "The only major head in Part II—Contingency Fund bears the number 800, and major heads in the Public Account are assigned the numbers 801 to 899.",
+     "ref": "Kerala Budget Manual, Para 9(3)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_019",
+    "prompt": "Which tier is a minor head in Government accounts?",
+    "tip": "The minor head is the third tier of classification and denotes Plan or Non-Plan programmes undertaken by Government for a function.",
+    "quote": {
+     "text": "It is the third tier of classification in Government accounts and denotes the Plan or Non-Plan programmes undertaken by Government in furtherance of a function.",
+     "ref": "Kerala Budget Manual, Para 11 Definitions: Minor head",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_020",
+    "prompt": "Which tier is a sub-head in Government accounts?",
+    "tip": "The sub-head is the fourth tier of classification, immediately below the minor head.",
+    "quote": {
+     "text": "Sub-head is a head immediately subordinate to a minor head. It is the fourth tier of classification in Government accounts",
+     "ref": "Kerala Budget Manual, Para 11 Definitions: Sub-head",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_021",
+    "prompt": "Under which head is expenditure on Government residential buildings accounted?",
+    "tip": "Spending on Government residential buildings is accounted under major head 2216 Housing, or 4216 Capital Outlay on Housing.",
+    "quote": {
+     "text": "Expenditure on Government residential buildings will be accounted for under the major head “2216—Housing” or “4216—Capital Outlay on Housing” as the case may be",
+     "ref": "KAC Vol I, Art. 33 Classification of PWD expenditure, item 4",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_022",
+    "prompt": "Under which head are roads and bridges accounted?",
+    "tip": "Expenditure on roads and bridges is accounted under major head 3054 Roads and Bridges, or 5054 Capital Outlay on Roads and Bridges.",
+    "quote": {
+     "text": "Expenditure on roads and bridges being in the nature of communication services, will be accounted for under the major head “3054—Roads and Bridges/ 5054—Capital Outlay on Roads and Bridges”",
+     "ref": "KAC Vol I, Art. 33, item 5",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_023",
+    "prompt": "Under which head is repair of non-residential buildings accounted?",
+    "tip": "Maintenance and repairs of all Government non-residential buildings are accounted under major head 2059 Public Works.",
+    "quote": {
+     "text": "Expenditure on the maintenance and repairs of all Government non-residential buildings whether for administrative, office or functional purposes, will however be accounted for under the major head “2059 Public Works”.",
+     "ref": "KAC Vol I, Art. 33, item 3",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-03",
+  "unit": "Grants",
+  "title": "Grants (3)",
+  "facts": [
+   {
+    "id": "b5_033",
+    "prompt": "What is a grant?",
+    "tip": "A grant is the sum sanctioned by the Legislature for a service or function, on a demand presented to it.",
+    "quote": {
+     "text": "Grant means the sum sanctioned by the Legislature for a particular service/function, with reference to a demand presented to it, and eventually included in an Appropriation Act.",
+     "ref": "Kerala Budget Manual, Para 11 Definitions: Grant",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_034",
+    "prompt": "What is the legal authority to withdraw money from the Consolidated Fund?",
+    "tip": "The Appropriation Act is the legal authority for withdrawing money from the Consolidated Fund and fixes the maximum for each service in the year.",
+    "quote": {
+     "text": "The Appropriation Act is the legal authority for the withdrawal of money from the Consolidated Fund of the State, and it specifies the maximum amount that may be spent on each service during the financial year.",
+     "ref": "Kerala Budget Manual, Para 4 Passing of the budget",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_035",
+    "prompt": "What is a supplementary grant?",
+    "tip": "A supplementary grant is a sum sanctioned by the Legislature for a service over and above the amount already authorised.",
+    "quote": {
+     "text": "supplementary grant means the sum sanctioned by the Legislature for a particular service/function over and above the amount already authorised",
+     "ref": "Kerala Budget Manual, Para 87 Supplementary grant: definition",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_036",
+    "prompt": "When is a supplementary grant required?",
+    "tip": "It is needed when the Appropriation Act amount is insufficient for a service, or when expenditure on a new service arises.",
+    "quote": {
+     "text": "When the amount authorised by the Annual Appropriation Act to be expended for a particular service for the current financial year is found insufficient for the purpose.",
+     "ref": "Kerala Budget Manual, Para 88(i) When required",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_037",
+    "prompt": "What must the House be satisfied about before granting a supplementary demand?",
+    "tip": "The expenditure could not be foreseen when original estimates were framed, and cannot in public interest be postponed to next year.",
+    "quote": {
+     "text": "the expenditure could not be foreseen at the time the original estimates were framed, and",
+     "ref": "Kerala Budget Manual, Para 89(1) Submission of proposals",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_038",
+    "prompt": "Who is primarily responsible for supplementary appropriation proposals?",
+    "tip": "The Chief Controlling Officer has the primary responsibility for proposals for supplementary appropriations.",
+    "quote": {
+     "text": "The primary responsibility in respect of proposals for supplementary appropriations is that of the Chief Controlling Officer",
+     "ref": "Kerala Budget Manual, Para 89(1)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_039",
+    "prompt": "What happens to supplementary proposals in the Administrative Department?",
+    "tip": "The Administrative Department examines the proposals and passes them to the Finance Department with its recommendations.",
+    "quote": {
+     "text": "The Administrative Department will examine the proposals, and pass them on to the Finance Department, with its recommendations.",
+     "ref": "Kerala Budget Manual, Para 89(2)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_040",
+    "prompt": "Which Article requires a supplementary statement for a new service?",
+    "tip": "Article 205 of the Constitution requires a supplementary statement of estimated expenditure to be laid before the Legislature for a new service.",
+    "quote": {
+     "text": "According to Article 205 of the Constitution, when a need arises during the current financial year for supplementary or additional expenditure upon same ‘new service’ not contemplated in the annual financial statement for that year, a supplementary statement showing the estimated amount of that expenditure has to be laid before the Legislature.",
+     "ref": "Kerala Budget Manual, Para 94(2) New service: how financed",
+     "book": "Kerala_Budget_Manual"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-04",
+  "unit": "Grants",
+  "title": "Grants (4)",
+  "facts": [
+   {
+    "id": "b5_041",
+    "prompt": "Can money be spent on a new service from savings before a supplementary grant?",
+    "tip": "No. No expenditure should be incurred on a new service, even if savings exist within the grant, before a supplementary grant is obtained.",
+    "quote": {
+     "text": "No expenditure should be incurred on a ‘new service’, even if there are savings within the grant, before a supplementary grant is thus obtained.",
+     "ref": "Kerala Budget Manual, Para 94(2)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_042",
+    "prompt": "What token sum is shown if a new service can be met from savings?",
+    "tip": "If met from savings in the grant, a token sum of Rs. 100, or the balance actually required, is shown in the supplementary statement.",
+    "quote": {
+     "text": "a token sum (Rs. 100) or the balance actually required, as the case may be, need alone be shown in the supplementary statement of expenditure.",
+     "ref": "Kerala Budget Manual, Para 94(2)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_043",
+    "prompt": "How is an urgent new service financed before a supplementary grant?",
+    "tip": "Interim provision is found by an advance from the Contingency Fund, pending authorisation by the Legislature.",
+    "quote": {
+     "text": "interim provision may be found by obtaining an advance from the Contingency Fund, pending authorisation by the Legislature.",
+     "ref": "Kerala Budget Manual, Para 94(2)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_044",
+    "prompt": "Under which Article is the Contingency Fund created?",
+    "tip": "The Contingency Fund was created under Article 267 (2) of the Constitution. It is like an imprest at the Governor's disposal.",
+    "quote": {
+     "text": "The Contingency Fund has been created under Article 267 (2) of the Constitution, and is in the nature of an imprest placed at the disposal of the Governor",
+     "ref": "Kerala Budget Manual, Para 96 Contingency Fund",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_045",
+    "prompt": "What if new expenditure not on a new service has no savings and is urgent?",
+    "tip": "The authority applies to the Administrative Department. With Finance concurrence, it may allow spending, with provision later by reappropriation or supplementary grant.",
+    "quote": {
+     "text": "The Administrative Department may, with the concurrence of the Finance Department, authorise the incurring of the expenditure, and inform the Accountant General, through the Finance Department, that provision will be made later, either by reappropriation, or, if this is found impracticable, by obtaining a supplementary grant.",
+     "ref": "Kerala Budget Manual, Para 95(3)",
+     "book": "Kerala_Budget_Manual"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-05",
+  "unit": "Re-Appropriation",
+  "title": "Re-Appropriation (5)",
+  "facts": [
+   {
+    "id": "b5_046",
+    "prompt": "What is reappropriation?",
+    "tip": "Reappropriation is the transfer of funds from one unit of appropriation to another.",
+    "quote": {
+     "text": "Reappropriation means the transfer of funds from one unit of appropriation to another such unit",
+     "ref": "Kerala Budget Manual, Para 11 Definitions: Reappropriation",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_047",
+    "prompt": "Who alone can reappropriate between minor heads within a grant?",
+    "tip": "The power to reappropriate between minor heads within a grant is exclusively that of the Finance Department.",
+    "quote": {
+     "text": "The power to reappropriate between minor heads within a grant is exclusively that of the Finance Department",
+     "ref": "Kerala Budget Manual, Para 84(1) General restrictions",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_048",
+    "prompt": "Who can reappropriate between heads below a minor head?",
+    "tip": "Administrative Departments of the Secretariat and Chief Controlling Officers listed in column 4 of Appendix 9 have this delegated power.",
+    "quote": {
+     "text": "The power to reappropriate between heads subordinate to a minor head has, however, been delegated to the Administrative Department of the Secretariat and the Chief Controlling Officers mentioned in column 4 of Appendix 9",
+     "ref": "Kerala Budget Manual, Para 84(1)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_049",
+    "prompt": "Can reappropriation create a recurring liability?",
+    "tip": "No. Reappropriation should not involve undertaking a recurring liability that extends beyond the current financial year.",
+    "quote": {
+     "text": "The reappropriation should not involve the undertaking of a recurring liability, ie., a liability which extends beyond the current financial year.",
+     "ref": "Kerala Budget Manual, Para 84(1)(ii)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_050",
+    "prompt": "Can Plan funds be reappropriated to meet non-plan expenditure?",
+    "tip": "No. Only Government in the Finance Department can sanction moving Plan funds to non-plan expenditure, or funds for Centrally Sponsored Plan Schemes.",
+    "quote": {
+     "text": "The reappropriation should not involve transfer of funds provided for Plan schemes to meet non-plan expenditure or funds provided for Centrally Sponsored Plan Schemes.",
+     "ref": "Kerala Budget Manual, Para 84(1)(iv)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_051",
+    "prompt": "Is reappropriation allowed between grants?",
+    "tip": "No. Reappropriation is not allowed between grants, between charged and voted sections, or between revenue and capital sections of a grant.",
+    "quote": {
+     "text": "No reappropriation is permissible between grants, or between the charged and voted sections or the revenue and capital sections of the same grant or for meeting expenditure on a ‘new service’",
+     "ref": "Kerala Budget Manual, Para 84(2)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_052",
+    "prompt": "What multiple must the reappropriated amount be?",
+    "tip": "The amount reappropriated should invariably be a multiple of Rs. 100.",
+    "quote": {
+     "text": "The amount reappropriated should invariably be a multiple of Rs. 100.",
+     "ref": "Kerala Budget Manual, Para 84, Note 1",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_053",
+    "prompt": "Up to what excess or saving need not be regularised?",
+    "tip": "An excess or saving under a unit not exceeding Rs. 100 need not be regularised, if the grant as a whole is not exceeded.",
+    "quote": {
+     "text": "If the excess or saving under a unit of appropriation does not exceed Rs. 100, it need not be regularised provided the grant as a whole",
+     "ref": "Kerala Budget Manual, Para 84, Note 2",
+     "book": "Kerala_Budget_Manual"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-06",
+  "unit": "Re-Appropriation",
+  "title": "Re-Appropriation (6)",
+  "facts": [
+   {
+    "id": "b5_054",
+    "prompt": "Which form is used for reappropriation sanction?",
+    "tip": "The sanctioning authority draws up proceedings in Form KBM 22 and sends one copy direct to the Accountant General.",
+    "quote": {
+     "text": "the authority which accords the sanction should draw up its proceedings in Form KBM 22, and forward one copy direct to the Accountant General.",
+     "ref": "Kerala Budget Manual, Para 86(1) Form of application/sanction",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_055",
+    "prompt": "What is the last date for reappropriation and resumption?",
+    "tip": "Reappropriation and resumption may be ordered only up to the financial year's last day, not after its expiry.",
+    "quote": {
+     "text": "financial year, but not after its expiry. The latest dates by which proposals for reappropriation requiring Government’s sanction and the surrender of savings should reach Government are—",
+     "ref": "Kerala Budget Manual, Para 93(1)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_056",
+    "prompt": "By what date must proposals reach the Administrative Department?",
+    "tip": "Proposals from Chief Controlling Officers and local bodies must reach the Administrative Department by 15th February.",
+    "quote": {
+     "text": "Receipt of proposals in the Administrative Department from the chief Controlling Officers and local bodies 15th February",
+     "ref": "Kerala Budget Manual, Para 93(1)(i)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_057",
+    "prompt": "By what date must proposals reach the Finance Department?",
+    "tip": "Proposals must be received in the Finance Department from the Administrative Department by 25th February.",
+    "quote": {
+     "text": "Receipt in the Finance Department from the Administrative Department 25th February",
+     "ref": "Kerala Budget Manual, Para 93(1)(ii)",
+     "book": "Kerala_Budget_Manual"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-07",
+  "unit": "Budget Estimates",
+  "title": "Budget Estimates (7)",
+  "facts": [
+   {
+    "id": "b5_024",
+    "prompt": "Which Article requires the Annual Financial Statement to be laid before the Legislature?",
+    "tip": "Article 202 requires a statement of estimated receipts and expenditure for each financial year to be laid before the Legislature.",
+    "quote": {
+     "text": "Under Article 202 of the Constitution of India, a statement of the estimated receipts and expenditure of the State for each financial year has to be laid before the Legislature. This statement is known as the Annual Financial Statement",
+     "ref": "Kerala Budget Manual, Para 2 Annual Financial Statement",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_025",
+    "prompt": "When do Non-plan estimates reach Finance Department?",
+    "tip": "Non-plan estimates are received by the 15th of September.",
+    "quote": {
+     "text": "the Non-plan Estimates are received by the 15th of September, and the plan and Revenue Estimates by the 30th of November.",
+     "ref": "Kerala Budget Manual, Para 3(2) Preparation of the budget",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_026",
+    "prompt": "When do Plan and Revenue estimates reach Finance Department?",
+    "tip": "Plan and Revenue estimates are received by the 30th of November.",
+    "quote": {
+     "text": "the Non-plan Estimates are received by the 15th of September, and the plan and Revenue Estimates by the 30th of November.",
+     "ref": "Kerala Budget Manual, Para 3(2)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_027",
+    "prompt": "Within what time must Administrative Departments comment on estimates?",
+    "tip": "Administrative Departments forward comments on the estimates to Finance Department within ten days of receiving them.",
+    "quote": {
+     "text": "The Administrative Departments scrutinise the Estimates, and forward their comments to the Finance Department within ten days of receipt of the Estimates.",
+     "ref": "Kerala Budget Manual, Para 3(2)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_028",
+    "prompt": "On what basis are budget estimates prepared?",
+    "tip": "Estimates are on a cash basis: only what is expected to be actually received or paid during the year, including arrears of past years.",
+    "quote": {
+     "text": "The estimates should take into account only what is expected to be actually received or paid (under proper sanction) during the year, including arrears of past years.",
+     "ref": "Kerala Budget Manual, Para 15 Estimates should be on cash basis",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_029",
+    "prompt": "What is a Revised Estimate?",
+    "tip": "A Revised Estimate is an estimate of probable revenue and expenditure of the current year, based on actuals so far and expected for the rest.",
+    "quote": {
+     "text": "Revised estimate is an estimate of the probable revenue and expenditure of the current financial year under the various heads, framed during the course of the year, based on the actual transactions so far recorded and the anticipation for the rest of the year.",
+     "ref": "Kerala Budget Manual, Para 11 Definitions: Revised estimate",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_030",
+    "prompt": "How many months of actuals guide the Revised Estimate?",
+    "tip": "The Revised Estimate is prepared bearing in mind the actual expenditure during the first five months of the current year.",
+    "quote": {
+     "text": "(i) the actual expenditure during the first five months of the current year,",
+     "ref": "Kerala Budget Manual, Para 20(3) Revised Estimate",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_031",
+    "prompt": "Does a Revised Estimate authorise extra spending?",
+    "tip": "No. A Revised Estimate does not nullify the budget passed by the Legislature, nor authorise additional expenditure.",
+    "quote": {
+     "text": "It does not, in any way, nullify the budget passed by the Legislature, which continues to hold good; nor does it authorise the incurring of additional expenditure.",
+     "ref": "Kerala Budget Manual, Para 20(5)",
+     "book": "Kerala_Budget_Manual"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-08",
+  "unit": "Budget Estimates",
+  "title": "Budget Estimates (8)",
+  "facts": [
+   {
+    "id": "b5_032",
+    "prompt": "What is the basis for the next year's Budget Estimate?",
+    "tip": "The Revised Estimate for the current year forms the basis for preparing the Budget Estimate for the coming year, with allowance for special factors.",
+    "quote": {
+     "text": "The Revised Estimate for the current year should form the basis for preparing the Budget Estimate for the coming year, with due allowance for any special factor.",
+     "ref": "Kerala Budget Manual, Para 21 Budget estimate",
+     "book": "Kerala_Budget_Manual"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-09",
+  "unit": "Registers",
+  "title": "Registers",
+  "facts": [
+   {
+    "id": "b5_068",
+    "prompt": "What register must a Disbursing Officer keep to report expenditure monthly?",
+    "tip": "Each Disbursing Officer keeps a register of expenditure and liabilities in Form KBM 12.",
+    "quote": {
+     "text": "each disbursing Officer should maintain a register of expenditure and liabilities, in Form KBM 12.",
+     "ref": "Kerala Budget Manual, Para 70(1) Disbursing Officers",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_069",
+    "prompt": "Which form is the Disbursing Officer's Liability Register?",
+    "tip": "A Disbursing Officer keeps a separate Liability Register in Form KBM 13.",
+    "quote": {
+     "text": "Each Disbursing Officer should also maintain a separate Liability Register in Form KBM 13",
+     "ref": "Kerala Budget Manual, Para 70(2)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_070",
+    "prompt": "Which form shows monthly liabilities sent to the Controlling Officer?",
+    "tip": "A monthly statement in Form KBM 14 shows liabilities incurred, payments against them, liabilities cancelled and outstanding commitments.",
+    "quote": {
+     "text": "He should forward to the Controlling Officer every month a statement in Form KBM 14",
+     "ref": "Kerala Budget Manual, Para 70(2)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_071",
+    "prompt": "Which form does a Subordinate Controlling Officer use to consolidate figures?",
+    "tip": "A Subordinate Controlling Officer consolidates disbursement figures in Form KBM 15.",
+    "quote": {
+     "text": "The Subordinate Controlling Officer, should consolidate, in Form KBM 15, the figures from his own register of disbursements (Form KBM 12)",
+     "ref": "Kerala Budget Manual, Para 71",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_072",
+    "prompt": "Who must keep a Liability Register besides Disbursing Officers?",
+    "tip": "Every Controlling Officer must also maintain a Liability Register in Form KBM 13.",
+    "quote": {
+     "text": "Every Controlling Officer should, therefore, maintain a Liability Register Form KBM 13, just as any Disbursing Officer.",
+     "ref": "Kerala Budget Manual, Para 72(6) Chief Controlling Officers",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_073",
+    "prompt": "What does the Appropriation Control Register do at a treasury?",
+    "tip": "Treasury checks availability of budget provision in the Appropriation Control Register on each bill. If insufficient, the bill is returned uncashed.",
+    "quote": {
+     "text": "In the case the appropriation then available is insufficient to cover the payment, the bill is returned uncashed.",
+     "ref": "Kerala Budget Manual, Para 67 Appropriation Control",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_074",
+    "prompt": "In which register are revenue receipts of a PWD division abstracted?",
+    "tip": "Revenue receipts of the division are classified and abstracted in a Register of Revenue, K.P.W. Form 4, in the Divisional Office.",
+    "quote": {
+     "text": "all revenue receipts of the division should be classified and abstracted in a Register of Revenue, K.P.W. Form 4 maintained in the Divisional Office.",
+     "ref": "KAC Vol III, Art. 113 Register of Revenue",
+     "book": "KAC_Vol3_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_075",
+    "prompt": "Which registers record expenditure on works in a PWD division?",
+    "tip": "A permanent record of expenditure on all works in a year is kept in Registers of Works, K.P.W. Forms 38 and 39.",
+    "quote": {
+     "text": "A permanent and collective record of the expenditure incurred on all works carried out during a year should be maintained in the Divisional Office in Registers of Works, K.P.W. Forms 38 and 39",
+     "ref": "KAC Vol III, Art. 141 Register of Works",
+     "book": "KAC_Vol3_Kerala_Account_Code"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-10",
+  "unit": "Capital And Revenue",
+  "title": "Capital And Revenue",
+  "facts": [
+   {
+    "id": "b5_001",
+    "prompt": "What is the broad definition of capital expenditure?",
+    "tip": "Capital expenditure is spending meant to increase concrete assets of a material and permanent character, or to reduce or extinguish recurring liabilities.",
+    "quote": {
+     "text": "Expenditure of a capital nature shall broadly be defined as expenditure incurred with the object of either increasing concrete assets of a material and permanent character or of extinguishing or reducing recurring liabilities.",
+     "ref": "KAC Vol I, Art. 30-A(1) Allocation between Capital and Revenue",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_002",
+    "prompt": "Who must own the asset for spending to count as capital?",
+    "tip": "The assets produced should belong to the authority incurring the expenditure. Grants-in-aid to local bodies for their own assets are not capital expenditure.",
+    "quote": {
+     "text": "It is inherent in the definition of capital expenditure that the assets produced should belong to the authority incurring the expenditure. Expenditure by Government on Grants-in-aid to local bodies or institutions for the purpose of creating assets which will belong to these local bodies or institutions cannot legitimately be considered as capital expenditure.",
+     "ref": "KAC Vol I, Art. 30-A(2)",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_003",
+    "prompt": "Can spending on a temporary asset be capital?",
+    "tip": "Expenditure on a temporary asset cannot ordinarily be considered as expenditure of a capital nature.",
+    "quote": {
+     "text": "Expenditure on a temporary asset cannot ordinarily be considered as expenditure of a capital nature.",
+     "ref": "KAC Vol I, Art. 30-A(3)",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_004",
+    "prompt": "What should capital bear for a new project?",
+    "tip": "Capital bears all first construction and equipment charges, and intermediate maintenance charges while the work is not yet open for service.",
+    "quote": {
+     "text": "Capital should bear all charges for the first construction and equipment of a project as well as charges for intermediate maintenance of the work while not yet opened for service.",
+     "ref": "KAC Vol I, Art. 30-A(5)",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_005",
+    "prompt": "What should revenue bear after a project is opened?",
+    "tip": "Subject to the exceptions, revenue bears all later maintenance charges and all working expenses, meaning working and upkeep of the project.",
+    "quote": {
+     "text": "Subject to (7) below, revenue should bear all subsequent charges for maintenance and all working expenses. These embrace all expenditure on the working and upkeep of the project",
+     "ref": "KAC Vol I, Art. 30-A(6)",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_006",
+    "prompt": "For works of renewal and replacement, what may be debited to capital?",
+    "tip": "For mixed renewal and replacement works, only the cost of genuine improvements may be debited to capital. Revenue provides for replacement of wastage.",
+    "quote": {
+     "text": "Revenue should pay or provide a fund for the adequate replacement of all wastage or depreciation of property originally provided out of capital grants and that only the cost of genuine improvements",
+     "ref": "KAC Vol I, Art. 30-A(7)",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   },
+   {
+    "id": "b5_007",
+    "prompt": "What comes first when interest during construction was charged to capital?",
+    "tip": "Writing back of capitalised interest is the first charge on capital receipts or surplus revenue from the project once it is opened for working.",
+    "quote": {
+     "text": "the writing back of capitalised interest should form the first charge on any capital receipts or surplus revenue derived from the project when opened for working.",
+     "ref": "KAC Vol I, Art. 30-A(8)",
+     "book": "KAC_Vol1_Kerala_Account_Code"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-11",
+  "unit": "Excess Grant",
+  "title": "Excess Grant",
+  "facts": [
+   {
+    "id": "b5_062",
+    "prompt": "What is an excess grant?",
+    "tip": "An excess grant is a grant by the Legislative Assembly to regularise expenditure over the amount granted for a service in an earlier financial year.",
+    "quote": {
+     "text": "Excess grant means a grant made by the Legislative Assembly to regularise expenditure incurred in any previous financial year over and above the amounts granted for a service during that year",
+     "ref": "Kerala Budget Manual, Para 11 Definitions: Excess grant",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_063",
+    "prompt": "How is excess spending noticed after the year ends looked upon?",
+    "tip": "Excess expenditure coming to notice after the financial year ends is always looked upon as an irregularity.",
+    "quote": {
+     "text": "excess expenditure which comes to notice after the expiry of the financial year is always looked upon as an irregularity.",
+     "ref": "Kerala Budget Manual, Para 97(1) Excess grant",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_064",
+    "prompt": "When must a demand for excess grant be presented to the Legislature?",
+    "tip": "If expenditure is found after year end to exceed the grant as a whole, a demand for excess grant must be presented to the Legislature.",
+    "quote": {
+     "text": "if it is notices after the close of the financial year that the expenditure has, in fact, exceeded the grant as a whole, a demand for such excess has to be presented to the Legislature, and an ‘excess grant’ obtained.",
+     "ref": "Kerala Budget Manual, Para 97(2)",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_065",
+    "prompt": "Within what time must Administrative Departments submit notes on excesses to Audit?",
+    "tip": "Administrative Departments submit notes explaining excesses to Audit within two months, after scrutiny by Finance Department.",
+    "quote": {
+     "text": "The Administrative Departments concerned will prepare and submit to Audit, WITHIN TWO MONTHS, notes explaining the reasons for or the circumstances leading to the excesses, after getting the notes scrutinised by the Finance Department.",
+     "ref": "Kerala Budget Manual, Appendix 15, Procedure for regularisation of excesses",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_066",
+    "prompt": "Within what time does Audit return vetted notes on excesses?",
+    "tip": "Audit returns the notes, duly vetted, within a fortnight of receiving them.",
+    "quote": {
+     "text": "Audit will return the notes, duly vetted, WITHIN A FORTNIGHT OF THEIR RECEIPT.",
+     "ref": "Kerala Budget Manual, Appendix 15, Procedure for regularisation of excesses",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_067",
+    "prompt": "When are notes on excesses submitted to the Public Accounts Committee?",
+    "tip": "Notes go to the Committee right after the Appropriation Accounts are presented to the Assembly, or on 10th April, whichever is later.",
+    "quote": {
+     "text": "The notes will be submitted to the Committee immediately after presentation of the Appropriation Accounts to the Legislative Assembly or the 10th of April, whichever is later.",
+     "ref": "Kerala Budget Manual, Appendix 15, Procedure for regularisation of excesses",
+     "book": "Kerala_Budget_Manual"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-12",
+  "unit": "Surrender And Resumption",
+  "title": "Surrender And Resumption",
+  "facts": [
+   {
+    "id": "b5_058",
+    "prompt": "What is surrender of funds?",
+    "tip": "Surrender is reporting back to Finance Department, through the Administrative Department, appropriation that is in excess of needs or left unspent.",
+    "quote": {
+     "text": "Surrender is the act of reporting back to the Finance Department, through the Administrative Department of the Secretariat, that much of the appropriation placed by Government at the disposal of a Controlling/Disbursing Officer",
+     "ref": "Kerala Budget Manual, Para 11 Definitions: Surrender",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_059",
+    "prompt": "When should anticipated savings be surrendered?",
+    "tip": "All anticipated savings should be surrendered immediately when foreseen, without waiting for the year end, unless needed for definite excesses elsewhere.",
+    "quote": {
+     "text": "All anticipated savings should be surrendered to the Finance Department, through the Administrative Department, explaining the reason therefore, immediately they are foreseen, without waiting till the end of the year",
+     "ref": "Kerala Budget Manual, Para 91(1) Surrender of savings",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_060",
+    "prompt": "What is resumption of funds?",
+    "tip": "Resumption is the Finance Department formally accepting funds found excess of requirements, from sums surrendered by the Controlling or Disbursing Officer.",
+    "quote": {
+     "text": "Resumption of funds is the act of formal acceptance by the Finance Department of funds found to be in excess of requirements, out of the sums surrendered by the Controlling/Disbursing Officer.",
+     "ref": "Kerala Budget Manual, Para 11 Definitions: Resumption",
+     "book": "Kerala_Budget_Manual"
+    }
+   },
+   {
+    "id": "b5_061",
+    "prompt": "In what order does Finance Department act on reported savings?",
+    "tip": "First savings to the extent of any reduction made for probable savings are resumed, then the rest reappropriated, and finally the remainder resumed.",
+    "quote": {
+     "text": "(i) In the case of grant in which a reduction for probable savings had been made, savings to be extent necessary to give effect to the reduction will first be resumed.",
+     "ref": "Kerala Budget Manual, Para 92 Resumption of savings",
+     "book": "Kerala_Budget_Manual"
+    }
+   }
+  ]
+ }
+]

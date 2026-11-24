@@ -1,0 +1,690 @@
+[
+ {
+  "slug": "p-01",
+  "unit": "Pensions",
+  "title": "Pensions (1)",
+  "facts": [
+   {
+    "id": "b4_046",
+    "prompt": "Who issues pension payment orders?",
+    "tip": "Payment of pensions can be made only on pension payment orders issued by an Accountant General, except military pensions and cases the Government orders otherwise.",
+    "quote": {
+     "text": "payment of pensions can be made only upon pension payment orders issued by an Accountant-General.",
+     "ref": "Kerala Treasury Code Vol I, Rule 272(aa) Pension Payment Orders",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_047",
+    "prompt": "What are the two halves of a Pension Payment Order?",
+    "tip": "The disburser's half stays in the treasury of payment, and the other half is given to the pensioner when he first appears for payment.",
+    "quote": {
+     "text": "Each Pension Payment order will be in two halves of which one, known as the disburser’s half will be kept in the treasury at which payment is to be made and the other delivered to the pensioner in person when he appears to receive payment of his pension for the first time.",
+     "ref": "Kerala Treasury Code Vol I, Rule 272(aa) Pension Payment Orders",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_048",
+    "prompt": "In which form does the Treasury Officer keep the register of Pension Payment Orders?",
+    "tip": "The register of Pension Payment Orders is kept in Form T.R. 80.",
+    "quote": {
+     "text": "The Treasury Officer should keep a register in Form T.R. 80 of the Pension Payment Orders issued on his treasury.",
+     "ref": "Kerala Treasury Code Vol I, Rule 273(a) Register of Pension Payment Orders",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_049",
+    "prompt": "From when does a service pension become due?",
+    "tip": "Service pensions and family pensions from the State consolidated fund fall due from the first day of the month to which the pension relates.",
+    "quote": {
+     "text": "All Service Pensions and Service Family Pensions debitable to the consolidated fund of the State shall become due for payment from the first day of the month to which the pension relates.",
+     "ref": "Kerala Treasury Code Vol I, Rule 272(a) Pension Payment Orders",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_050",
+    "prompt": "Till when is pension payable in the month a pensioner dies?",
+    "tip": "Pension is payable for the whole month in which the pensioner dies, whatever the date of death.",
+    "quote": {
+     "text": "pension shall be payable for the whole of the month in which the pensioner dies, irrespective of the date on which the death takes place.",
+     "ref": "Kerala Treasury Code Vol I, Rule 298 Deceased pensioners",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_051",
+    "prompt": "From when does family pension start after a pensioner's death?",
+    "tip": "Family pension begins from the first day of the month following the month of the pensioner's death.",
+    "quote": {
+     "text": "Payment of family pension, if any, in such cases shall commence from the first day of the month following the month in which the death of pensioners takes place.",
+     "ref": "Kerala Treasury Code Vol I, Rule 298 Deceased pensioners",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_052",
+    "prompt": "When does pension cease if undrawn?",
+    "tip": "A pension payable in India that remains undrawn for more than one year ceases to be payable.",
+    "quote": {
+     "text": "If a pension payable in India remains undrawn for more than one year, the pension shall cease to be payable",
+     "ref": "Kerala Treasury Code Vol I, Rule 294(a) Lapse of pensions",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_053",
+    "prompt": "Within what time must arrears of a deceased pensioner be claimed?",
+    "tip": "Arrears cease to be payable if not claimed within one year of the pensioner's death.",
+    "quote": {
+     "text": "The arrears of pension due on account of a deceased pensioner shall cease to be payable if they are not claimed within one year of the pensioner’s death.",
+     "ref": "Kerala Treasury Code Vol I, Rule 295(b) Lapse of pensions",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-02",
+  "unit": "Pensions",
+  "title": "Pensions (2)",
+  "facts": [
+   {
+    "id": "b4_054",
+    "prompt": "When must a pensioner who does not appear produce an annual life certificate?",
+    "tip": "In the month of December every year, or pension for January and later months is held up until it is received.",
+    "quote": {
+     "text": "Such annual certificate shall be produced in the month of December every year, failing which the payment of pension for * January, as also the pensions for subsequent months shall be held up until the certificate is received.",
+     "ref": "Kerala Treasury Code Vol I, Rule 280(a) Life certificate",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_055",
+    "prompt": "How often is the disbursing officer satisfied of a money order pensioner's existence?",
+    "tip": "Once in three years, by personal appearance or a certificate of continued existence.",
+    "quote": {
+     "text": "The disbursing officer shall satisfy himself once in three years about the continued existence of the pensioner either by personal appearance of the pensioner before the disbursing officer or by obtaining a certificate of continued existence of the pensioner",
+     "ref": "Kerala Treasury Code Vol I, Rule 286(vii) Pension by postal money order",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_056",
+    "prompt": "What fee is charged for a duplicate Pension Payment Order lost by the pensioner?",
+    "tip": "A fee of Rs 5 is levied before a duplicate Pension Payment Order is issued.",
+    "quote": {
+     "text": "a fee of *` 5 should be levied on the pensioner before the duplicate Pension Payment Order is issued",
+     "ref": "Kerala Treasury Code Vol I, Rule 293(a) Renewal of Pension Payment Orders",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_057",
+    "prompt": "What is a political pension?",
+    "tip": "A pension that is not a service pension, granted on political grounds, compassionate grounds, distinguished or meritorious services, or surrender of rights.",
+    "quote": {
+     "text": "means a pension, not being a service pension granted or customarily payable to or in respect of a person on political consideration or compassionate grounds, or in consideration of distinguished or meritorious services, or of the surrender of rights of emoluments",
+     "ref": "Kerala Treasury Code Vol I, Rule 271 Definitions, political pension",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_058",
+    "prompt": "What is a service pension?",
+    "tip": "A pension payable in consideration of past employment under the Government of India or any State, including gratuity or family pension so payable.",
+    "quote": {
+     "text": "“Service pension” means a pension payable to, or in respect of a person in consideration of past employment under the Government of India of any of the States and includes a gratuity or family pension so payable.",
+     "ref": "Kerala Treasury Code Vol I, Rule 271 Definitions, service pension",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_059",
+    "prompt": "When must a political pension go undrawn to cease without Accountant General sanction?",
+    "tip": "A political pension not drawn for six years ceases to be payable without the previous sanction of the Accountant General.",
+    "quote": {
+     "text": "not drawn for six years ceases to be payable without the previous sanction of the Accountant General.",
+     "ref": "Kerala Treasury Code Vol I, Rule 297(a) Political pensions",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-03",
+  "unit": "Bills",
+  "title": "Bills",
+  "facts": [
+   {
+    "id": "b4_035",
+    "prompt": "How many endorsements are normally allowed on a bill or cheque?",
+    "tip": "A bill or cheque can be endorsed only once, in favour of the specific party to be paid, with some exceptions for bankers and agents.",
+    "quote": {
+     "text": "can be endorsed only once in favour of the specific party to whom the money is to be paid:",
+     "ref": "Kerala Treasury Code Vol I, Rule 163(q) Form of bills, endorsement",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_036",
+    "prompt": "When does an endorsement on a contingent bill lapse?",
+    "tip": "Three months after the date of endorsement or at the end of the financial year, whichever is earlier.",
+    "quote": {
+     "text": "An endorsement on a contingent bill shall lapse three months after the date of the endorsement, or at the end of the financial year, whichever is earlier, and the Treasury Officer shall not pay an endorsed contingent bill if the endorsement has lapsed.",
+     "ref": "Kerala Treasury Code Vol I, Rule 210(i) Contingent bills",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_037",
+    "prompt": "Which form is the advice sent to the Treasury Officer when a contingent bill is endorsed to a private party?",
+    "tip": "The drawing officer issues an advice in Form T.R. 106 to the Treasury Officer giving full particulars of the bill.",
+    "quote": {
+     "text": "The drawing officer shall simultaneously issue an advice (in Form T.R. 106) to the Treasury Officer",
+     "ref": "Kerala Treasury Code Vol I, Rule 188(viii) Contingent bills endorsed to private party",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_038",
+    "prompt": "Where must payment be made for a claim, in general?",
+    "tip": "Payment is made in the district in which the claim arises, unless Government orders otherwise.",
+    "quote": {
+     "text": "Except as provided by rules in Part V, a payment shall, unless the Government by general or special order otherwise direct, be made in the district in which the claim arises.",
+     "ref": "Kerala Treasury Code Vol I, Rule 17 Special instructions to Treasury Officers",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_039",
+    "prompt": "When is a Last Pay Certificate needed for withdrawal of pay?",
+    "tip": "For the first of any series of payments in a district, except for a newly appointed person, the claim must have a last pay certificate.",
+    "quote": {
+     "text": "No withdrawal shall be permitted on a claim for the first of any series of payments in a district of pay or allowances to a government servant, other than a person newly appointed to Government service unless the claim is supported by a last pay certificate",
+     "ref": "Kerala Treasury Code Vol I, Rule 19 Last Pay Certificate",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_040",
+    "prompt": "Can pay be drawn for an officer to whom a last pay certificate was issued?",
+    "tip": "Not unless the certificate is first surrendered.",
+    "quote": {
+     "text": "A Treasury Officer may not permit any withdrawal in respect of pay or allowances of a government servant to whom he has granted a last pay certificate unless the certificate is first surrendered.",
+     "ref": "Kerala Treasury Code Vol I, Rule 19 Last Pay Certificate",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_041",
+    "prompt": "Is Accountant General intimation needed for honorarium paid by the Public Service Commission to a gazetted officer?",
+    "tip": "No. Honorarium to a gazetted officer by the Kerala Public Service Commission is an exception to the Accountant General intimation rule.",
+    "quote": {
+     "text": "(b) for payment of honorarium to gazetted government servant by the Kerala Public Service Commission.",
+     "ref": "Kerala Treasury Code Vol I, Rule 18 Exceptions",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_042",
+    "prompt": "How long is an Accountant General enfaced bill valid at the treasury?",
+    "tip": "It should not be paid if presented three months after the date of enfacement or authorisation.",
+    "quote": {
+     "text": "should not be paid if it is presented at the treasury three months after the date of enfacement or authorisation as the case may be",
+     "ref": "Kerala Treasury Code Vol I, Rule 210 Bills enfaced by the Accountant General",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-04",
+  "unit": "Verification Of Balance",
+  "title": "Verification Of Balance",
+  "facts": [
+   {
+    "id": "b4_017",
+    "prompt": "How often must the Director of Treasuries verify the cash balance of each district treasury?",
+    "tip": "At least once in three months, without prior intimation to any staff member, and a certificate goes to the Accountant General and Finance Department.",
+    "quote": {
+     "text": "The Director of Treasuries shall verify the cash balance (including the imprest balance and other anamath balances) in each District Treasury at least once in three months, without giving prior intimation about it to any member of the staff of the Treasury.",
+     "ref": "Kerala Treasury Code Vol I, Rule 42 Verification by the Director",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_018",
+    "prompt": "When must the District Treasury Officer verify the treasury balance in person?",
+    "tip": "He must verify the district treasury balance in person on the first of each month and sign the account.",
+    "quote": {
+     "text": "The Treasury Officer shall verify the District Treasury balance (which term includes besides the Treasury balance the balance in the Currency Chest of the Reserve Bank of India, if any, held in the treasury, the balance in the small coin depot, if any, attached to the Treasury and the balance of any imprest amount held by the Treasury Officer) in person on the first of each month",
+     "ref": "Kerala Treasury Code Vol I, Rule 47 Responsibilities of the Treasury Officer",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_019",
+    "prompt": "How many consecutive months may pass without the Treasury Officer verifying the monthly closing balance?",
+    "tip": "In no case more than two consecutive months.",
+    "quote": {
+     "text": "In no case should a Treasury Officer allow more than two consecutive months to pass without his verifying the monthly closing balance and signing the accounts.",
+     "ref": "Kerala Treasury Code Vol I, Rule 47 Responsibilities of the Treasury Officer",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_020",
+    "prompt": "How often does the Treasury Officer verify the stock of cash and of stamps and opium?",
+    "tip": "Cash (coins and notes) is verified once every month. Stamps, opium, ganja and other valuables once every six months.",
+    "quote": {
+     "text": "Cash (coins and notes) : Once in every month Stamps, opium, ganja : Once in every six months and other valuables",
+     "ref": "Kerala Treasury Code Vol I, Rule 46(1) Responsibilities of the Treasury Officer",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_021",
+    "prompt": "How often must the Sub Treasury Officer verify the sub treasury cash balance?",
+    "tip": "At least twice a month.",
+    "quote": {
+     "text": "The Sub Treasury Officers shall verify the cash balance in the sub treasury at least twice a month.",
+     "ref": "Kerala Treasury Code Vol I, Rule 60 Sub Treasury Officer",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_022",
+    "prompt": "How often does the District Treasury Officer verify a non-banking sub treasury, and a banking one?",
+    "tip": "Once a month for non-banking sub treasuries, and once in three months for banking sub treasuries, without prior notice.",
+    "quote": {
+     "text": "District Treasury Officer shall verify the cash balance (including imprest balance and other anamath balances) in the banking sub treasuries in his district once in three months. Such verification shall be made without giving prior notice.",
+     "ref": "Kerala Treasury Code Vol I, Rule 61(ii) Banking Treasuries",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_023",
+    "prompt": "What must the relieving officer do on taking charge of a district treasury permanently?",
+    "tip": "He must verify the cash balance as per Rule 144 and report the result to the Accountant General with a certificate in Form T.R.1.",
+    "quote": {
+     "text": "the relieving government servant shall, before taking charge, verify the cash balance in the district treasury in the manner prescribed in Rule 144 of part IV of these rules and report the result of his verification to the Accountant General with a certificate in Form T.R.1.",
+     "ref": "Kerala Treasury Code Vol I, Rule 52(a) Verification on change of Treasury Officer",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-05",
+  "unit": "Currency Chest",
+  "title": "Currency Chest",
+  "facts": [
+   {
+    "id": "b4_024",
+    "prompt": "Whose property are the contents of the currency chest?",
+    "tip": "The contents are the property of the Reserve Bank, but Government is responsible to the Reserve Bank for them.",
+    "quote": {
+     "text": "The contents of the currency chest are the property of the Reserve Bank but the Government are responsible to the Reserve Bank, for them.",
+     "ref": "Kerala Treasury Code Vol I, Rule 135 Note 1, Treasury balance and currency chest balance",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_025",
+    "prompt": "What is the difference between treasury balance and currency chest balance?",
+    "tip": "Treasury balance is the Government's cash balance used for its payments and receipts. A separate currency chest is also ordinarily kept in the treasury.",
+    "quote": {
+     "text": "The moneys held in a treasury as part of the Government’s cash balance form the treasury balance, from which Government disbursements are made and into which Government receipts are paid. A separate currency chest also is ordinarily kept in the treasury.",
+     "ref": "Kerala Treasury Code Vol I, Rule 135 Note 1, Treasury balance and currency chest balance",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_026",
+    "prompt": "How must every currency chest transaction be in value?",
+    "tip": "Every transaction must be in even hundreds of rupees.",
+    "quote": {
+     "text": "Every transaction should be in even hundreds of rupees.",
+     "ref": "Kerala Treasury Code Vol I, Rule 152(i) Currency chest instructions",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_027",
+    "prompt": "Which form is the currency chest book?",
+    "tip": "A currency chest book in Form T.R. 37 is kept in the chest and signed at every transaction by the officials in joint charge.",
+    "quote": {
+     "text": "A currency chest book in Form T.R. 37 should be kept in the chest and the balance entered in the book, proved and signed at every transaction by the officials in joint charge of the chest.",
+     "ref": "Kerala Treasury Code Vol I, Rule 152(iii) Currency chest instructions",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_028",
+    "prompt": "How long is a currency chest book retained after it ceases to be in use?",
+    "tip": "It is retained for three complete financial years after it ceases to be in use.",
+    "quote": {
+     "text": "A currency chest book should be retained for three complete financial years after it ceases to be in use.",
+     "ref": "Kerala Treasury Code Vol I, Rule 152 Note 2, Currency chest book",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_029",
+    "prompt": "Which form is the daily currency chest slip, and where is it sent?",
+    "tip": "A serially numbered slip in Form T.R. 38, signed by the two officers in charge, goes to the Currency Officer, Madras, after closing.",
+    "quote": {
+     "text": "a serially numbered currency chest slip in Form T.R. 38 should be prepared, signed by the two government servant in charge of the currency chest and sent to the Currency Officer, Madras, when the treasury is closed for the day.",
+     "ref": "Kerala Treasury Code Vol I, Rule 152(v) Currency chest instructions",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_030",
+    "prompt": "How often is the currency chest balance of a district treasury verified?",
+    "tip": "At the close of each month, by the officer who verifies the treasury balance.",
+    "quote": {
+     "text": "should be verified at the close of each month by the Government Servant who verifies the treasury balance",
+     "ref": "Kerala Treasury Code Vol I, Rule 153(ii) Verification of currency chest balances",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-06",
+  "unit": "Strong Room",
+  "title": "Strong Room",
+  "facts": [
+   {
+    "id": "b4_001",
+    "prompt": "Who must certify a place as fit to be a treasury strong room?",
+    "tip": "A Public Works officer not lower than an Executive Engineer must certify the place as secure and fit for use as a strong room.",
+    "quote": {
+     "text": "No place should be used as a strong-room, unless an officer of the Public Works Department not lower in rank than an Executive Engineer has certified that it is secure and fit for use as a strong room.",
+     "ref": "Kerala Treasury Code Vol I, Rule 136(a) Treasury strong room",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_002",
+    "prompt": "How often must a strong room be inspected?",
+    "tip": "Every strong room is inspected yearly by the Executive Engineer or his deputed officer, and the Treasury Officer obtains a safety certificate.",
+    "quote": {
+     "text": "Every strong room should be inspected annually by the Executive Engineer or by an experienced Assistant Engineer or an officer holding sub divisional charge deputed by the Executive Engineer for the purpose and the Treasury Officer should obtain a certificate of safety from the Inspecting Officer after each annual inspection.",
+     "ref": "Kerala Treasury Code Vol I, Rule 136(c) Treasury strong room",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_003",
+    "prompt": "Who is responsible for the security of the strong room building, and who for chests and furniture?",
+    "tip": "The Executive Engineer is responsible for the building and fixtures. The Treasury Officer is responsible for chests and furniture not part of the building.",
+    "quote": {
+     "text": "The responsibility for the security of the building and its fixtures will, however, remain with the Executive Engineer, and the responsibility for the security of chests and other treasury furniture not forming part of the building or fixtures will remain with the Treasury Officer.",
+     "ref": "Kerala Treasury Code Vol I, Rule 136(d) Treasury strong room",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_004",
+    "prompt": "When may strong room doors and windows be open?",
+    "tip": "Strong room doors and windows stay permanently closed and locked, except while coin or valuables are moved in or out.",
+    "quote": {
+     "text": "The doors and windows of the strong room should be kept permanently closed and locked, except during the time necessary for moving coin or other valuables into or out of it.",
+     "ref": "Kerala Treasury Code Vol I, Rule 136(f) Treasury strong room",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-07",
+  "unit": "Anamath",
+  "title": "Anamath",
+  "facts": [
+   {
+    "id": "b4_013",
+    "prompt": "In which form is the Anamath Balance Register kept?",
+    "tip": "The treasurer keeps the Anamath Balance Register in Form T.R. 19.",
+    "quote": {
+     "text": "The treasurer shall maintain an Anamath Balance Register in Form T.R. 19 for recording these Anamath transactions",
+     "ref": "Kerala Treasury Code Vol I, Rule 114 Anamaths",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_014",
+    "prompt": "Who checks the Anamath Balance Register and how often?",
+    "tip": "The Treasury Officer verifies the anamath balance every evening.",
+    "quote": {
+     "text": "The Treasury Officer should verify the balance every evening.",
+     "ref": "Kerala Treasury Code Vol I, Rule 118 Anamaths",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_015",
+    "prompt": "What is the general rule on money kept in the strong room?",
+    "tip": "As a rule, money may be kept in a strong room only if paid into the Government account and part of the treasury balance.",
+    "quote": {
+     "text": "As a general rule, no sums of money shall be kept in a treasury strong room unless they have been paid into the Government account and form part of the general treasury balance",
+     "ref": "Kerala Treasury Code Vol I, Rule 114 Anamaths",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_016",
+    "prompt": "Can money be kept in anamath for want of information on its nature?",
+    "tip": "No. Money must not be kept in anamath for want of information on the nature of the credit or pending confirmation of a sale.",
+    "quote": {
+     "text": "No sums of money which have been sent to a treasury for payment into the Government account should be kept in Anamath for want of information as to the nature of the credit or pending confirmation of a sale.",
+     "ref": "Kerala Treasury Code Vol I, Rule 118 Anamaths",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-08",
+  "unit": "Cheques",
+  "title": "Cheques",
+  "facts": [
+   {
+    "id": "b4_031",
+    "prompt": "For how long does a cheque remain current?",
+    "tip": "A cheque remains current only for three months from the date of issue.",
+    "quote": {
+     "text": "A cheque shall remain current only for three months from the date of issue.",
+     "ref": "Kerala Treasury Code Vol I, Rule 245(b) Cheques",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_032",
+    "prompt": "What should a drawing officer do on learning that a cheque has been lost?",
+    "tip": "He must at once report to the Treasury Officer and ask him to stop payment of the cheque.",
+    "quote": {
+     "text": "he shall at once report the fact to the Treasury Officer and request him to stop payment of the cheques.",
+     "ref": "Kerala Treasury Code Vol I, Rule 250 Lost cheques",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_033",
+    "prompt": "When may the drawing officer issue a new cheque for a lost one?",
+    "tip": "Only after receiving the Treasury Officer's signed certificate that the cheque has not been paid, and after cancelling the original cheque.",
+    "quote": {
+     "text": "On receipt of the certificate duly signed by the Treasury Officer the drawing officer shall cancel the original cheque and make the necessary entries in his accounts and may then issue another in its place.",
+     "ref": "Kerala Treasury Code Vol I, Rule 250 Lost cheques",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_034",
+    "prompt": "After how long must a drawing officer cancel an unpaid cheque?",
+    "tip": "He must cancel any cheque that has remained unpaid for twelve months from the date of issue.",
+    "quote": {
+     "text": "The drawing officer shall cancel any cheque which has remained unpaid for twelve months from the date of issue.",
+     "ref": "Kerala Treasury Code Vol I, Rule 251 Cancelled cheques",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-09",
+  "unit": "Deposits",
+  "title": "Deposits",
+  "facts": [
+   {
+    "id": "b4_043",
+    "prompt": "Can an earnest money deposit be repaid in part?",
+    "tip": "No. An earnest money deposit shall never be repaid in part.",
+    "quote": {
+     "text": "An earnest money deposit shall never be repaid in part.",
+     "ref": "Kerala Treasury Code Vol I, Rule 210(q) Repayment of revenue deposits",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_044",
+    "prompt": "Who orders repayment of a revenue deposit?",
+    "tip": "A revenue deposit is repaid only on the order of the court or authority which ordered its acceptance.",
+    "quote": {
+     "text": "A revenue deposit should only be repaid on an order of the court or authority which ordered the acceptance of the deposit.",
+     "ref": "Kerala Treasury Code Vol I, Rule 205(a) Repayment of revenue deposits",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_045",
+    "prompt": "Within what time must a revenue or criminal court deposit repayment order be paid?",
+    "tip": "No payment is made after the close of the financial year of issue or three months from the date of issue, whichever is earlier.",
+    "quote": {
+     "text": "no payment will be made on it after the close of the financial year in which it is issued or three months from the date of issue, whichever is earlier.",
+     "ref": "Kerala Treasury Code Vol I, Rule 207 Repayment of revenue deposits and criminal court's deposits",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-10",
+  "unit": "Double Lock Keys",
+  "title": "Double Lock Keys",
+  "facts": [
+   {
+    "id": "b4_005",
+    "prompt": "Who holds the keys of the two padlocks on a district treasury strong room?",
+    "tip": "The Treasury Officer holds the key of one padlock and the Chief Treasurer holds the key of the other.",
+    "quote": {
+     "text": "The Treasury Officer shall hold the key of one of the two padlocks placed on the entrance to the double lock strong room of a district treasury and the Chief Treasurer, the key of the other.",
+     "ref": "Kerala Treasury Code Vol I, Rule 135(a) Custody and verification of the treasury balance",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_006",
+    "prompt": "What is done with the keys when the strong room is finally closed for the day?",
+    "tip": "Each officer puts his key in a leather bag, sealed by a subordinate with the official seal and the Treasury Officer's private seal.",
+    "quote": {
+     "text": "place the key in a leather bag and have the bag sealed in the presence of both the officers by a subordinate, who shall not take the key out of the bag. Both the official seal and the private seal of the Treasury Officer shall be affixed to each of the bags.",
+     "ref": "Kerala Treasury Code Vol I, Rule 135(a) Custody and verification of the treasury balance",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-11",
+  "unit": "Padlocks And Keys",
+  "title": "Padlocks And Keys",
+  "facts": [
+   {
+    "id": "b4_009",
+    "prompt": "In which form is the register of padlocks and keys kept?",
+    "tip": "A register of all padlocks and keys is kept in Form T.R. 29 in the district treasury strong room.",
+    "quote": {
+     "text": "A register of all the padlocks and keys belonging to the district treasury and its sub treasuries should be maintained in Form T.R. 29 and kept in the strong room of the district treasury.",
+     "ref": "Kerala Treasury Code Vol I, Rule 137(a) Treasury padlocks and keys",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_010",
+    "prompt": "What must be done if a treasury padlock key is lost?",
+    "tip": "The Treasury Officer must at once report to the Director of Treasuries and send the padlock for lever alteration and new keys.",
+    "quote": {
+     "text": "If a key is lost, the Treasury Officer should at once report the fact to the Director of Treasuries and send the padlock to the Superintendent, Public Works Department, Engineering Work shop, Trivandrum, requesting him to have its lever altered and provide new keys for it.",
+     "ref": "Kerala Treasury Code Vol I, Rule 137(c) Treasury padlocks and keys",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-12",
+  "unit": "Double Lock Receptacles",
+  "title": "Double Lock Receptacles",
+  "facts": [
+   {
+    "id": "b4_011",
+    "prompt": "How many double lock receptacles may be unlocked at one time?",
+    "tip": "Never more than one double lock receptacle may be kept unlocked at a time, and it must not stay open longer than necessary.",
+    "quote": {
+     "text": "A double lock receptacle shall not be kept open or unlocked for longer than is necessary and in no circumstances shall more than one double lock receptacle be kept unlocked at a time.",
+     "ref": "Kerala Treasury Code Vol I, Rule 139(d) Receipt of moneys into and issue of moneys from double locks",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   },
+   {
+    "id": "b4_012",
+    "prompt": "When must the Treasury Officer prove the balance?",
+    "tip": "He must prove the balance whenever money moves between double locks and single lock, or between double locks and the currency chest.",
+    "quote": {
+     "text": "The Treasury Officer shall “prove” the balance whenever money is transferred from double locks to single lock and vice versa and from double locks to the currency chest and vice versa.",
+     "ref": "Kerala Treasury Code Vol I, Rule 139(h) Receipt of moneys into and issue of moneys from double locks",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-13",
+  "unit": "Treasurer'S Custody",
+  "title": "Treasurer'S Custody",
+  "facts": [
+   {
+    "id": "b4_007",
+    "prompt": "What is the usual limit of cash the Treasurer may hold in separate custody?",
+    "tip": "The amount held by the Treasurer should not ordinarily exceed Rs 5,000, and a request for more must be carefully scrutinised.",
+    "quote": {
+     "text": "The Treasury Officer shall see that the amount so held does not ordinarily exceed ` 5,000 and that any request by the Treasurer for a larger sum is carefully scrutinized",
+     "ref": "Kerala Treasury Code Vol I, Rule 135(b) Custody and verification of the treasury balance",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "p-14",
+  "unit": "Treasury Balance",
+  "title": "Treasury Balance",
+  "facts": [
+   {
+    "id": "b4_008",
+    "prompt": "What is the main store of the treasury cash balance?",
+    "tip": "The bulk of the balance, called the main store or double lock balance, is kept in the strong room under double locks.",
+    "quote": {
+     "text": "The bulk of the treasury cash balance, generally known as the “main store” or the double lock balance, shall be kept in the treasury strong room under double locks.",
+     "ref": "Kerala Treasury Code Vol I, Rule 135(a) Custody and verification of the treasury balance",
+     "book": "KTC_Vol1_4th_ed_2013"
+    }
+   }
+  ]
+ }
+]

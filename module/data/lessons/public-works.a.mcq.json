@@ -1,0 +1,1097 @@
+{
+ "publi-01": {
+  "remember": [
+   "Measurement Book is K.P.W. Form 21; its register is K.P.W. Form 84 in the Divisional Office.",
+   "Only Executive/Assistant Engineers or executive subordinates in charge, issued books, may record detailed measurements.",
+   "Contractor signs after each set of measurements; an illiterate man gives thumb impression attested by an independent witness."
+  ],
+  "questions": [
+   {
+    "q": "Payments for works are based on measurements recorded in which form?",
+    "options": [
+     "Measurement Book, K.P.W. Form 19",
+     "Measurement Book, K.P.W. Form 22",
+     "Measurement Book, K.P.W. Form 24",
+     "Measurement Book, K.P.W. Form 21"
+    ],
+    "answer": 3,
+    "why": "KPWAC 10.2.9: measurements are recorded in Measurement Books, K.P.W. Form 21."
+   },
+   {
+    "q": "In which form, and where, is the register of measurement books maintained?",
+    "options": [
+     "K.P.W. Form 84, in the Divisional Office",
+     "K.P.W. Form 84, in the Sub-divisional Office",
+     "K.P.W. Form 21, in the Divisional Office",
+     "K.P.W. Form 90, in the Divisional Office"
+    ],
+    "answer": 0,
+    "why": "KPWAC 10.2.9: a register is maintained in K.P.W. Form 84 in the Divisional Office."
+   },
+   {
+    "q": "Who may record detailed measurements?",
+    "options": [
+     "Any overseer of the division",
+     "Only the Divisional Accountant",
+     "Executive or Assistant Engineers, or executive subordinates in charge of works supplied with measurement books",
+     "Only the contractor's agent"
+    ],
+    "answer": 2,
+    "why": "KPWAC 10.2.11(a): only those officers to whom measurement books have been supplied may record them."
+   },
+   {
+    "q": "How is the acceptance of an illiterate contractor taken in the measurement book?",
+    "options": [
+     "Signature of the Divisional Accountant",
+     "Thumb impression attested by the Sub-divisional Officer",
+     "Thumb impression attested by an independent witness",
+     "No acceptance is needed"
+    ],
+    "answer": 2,
+    "why": "KPWAC 10.2.11(d): thumb impression duly attested by an independent witness."
+   },
+   {
+    "q": "How are the pages of each measurement book numbered?",
+    "options": [
+     "Machine numbered",
+     "Numbered by hand by the contractor",
+     "Numbered in alphabetical series",
+     "Left unnumbered"
+    ],
+    "answer": 0,
+    "why": "KPWAC 10.2.9: the pages of each book should be machine numbered."
+   }
+  ]
+ },
+ "publi-02": {
+  "remember": [
+   "No blank pages left, no page torn out, no entry erased. Pages left blank by mistake are cancelled by diagonal lines and attested.",
+   "A cancelled measurement needs dated initials of the officer ordering it; each book has an up-to-date index.",
+   "Standard MBs: alphabetical series, kept by Divisional Accountant; certificates to Superintending Engineers on 30th April."
+  ],
+  "questions": [
+   {
+    "q": "How are pages left blank inadvertently in a measurement book dealt with?",
+    "options": [
+     "Torn out of the book",
+     "Left as they are",
+     "Cancelled by erasing and rewriting",
+     "Cancelled by diagonal lines, the cancellation being attested"
+    ],
+    "answer": 3,
+    "why": "KPWAC 10.2.11(e): blank pages must be cancelled by diagonal lines, attested."
+   },
+   {
+    "q": "What supports the cancellation of a measurement entry?",
+    "options": [
+     "Signature of the contractor only",
+     "Dated initials of the officer ordering the cancellation",
+     "Initials of the Divisional Accountant only",
+     "Nothing; entries may be erased"
+    ],
+    "answer": 1,
+    "why": "KPWAC 10.2.11(f): cancellation must be supported by dated initials of the officer ordering it."
+   },
+   {
+    "q": "How are standard measurement books of a division numbered?",
+    "options": [
+     "In a numerical series by year",
+     "In an alphabetical series",
+     "By machine in the field",
+     "By the contractor's name"
+    ],
+    "answer": 1,
+    "why": "KPWAC 10.2.13(2): numbered in an alphabetical series."
+   },
+   {
+    "q": "Who keeps the original standard measurement books in personal custody?",
+    "options": [
+     "The Executive Engineer, in his house",
+     "The Sub-divisional Officer",
+     "The Superintending Engineer",
+     "The Divisional Accountant, in the Division Office"
+    ],
+    "answer": 3,
+    "why": "KPWAC 10.2.13(2): personal custody of the Divisional Accountant in the Division Office."
+   },
+   {
+    "q": "On what date each year do Divisional Officers send certificates to Superintending Engineers about standard measurement books?",
+    "options": [
+     "30th April",
+     "31st March",
+     "30th June",
+     "1st April"
+    ],
+    "answer": 0,
+    "why": "KPWAC 10.2.13(6): on 30th April each year."
+   }
+  ]
+ },
+ "publi-03": {
+  "remember": [
+   "At least 25 per cent of measurement book entries are reviewed each year; 50 per cent of those selected get an arithmetic check by the Divisional Accountant.",
+   "Officers report page numbers of fresh entries to the Divisional Officer in the first week of the next month.",
+   "Reviewed pages are initialled, dated and marked 'Reviewed' by the Divisional Accountant."
+  ],
+  "questions": [
+   {
+    "q": "What minimum share of measurement book entries must be reviewed each year?",
+    "options": [
+     "10 per cent",
+     "50 per cent",
+     "25 per cent",
+     "75 per cent"
+    ],
+    "answer": 2,
+    "why": "KPWAC 10.2.14(b): at least twenty-five per cent of entries are reviewed each year."
+   },
+   {
+    "q": "What share of the selected entries is also checked for arithmetical accuracy?",
+    "options": [
+     "25 per cent",
+     "100 per cent",
+     "50 per cent",
+     "10 per cent"
+    ],
+    "answer": 2,
+    "why": "KPWAC 10.2.14(b): arithmetical accuracy of 50 per cent of selected entries is checked."
+   },
+   {
+    "q": "When do officers report page numbers of fresh entries to the Divisional Officer?",
+    "options": [
+     "Within the first week of the succeeding month",
+     "Within the last week of the same month",
+     "Within 15 days of each entry",
+     "On 30th April each year"
+    ],
+    "answer": 0,
+    "why": "KPWAC 10.2.14(c): within the first week of the succeeding month."
+   },
+   {
+    "q": "What remark does the Divisional Accountant write on each page reviewed?",
+    "options": [
+     "Passed, with signature only",
+     "Checked, without date",
+     "Approved by Executive Engineer",
+     "Reviewed, with initials and date"
+    ],
+    "answer": 3,
+    "why": "KPWAC 10.2.14(h): every page reviewed is initialled and dated with remark 'Reviewed'."
+   }
+  ]
+ },
+ "publi-04": {
+  "remember": [
+   "Muster roll is K.P.W. Form 19, for departmentally engaged day labourers; never prepared in duplicate; separate roll for each payment period.",
+   "Establishment-head employees are not paid on muster rolls.",
+   "Entries in indelible ink or copying pencil; attendance and fines in Part I; payment after passing by the Sub-divisional Officer."
+  ],
+  "questions": [
+   {
+    "q": "Muster rolls are prepared in which form?",
+    "options": [
+     "K.P.W. Form 21",
+     "K.P.W. Form 19",
+     "K.P.W. Form 24",
+     "K.P.W. Form 84"
+    ],
+    "answer": 1,
+    "why": "KPWAC 10.2.6: muster rolls are prepared in K.P.W. Form 19."
+   },
+   {
+    "q": "Whose pay is NOT drawn on muster rolls?",
+    "options": [
+     "Day labourers engaged departmentally",
+     "Employees of the division whose pay is charged to the head Establishment",
+     "Labourers on road works",
+     "Casual workers on a work"
+    ],
+    "answer": 1,
+    "why": "KPWAC 10.2.4(1): permanent and temporary employees paid from the Establishment head are excluded."
+   },
+   {
+    "q": "Can a muster roll be prepared in duplicate?",
+    "options": [
+     "Yes, always",
+     "Yes, for large works",
+     "Yes, with Divisional Officer's order",
+     "Never"
+    ],
+    "answer": 3,
+    "why": "KPWAC 10.2.6(a): muster rolls should never be prepared in duplicate."
+   },
+   {
+    "q": "What may be used for entries in a muster roll?",
+    "options": [
+     "Indelible ink or copying pencil",
+     "Ordinary lead pencil",
+     "Red ink only",
+     "Any pencil or ink"
+    ],
+    "answer": 0,
+    "why": "KPWAC 10.2.6(a) Note: indelible ink or copying pencil."
+   },
+   {
+    "q": "Who passes a muster roll before payment is made?",
+    "options": [
+     "The Divisional Accountant",
+     "The Superintending Engineer",
+     "The Sub-divisional Officer",
+     "The contractor"
+    ],
+    "answer": 2,
+    "why": "KPWAC 10.2.6(d): payment is made after the roll is passed by the Sub-divisional Officer."
+   }
+  ]
+ },
+ "publi-05": {
+  "remember": [
+   "Unpaid wages are entered in register K.P.W. Form 19 A in the sub-division; later paid on Hand Receipt Form 24; unpaid three months are reported to the Divisional Officer.",
+   "Part II of muster roll records progress of measurable work.",
+   "Urgent casual labour on Hand Receipt: only by a Gazetted Officer or Upper Subordinate. Labour through contractor is objectionable; no MR or MB there."
+  ],
+  "questions": [
+   {
+    "q": "Which register records unpaid wage items?",
+    "options": [
+     "Register of Tenders, K.P.W. Form 90",
+     "Bin Card, K.P.W. Form 7",
+     "Register of unpaid wages, K.P.W. Form 19 A",
+     "Register of measurement books, K.P.W. Form 84"
+    ],
+    "answer": 2,
+    "why": "KPWAC 10.2.6(d): unpaid items go in the register of unpaid wages K.P.W. Form 19 A."
+   },
+   {
+    "q": "Later payments of unpaid wages are made on which form?",
+    "options": [
+     "Hand Receipt, K.P.W. Form 24",
+     "Muster roll, K.P.W. Form 19",
+     "Bill, K.P.W. Form 22",
+     "Survey Report, K.P.W. Form 17"
+    ],
+    "answer": 0,
+    "why": "KPWAC 10.2.6(e): subsequent payments on Hand Receipt K.P.W. Form 24."
+   },
+   {
+    "q": "To whom are wages unpaid for three months reported?",
+    "options": [
+     "The Sub-divisional Officer",
+     "The Superintending Engineer",
+     "The Accountant General",
+     "The Divisional Officer"
+    ],
+    "answer": 3,
+    "why": "KPWAC 10.2.6(f): reported to the Divisional Officer."
+   },
+   {
+    "q": "What is recorded in Part II of the muster roll?",
+    "options": [
+     "Daily attendance and fines",
+     "Progress of work done by the labour, where it can be measured",
+     "Details of unpaid wages",
+     "Signature of the contractor"
+    ],
+    "answer": 1,
+    "why": "KPWAC 10.2.6(g): Part II records progress of measurable work."
+   },
+   {
+    "q": "Who may pay urgent casual labour on a Hand Receipt?",
+    "options": [
+     "Any lower subordinate",
+     "Only a Gazetted Officer or an Upper Subordinate",
+     "The contractor",
+     "Any clerk of the division"
+    ],
+    "answer": 1,
+    "why": "KPWAC 10.2.6(h): not except by a Gazetted Officer or an Upper Subordinate."
+   }
+  ]
+ },
+ "publi-06": {
+  "remember": [
+   "Running contract: approximate quantity at a set price for a period; purchaser may take usually 25 per cent over or below.",
+   "Rate contract: stores at specified rates, usually no quantities; normally one year; notice to withdraw generally thirty days.",
+   "Running contracts settled by HODs and Departmental Purchase Committees; rate contracts only by Stores Purchase Department."
+  ],
+  "questions": [
+   {
+    "q": "What variation in quantity can the purchaser usually take in a running contract?",
+    "options": [
+     "10 per cent over only",
+     "50 per cent below only",
+     "No variation is allowed",
+     "25 per cent over or below the approximate quantity"
+    ],
+    "answer": 3,
+    "why": "SPM 2013 13.2: usually 25 per cent over or below."
+   },
+   {
+    "q": "Which contract usually mentions no quantities?",
+    "options": [
+     "Rate contract",
+     "Running contract",
+     "Lump sum contract",
+     "Works contract"
+    ],
+    "answer": 0,
+    "why": "SPM 2013 13.4: no quantities are usually mentioned in a rate contract."
+   },
+   {
+    "q": "Who alone settles rate contracts?",
+    "options": [
+     "Heads of Departments",
+     "Departmental Purchase Committees",
+     "The Stores Purchase Department",
+     "The Finance Department"
+    ],
+    "answer": 2,
+    "why": "SPM 2013 13.6: rate contracts are settled by the Stores Purchase Department only."
+   },
+   {
+    "q": "What is the normal period of a rate contract?",
+    "options": [
+     "Six months",
+     "Two years",
+     "One year",
+     "Three years"
+    ],
+    "answer": 2,
+    "why": "SPM 2013 13.12: normally one year for stable technology products."
+   },
+   {
+    "q": "What is the generally prescribed notice period to withdraw a rate contract?",
+    "options": [
+     "Thirty days",
+     "Seven days",
+     "Fifteen days",
+     "Sixty days"
+    ],
+    "answer": 0,
+    "why": "SPM 2013 13.15(iii): generally thirty days."
+   }
+  ]
+ },
+ "publi-07": {
+  "remember": [
+   "Priced tender forms are essential for rate and running contracts irrespective of amount, unless Government decides otherwise.",
+   "It is obligatory for Departments to use Stores Purchase Department rate/running contracts."
+  ],
+  "questions": [
+   {
+    "q": "For rate and running contracts, are priced tender forms needed?",
+    "options": [
+     "Only above Rs. 1 lakh",
+     "Only above Rs. 10 lakh",
+     "No, never",
+     "Yes, irrespective of the amount involved"
+    ],
+    "answer": 3,
+    "why": "SPM 2013 7.30: priced tender forms are essential irrespective of amount unless Government decides otherwise."
+   },
+   {
+    "q": "Is it obligatory for Departments to use Stores Purchase Department rate/running contracts?",
+    "options": [
+     "No, it is optional",
+     "Yes, it is obligatory",
+     "Only for computers",
+     "Only with Finance approval"
+    ],
+    "answer": 1,
+    "why": "SPM 2013 13.9: obligatory for Government Departments."
+   },
+   {
+    "q": "Who can alter the rule on priced tender forms for rate/running contracts?",
+    "options": [
+     "Head of Department",
+     "Government",
+     "Purchasing officer",
+     "The tenderer"
+    ],
+    "answer": 1,
+    "why": "SPM 2013 7.30: 'unless otherwise decided by Government'."
+   }
+  ]
+ },
+ "publi-08": {
+  "remember": [
+   "Tender if value is Rs. 1,00,000 or above; limited tender from Rs. 1 lakh to below Rs. 10 lakh with more than three firms; open tender as a general rule at Rs. 10 lakh or more.",
+   "Single tender only in unavoidable situations; telex/cable/fax quotations are rejected.",
+   "Tender form cost: cash, DD or M.O. only. Earnest money returned on opening day is receipted in Register of Tenders, Form 90."
+  ],
+  "questions": [
+   {
+    "q": "From what estimated value must tenders be invited?",
+    "options": [
+     "Rs. 15,000 or above",
+     "Rs. 50,000 or above",
+     "Rs. 10,00,000 or above",
+     "Rs. 1,00,000 or above"
+    ],
+    "answer": 3,
+    "why": "SPM 2013 7.7: tenders invited if value is Rs. 1,00,000 or above."
+   },
+   {
+    "q": "How many supplier firms should a limited tender have?",
+    "options": [
+     "More than three",
+     "Exactly two",
+     "At least one",
+     "More than ten"
+    ],
+    "answer": 0,
+    "why": "SPM 2013 7.10: more than three firms."
+   },
+   {
+    "q": "Open tender is a general rule when the estimated value is at least:",
+    "options": [
+     "Rs. 1,00,000",
+     "Rs. 5,00,000",
+     "Rs. 10,00,000",
+     "Rs. 15,000"
+    ],
+    "answer": 2,
+    "why": "SPM 2013 7.11: Rs. 10,00,000 or more."
+   },
+   {
+    "q": "What is done with quotations sent by telex, cable or facsimile?",
+    "options": [
+     "Accepted if urgent",
+     "Accepted after confirmation by post",
+     "Ignored and rejected",
+     "Treated as limited tender"
+    ],
+    "answer": 2,
+    "why": "SPM 2013 7.23: such quotations are to be ignored and rejected."
+   },
+   {
+    "q": "Which payment mode is NOT accepted for the cost of tender forms?",
+    "options": [
+     "Bank cheque",
+     "Cash",
+     "Demand Draft",
+     "Money Order"
+    ],
+    "answer": 0,
+    "why": "SPM 2013 7.28: only cash, DD or M.O.; postal orders, stamps or bank cheques not accepted."
+   }
+  ]
+ },
+ "publi-09": {
+  "remember": [
+   "A tender received late is excluded from consideration (SPM 2013 9.7)."
+  ],
+  "questions": [
+   {
+    "q": "What happens to a tender that is received late?",
+    "options": [
+     "It is accepted with a fine",
+     "It is opened after others",
+     "It is accepted if the rate is lowest",
+     "It is excluded from consideration"
+    ],
+    "answer": 3,
+    "why": "SPM 2013 9.7(f): tender received late is excluded."
+   },
+   {
+    "q": "Which of these is a ground for excluding a tender?",
+    "options": [
+     "It has the lowest rate",
+     "It is received late",
+     "It is sent by registered post on time",
+     "It is signed by the tenderer"
+    ],
+    "answer": 1,
+    "why": "SPM 2013 9.7(f): late receipt of tender."
+   },
+   {
+    "q": "A tender reaches the office after the closing time. What is the position?",
+    "options": [
+     "It is considered with the others",
+     "It is excluded from consideration",
+     "It is returned for a fresh date",
+     "It is treated as a single tender"
+    ],
+    "answer": 1,
+    "why": "SPM 2013 9.7(f): late tender is excluded."
+   }
+  ]
+ },
+ "publi-10": {
+  "remember": [
+   "Bin Card balances are verified with the Priced Stores Ledger before physical verification; surplus treated as receipt, deficit as issue.",
+   "Deputy Chief Engineer (Stores and Purchase) does surprise verification yearly, at least 25% of costly items.",
+   "Deficit kept under Miscellaneous Public Works Advances; unserviceable stores need orders on Survey Report Form 17."
+  ],
+  "questions": [
+   {
+    "q": "What is done before an item is taken up for physical verification?",
+    "options": [
+     "Item is issued to the site",
+     "Survey Report is prepared",
+     "Muster roll is passed",
+     "Bin Card balance is verified with the Priced Stores Ledger"
+    ],
+    "answer": 3,
+    "why": "KPWAC 7.2.14: this verification is conducted before physical verification."
+   },
+   {
+    "q": "Who does the surprise stores verification at least once a year?",
+    "options": [
+     "Deputy Chief Engineer (Stores and Purchase)",
+     "Divisional Accountant",
+     "Sub-divisional Officer",
+     "Superintending Engineer"
+    ],
+    "answer": 0,
+    "why": "KPWAC 7.2.35 Note (1): by the Deputy Chief Engineer (Stores and Purchase)."
+   },
+   {
+    "q": "What share of costly items such as cement, steel and bitumen is checked in surprise verification?",
+    "options": [
+     "At least 10%",
+     "At least 50%",
+     "At least 25%",
+     "100%"
+    ],
+    "answer": 2,
+    "why": "KPWAC 7.2.35 Note (1): at least 25% of stock of costly items."
+   },
+   {
+    "q": "How is the value of a stock deficit kept?",
+    "options": [
+     "Charged off finally at once",
+     "Credited as revenue receipt",
+     "Under Miscellaneous Public Works Advances pending recovery or adjustment",
+     "Written off by the Sub-divisional Officer"
+    ],
+    "answer": 2,
+    "why": "KPWAC 7.2.36(b): not charged off finally, kept under Misc. PW Advances."
+   },
+   {
+    "q": "Which form is the Survey Report for removing unserviceable stores?",
+    "options": [
+     "K.P.W. Form 17",
+     "K.P.W. Form 31",
+     "K.P.W. Form 7",
+     "K.P.W. Form 90"
+    ],
+    "answer": 0,
+    "why": "KPWAC 7.2.40: orders obtained on a Survey Report in K.P.W. Form 17."
+   }
+  ]
+ },
+ "publi-11": {
+  "remember": [
+   "EMD is one percent of the cost of articles tendered, minimum Rs. 1,500; taken for tenders of Rs. 1,00,000 or more and special tenders.",
+   "EMD valid 45 days beyond final tender validity; forfeited on withdrawal or amendment within validity.",
+   "Returned to unsuccessful tenderers without interest within 30 days after conclusion of contract; exemption not for rate/running contracts."
+  ],
+  "questions": [
+   {
+    "q": "What is the EMD amount?",
+    "options": [
+     "Five percent of the cost, minimum Rs. 1,500",
+     "One percent of the cost, minimum Rs. 15,000",
+     "Ten percent of the cost, minimum Rs. 1,000",
+     "One percent of the total cost of articles tendered, minimum Rs. 1,500"
+    ],
+    "answer": 3,
+    "why": "SPM 2013 8.2: one percent, subject to minimum Rs. 1,500."
+   },
+   {
+    "q": "Earnest money is ordinarily taken for every tender involving at least:",
+    "options": [
+     "Rs. 15,000",
+     "Rs. 1,00,000",
+     "Rs. 10,00,000",
+     "Rs. 50,000"
+    ],
+    "answer": 1,
+    "why": "SPM 2013 8.2: tenders of Rs. 1,00,000 or more and special tenders."
+   },
+   {
+    "q": "For how long must EMD remain valid beyond the final tender validity period?",
+    "options": [
+     "30 days",
+     "45 days",
+     "60 days",
+     "90 days"
+    ],
+    "answer": 1,
+    "why": "SPM 2013 8.14: valid for 45 days beyond final tender validity."
+   },
+   {
+    "q": "When is a tenderer's EMD forfeited?",
+    "options": [
+     "If he quotes the lowest rate",
+     "If he attends the opening",
+     "If he asks for the tender form",
+     "If he withdraws or amends the tender within its validity period"
+    ],
+    "answer": 3,
+    "why": "SPM 2013 8.15: forfeited on withdrawal or amendment within validity."
+   },
+   {
+    "q": "Does the EMD exemption of registered firms apply to rate or running contract tenders?",
+    "options": [
+     "No",
+     "Yes, always",
+     "Yes, for one year",
+     "Yes, below Rs. 10 lakh"
+    ],
+    "answer": 0,
+    "why": "SPM 2013 8.6: exemption not applicable to Rate/Running Contract tenders."
+   }
+  ]
+ },
+ "publi-12": {
+  "remember": [
+   "First and final bill: Form 22. Running account bill: Form 23. Running bill with secured advance: Form 23A. Hand Receipt: Form 24.",
+   "Final payments are made on forms printed on yellow paper, not used for intermediate payments."
+  ],
+  "questions": [
+   {
+    "q": "Which form is a first and final bill?",
+    "options": [
+     "K.P.W. Form 23",
+     "K.P.W. Form 23A",
+     "K.P.W. Form 22",
+     "K.P.W. Form 24"
+    ],
+    "answer": 2,
+    "why": "KPWAC 10.2.16(a): First and final bill is K.P.W. Form 22."
+   },
+   {
+    "q": "Which form is a running account bill?",
+    "options": [
+     "K.P.W. Form 22",
+     "K.P.W. Form 24",
+     "K.P.W. Form 23",
+     "K.P.W. Form 21"
+    ],
+    "answer": 2,
+    "why": "KPWAC 10.2.16(b): Running account bill is K.P.W. Form 23."
+   },
+   {
+    "q": "Which form is a running account bill (Secured advance)?",
+    "options": [
+     "K.P.W. Form 23A",
+     "K.P.W. Form 23B",
+     "K.P.W. Form 22A",
+     "K.P.W. Form 19A"
+    ],
+    "answer": 0,
+    "why": "KPWAC 10.2.16(c): K.P.W. Form 23A."
+   },
+   {
+    "q": "Which form is a Hand Receipt?",
+    "options": [
+     "K.P.W. Form 19",
+     "K.P.W. Form 17",
+     "K.P.W. Form 84",
+     "K.P.W. Form 24"
+    ],
+    "answer": 3,
+    "why": "KPWAC 10.2.16(d): Hand receipt is K.P.W. Form 24."
+   },
+   {
+    "q": "On which colour of paper must forms for final payment be printed?",
+    "options": [
+     "White",
+     "Yellow",
+     "Green",
+     "Pink"
+    ],
+    "answer": 1,
+    "why": "KPWAC 10.2.20 Note: final payments on forms printed on yellow paper."
+   }
+  ]
+ },
+ "publi-13": {
+  "remember": [
+   "Performance security: 5% of total contract value, for contract value above Rs. 1,00,000, from every successful bidder.",
+   "Furnished generally within 21 days after notification of award; valid 60 days beyond completion of all obligations.",
+   "EMD may be treated as part of it; only the balance is called for."
+  ],
+  "questions": [
+   {
+    "q": "What is the rate of performance security?",
+    "options": [
+     "1% of the total value",
+     "5% of the total value of the contract",
+     "10% of the total value",
+     "2.5% of the total value"
+    ],
+    "answer": 1,
+    "why": "SPM 2013 8.19: 5% of contract value rounded to nearest rupee."
+   },
+   {
+    "q": "Performance security is taken for a contract value above:",
+    "options": [
+     "Rs. 15,000",
+     "Rs. 10,00,000",
+     "Rs. 50,000",
+     "Rs. 1,00,000"
+    ],
+    "answer": 3,
+    "why": "SPM 2013 8.17: contract value above Rs. 1,00,000."
+   },
+   {
+    "q": "Within what time is performance security generally furnished after notification of award?",
+    "options": [
+     "21 days",
+     "7 days",
+     "45 days",
+     "60 days"
+    ],
+    "answer": 0,
+    "why": "SPM 2013 8.18: generally 21 days after notification of the award."
+   },
+   {
+    "q": "How long does performance security remain valid beyond completion of contractual obligations?",
+    "options": [
+     "21 days",
+     "30 days",
+     "60 days",
+     "45 days"
+    ],
+    "answer": 2,
+    "why": "SPM 2013 8.18: valid 60 days beyond completion of all obligations."
+   },
+   {
+    "q": "Can the EMD be treated as part of the performance security?",
+    "options": [
+     "No, it must be refunded first",
+     "Yes, and the whole security is waived",
+     "Yes, and only the balance is called for",
+     "Only with Government orders"
+    ],
+    "answer": 2,
+    "why": "SPM 2013 8.29: EMD may be treated as part of performance security; only balance called for."
+   }
+  ]
+ },
+ "publi-14": {
+  "remember": [
+   "Sub-divisional Officers must checkmeasure all final bills on running accounts before payment.",
+   "Divisional Officers do at least 50 checkmeasurements in a financial year.",
+   "'Measured in my presence' is not a checkmeasurement. Object: detect errors and prevent fraudulent entries."
+  ],
+  "questions": [
+   {
+    "q": "Which bills must Sub-divisional Officers necessarily checkmeasure before payment?",
+    "options": [
+     "All final bills on running accounts",
+     "Only first and final bills",
+     "Only bills below Rs. 1 lakh",
+     "Only hand receipts"
+    ],
+    "answer": 0,
+    "why": "KPWAC 10.2.15(1)(a): all final bills on running accounts."
+   },
+   {
+    "q": "What is the minimum number of checkmeasurements by a Divisional Officer in a financial year?",
+    "options": [
+     "25",
+     "100",
+     "10",
+     "50"
+    ],
+    "answer": 3,
+    "why": "KPWAC 10.2.15(1)(c)(ii): at least 50 in a financial year."
+   },
+   {
+    "q": "Is the entry 'measured in my presence' by a Sub-divisional Officer accepted as checkmeasurement?",
+    "options": [
+     "Yes, always",
+     "No",
+     "Yes, for final bills",
+     "Yes, if dated"
+    ],
+    "answer": 1,
+    "why": "KPWAC 10.2.15(1)(c)(vi): cannot be accepted as checkmeasurement."
+   },
+   {
+    "q": "What is the object of checkmeasurement?",
+    "options": [
+     "To fix contractor's rates",
+     "To detect errors in measurement and prevent fraudulent entries",
+     "To record unpaid wages",
+     "To verify stock balances"
+    ],
+    "answer": 1,
+    "why": "KPWAC 10.2.15(1)(c)(v): detect errors and prevent fraudulent entries."
+   }
+  ]
+ },
+ "publi-15": {
+  "remember": [
+   "Stores up to Rs. 15,000 each occasion may be bought without quotation.",
+   "Rs. 15,000 to below Rs. 1,00,000: quotations, on recommendation of a three-member Local Purchase Committee.",
+   "Demand must not be split to avoid higher sanction."
+  ],
+  "questions": [
+   {
+    "q": "Up to what value can stores be bought on each occasion without inviting quotations?",
+    "options": [
+     "Rs. 1,00,000",
+     "Rs. 50,000",
+     "Rs. 10,000",
+     "Rs. 15,000"
+    ],
+    "answer": 3,
+    "why": "SPM 2013 7.3: up to Rs. 15,000 on each occasion."
+   },
+   {
+    "q": "Who recommends purchases between Rs. 15,000 and Rs. 1 lakh?",
+    "options": [
+     "A Local Purchase Committee of three members",
+     "A committee of five members",
+     "The Divisional Accountant alone",
+     "The Stores Purchase Department"
+    ],
+    "answer": 0,
+    "why": "SPM 2013 7.4: Local Purchase Committee consisting of three members."
+   },
+   {
+    "q": "Quotations may be invited if the estimated value of stores is:",
+    "options": [
+     "Below Rs. 15,000",
+     "Rs. 1,00,000 to Rs. 10,00,000",
+     "Rs. 15,000 to less than Rs. 1,00,000",
+     "Rs. 10,00,000 or more"
+    ],
+    "answer": 2,
+    "why": "SPM 2013 7.6: between Rs. 15,000 to less than Rs. 1,00,000."
+   },
+   {
+    "q": "Can demand for stores be divided into smaller quantities to avoid higher sanction?",
+    "options": [
+     "Yes, if urgent",
+     "Yes, with committee approval",
+     "No",
+     "Yes, for stores below Rs. 1 lakh"
+    ],
+    "answer": 2,
+    "why": "SPM 2013 7.2: demand should not be divided for piece meal purchases to avoid sanction."
+   }
+  ]
+ },
+ "publi-16": {
+  "remember": [
+   "Group I HODs may buy stores (not computers, peripherals, furniture) up to Rs. 20 lakh at a time; Group II and III up to Rs. 10 lakh.",
+   "Group I HODs usually purchase stores worth Rs. 1 crore or more a year.",
+   "Proposals above Rs. 6 crore up to Rs. 10 crore need approval of the Minister concerned after the Departmental Purchase Committee."
+  ],
+  "questions": [
+   {
+    "q": "How much can Group I HODs purchase at a time (other than computers and furniture)?",
+    "options": [
+     "Up to Rs. 20 lakh",
+     "Up to Rs. 10 lakh",
+     "Up to Rs. 1 crore",
+     "Up to Rs. 6 crore"
+    ],
+    "answer": 0,
+    "why": "SPM 2013 16.5: Group I up to Rs. 20 lakh at a time."
+   },
+   {
+    "q": "What is the limit at a time for Group II and III Heads of Departments?",
+    "options": [
+     "Rs. 20 lakh",
+     "Rs. 5 lakh",
+     "Rs. 1 crore",
+     "Rs. 10 lakh"
+    ],
+    "answer": 3,
+    "why": "SPM 2013 16.5: Rs. 10 lakh for Group II and III."
+   },
+   {
+    "q": "Group I HODs usually purchase stores worth at least how much in a year?",
+    "options": [
+     "Rs. 10 lakh",
+     "Rs. 1 crore",
+     "Rs. 20 lakh",
+     "Rs. 6 crore"
+    ],
+    "answer": 1,
+    "why": "SPM 2013 16.1: Rs. 1 crore or more in a year."
+   },
+   {
+    "q": "Who approves proposals above Rs. 6 crore up to Rs. 10 crore after the Departmental Purchase Committee?",
+    "options": [
+     "The Head of Department",
+     "The Minister concerned",
+     "The Finance Secretary",
+     "The Stores Purchase Department"
+    ],
+    "answer": 1,
+    "why": "SPM 2013 16.9: approval of the Minister concerned."
+   }
+  ]
+ },
+ "publi-17": {
+  "remember": [
+   "Lump sum contract bills use K.P.W. Forms 23 B and 22A.",
+   "Government sanction is needed in each case for a work on lump sum basis."
+  ],
+  "questions": [
+   {
+    "q": "Which forms are used for bills of lump sum contracts?",
+    "options": [
+     "K.P.W. Forms 22 and 23",
+     "K.P.W. Forms 23A and 24",
+     "K.P.W. Forms 19 and 21",
+     "K.P.W. Forms 23 B and 22A"
+    ],
+    "answer": 3,
+    "why": "KPWAC 11.5.1: Forms 23 B and 22A."
+   },
+   {
+    "q": "Whose sanction is needed to execute a work on lump sum basis?",
+    "options": [
+     "Government, in each case",
+     "Divisional Officer",
+     "Superintending Engineer",
+     "Chief Engineer"
+    ],
+    "answer": 0,
+    "why": "KPWAC 11.2.3: sanction from Government in each case."
+   },
+   {
+    "q": "Can a work be executed on lump sum basis without Government sanction?",
+    "options": [
+     "Yes, below Rs. 1 lakh",
+     "Yes, with Divisional Officer's order",
+     "No",
+     "Yes, if the contractor agrees"
+    ],
+    "answer": 2,
+    "why": "KPWAC 11.2.3: no work through lump sum basis unless Government sanctions it in each case."
+   }
+  ]
+ },
+ "publi-18": {
+  "remember": [
+   "Before ordering, first use surplus stock with other Government Departments, irrespective of its cost.",
+   "The purchasing officer must satisfy himself that funds are available and valid administrative sanction exists."
+  ],
+  "questions": [
+   {
+    "q": "What must be done before ordering new stores?",
+    "options": [
+     "Invite open tender at once",
+     "Buy from the local market",
+     "Use surplus stock available with other Departments first",
+     "Get Minister's approval"
+    ],
+    "answer": 2,
+    "why": "SPM 2013 6.3: surplus stock of other Departments should first be utilized."
+   },
+   {
+    "q": "Does the cost at which surplus stock is available matter?",
+    "options": [
+     "No, it is utilized irrespective of cost",
+     "Yes, only if cheaper",
+     "Yes, only if below Rs. 15,000",
+     "Yes, only if approved by Finance"
+    ],
+    "answer": 0,
+    "why": "SPM 2013 6.3: utilized irrespective of the cost."
+   },
+   {
+    "q": "What must a purchasing officer satisfy himself about before buying?",
+    "options": [
+     "The supplier is a registered firm",
+     "The stock is surplus",
+     "Three quotations are in hand",
+     "Funds are available and valid administrative sanction exists"
+    ],
+    "answer": 3,
+    "why": "SPM 2013 6.5: funds available and valid administrative sanction."
+   }
+  ]
+ },
+ "publi-19": {
+  "remember": [
+   "A Purchasing Officer can buy articles worth Rs. 50,000 through GeM without quotation or tenders.",
+   "Demand for goods must not be divided into small quantities."
+  ],
+  "questions": [
+   {
+    "q": "Up to what value can a Purchasing Officer buy through GeM without quotation or tender?",
+    "options": [
+     "Rs. 15,000",
+     "Rs. 50,000",
+     "Rs. 1,00,000",
+     "Rs. 10,00,000"
+    ],
+    "answer": 1,
+    "why": "SPM Amendment 2018, 19.5: articles worth Rs. 50,000 through GeM."
+   },
+   {
+    "q": "Can demand for goods be divided into small quantities to avoid GeM bidding?",
+    "options": [
+     "Yes, if below Rs. 50,000",
+     "No",
+     "Yes, with approval",
+     "Yes, once a year"
+    ],
+    "answer": 1,
+    "why": "SPM Amendment 2018, 19.9: demand shall not be divided into small quantities."
+   },
+   {
+    "q": "Which portal allows purchase of Rs. 50,000 articles without quotation or tenders?",
+    "options": [
+     "Treasury portal",
+     "Stores Purchase Department site",
+     "Local Purchase Committee",
+     "GeM"
+    ],
+    "answer": 3,
+    "why": "SPM Amendment 2018, 19.5: purchase through GeM."
+   }
+  ]
+ },
+ "publi-20": {
+  "remember": [
+   "Bin Card, K.P.W. Form No.7, keeps a chronological record of receipts, issues and running balance of each article of stock."
+  ],
+  "questions": [
+   {
+    "q": "Which card records receipts, issues and running balance of each stock article?",
+    "options": [
+     "Bin Card",
+     "Survey Report",
+     "Muster roll",
+     "Hand Receipt"
+    ],
+    "answer": 0,
+    "why": "KPWAC 7.2.12: kept in the Bin Card K.P.W. Form No.7."
+   },
+   {
+    "q": "What is the form number of the Bin Card?",
+    "options": [
+     "K.P.W. Form No.17",
+     "K.P.W. Form No.21",
+     "K.P.W. Form No.7",
+     "K.P.W. Form No.31"
+    ],
+    "answer": 2,
+    "why": "KPWAC 7.2.12: Bin Card K.P.W. Form No.7."
+   },
+   {
+    "q": "How is the record in a Bin Card kept?",
+    "options": [
+     "Alphabetically by supplier",
+     "Only at year end",
+     "Chronologically, showing running balance",
+     "Only for costly items"
+    ],
+    "answer": 2,
+    "why": "KPWAC 7.2.12: a chronological record of receipts, issues and running balance."
+   }
+  ]
+ }
+}
